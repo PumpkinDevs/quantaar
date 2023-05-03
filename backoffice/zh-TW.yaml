@@ -1,0 +1,345 @@
+buttons:
+    hsLoginOut: 退出系统
+    hsfullscreen: 全屏
+    hsexitfullscreen: 退出全屏
+    hsrefreshRoute: 刷新路由
+    hslogin: 登录
+    hsadd: 新增
+    hsmark: 標記/取消
+    hssave: 儲存
+    hssearch: 搜索
+    hsexpendAll: 全部展開
+    hscollapseAll: 全部折疊
+    hssystemSet: 打開項目配置
+    hsdelete: 刪除
+    hsreload: 重新加载
+    hscloseCurrentTab: 關閉當前標籤頁
+    hscloseLeftTabs: 關閉左側標籤頁
+    hscloseRightTabs: 關閉右側標籤頁
+    hscloseOtherTabs: 關閉其他標籤頁
+    hscloseAllTabs: 關閉全部標籤頁
+    hswholeFullScreen: 全屏
+    hswholeExitFullScreen: 退出全屏
+    hscontentFullScreen: 内容區全屏
+    hscontentExitFullScreen: 内容區退出全屏
+    hsSure: 確定
+    hsCancel: 取消
+    hsSearch: 搜尋
+    hsReset: 重置
+    hsBackToList: 返回列表
+menus:
+    hshome: 首頁
+    hslogin: 登入
+    hsempty: 無Layout頁
+    hsSysManagement: 系統管理
+    hsUser: 用戶管理
+    hsRole: 角色管理
+    hsDept: 部門管理
+    hseditor: 編輯器
+    hsabnormal: 異常頁面
+    hsfourZeroFour: "404"
+    hsfourZeroOne: "403"
+    hsFive: "500"
+    hscomponents: 组件
+    hsmessage: 消息提示組件
+    hsvideo: 視頻組件
+    hsmap: 地圖組件
+    hsdraggable: 拖曳組件
+    hssplitPane: 切割面板
+    hsbutton: 按鈕組件
+    hscropping: 圖片裁剪
+    hscountTo: 數字動畫
+    hsselector: 選擇器組件
+    hsflowChart: 流程圖
+    hsseamless: 無縫滾單
+    hscontextmenu: 右鍵選單
+    hstypeit: 打字機組件
+    hsjsoneditor: JSON編譯器
+    hsmenus: 多級選單
+    hsmenu1: 選單1
+    hsmenu1-1: 選單1-1
+    hsmenu1-2: 選單1-2
+    hsmenu1-2-1: 選單1-2-1
+    hsmenu1-2-2: 選單1-2-2
+    hsmenu1-3: 選單1-3
+    hsmenu2: 選單2
+    permission: 權限管理
+    permissionPage: 頁面權限
+    permissionButton: 按鈕權限
+    hstabs: 標籤頁操作
+    hsguide: 引導頁
+    hsAble: 功能
+    hsMenuTree: 樹狀選單結構
+    hsWatermark: 水印
+    hsPrint: 打印
+    hsDownload: 下載
+    hsExternalPage: 外部頁面
+    hsPureDocument: 平台文檔（内嵌）
+    externalLink: 平台文檔（外連）
+    hsEpDocument: Element Plus 文檔（内嵌）
+    hsVueDocument: Vue3 文檔（内嵌）
+    hsViteDocument: Vite 文檔（内嵌）
+    hsPiniaDocument: Pinia 文檔（内嵌）
+    hsRouterDocument: Vue Router 文檔（内嵌）
+    hsTailwindcssDocument: Tailwindcss 文檔（内嵌）
+    hsAbout: 關於
+    hsResult: 结果頁面
+    hsSuccess: 成功頁面
+    hsFail: 失敗頁面
+    hsIconSelect: 圖像選擇棄
+    hsTimeline: 時間線
+    hsLineTree: 樹狀連接線
+    hsList: 列表頁
+    hsListCard: 卡片列表頁
+    hsDebounce: 防抖節流
+    hsFormDesign: 表單設計工具
+    hsBarcode: 條碼
+    hsQrcode: 二維碼
+    hsCascader: 區域即聯選擇器
+    hsSwiper: Swiper插件
+    hsVirtualList: 虛擬列表
+    hsPdf: PDF預覽
+    hsExecl: 導出Excel
+    hsInfiniteScroll: 表格無限滾動
+    hsdanmaku: 彈窗組件
+    hsPureTableBase: 基礎用法（23個示例）
+    hsPureTableHigh: 高級用法（10個示例）
+    hsTree: 大數據數業務组件
+    hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
+    hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
+    hsPlayerList: 玩家列表
+    hsPlayer: 玩家資料
+    hsUserManagement: 帳號管理
+    hsReportManagement: 報表管理
+    hsReportFightRecord: 對戰報表
+    hsReportHero: 英雄報表
+    hsReportMap: 地圖報表
+    hsMailList: 信件列表
+    hsToolManagement: 道具管理
+    hsTooEquipmentlList: 道具列表
+    hsToolEquipmentDetail: 道具詳情
+    hsToolGiftList: 禮物列表
+    hsToolGiftDetail: 禮物詳情
+    hsHeroManagement: 英雄管理
+    hsHeroList: 英雄列表
+    hsHeroDetail: 英雄詳情
+    hsActivityManagement: 活動管理
+    hsActivityCouponList: 優惠券列表
+    hsActivityCouponDetail: 優惠券詳情
+    hsGameManagement: 遊戲管理
+    hsGameMapList: 地圖列表
+    hsGameMallList: 商城列表
+    hsGameServerList: 伺服器列表
+    hsGameQualifyingList: 排位賽列表
+    hsGameQualifyingDetail: 排位賽詳情
+    hsGameSkuList: 禮包列表
+    hsGameSeasonList: 賽季列表
+status:
+    hsLoad: 載入中...
+login:
+    username: 帳號
+    password: 密碼
+    verifyCode: 驗證碼
+    remember: 記住密碼
+    sure: 確認密碼
+    forget: 忘記密碼?
+    login: 登入
+    thirdLogin: 第三方登入
+    phoneLogin: 手機登入
+    qRCodeLogin: 二維碼登入
+    register: 註冊
+    weChatLogin: 微信登入
+    alipayLogin: 支付寶登入
+    qqLogin: QQ登入
+    weiboLogin: 微博登入
+    phone: 手機號碼
+    smsVerifyCode: 簡訊驗證碼
+    back: 返回
+    test: 模擬測試
+    tip: 掃碼後點擊"確認"，即可完成登入
+    definite: 确定
+    loginSuccess: 登入成功
+    registerSuccess: 註冊成功
+    tickPrivacy: 請勾選隱私權政策
+    readAccept: 我已仔細閱讀並接受
+    privacyPolicy: 《隱私權政策》
+    getVerifyCode: 獲取驗證碼
+    info: 秒後重新獲取
+    usernameReg: 請輸入帳號
+    passwordReg: 請輸入密碼
+    verifyCodeReg: 請輸入驗證碼
+    verifyCodeCorrectReg: 請輸入正確驗證碼
+    verifyCodeSixReg: 請輸入6位數驗證碼
+    phoneReg: 請輸入手機號碼
+    phoneCorrectReg: 請輸入正確手機號碼格式
+    passwordRuleReg: 密碼格式應為8-18位數字、字母、符號的任意兩種組合
+    passwordSureReg: 請確認密碼
+    passwordDifferentReg: 兩次密碼不一致!
+    passwordUpdateReg: 修改密碼成功
+countries:
+    tw: 台灣
+region:
+    asia: 亞洲
+    us: 美州
+    eu: 歐洲
+    ec2: ec2
+    local: local
+    sideEu: side eu
+    sideAsia: side asia
+# 常用回應文字
+responseMessages:
+    createSuccess: 新增成功
+    createFail: 新增失敗
+    updateSuccess: 更新成功
+    updateFail: 更新失敗
+    validationFail: 資料驗證失敗
+# 常用顯示文字
+displayText:
+    startDate: 開始日期
+    endDate: 結束日期
+    region: 區域
+    role: 身份
+    notSetDueDate: 未設定到期日
+    emptyData: 沒有資料
+    view: 查看
+
+# 對戰類型
+fightTypes:
+    brawl: 亂戰
+    2v2: 雙人組合對戰
+    soccer: 足球
+# 報表
+report:
+    # 對戰報表 url: /report/fight-record/index
+    fightRecord:
+        type: 對戰類型
+        roundNumber: 對戰回合
+        roundTime: 對戰時間(分)
+        winner: 贏家
+        winScore: 贏分
+        loseScore: 輸分
+        totalDamage: 總計傷害
+        totalDead: 總計死亡
+        totalKill: 總計殺敵
+        note: 備注
+        startTime: 開始時間
+        endTime: 結束時間
+        childColumn:
+            nickname: 名稱
+            damage: 傷害
+            deadCount: 死亡次數
+            team: 隊伍
+
+# 系統管理
+systemControl:
+    # 信件列表 url: /system/mail/index
+    mail:
+        title: 標題
+        content: 內容
+        imageLink: 圖片連結
+        giftId: 禮物id
+        recipient: 區域與身分
+        dueDate: 到期時間
+        createdAt: 創建時間
+        modifiedAt: 更新時間
+        createMail: 新增郵件
+        mailList: 郵件列表
+        # 搜尋信件列表
+        search:
+            awsRegion: 國家區域
+            position: 玩家身份
+            dueDate: 信件過期時間
+
+    # 新增信件 url: /system/mail/index
+    createMail:
+        # 表單資料
+        formTitle: 新增信件
+        isImportantMail: 是否為重要郵件
+        title: 信件標題
+        important: 重要
+        notImportant: 非重要
+        content: 信件內容
+        imageLink: 圖片連結
+        gift: 禮物
+        awsRegion: 國家區域
+        position: 玩家身份
+        dueDate: 信件過期時間
+        # 輸入框提示文字
+        placeholder:
+            inputTitle: 請輸入標題
+            inputContent: 請輸入信件內容
+            inputImageLink: 請輸入圖片連結
+            inputGift: 請選擇禮物（非必填）
+            inputRecipientAwsRegion: 請選擇國家區域
+            inputRecipientPosition: 請選擇玩家資格
+            inputDueDate: 請選擇信件過期時間（非必填）
+        # 下拉選單翻譯
+        options:
+            gift:
+                label1: 無需禮物
+                label2: 沒有禮物資料
+# 帳號管理
+accountControl:
+    # 玩家列表 url: /user/player-list/index
+    player:
+        playerList: 玩家列表
+        createPlayer: 新增玩家
+        username: 名稱
+        fullname: 全名
+        countryCode: 國家代碼
+        status: 狀態
+        createdAt: 創建時間
+        operation: 操作
+        # 搜尋玩家列表
+        search:
+            fullName: 玩家全名
+            status: 狀態
+            createdAt: 創建時間
+            placeholder:
+                status: 請選擇狀態
+
+    # 新增玩家 url: /user/player-list/index
+    createPlayer:
+        # 表單資料
+        formTitle: 新增玩家
+        fullName: 玩家全名
+        countryCode: 國家代碼
+        awsRegion: 國家區域
+        platformId: 裝置ID
+        platformType: 平台類型
+        # 輸入框提示文字
+        placeholder:
+            inputFullName: 請輸入玩家全名
+            inputCountryCode: 請選擇國家代碼
+            inputAwsRegion: 請選擇國家區域
+            inputPlatformId: 請輸入裝置ID
+            inputPlatformType: 請選擇裝置類型
+
+    # 玩家資料詳情頁 url: /user/player/{id}
+    playerDetail:
+        menus:
+            info: 玩家資訊
+            updateInfo: 更新玩家資訊
+            resetPassword: 重置玩家密碼
+            updateWallet: 更新玩家錢包
+            fightRecord: 對戰歷史紀錄
+            fightTypeRecord: 對戰類型紀錄
+            heroHistoryRecord: 英雄戰績記錄
+            mallPurchaseRecord: 商城購買紀錄
+            inAppPurchaseRecord: 禮包購買紀錄
+            holdTool: 手持道具
+            createHoldTool: 新增手持道具
+            friends: 玩家好友
+            dailyTask: 每日任務
+            seasonDailyTask: 每日賽季任務
+        info:
+            fullName: 玩家全名
+            username: 玩家名稱
+            emptyUsername: 未設定名稱
+            status: 狀態
+            countryCode: 國籍
+            platformType: 平台
+            platformId: 平台ID
+            phone: 電話
+            modifiedAt: 修改日期
+            createdAt: 創建日期
