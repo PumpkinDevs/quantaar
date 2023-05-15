@@ -193,28 +193,120 @@ responseMessages:
     updateSuccess: Update Success
     updateFail: Update Fail
     validationFail: Validated Fail
+    copySuccess: Copy Success
+    copyFail: Copy Fail
+    getDataFail: Get Data Fail
+    refundSuccess: Refund Success
+    refundFail: Refund Fail
+    deletSuccess: Delete Success
+    deleteFail: Delete Fail
+
 # 常用顯示文字
 displayText:
     startDate: Start Date
+    startTime: Start Time
     endDate: End Date
+    endTime: End Time
+    dueDate: Due Date
     region: Region
     role: Role
     notSetDueDate: Not set due date
     emptyData: Empty Data
     view: View
+    copy: Copy
+    fightType: Fight type
+    orderPrice: Order price
+    currency: Currency,
+    online: Online
+    offline: Offline
+    day: Day
+    operational: Operational
+    hero: Hero
+    createdAt: Created At
+    modifiedAt: Modified At
+    delete: Delete
+    confirmDelete: Confirm Delete
+    pleaseEnter: Please enter
+    success: Success
+    fail: Fail
+    discount: Discount
+    gift: Gift
+    minutes: Minutes
 
 # fight types
 fightTypes:
     brawl: Brawl
     2v2: Two Versus Two
     soccer: Soccer
+
+# 幣別類型
+currency:
+    coin0: Currency 0
+    coin1: Currency 1
+
+# 道具對應 mark 翻譯
+toolMark:
+    helmet: Helmet
+    hero: Hero
+    core: Core
+    toy: Toy
+    lootbox: Lootbox
+    system: System
+    emoji: Emoji
+    particle: Particle
+    skinHero: Skin Hero
+    token: Token
+    observers: Observers
+    heroes: Heros
+    cores: Cores
+
+# 道具對應稀有度
+qualityTypes:
+    none: None
+    common: Common
+    rare: Rare
+    epic: Epic
+    legendary: Legendary
+    ancient: Ancient
+
+# 觀察者分類選項項
+helmetTypes:
+    head: Head
+    skin: Skin
+    none: None
+    hands: Hands
+    eyesAndears: Eyes & Ears
+    accessories: Accessories
+
+# 核心分類選項
+coreTypes:
+    big: Big
+    small: Small
+    none: None
+
+# 英雄類別選項
+heroTypes:
+    none: None
+    fighter: Figher
+    assassin: Assassin
+    generalist: Generalist
+    shooter: Shooter
+
+# 寶箱類型
+lootboxTypes:
+    none: None
+    normal: Normal
+
 # report
-report:
+reportControl:
     # fight report url: /report/fight-record/index
     fightRecord:
+        title: Fight Record
+        exportCSV: Export CSV
+        fightPlayer: Fight Player
         type: Fight Type
         roundNumber: Round
-        roundTime: Fight Time
+        roundTime: Fight Time(minutes)
         winner: Winner
         winScore: Win Score
         loseScore: Lose Score
@@ -229,6 +321,24 @@ report:
             damage: Damage
             deadCount: Dead Count
             team: Team
+
+    # 英雄報表 url: /report/hero/index
+    heroRecord:
+        title: Hero Record
+        name: Name
+        category: Hero Category
+        count: Use Count
+        win: Win
+        lose: Lose
+        fightCount: Fight Count
+
+    # 地圖報表 url: /report/map/index
+    mapRecord:
+        title: Map use record
+        name: Name
+        useCount: Use Count
+        type: Type
+
 # 系統管理
 systemControl:
     # 信件列表 url: /system/mail/index
@@ -331,6 +441,8 @@ accountControl:
             friends: Friends
             dailyTask: Daily Task
             seasonDailyTask: Season Daily Task
+
+        # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
         info:
             fullName: Full Name
             username: Name
@@ -342,3 +454,557 @@ accountControl:
             phone: Phone
             modifiedAt: Modified Date
             createdAt: Created Date
+
+        # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
+        createHoldTool:
+            formTitle: Create Hold Tool
+            createTool: Create Tool
+            confirmDelete: Confirm delete
+            quantity: Quantity
+            operational: Operational
+
+        # 玩家資料詳情頁 -> 手持道具 url: /user/player/{id}
+        holdTool:
+            title: Player Hold Tool
+            name: Name
+            toolId: Tool ID
+            createdAt: Created At
+            modifiedAt: Modified At
+
+        # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+        MallOrderRecord:
+            title: Mall Order Record
+            createOrder: Create Order
+            refund: Refund
+            productName: Product Name
+            couponId: Coupon ID
+            refundId: Refund ID
+            currency: Currency
+            price: Price
+            status: Status
+            createdAt: Created At
+            modifiedAt: Modified At
+            operational: Operational
+
+            # 退款表單
+            refundForm:
+                formTitle: Mall Order Refund
+                isTakeBack: Is take back or give
+                give: Give
+                back: Back
+                refundPoint: Refund Point
+                placeholder:
+                    inputCoin: Please enter refund point.
+                    inputRetainTool: Please confirm product need take back?
+
+        # 玩家資料詳情頁 -> 商城購買紀錄 -> 新增商城訂單彈窗 url: /user/player/{id}
+        createMallOrder:
+            formTitle: Create Mall Order
+            # 表單資料
+            tool: Tool
+            currency: Currency
+            coupon: Coupon
+            plan: Plan
+            buyTime: Buy Time
+            options:
+                planByNormal: Normal Plan
+                planBySale: Sale Plan
+            placeholder:
+                inputBuyTime: Please choose order buy time.
+                inputToolId: Please enter tool id.
+                inputCurrency: Please choose currency.
+
+        # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+        resetPassword:
+            resetPlayer: ResetPlayer
+            password: Password
+            resetPassword: Reset password
+            resetPasswordFail: Reset password fail.
+
+        # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+        updateWallet:
+            fullName: Full Name
+            coin0Last: Coin0 Last
+            coin1Last: Coin1 Last
+            createdAt: Created At
+            modifiedAt: Modified At
+            walletInOrOut: Deposit or Withdraw
+            deposit: Deposit
+            withdraw: Withdraw
+
+            # 表單內容
+            coin0: Coin0
+            coin1: Coin1
+            reason: Remark
+            placeholder:
+                inputReason: Please enter remark.
+                inputPoint: Please enter point.
+
+            # 紀錄
+            record:
+                title: Wallet Record
+                orderId: Order ID
+                reason: Remark
+                point: Point
+                operational: Operational
+                status: Status
+                createdAt: Created At
+                modifiedAt: Modified At
+
+            # 搜尋
+            search:
+                status: Status
+                operational: Operational
+                createdAt: Created At
+                placeholder:
+                    inputStatus: Please choose status.
+                    inputOperational: Please choose operational
+                options:
+                    init: Init
+                    pending: Pending
+                    success: Success
+                    fail: Fail
+
+        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
+        historyRecord:
+            title: Fight History Record
+            fightPlayer: Fight Player
+            fightId: Fight Id
+            matchMode: Match Mode
+            battleMode: Battle Mode
+            type: Type
+            winner: Winner
+            winScore: WinScore
+            totalDamage: Total Damage
+            totalDead: Total Dead
+            totalKill: Total Kill
+            kd: KD Ratio
+            roundNumber: Round Number
+            roundTime: Round Time(minute)
+            startTime: Start Time
+            endTime: End Time
+            childColumn:
+                name: Name
+                damage: Damage
+                deadCount: Dead Count
+                team: Team
+
+        # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
+        fightTypeRecord:
+            title: Fight Type Record
+            fightType: Type
+            win: Win
+            lose: Lose
+            douce: Douce
+            dead: Dead
+            kill: Kill
+            kd: KD Ratio
+
+        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
+        heroHistoryRecord:
+            title: Hero Fight Record
+            winCount: Win Count
+            duceCount: Duce Count
+            loseCount: Lose Count
+            deadCount: Dead Count
+            killCount: Kill Count
+
+        # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+        iapOrderRecord:
+            title: Iap Order Record
+            skuId: Sku ID
+            toolId: Tool ID
+            currency: Currency
+            currencyQuantity: Currency Quantity
+            status: Status
+            comment: Comment
+            createdAt: Created At
+            modifiedAt: Modified At
+
+        # 玩家資料詳情頁 -> 玩家好友 url: /user/player/{id}
+        friends:
+            title: Player Friends
+            playerName: Player Name
+            level: Level
+            onlineStatus: Online Status
+
+        # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
+        dailyTask:
+            title: Daily Task
+            confirmFinish: Confirm finish
+            finishOnce: Finish once
+            once: Once
+            name: Name
+            totalNumber: Need Finish Times
+            doneCount: Finish Times
+
+        # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+        seasonDailyTask:
+            title: Daily Season Task
+            createSeasonProcess: Create Season Process
+            heroItemId: Hero itemId
+            name: Name
+            totalNumber: Need Finish Times
+            doneCount: Finish Times
+            notHaveSeasonTask: Not have season runing
+            form:
+                formTitle: Create Daily Season Season
+                doneNumber: Process
+                placeholder:
+                    inputDoneNumber: Please enter process.
+
+# 英雄管理
+heroControl:
+    heroList:
+        title: Hero List
+        createHero: Create Hero
+        heroSkin: Hero Skin
+        name: Hero Name
+        itemId: Hero itemID
+        useCount: Use Count
+        maxHp: Max HP
+        type: Type
+        matchQualifying: Match qualifying
+        detail:
+            menus:
+                menu1: Hero Info
+                menu2: Update Info
+        childColumn:
+            name: Name
+            selectDataPdaFilename: selectDataPdaFilename
+            selectDataPdaType: selectDataPdaType
+            battleDataPdaFilename: battleDataPdaFilename
+            battlePdaTyp: battlePdaTyp
+            info: Info
+            createdAt: Created At
+        form:
+            formTitle: Create Hero
+            name: Name
+            params1: Params 1
+            params2: Params 2
+            params3: Params 3
+            params4: Params 4
+            placeholder:
+                inputParams1: Please enter params 1.
+                inputParams2: Please enter params 2.
+                inputParams3: Please enter params 3.
+                inputParams4: Please enter params 4.
+                inputName: Please enter hero name.
+                inputItemId: Please enter itemId.
+                required: Need required.
+
+# 遊戲管理
+gameControl:
+    # 地圖列表 url: /game/map/index
+    mapList:
+        title: Map List
+        name: Name
+        type: Type
+
+    # 商城列表 url: /game/mall/index
+    mallList:
+        title: Mall List
+        name: Name
+        maxNumber: Max Number
+        mark: Mark
+        quality: Quality
+        useCurrency: Use Currency
+        discountStartTime: Discount Start Time
+        upStartTime: Up Start Time
+        search:
+            options:
+                useCoinOptions:
+                    option1: coin0
+                    option2: coin1
+                    option3: both
+                    option4: normal
+
+    # 伺服器主機列表 url: /game/server/index
+    serverList:
+        title: Server List
+        name: Name
+        staging: Staging
+        remark: Remark
+
+    # 牌位賽列表 url: /game/qualifying/index
+    qualifyingList:
+        title: Qualifying List
+        name: Qualifying Name
+        description: Description
+        score: Score
+        toolId: Tool ID
+        number: Giveaway Quantity
+        deleteData: Delete Date
+        createQualifying: Create Qualifying
+        confirmDelete: Confirm Delete
+        # 細節頁
+        detail:
+            menus:
+                menu1: Qualifying Info
+                menu2: Update Qualifying
+        # 表單
+        form:
+            formTitle: Create Qualifying
+            name: Qualifying Name
+            description: Description
+            score: Score
+            toolId: Gift
+            number: Quantity
+            seasonId: Season
+            placeholder:
+                inputToolId: Please choose gift.
+                inputName: Please enter qualifying name.
+                inputScore: Please enter score.
+                inputNumber: Please enter quantity.
+                inputDescription: Please enter description.
+
+    # 賽季列表
+    seasonList:
+        title: Season List
+        createSeason: Create Season
+        matchQualifying: Match Qaulifying
+        theme: Name
+        item: Give Gift
+        picture: Picture
+        startDate: Start Date
+        endDate: End Date
+        childColumn:
+            name: Name
+            description: Description
+            score: score
+        # 細節
+        detail:
+            menus:
+                menu1: Season Info
+                menu2: Update Info
+            twName: Tw Name
+            cnName: CN Name
+            enName: EN Name
+            jpName: JP Name
+        # 搜尋
+        search:
+            startDate: Season Start Date
+        # 表單
+        form:
+            formTitle: Create Season
+            startDate: Season Start Date
+            endDate: Season End Date
+            gift: Give Gift
+            quantity: Gift Quantity
+            placeholder:
+                inputThemeTW: Please enter season tw name.
+                inputThemeCN: Please enter season cn name.
+                inputThemeEN: Please enter season en name.
+                inputThemeJP: Please enter season jp name.
+                inputStartDate: Please choose start time.
+                inputEndDate: Please choose end time.
+
+    # 禮包列表 url: /game/sku/index
+    skuList:
+        title: Sku List
+        sn: Serial Number
+        toolId: Tool ID
+        currency: Currency
+        currencyQuantity: Currency Quantity
+        comment: Comment
+        deviceSalePrice: Device Sale Price
+        number: Giveaway Quantity
+
+# 道具管理
+toolControl:
+    # 道具列表 url: /tool/equipment/{mark}
+    equipmentList:
+        createTool: Create Tool
+        deleteData: Delete Data
+        helmetMark:
+            name: Name
+            quality: Quality
+            category: Category
+            pdaType: pdaType
+            pdaFilename: pdaFilename
+        heroMark:
+            name: Name
+            maxHp: Max HP
+            type: Type
+        particleMark:
+            name: Name
+            quality: Quality
+            customPageImg: Custom Page Img
+            info: Info
+        coreMark:
+            name: Name
+            category: Category
+            quality: Quality
+            craftingNumber: Crafting Number
+            smeltingNumber: Smelting Number
+            pdaType: pdaType
+            pdaFilename: pdaFilename
+            coreEffect: Core Effect
+            info: Info
+        toyMark:
+            name: Name
+            pdaType: pdaType
+            pdaFilename: pdaFilename
+        lootboxMark:
+            name: Name
+            type: Type
+            pdaType: pdaType
+            pdaFilename: pdaFilename
+
+        systemMark:
+            name: Name
+            type: Type
+            info: Info
+        emojiMark:
+            name: Name
+            holdMax: Hold Max
+            coin1: Coin1
+            startTime: Start Time
+            endTime: End Time
+            noSetTime: No set time.
+        # 搜尋
+        search:
+            type: Type
+            placeholder:
+                inputType: Please choose type.
+
+        # 細節頁
+        detail:
+            menus:
+                menu1: Tool Info
+                menu2: Update Tool
+            info:
+                name: Tool Name
+        # 表單
+        form:
+            formTitle: Create Tool
+            name: Name
+            placeholder:
+                inputItemId: Please enter itemId.
+                inputName: Please enter name.
+                inputColumn: Please enter
+                inputStartTime: Please choose start time.（not required）
+                inputEndTime: Please choose end time.（not required）
+            # 寶箱表單
+            lootbox:
+                coin1: Price(Coin1)
+                isMallProduct: Is Mall Product
+                qualityMini: Quality Mini
+                qualityMax: Quality Max
+                markRange: Mark Range
+            # 選項
+            options:
+                lootboxForOrigin:
+                    all: All Tools
+                    mall: Only Mall
+                system:
+                    none: None
+                    quick_brawl: Quick Brawl
+                    quick_2vs2: Quick 2vs2
+                    quick_soccer: Quick Soccer
+                    custom_brawl: Custom Brawl
+                    custom_2vs2: Custom 2vs2
+                    custom_soccer: Custom Soccer
+                    core: Core
+                    core_set1: Core Set1
+                    core_set2: Core Set2
+                    core_set3: Core Set3
+                    mine_machine1: Mine Machine1
+                    mine_machine2: Mine Machine2
+                    mine_machine3: Mine Machine3
+                    social_lobby: Social Lobby
+                    guide_mode: Guide Mode
+                    training_mode: Training Mode
+                    observer_skin: Observer Skin
+                    emoji: Emoji
+                    hero_particle: Hero Particle
+                    daily_task: Daily Task
+    # 禮物列表 url: /tool/gift
+    giftList:
+        title: Gift List
+        createGift: Create Gift
+        toolId: Gift ID
+        itemId: Item ID
+        quantity: Quantity
+        startDate: Start Date
+        dueDate: Due Date
+        notSetStartDate: Not set start date.
+        notSetDueDate: Not set due date.
+        # 細節頁
+        detail:
+            menus:
+                menu1: Gift Info
+                menu2: Update Gift
+        # 表單
+        form:
+            formTitle: Create Gift
+            toolId: Gift
+            quantity: Quantity
+            startDate: Gift Start Date
+            dueDate: Gift Due Date
+            placeholder:
+                inputToolId: Please choose gift.
+                inputQuantity: Please enter quantity.
+                inputStartDate: Please choose gift start date.（not required）
+                inputDueDate: Please choose gift due date.（not required）
+
+# 活動管理
+activityControl:
+    # 優惠券列表 url: /activity/coupon
+    couponList:
+        title: Coupon List
+        createCoupon: Create Coupon
+        sn: Serial Number
+        type: Type
+        number: Quantity
+        startDate: Start Date
+        dueDate: Due Date
+        # 細節頁
+        detail:
+            menus:
+                menu1: Coupon Info
+                menu2: Update Coupon
+            mailId: Mail ID
+            coin0Discount: Coin0 Discount
+            coin1Discount: Coin1 Discount
+            emptyGiftData: Empty gift data.
+        # 表單
+        form:
+            formTitle: Create Coupon
+            admin: Create Admin User
+            sn: Serial Number
+            description: Coupon Info
+            number: Quantity
+            mailId: Mail
+            createMail: Create Mail
+            discountCurrency: Discount Currency
+            discount: Discount % number
+            placeholder:
+                inputStartDate: Please choose start date.（not required)
+                inputDueDate: Please choose due date.（not required)
+                inputAdmin: Create coupon admin is required.
+                inputSn: Serial number is required.
+                inputSn2: The serial number must be 6~9 digits.
+                inputNumber: Quantity is required.
+                inputType: Type is required.
+                inputMailId: Mail is required.
+                inputDiscountCurrency: Currency is required.
+                inputDiscount: Discount % number is required.
+                inputDiscountEx: ex:20% off=0.8
+
+# 首頁
+home:
+    # 玩家活躍人數圓餅圖
+    playerActive:
+        title: Player active number of people
+        dau: Player day active number of people
+        wau: Player week active number of people
+        mau: Player month actvie number of people
+        getDauDataFail: Get player day active number of people fail
+        getWauDataFail: Get player week active number of people fail
+        getMauDataFail: Get player month active number of people fail
+
+    # 英雄使用次數柱狀圖
+    heroUseCount:
+        title: Hero use count
+        useCount: Use count
