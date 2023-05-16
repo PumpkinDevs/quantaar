@@ -328,6 +328,7 @@ reportControl:
         name: Name
         category: Hero Category
         count: Use Count
+        winningPercentage: Winning Percentage
         win: Win
         lose: Lose
         fightCount: Fight Count
@@ -593,6 +594,7 @@ accountControl:
         fightTypeRecord:
             title: Fight Type Record
             fightType: Type
+            roundCount: Round Count
             win: Win
             lose: Lose
             douce: Douce

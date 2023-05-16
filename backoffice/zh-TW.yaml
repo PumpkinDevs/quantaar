@@ -328,6 +328,7 @@ reportControl:
         name: 名稱
         category: 英雄分類
         count: 使用次數
+        winningPercentage: 勝率
         win: 贏次數
         lose: 輸次數
         fightCount: 對戰次數
@@ -593,6 +594,7 @@ accountControl:
         fightTypeRecord:
             title: 對戰類型紀錄
             fightType: 類型
+            roundCount: 合計次數
             win: 勝場
             lose: 輸場
             douce: 平手
