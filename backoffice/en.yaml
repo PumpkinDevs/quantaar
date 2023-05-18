@@ -184,8 +184,8 @@ region:
   eu: eu
   ec2: ec2
   local: local
-  sideEu: side eu
-  sideAsia: side asia
+  sideEu: Side EU
+  sideAsia: side Asia
 # 常用回應文字
 responseMessages:
   createSuccess: Created Success
@@ -376,12 +376,12 @@ systemControl:
     dueDate: Due Date
         # 輸入框提示文字
     placeholder:
-      inputTitle: Please input title.
-      inputContent: Please input content.
-      inputImageLink: Please input image link.
+      inputTitle: Please input the title
+      inputContent: Please input content
+      inputImageLink: Please input image link
       inputGift: Please choose gift. (optional)
-      inputRecipientAwsRegion: Please choose Region.
-      inputRecipientPosition: Plesse choose player position.
+      inputRecipientAwsRegion: Please choose Region
+      inputRecipientPosition: Please choose player's position
       inputDueDate: Please choose due date. (optional)
         # 下拉選單翻譯
     options:
@@ -420,11 +420,11 @@ accountControl:
     platformType: Platform Type
         # 輸入框提示文字
     placeholder:
-      inputFullName: Please enter your full name.
-      inputCountryCode: Please choose your country code.
-      inputAwsRegion: Please choose your country region.
-      inputPlatformId: Please enter your platform ID.
-      inputPlatformType: Please choose your platform type.
+      inputFullName: Please enter your full name
+      inputCountryCode: Please choose your country code
+      inputAwsRegion: Please choose your country region
+      inputPlatformId: Please enter your platform ID
+      inputPlatformType: Please choose your platform type
         # 玩家資料詳情頁 url: /user/player/{id}
   playerDetail:
     menus:
@@ -495,8 +495,8 @@ accountControl:
         back: Back
         refundPoint: Refund Point
         placeholder:
-          inputCoin: Please enter refund point.
-          inputRetainTool: Please confirm product need take back?
+          inputCoin: Please enter the refund point
+          inputRetainTool: Please confirm product need take back
 
         # 玩家資料詳情頁 -> 商城購買紀錄 -> 新增商城訂單彈窗 url: /user/player/{id}
     createMallOrder:
@@ -511,16 +511,16 @@ accountControl:
         planByNormal: Normal Plan
         planBySale: Sale Plan
       placeholder:
-        inputBuyTime: Please choose order buy time.
-        inputToolId: Please enter tool id.
-        inputCurrency: Please choose currency.
+        inputBuyTime: Please choose order buy time
+        inputToolId: Please enter the tool ID
+        inputCurrency: Please choose currency
 
         # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: ResetPlayer
       password: Password
       resetPassword: Reset password
-      resetPasswordFail: Reset password fail.
+      resetPasswordFail: Reset password fail
 
         # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
     updateWallet:
@@ -538,8 +538,8 @@ accountControl:
       coin1: Coin1
       reason: Remark
       placeholder:
-        inputReason: Please enter remark.
-        inputPoint: Please enter point.
+        inputReason: Please enter the remark
+        inputPoint: Please enter a point
 
             # 紀錄
       record:
@@ -558,7 +558,7 @@ accountControl:
         operational: Operational
         createdAt: Created At
         placeholder:
-          inputStatus: Please choose status.
+          inputStatus: Please choose status
           inputOperational: Please choose operational
         options:
           init: Init
@@ -650,10 +650,10 @@ accountControl:
       doneCount: Finish Times
       notHaveSeasonTask: Not have season runing
       form:
-        formTitle: Create Daily Season Season
+        formTitle: Create a Daily Season Count or Value
         doneNumber: Process
         placeholder:
-          inputDoneNumber: Please enter process.
+          inputDoneNumber: Please enter process
 
 # 英雄管理
 heroControl:
@@ -687,12 +687,12 @@ heroControl:
       params3: Params 3
       params4: Params 4
       placeholder:
-        inputParams1: Please enter params 1.
-        inputParams2: Please enter params 2.
-        inputParams3: Please enter params 3.
-        inputParams4: Please enter params 4.
-        inputName: Please enter hero name.
-        inputItemId: Please enter itemId.
+        inputParams1: Please enter params 1
+        inputParams2: Please enter params 2
+        inputParams3: Please enter params 3
+        inputParams4: Please enter params 4
+        inputName: Please enter Hero name
+        inputItemId: Please enter item ID
         required: Need required.
 
 # 遊戲管理
@@ -754,11 +754,11 @@ gameControl:
       number: Quantity
       seasonId: Season
       placeholder:
-        inputToolId: Please choose gift.
-        inputName: Please enter qualifying name.
-        inputScore: Please enter score.
-        inputNumber: Please enter quantity.
-        inputDescription: Please enter description.
+        inputToolId: Please choose gift
+        inputName: Please enter qualifying name
+        inputScore: Please enter score
+        inputNumber: Please enter quantity
+        inputDescription: Please enter qualifying description
 
     # 賽季列表
   seasonList:
@@ -794,18 +794,18 @@ gameControl:
       gift: Give Gift
       quantity: Gift Quantity
       placeholder:
-        inputThemeTW: Please enter season tw name.
-        inputThemeCN: Please enter season cn name.
-        inputThemeEN: Please enter season en name.
-        inputThemeJP: Please enter season jp name.
-        inputStartDate: Please choose start time.
-        inputEndDate: Please choose end time.
+        inputThemeTW: Please enter the season TW name
+        inputThemeCN: Please enter the season CN name
+        inputThemeEN: Please enter the season EN name
+        inputThemeJP: Please enter the season JP name
+        inputStartDate: Please choose start time
+        inputEndDate: Please choose end time
 
     # 禮包列表 url: /game/sku/index
   skuList:
-    title: Sku List
+    title: Bundle List
     sn: Serial Number
-    toolId: Tool ID
+    toolId: Item ID
     currency: Currency
     currencyQuantity: Currency Quantity
     comment: Comment
@@ -863,12 +863,12 @@ toolControl:
       coin1: Coin1
       startTime: Start Time
       endTime: End Time
-      noSetTime: No set time.
+      noSetTime: No set time
         # 搜尋
     search:
       type: Type
       placeholder:
-        inputType: Please choose type.
+        inputType: Please choose type
 
         # 細節頁
     detail:
@@ -882,8 +882,8 @@ toolControl:
       formTitle: Create Tool
       name: Name
       placeholder:
-        inputItemId: Please enter itemId.
-        inputName: Please enter name.
+        inputItemId: Please enter item ID
+        inputName: Please enter name
         inputColumn: Please enter
         inputStartTime: Please choose start time.（not required）
         inputEndTime: Please choose end time.（not required）
@@ -931,8 +931,8 @@ toolControl:
     quantity: Quantity
     startDate: Start Date
     dueDate: Due Date
-    notSetStartDate: Not set start date.
-    notSetDueDate: Not set due date.
+    notSetStartDate: Not set start date
+    notSetDueDate: Not set due date
         # 細節頁
     detail:
       menus:
@@ -946,8 +946,8 @@ toolControl:
       startDate: Gift Start Date
       dueDate: Gift Due Date
       placeholder:
-        inputToolId: Please choose gift.
-        inputQuantity: Please enter quantity.
+        inputToolId: Please choose gift
+        inputQuantity: Please enter quantity
         inputStartDate: Please choose gift start date.（not required）
         inputDueDate: Please choose gift due date.（not required）
 
@@ -970,7 +970,7 @@ activityControl:
       mailId: Mail ID
       coin0Discount: Coin0 Discount
       coin1Discount: Coin1 Discount
-      emptyGiftData: Empty gift data.
+      emptyGiftData: Empty gift data
         # 表單
     form:
       formTitle: Create Coupon
@@ -985,14 +985,14 @@ activityControl:
       placeholder:
         inputStartDate: Please choose start date.（not required)
         inputDueDate: Please choose due date.（not required)
-        inputAdmin: Create coupon admin is required.
-        inputSn: Serial number is required.
-        inputSn2: The serial number must be 6~9 digits.
-        inputNumber: Quantity is required.
-        inputType: Type is required.
-        inputMailId: Mail is required.
-        inputDiscountCurrency: Currency is required.
-        inputDiscount: Discount % number is required.
+        inputAdmin: Creating coupon admin is required
+        inputSn: A serial number is required
+        inputSn2: The serial number must be 6~9 digits
+        inputNumber: Quantity is required
+        inputType: Type is required
+        inputMailId: Mail is required
+        inputDiscountCurrency: Currency is required
+        inputDiscount: Discount % number is required
         inputDiscountEx: ex:20% off=0.8
 
 # 首頁
