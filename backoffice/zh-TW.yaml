@@ -251,18 +251,18 @@ toolMark:
   core: 核心
   toy: toy
   lootbox: 寶箱
-  system: system
+  system: 系統
   emoji: emoji
   particle: 個性粒子
-  skinHero: skinHero
-  token: token
+  skinHero: 英雄造型
+  token: 代幣
   observers: 觀察者道具
   heroes: 英雄們
   cores: 核心們
 
 # 道具對應稀有度
 qualityTypes:
-  none: None
+  none: 無
   common: 常見
   rare: 稀有
   epic: 罕見
