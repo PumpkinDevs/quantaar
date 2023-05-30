@@ -5,13 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_Hant\n"
 "POT-Creation-Date: 2023-05-30 02:44\n"
-"PO-Revision-Date: 2023-05-30 02:44\n"
-"Language-Team: \n"
-"Language: zh-TW\n"
+"PO-Revision-Date: 2023-05-30 12:25+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/zh_Hant/>\n"
+"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -3083,7 +3086,7 @@ msgstr "自身血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0029008]"
 msgid "Enable AI Enemy"
-msgstr "開啟敵方 AI"
+msgstr "敵方 AI"
 
 #. Key:	[0029009]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3773,7 +3776,7 @@ msgstr "復仇核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
 msgid "Knockup launch power increases by 5/10/15% each time you die in a battle (maximum 2 times)."
-msgstr "在戰局中每次死亡都會提升自身的擊飛威力5/10/15% (最多生效2次)"
+msgstr "死亡後傷害和擊飛威力提升 5/10/15% (最多生效 2 次)。"
 
 #. Key:	[3015001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14116,7 +14119,7 @@ msgstr "戰鬥中"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001470]"
 msgid "Disc Jockey"
-msgstr "DJ 駕到"
+msgstr "DJ"
 
 #. Key:	[9001471]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -16412,4 +16415,3 @@ msgstr "讓我們先來登錄一些你的資料吧"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "請依照你的使用習慣選擇你的設定"
-
