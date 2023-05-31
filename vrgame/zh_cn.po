@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_cn\n"
 "POT-Creation-Date: 2023-05-30 02:50\n"
-"PO-Revision-Date: 2023-05-31 06:32+0000\n"
+"PO-Revision-Date: 2023-05-31 11:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hans/>\n"
@@ -1733,7 +1733,7 @@ msgstr "拒绝"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004006]"
 msgid "I have read and accepted the latest version of the terms of service on the Quantaar website."
-msgstr "我已在永恒对决的游戏网站阅读、并接受最新版本的使用者规范"
+msgstr "我已在永恒对决的游戏网站阅读、并接受最新版本的使用者规范。"
 
 #. Key:	[0005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1759,7 +1759,11 @@ msgstr "光敏性癫痫警告"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005002]"
 msgid "A very small percentage of people may experience a seizure, nausea, dizziness, breathing pattern changes, having headache or other uncomfortable feelings when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these “photosensitive epileptic seizures” while playing video games."
-msgstr "当曝露在特定的影像底下包含闪烁的光源或是游戏中可能出现的图样时，有极少部份的人会产生癫痫、反胃、晕眩、呼吸模式改变、头痛或其他的不适反应。即便是没有癫痫或痉挛病史的人，也可能会有未经过医师诊断的状况导致此种\"光敏性癫痫痉挛\"在游戏进行时发生"
+msgstr ""
+"当曝露在特定的影像底下包含闪烁的光源或是游戏中可能出现的图样时，有极少部份的"
+"人会产生癫痫、反胃、晕眩、呼吸模式改变、头痛或其他的不适反应。即便是没有癫痫"
+"或痉挛病史的人，也可能会有未经过医师诊断的状况导致此种\"光敏性癫痫痉挛"
+"\"在游戏进行时发生。"
 
 #. Key:	[0005003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1772,7 +1776,7 @@ msgstr "当曝露在特定的影像底下包含闪烁的光源或是游戏中可
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
 msgid "Immediately stop playing and consult a doctor if you experience any symptoms."
-msgstr "如果您有任何症状时，请立即停止游玩并且向医生咨询"
+msgstr "如果您有任何症状时，请立即停止游玩并且向医生咨询。"
 
 #. Key:	[0005004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1785,7 +1789,10 @@ msgstr "如果您有任何症状时，请立即停止游玩并且向医生咨询
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005004]"
 msgid "Parents should watch for or ask their children about the above symptoms. Children and teenagers are more likely than adults to experience these seizures. If you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing video games."
-msgstr "家长应留意或询问自己的孩童是否有以上的症状。孩童或青少年会比成年人有更高的机率诱发此种癫痫症。如果您或者是您的任何亲属有癫痫或痉挛的病史的话，请在进行游戏之前先向医生咨询"
+msgstr ""
+"家长应留意或询问自己的孩童是否有以上的症状。孩童或青少年会比成年人有更高的机"
+"率诱发此种癫痫症。如果您或者是您的任何亲属有癫痫或痉挛的病史的话，请在进行游"
+"戏之前先向医生咨询。"
 
 #. Key:	[0006001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2059,7 +2066,7 @@ msgstr "你得到了核心宝箱!"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007021]"
 msgid "You got a Observer Style Chest (Rare)!"
-msgstr "你得到了观察者造型宝箱 (精品)"
+msgstr "你得到了观察者造型宝箱 （精品）！"
 
 #. Key:	[0008001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2566,7 +2573,7 @@ msgstr "澳洲"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018001]"
 msgid "MATCHMAKING ..."
-msgstr "开始配对"
+msgstr "开始配对..."
 
 #. Key:	[0018002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2657,7 +2664,7 @@ msgstr "伺服器位置"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
 msgid "A Custom Mode can only be started with 4 players, including AI."
-msgstr "自订赛局只能在有 4 名玩家 (包含 AI ) 时才能启动"
+msgstr "自订赛局只能在有 4 名玩家 (包含 AI ) 时才能启动。"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12086,7 +12093,7 @@ msgstr "请在PICO商店中购买此扩充内容"
 msgctxt "ST_Game_Widget,[9001266]"
 msgid "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
 msgstr ""
-"点击「接受」即表示您已阅读并同意永恆对决官网 的隐私政策及服务条款。\n"
+"点击「接受」即表示您已阅读并同意《永恆对决》官网的隐私政策及服务条款。\n"
 "\n"
 "http://quantaar.com/terms\n"
 "\n"
