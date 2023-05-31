@@ -205,6 +205,7 @@ responseMessages:
     refundFail: Refund Fail
     deletSuccess: Delete Success
     deleteFail: Delete Fail
+    tokenExpired: Login session expired. please need login again.
 
 # 常用顯示文字
 displayText:
