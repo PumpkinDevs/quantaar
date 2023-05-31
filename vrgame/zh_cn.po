@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_cn\n"
 "POT-Creation-Date: 2023-05-30 02:50\n"
-"PO-Revision-Date: 2023-05-30 12:25+0000\n"
+"PO-Revision-Date: 2023-05-31 06:32+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hans/>\n"
@@ -1681,7 +1681,7 @@ msgstr "使用者协议"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004002]"
 msgid "Twist the handle to"
-msgstr "扭动把手以"
+msgstr "转动把手以"
 
 #. Key:	[0004003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3586,7 +3586,7 @@ msgstr "纠缠核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
 msgid "Slow down enemy's 10/15/20% moving speed for 2.5 second eveytime when you hit them."
-msgstr "击中敌人 降低移动速度10/15/20% 2.5秒"
+msgstr "每次攻击命中敌人时，将使其移动速度减 10/15/20%，持续 1 秒。"
 
 #. Key:	[3007001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3632,9 +3632,10 @@ msgstr "迅击核心"
 #. InfoMetaData:	"簡體中文" : "攻击速度提升5/10/15%"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed."
-msgstr "攻击速度提升5/10/15%"
+msgstr "跑速增加10/15/20%"
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12084,7 +12085,12 @@ msgstr "请在PICO商店中购买此扩充内容"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001266]"
 msgid "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
-msgstr "点击「接受」即表示您已阅读并同意\r\nhttps://quantaar.com/privacy-policy和https://quantaar.com/terms的 \r\nPumpkin VR 隐私政策及服务条款"
+msgstr ""
+"点击「接受」即表示您已阅读并同意永恆对决官网 的隐私政策及服务条款。\n"
+"\n"
+"http://quantaar.com/terms\n"
+"\n"
+"http://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
