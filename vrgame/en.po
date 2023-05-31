@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en\n"
 "POT-Creation-Date: 2023-05-30 02:52\n"
-"PO-Revision-Date: 2023-05-31 06:32+0000\n"
+"PO-Revision-Date: 2023-05-31 11:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -3682,7 +3682,7 @@ msgstr "Raging Soul"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3010002]"
 msgid "When you knock up an enemy, gain super armor for 3 seconds."
-msgstr "When you knock up an enemy, gain super armor for 3 seconds."
+msgstr "When you knock up an enemy, gain Super Armor for 3 seconds."
 
 #. Key:	[3011001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
