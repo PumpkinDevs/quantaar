@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en\n"
 "POT-Creation-Date: 2023-05-30 02:52\n"
-"PO-Revision-Date: 2023-05-30 12:25+0000\n"
+"PO-Revision-Date: 2023-05-31 06:32+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -1694,7 +1694,7 @@ msgstr "Twist the handle to"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004003]"
 msgid "Accept"
-msgstr "Accept"
+msgstr "ACCEPT"
 
 #. Key:	[0004004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1720,7 +1720,7 @@ msgstr "or"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004005]"
 msgid "Decline"
-msgstr "Decline"
+msgstr "DECLINE"
 
 #. Key:	[0004006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3634,7 +3634,7 @@ msgstr "Lightning Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed."
-msgstr "Increase 5/10/15% of your attacking speed."
+msgstr "Increase moving speed by 10/15/20%."
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12086,7 +12086,13 @@ msgstr "Purchase DLC on the Pico Store"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001266]"
 msgid "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
-msgstr "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
+msgstr ""
+"Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy "
+"Policy and Terms of Service on the QUANTAAR official website.\n"
+"\n"
+"http://quantaar.com/terms\n"
+"\n"
+"http://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
