@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
 "POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-05-31 06:32+0000\n"
+"PO-Revision-Date: 2023-05-31 11:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -3575,7 +3575,7 @@ msgstr "アイテム使用ごとにヘルスが50/100/150 HP 回復する"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006001]"
 msgid "Vine Core"
-msgstr "つるコア"
+msgstr "ブドウコア"
 
 #. Key:	[3006002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3587,7 +3587,7 @@ msgstr "つるコア"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
 msgid "Slow down enemy's 10/15/20% moving speed for 2.5 second eveytime when you hit them."
-msgstr "敵を攻撃するたびに、敵の移動速度が１秒間、10/15/20％遅くなる"
+msgstr "敵を攻撃するたびに、敵の移動速度が 2.5 秒間、10/15/20％遅くなる"
 
 #. Key:	[3007001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
