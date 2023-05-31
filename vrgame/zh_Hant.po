@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_Hant\n"
 "POT-Creation-Date: 2023-05-30 02:44\n"
-"PO-Revision-Date: 2023-05-30 12:25+0000\n"
+"PO-Revision-Date: 2023-05-31 06:32+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hant/>\n"
@@ -1294,7 +1294,7 @@ msgstr "聲音"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003003]"
 msgid "Closed Beta"
-msgstr "Closed Beta"
+msgstr "封測"
 
 #. Key:	[0003004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1681,7 +1681,7 @@ msgstr "使用者協議"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004002]"
 msgid "Twist the handle to"
-msgstr "扭動把手以"
+msgstr "轉動把手以"
 
 #. Key:	[0004003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1733,7 +1733,7 @@ msgstr "拒絕"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004006]"
 msgid "I have read and accepted the latest version of the terms of service on the Quantaar website."
-msgstr "我已在永恆對決的遊戲網站閱讀、並接受最新版本的使用者規範"
+msgstr "我已在永恆對決的遊戲網站閱讀、並接受最新版本的使用者規範。"
 
 #. Key:	[0005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1759,7 +1759,11 @@ msgstr "光敏性癲癇警告"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005002]"
 msgid "A very small percentage of people may experience a seizure, nausea, dizziness, breathing pattern changes, having headache or other uncomfortable feelings when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these “photosensitive epileptic seizures” while playing video games."
-msgstr "當曝露在特定的影像底下包含閃爍的光源或是遊戲中可能出現的圖樣時，有極少部份的人會產生癲癇、反胃、暈眩、呼吸模式改變、頭痛或其他的不適反應。即便是沒有癲癇或痙攣病史的人，也可能會有未經過醫師診斷的狀況導致此種\"光敏性癲癇痙攣\"在遊戲進行時發生"
+msgstr ""
+"當曝露在特定的影像底下包含閃爍的光源或是遊戲中可能出現的圖樣時，有極少部份的"
+"人會產生癲癇、反胃、暈眩、呼吸模式改變、頭痛或其他的不適反應。即便是沒有癲癇"
+"或痙攣病史的人，也可能會有未經過醫師診斷的狀況導致此種 \"光敏性癲癇痙攣\" "
+"在遊戲進行時發生。"
 
 #. Key:	[0005003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1772,7 +1776,7 @@ msgstr "當曝露在特定的影像底下包含閃爍的光源或是遊戲中可
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
 msgid "Immediately stop playing and consult a doctor if you experience any symptoms."
-msgstr "如果您有任何症狀時，請立即停止遊玩並且向醫生諮詢"
+msgstr "如果您有任何症狀時，請立即停止遊玩並且向醫生諮詢。"
 
 #. Key:	[0005004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1785,7 +1789,10 @@ msgstr "如果您有任何症狀時，請立即停止遊玩並且向醫生諮詢
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005004]"
 msgid "Parents should watch for or ask their children about the above symptoms. Children and teenagers are more likely than adults to experience these seizures. If you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing video games."
-msgstr "家長應留意或詢問自己的孩童是否有以上的症狀。孩童或青少年會比成年人有更高的機率誘發此種癲癇症。如果您或者是您的任何親屬有癲癇或痙攣的病史的話，請在進行遊戲之前先向醫生諮詢"
+msgstr ""
+"家長應留意或詢問自己的孩童是否有以上的症狀。孩童或青少年會比成年人有更高的機"
+"率誘發此種癲癇症。如果您或者是您的任何親屬有癲癇或痙攣的病史的話，請在進行遊"
+"戲之前先向醫生諮詢。"
 
 #. Key:	[0006001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1951,7 +1958,7 @@ msgstr "你得到了一個觀察者造型寶箱 (普通)!"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007009]"
 msgid "You got a Hero Style Chest!"
-msgstr "你得到了一個英雄造型宝箱! "
+msgstr "你得到了一個英雄造型宝箱！"
 
 #. Key:	[0007010]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2059,7 +2066,7 @@ msgstr "你得到了核心寶箱!"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007021]"
 msgid "You got a Observer Style Chest (Rare)!"
-msgstr "你得到了觀察者造型寶箱 (精品) "
+msgstr "你得到了觀察者造型寶箱 （精品）！"
 
 #. Key:	[0008001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2657,7 +2664,7 @@ msgstr "伺服器位置"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
 msgid "A Custom Mode can only be started with 4 players, including AI."
-msgstr "自訂賽局只能在有 4 名玩家 (包含 AI ) 時才能啟動"
+msgstr "自訂賽局只能在有 4 名玩家 (包含 AI ) 時才能啟動。"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2722,7 +2729,7 @@ msgstr "自訂房間"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0020002]"
 msgid "Notice: You will not receive any rewards or experience from Custom Mode."
-msgstr "注意 : 在自訂房間模式下進行遊戲將不會獲得任何經驗與獎勵"
+msgstr "注意 : 在自訂房間模式下進行遊戲將不會獲得任何經驗與獎勵。"
 
 #. Key:	[0021001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2917,7 +2924,7 @@ msgstr "選擇符文組"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026003]"
 msgid "In this space, you can change heroes, items, the difficulty of AI, and other settings accordingly."
-msgstr "此處可更換英雄、道具、 AI 難度及其他相關設定"
+msgstr "此處可更換英雄、道具、 AI 難度及其他相關設定。"
 
 #. Key:	[0026004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2930,7 +2937,7 @@ msgstr "此處可更換英雄、道具、 AI 難度及其他相關設定"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026004]"
 msgid "Switch to Training mode might take a moment."
-msgstr "切換到練習模式時可能會需要一些時間"
+msgstr "切換到練習模式時可能會需要一些時間。"
 
 #. Key:	[0027001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2956,7 +2963,7 @@ msgstr "新手教學"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0027002]"
 msgid "Learn to control the Hero and master the basic skills to navigate the game!"
-msgstr "在新手教學中，你將會學到如何操縱英雄"
+msgstr "在新手教學中，你將會學到如何操縱英雄！"
 
 #. Key:	[0027003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3359,7 +3366,9 @@ msgstr "你獲得了一個玩具 - 弓 \r\n前往玩具箱查看"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037002]"
 msgid "You got a Laser Gun \r\nGo check it!"
-msgstr "你獲得了一個玩具 - 雷射槍 \r\n前往玩具箱查看"
+msgstr ""
+"你獲得了一個玩具 - 雷射槍\n"
+"前往玩具箱查看"
 
 #. Key:	[0037003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3372,7 +3381,9 @@ msgstr "你獲得了一個玩具 - 雷射槍 \r\n前往玩具箱查看"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037003]"
 msgid "You got a toy bomb \r\ngo check it!"
-msgstr "你獲得了一個玩具 - 炸彈 \r\n前往玩具箱查看"
+msgstr ""
+"你獲得了一個玩具 - 炸彈\n"
+"前往玩具箱查看！"
 
 #. Key:	[1001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3466,7 +3477,7 @@ msgstr "強棒核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3001002]"
 msgid "Increase knockup launch power by 10/20/30%."
-msgstr "擊飛威力提升10/20/30%"
+msgstr "擊飛威力提升 10/20/30%"
 
 #. Key:	[3002001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3490,7 +3501,7 @@ msgstr "戰士核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3002002]"
 msgid "Increase 10/20/30% of melee damage."
-msgstr "近戰攻擊傷害提升10/20/30%"
+msgstr "近戰攻擊傷害提升 10/20/30%"
 
 #. Key:	[3003001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3514,7 +3525,7 @@ msgstr "豪豬核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3003002]"
 msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured."
-msgstr "每受傷一次都給予敵人10/15/20傷害"
+msgstr "每受傷一次都給予敵人 10/15/20 傷害"
 
 #. Key:	[3004001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3538,7 +3549,7 @@ msgstr "輕盈核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3004002]"
 msgid "Increase 15% of your moving speed when you are not being damaged for a continous 6/5/4 seconds."
-msgstr "未受傷 6/5/4 秒後，跑速增加 15%"
+msgstr "未受傷  6/5/4  秒後，跑速增加 15%"
 
 #. Key:	[3005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3586,7 +3597,7 @@ msgstr "糾纏核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
 msgid "Slow down enemy's 10/15/20% moving speed for 2.5 second eveytime when you hit them."
-msgstr "擊中敵人 降低移動速度10/15/20% 2.5秒"
+msgstr "每次攻擊命中敵人時，將使其移動速度減 10/15/20%，持續 1 秒。"
 
 #. Key:	[3007001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3610,7 +3621,7 @@ msgstr "抗擊核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3007002]"
 msgid "Decrease 15/20/25% of the melee damage you receive."
-msgstr "近戰傷害減免15/20/25%"
+msgstr "降低遭受近戰傷害 15/20/25%"
 
 #. Key:	[3008001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3632,9 +3643,10 @@ msgstr "迅擊核心"
 #. InfoMetaData:	"簡體中文" : "攻击速度提升5/10/15%"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed."
-msgstr "攻擊速度提升5/10/15%"
+msgstr "跑速增加 10/15/20%"
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12084,7 +12096,12 @@ msgstr "請在PICO商店中購買此擴充內容"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001266]"
 msgid "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
-msgstr "點擊「接受」即表示您已閱讀並同意\r\nhttps://quantaar.com/privacy-policy和https://quantaar.com/terms的 \r\nPumpkin VR 隱私政策及服務條款"
+msgstr ""
+"點擊「接受」即表示您已閱讀並同意永恆對決官網的隱私政策及服務條款。\n"
+"\n"
+"http://quantaar.com/terms\n"
+"\n"
+"http://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
