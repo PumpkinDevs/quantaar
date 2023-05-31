@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
 "POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-05-30 12:25+0000\n"
+"PO-Revision-Date: 2023-05-31 06:32+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -3633,9 +3633,10 @@ msgstr "閃光コア"
 #. InfoMetaData:	"簡體中文" : "攻击速度提升5/10/15%"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed."
-msgstr "攻撃速度が5/10/15％増加する"
+msgstr "移動速度が 10/15/20% 増加します。"
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12084,9 +12085,16 @@ msgstr "Pico ストアで DLC を購入する"
 #. InfoMetaData:	"日文" : "「同意」を押すと、https://quantaar.com/privacy-policy および https://quantaar.com/terms の Pumpkin VR のプライバシーポリシー及び利用規約を読み、同意したことになります。"
 #. InfoMetaData:	"簡體中文" : "点击「接受」即表示您已阅读并同意https://quantaar.com/privacy-policy和https://quantaar.com/terms的 Pumpkin VR 隐私政策及服务条款"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[9001266]"
 msgid "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
-msgstr "「同意」を押すと、https://quantaar.com/privacy-policy および https://quantaar.com/terms の Pumpkin VR のプライバシーポリシー及び利用規約を読み、同意したことになります。"
+msgstr ""
+"「同意」を押すと、 QUANTAAR 公式ウェブサイのプライバシーポリシー及び利用規約"
+"を読み、同意したことになります。\n"
+"\n"
+"http://quantaar.com/terms\n"
+"\n"
+"http://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
