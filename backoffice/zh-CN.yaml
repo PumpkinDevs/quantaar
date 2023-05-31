@@ -114,6 +114,11 @@ menus:
     hsReportFightRecord: 對戰報表
     hsReportHero: 英雄報表
     hsReportMap: 地圖報表
+    hsReportByPlayerFirstPayOrder: 玩家首次付費訂單報表
+    hsReportHotPayOrderByIap: 熱門付費訂單報表
+    hsReportOrderByMall: 商城訂單報表
+    hsReportPlayerLevelDistribution: 玩家等級分佈報表
+    hsReportPlayerFightRecordTime: 玩家對戰時長分析
     hsMailList: 信件列表
     hsToolManagement: 道具管理
     hsTooEquipmentlList: 道具列表
@@ -233,6 +238,12 @@ displayText:
     gift: 禮物
     minutes: 分鐘
 
+# 裝置平台
+platforms:
+    oculus: Oculus
+    pico: Pico
+    steam: Steam
+
 # 對戰類型
 fightTypes:
     brawl: 亂鬥
@@ -306,7 +317,8 @@ reportControl:
         fightPlayer: 對戰玩家
         type: 對戰類型
         roundNumber: 對戰回合
-        roundTime: 對戰時間(分)
+        roundTime: 每回合時間(分)
+        spendTime: 對戰總計時間(分)
         winner: 贏家
         winScore: 贏分
         loseScore: 輸分
@@ -332,6 +344,10 @@ reportControl:
         win: 贏次數
         lose: 輸次數
         fightCount: 對戰次數
+        avgKill: 每場平均殺敵數
+        avgDeath: 每場平均死亡數
+        avgDamage: 每場平均傷害輸出
+        avgExskill: 每場平均奧義施放次數
 
     # 地圖報表 url: /report/map/index
     mapRecord:
@@ -339,6 +355,48 @@ reportControl:
         name: 名稱
         useCount: 使用次數
         type: 類型
+
+    # 玩家首次付費訂單報表 url: /report/first-pay-order/index
+    playerFirstPayOrder:
+        title: 玩家首次付費訂單報表
+        avgTime: 首次付費平均時間
+        avgPrice: 首次付費平均價格
+        count: 購買次數
+
+    # 熱門付費訂單報表 url: /report/first-pay-order/index
+    hotPayOrderByIap:
+        title: 熱門付費訂單報表
+        skuName: 禮包名稱
+        platformType: 平台裝置
+        skuPrice: 價格
+        totalPrice: 購買金額總計
+        totalCount: 購買次數總計
+        avgPrice: 平均金額
+
+    # 商城訂單報表 url: /report/mall-order/index
+    mallOrder:
+        title: 商城訂單報表
+        coin0: 幣別0
+        coin1: 幣別1
+        count: 販售數量
+        mark: 分類
+        name: 名稱
+
+    # 玩家等級分佈報表 url: /report/player-level-distribution/index
+    playerLevel:
+        title: 玩家等級分佈報表
+        level: 等級
+        count: 人數
+        playersId: 玩家ID
+
+    # 玩家等級分佈報表 url: /report/player-fight-record-time/index
+    playerFightRecordTime:
+        title: 玩家對戰時長分析
+        playerId: 玩家ID
+        nickname: 名稱
+        totalTime: 對戰時間總計
+        count: 對戰總次數
+        avgTime: 每場對戰平均時間
 
 # 系統管理
 systemControl:
@@ -388,6 +446,7 @@ systemControl:
             gift:
                 label1: 無需禮物
                 label2: 沒有禮物資料
+
 # 帳號管理
 accountControl:
     # 玩家列表 url: /user/player-list/index
@@ -398,6 +457,8 @@ accountControl:
         fullname: 全名
         countryCode: 國家代碼
         status: 狀態
+        firstPay: 首次付款
+        lastPay: 最後一次付款
         createdAt: 創建時間
         operation: 操作
         # 搜尋玩家列表
@@ -442,6 +503,7 @@ accountControl:
             friends: 玩家好友
             dailyTask: 每日任務
             seasonDailyTask: 每日賽季任務
+            mail: 信件
 
         # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
         info:
@@ -605,6 +667,7 @@ accountControl:
         # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
         heroHistoryRecord:
             title: 英雄戰績記錄
+            name: 名稱
             winCount: 勝利次數
             duceCount: 平手次數
             loseCount: 戰敗次數
@@ -628,7 +691,7 @@ accountControl:
             title: 玩家好友
             playerName: 玩家名稱
             level: 等級
-            onlineStatus: 在戲狀態
+            onlineStatus: 在線狀態
 
         # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
         dailyTask:
@@ -654,6 +717,20 @@ accountControl:
                 doneNumber: 進度值
                 placeholder:
                     inputDoneNumber: 請輸入進度值
+
+        # 玩家資料詳情頁 -> 信件 url: /user/player/{id}
+        mail:
+            tableTitle: 信件列表
+            title: 標題
+            origin: 信件分類
+            isStar: 是否為重要信件
+            content: 內容
+            imageLink: 圖片連結
+            giftId: 禮物ID
+            dueDate: 過期時間
+            readDate: 讀取時間
+            deleteDate: 刪除時間
+            getGiftDate: 領取禮物時間
 
 # 英雄管理
 heroControl:
