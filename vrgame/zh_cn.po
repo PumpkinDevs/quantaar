@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_cn\n"
 "POT-Creation-Date: 2023-05-30 02:50\n"
-"PO-Revision-Date: 2023-05-31 11:25+0000\n"
+"PO-Revision-Date: 2023-06-01 06:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hans/>\n"
@@ -3784,7 +3784,7 @@ msgstr "复仇核心"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
 msgid "Knockup launch power increases by 5/10/15% each time you die in a battle (maximum 2 times)."
-msgstr "死亡后伤害和击飞威力提升 5/10/15%  (最多生效 2 次)。"
+msgstr "死亡后，攻击伤害和击飞威力提升 5/10/15% (最多生效 2 次)。"
 
 #. Key:	[3015001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
