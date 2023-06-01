@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
 "POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-06-01 06:25+0000\n"
+"PO-Revision-Date: 2023-06-01 11:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -1294,7 +1294,7 @@ msgstr "サウンド"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003003]"
 msgid "Closed Beta"
-msgstr "Closed Beta"
+msgstr "クローズドベータ"
 
 #. Key:	[0003004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2657,7 +2657,7 @@ msgstr "サーバーの場所"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
 msgid "A Custom Mode can only be started with 4 players, including AI."
-msgstr "カスタムマッチは4人しかプレイできません"
+msgstr "カスタムマッチは4人しかプレイできません。"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2722,7 +2722,7 @@ msgstr "カスタムモード"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0020002]"
 msgid "Notice: You will not receive any rewards or experience from Custom Mode."
-msgstr "注：カスタム部屋モードでは報酬や経験は得られません"
+msgstr "注：カスタム部屋モードでは報酬や経験は得られません。"
 
 #. Key:	[0021001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2956,7 +2956,7 @@ msgstr "チュートリアル"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0027002]"
 msgid "Learn to control the Hero and master the basic skills to navigate the game!"
-msgstr "チュートリアルでは、ヒーローのコントロール方を学びます。"
+msgstr "チュートリアルでは、ヒーローのコントロール方を学びます！"
 
 #. Key:	[0027003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2982,7 +2982,7 @@ msgstr "チュートリアルへの切り替えには少し時間がかかる場
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0028001]"
 msgid "Friend Request sent sucessfully."
-msgstr "フレンドリクエスト送信した"
+msgstr "フレンドリクエスト送信した。"
 
 #. Key:	[0029001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3347,7 +3347,9 @@ msgstr "スポーンポイント"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037001]"
 msgid "You got a Toy Bow.\r\nGo check it!\""
-msgstr "おもちゃの弓をゲット！\r\nチェックしてみて！"
+msgstr ""
+"おもちゃの弓をゲット\n"
+"チェックしてみて！"
 
 #. Key:	[0037002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3467,7 +3469,7 @@ msgstr "スラッガーコア"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3001002]"
 msgid "Increase knockup launch power by 10/20/30%."
-msgstr "ノックアップパワーが10/20/30％増加する"
+msgstr "ノックアップパワーが10/20/30％増加する。"
 
 #. Key:	[3002001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3491,7 +3493,7 @@ msgstr "戦士コア"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3002002]"
 msgid "Increase 10/20/30% of melee damage."
-msgstr "接近攻撃でのダメージが10/20/30％増加する"
+msgstr "接近攻撃でのダメージが10/20/30％増加する。"
 
 #. Key:	[3003001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3515,7 +3517,7 @@ msgstr "ハリネズミコア"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3003002]"
 msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured."
-msgstr "ヒットするたびに、攻撃者に10/15/20ポイントのダメージを返す"
+msgstr "ヒットするたびに、攻撃者に 10/15/20 ダメージを返す。"
 
 #. Key:	[3004001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3539,7 +3541,7 @@ msgstr "フェザーコア"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3004002]"
 msgid "Increase 15% of your moving speed when you are not being damaged for a continous 6/5/4 seconds."
-msgstr "6/5/4秒間ダメージを受けていない場合、移動速度が15％増加する"
+msgstr "6/5/4 秒間ダメージを受けていない場合、移動速度が15％増加する。"
 
 #. Key:	[3005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3587,7 +3589,7 @@ msgstr "ブドウコア"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
 msgid "Slow down enemy's 10/15/20% moving speed for 2.5 second eveytime when you hit them."
-msgstr "敵を攻撃するたびに、敵の移動速度が 2.5 秒間、10/15/20％遅くなる"
+msgstr "敵を攻撃するたびに、敵の移動速度が 2.5 秒間、10/15/20％遅くなる。"
 
 #. Key:	[3007001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -16426,3 +16428,6 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
+
+msgid "[9001514]"
+msgstr "究極版所有済み"
