@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
 "POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-05-31 11:25+0000\n"
+"PO-Revision-Date: 2023-06-01 06:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -3423,7 +3423,7 @@ msgstr "観察者スタイル - 手"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[1001007]"
 msgid "Observer Style - Skin"
-msgstr "観察者スタイル  - スキン"
+msgstr "観察者スタイル - スキン"
 
 #. Key:	[1001008]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
