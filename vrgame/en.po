@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en\n"
 "POT-Creation-Date: 2023-05-30 02:52\n"
-"PO-Revision-Date: 2023-05-31 11:25+0000\n"
+"PO-Revision-Date: 2023-06-01 11:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -15142,7 +15142,7 @@ msgstr "it is also important to constantly observe the state of the battlefield 
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_2_3"
 msgid "Move around to gain a better perspective "
-msgstr "Move around to gain a better perspective "
+msgstr "Move around to gain a better perspective"
 
 #. Key:	GuideI_2_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15472,7 +15472,7 @@ msgstr "will allow them to perform two different Combo attacks."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN2_1_1"
 msgid "Aside from Combo attack."
-msgstr "Aside from Combo attack."
+msgstr "Aside from the Combo attack."
 
 #. Key:	GuideN2_1_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
