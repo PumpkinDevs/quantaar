@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en\n"
 "POT-Creation-Date: 2023-05-30 02:52\n"
-"PO-Revision-Date: 2023-06-02 03:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-06-02 10:25+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
 "Language: en_US\n"
@@ -9770,7 +9770,7 @@ msgstr "SEARCH"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001039]"
 msgid "Owned"
-msgstr "Owned"
+msgstr "OWNED"
 
 #. Key:	[9001040]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9782,7 +9782,7 @@ msgstr "Owned"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001040]"
 msgid "Not Owned"
-msgstr "Not Owned"
+msgstr "NOT OWNED"
 
 #. Key:	[9001041]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -16428,7 +16428,7 @@ msgid "[9001514]"
 msgstr "Ultimate Edition Owned"
 
 msgid "ST_Game_Widget,[9001514]"
-msgstr "Ultimate Edition Owned"
+msgstr "UPGRADED"
 
 msgid "ST_Game_Widget,[9001514],Ultimate Edition Owned"
-msgstr "Ultimate Edition Owned"
+msgstr "UPGRADED"
