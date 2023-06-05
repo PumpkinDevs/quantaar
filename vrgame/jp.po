@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
 "POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-06-02 10:25+0000\n"
+"PO-Revision-Date: 2023-06-05 06:18+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -9773,7 +9773,7 @@ msgstr "検索"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001039]"
 msgid "Owned"
-msgstr "所有"
+msgstr "所有済み"
 
 #. Key:	[9001040]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
