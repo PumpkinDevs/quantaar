@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en\n"
 "POT-Creation-Date: 2023-05-30 02:52\n"
-"PO-Revision-Date: 2023-06-02 10:25+0000\n"
+"PO-Revision-Date: 2023-06-05 05:41+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -2280,7 +2280,7 @@ msgstr "Win Rate"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010005]"
 msgid "Kill Average"
-msgstr "Kill Average"
+msgstr "Average Kill"
 
 #. Key:	[0010006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2293,7 +2293,7 @@ msgstr "Kill Average"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010006]"
 msgid "Death Average"
-msgstr "Death Average"
+msgstr "Average Death"
 
 #. Key:	[0010007]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
