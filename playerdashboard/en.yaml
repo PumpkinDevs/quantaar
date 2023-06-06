@@ -116,7 +116,7 @@ menus:
   hsPlayerDailyTask: Daily Task
   hsPlayerMail: Mail
   hsPlayerHoldTools: Hold Items
-  hsPlayerExchangeCoupon: Exchange Coupon
+  hsPlayerExchangeCoupon: Exchange Gift Code
   hsUserManagement: User Manage
   hsReportManagement: Report Manage
   hsReportFightRecord: Fight Report
@@ -132,8 +132,8 @@ menus:
   hsHeroList: Hero List
   hsHeroDetail: Hero Detail
   hsActivityManagement: Activity Manage
-  hsActivityCouponList: Coupon List
-  hsActivityCouponDetail: Coupon Detail
+  hsActivityCouponList: Gift Code List
+  hsActivityCouponDetail: Gift Code Detail
   hsGameManagement: Game Manage
   hsGameMapList: Map List
   hsGameMallList: Mall List
@@ -361,7 +361,7 @@ accountControl:
       createOrder: Create Order
       refund: Refund
       productName: Product Name
-      couponId: Coupon ID
+      couponId: Gift Code ID
       refundId: Refund ID
       currency: Currency
       price: Price
@@ -537,11 +537,11 @@ accountControl:
 
         # 兌換優惠券 url: /user/player/{id}
     exchangeCoupon:
-      title: Exchange Coupon
+      title: Exchange Gift Code
             # 表單
       form:
         uuid: Player UUID
-        coupon: Coupon Serial Number
+        coupon: Gift Code Serial Number
         placeholder:
           inputUuid: Please Enter UUID
-          inputCoupon: Please Enter Coupon
+          inputCoupon: Please Enter Gift Code
