@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
 "POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-06-05 06:18+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"PO-Revision-Date: 2023-06-06 03:21+0000\n"
+"Last-Translator: Louis Lee <lemon@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
 "Language: jp\n"
@@ -3635,10 +3635,9 @@ msgstr "閃光コア"
 #. InfoMetaData:	"簡體中文" : "攻击速度提升5/10/15%"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed."
-msgstr "移動速度が 10/15/20% 増加します。"
+msgstr "攻撃速度が5/10/15％増加する"
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
