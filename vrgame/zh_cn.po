@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_cn\n"
 "POT-Creation-Date: 2023-05-30 02:50\n"
-"PO-Revision-Date: 2023-06-02 10:25+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"PO-Revision-Date: 2023-06-06 03:21+0000\n"
+"Last-Translator: Louis Lee <lemon@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hans/>\n"
 "Language: zh_cn\n"
@@ -3639,10 +3639,9 @@ msgstr "迅击核心"
 #. InfoMetaData:	"簡體中文" : "攻击速度提升5/10/15%"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed."
-msgstr "跑速增加10/15/20%"
+msgstr "攻击增加10/15/20%"
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
