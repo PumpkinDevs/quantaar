@@ -1,27 +1,27 @@
 buttons:
   hsLoginOut: 退出系统
-  hsfullscreen: 全屏
-  hsexitfullscreen: 退出全屏
-  hsrefreshRoute: 刷新路由
-  hslogin: 登录
+  hsfullscreen: 全螢幕
+  hsexitfullscreen: 退出全螢幕
+  hsrefreshRoute: 刷新
+  hslogin: 登錄
   hsadd: 新增
   hsmark: 標記/取消
   hssave: 儲存
-  hssearch: 搜索
+  hssearch: 搜尋
   hsexpendAll: 全部展開
   hscollapseAll: 全部折疊
   hssystemSet: 打開項目配置
   hsdelete: 刪除
-  hsreload: 重新加载
+  hsreload: 重新加載
   hscloseCurrentTab: 關閉當前標籤頁
   hscloseLeftTabs: 關閉左側標籤頁
   hscloseRightTabs: 關閉右側標籤頁
   hscloseOtherTabs: 關閉其他標籤頁
   hscloseAllTabs: 關閉全部標籤頁
-  hswholeFullScreen: 全屏
-  hswholeExitFullScreen: 退出全屏
-  hscontentFullScreen: 内容區全屏
-  hscontentExitFullScreen: 内容區退出全屏
+  hswholeFullScreen: 全螢幕
+  hswholeExitFullScreen: 退出全螢幕
+  hscontentFullScreen: 内容區全螢幕
+  hscontentExitFullScreen: 内容區退出全螢幕
   hsSure: 確定
   hsCancel: 取消
   hsSearch: 搜尋
@@ -30,7 +30,7 @@ buttons:
 menus:
   hshome: 首頁
   hslogin: 登入
-  hsempty: 無Layout頁
+  hsempty: 沒有展示
   hsSysManagement: 系統管理
   hsUser: 用戶管理
   hsRole: 角色管理
@@ -42,7 +42,7 @@ menus:
   hsFive: "500"
   hscomponents: 组件
   hsmessage: 消息提示組件
-  hsvideo: 視頻組件
+  hsvideo: 影片組件
   hsmap: 地圖組件
   hsdraggable: 拖曳組件
   hssplitPane: 切割面板
