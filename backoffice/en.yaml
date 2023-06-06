@@ -129,8 +129,8 @@ menus:
   hsHeroList: Hero List
   hsHeroDetail: Hero Detail
   hsActivityManagement: Activity Manage
-  hsActivityCouponList: Coupon List
-  hsActivityCouponDetail: Coupon Detail
+  hsActivityCouponList: Gift Code List
+  hsActivityCouponDetail: Gift Code Detail
   hsGameManagement: Game Manage
   hsGameMapList: Map List
   hsGameMallList: Mall List
@@ -541,7 +541,7 @@ accountControl:
       createOrder: Create Order
       refund: Refund
       productName: Product Name
-      couponId: Coupon ID
+      couponId: Gift Code ID
       refundId: Refund ID
       currency: Currency
       price: Price
