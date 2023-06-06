@@ -1,20 +1,17 @@
-# jp Japanese (Japan) translation.
+﻿# jp Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
-"POT-Creation-Date: 2023-05-30 02:54\n"
-"PO-Revision-Date: 2023-06-06 03:21+0000\n"
-"Last-Translator: Louis Lee <lemon@pumpkinvrar.com>\n"
-"Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ja/>\n"
-"Language: jp\n"
+"POT-Creation-Date: 2023-06-06 05:50\n"
+"PO-Revision-Date: 2023-06-06 05:50\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1693,7 +1690,7 @@ msgstr "ハンドルを動かして"
 #. InfoMetaData:	"西班牙" : "Aceptar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004003]"
-msgid "Accept"
+msgid "ACCEPT"
 msgstr "同意"
 
 #. Key:	[0004004]
@@ -1719,7 +1716,7 @@ msgstr "または"
 #. InfoMetaData:	"西班牙" : "Rechazar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004005]"
-msgid "Decline"
+msgid "DECLINE"
 msgstr "同意しない"
 
 #. Key:	[0004006]
@@ -2279,7 +2276,7 @@ msgstr "勝率"
 #. InfoMetaData:	"西班牙" : "Media de partidas perdidas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010005]"
-msgid "Kill Average"
+msgid "Average Kill"
 msgstr "平均キル数"
 
 #. Key:	[0010006]
@@ -2292,7 +2289,7 @@ msgstr "平均キル数"
 #. InfoMetaData:	"西班牙" : "Media de muertes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010006]"
-msgid "Death Average"
+msgid "Average Death"
 msgstr "平均デス数"
 
 #. Key:	[0010007]
@@ -3084,9 +3081,8 @@ msgstr "味方のHP"
 #. InfoMetaData:	"簡體中文" : "开启敌方 AI"
 #. InfoMetaData:	"西班牙" : "Habilitar Enemigo de Al"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[0029008]"
-msgid "Enable AI Enemy"
+msgid "AI Enemy"
 msgstr "敵AI"
 
 #. Key:	[0029009]
@@ -3347,9 +3343,7 @@ msgstr "スポーンポイント"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037001]"
 msgid "You got a Toy Bow.\r\nGo check it!\""
-msgstr ""
-"おもちゃの弓をゲット\n"
-"チェックしてみて！"
+msgstr "おもちゃの弓をゲット\nチェックしてみて！"
 
 #. Key:	[0037002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3684,7 +3678,7 @@ msgstr "荒ぶる魂"
 #. InfoMetaData:	"西班牙" : "Cuando lanzas a un enemigo por los aires, obtienes superarmadura durante 3 segundos."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3010002]"
-msgid "When you knock up an enemy, gain super armor for 3 seconds."
+msgid "When you knock up an enemy, gain Super Armor for 3 seconds."
 msgstr "敵を空中にノックすると、スーパーアーマーを３秒間獲得する"
 
 #. Key:	[3011001]
@@ -3778,9 +3772,8 @@ msgstr "復讐コア"
 #. InfoMetaData:	"簡體中文" : "在战局中每次死亡都会提升自身的击飞威力5/10/15% (最多生效2次)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
-msgid "Knockup launch power increases by 5/10/15% each time you die in a battle (maximum 2 times)."
-msgstr "死亡後のダメージとノックアップパワー効果が 5/10/15% 増加します（最大 2 "
-"回有効）。"
+msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)."
+msgstr "死亡後のダメージとノックアップパワー効果が 5/10/15% 増加します（最大 2 回有効）。"
 
 #. Key:	[3015001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9771,7 +9764,7 @@ msgstr "検索"
 #. InfoMetaData:	"西班牙" : "En propiedad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001039]"
-msgid "Owned"
+msgid "OWNED"
 msgstr "所有済み"
 
 #. Key:	[9001040]
@@ -9783,7 +9776,7 @@ msgstr "所有済み"
 #. InfoMetaData:	"西班牙" : "No en propiedad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001040]"
-msgid "Not Owned"
+msgid "NOT OWNED"
 msgstr "未所有"
 
 #. Key:	[9001041]
@@ -12086,16 +12079,9 @@ msgstr "Pico ストアで DLC を購入する"
 #. InfoMetaData:	"日文" : "「同意」を押すと、https://quantaar.com/privacy-policy および https://quantaar.com/terms の Pumpkin VR のプライバシーポリシー及び利用規約を読み、同意したことになります。"
 #. InfoMetaData:	"簡體中文" : "点击「接受」即表示您已阅读并同意https://quantaar.com/privacy-policy和https://quantaar.com/terms的 Pumpkin VR 隐私政策及服务条款"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[9001266]"
-msgid "Click \"accept\" to indicate that you have read and agree\r\nhttps://quantaar.com/privacy-policy and https://quantaar.com/terms\r\nThe Pumpkin VR Privacy Policy and Terms of Service"
-msgstr ""
-"「同意」を押すと、 QUANTAAR 公式ウェブサイのプライバシーポリシー及び利用規約"
-"を読み、同意したことになります。\n"
-"\n"
-"http://quantaar.com/terms\n"
-"\n"
-"http://quantaar.com/privacy"
+msgid "Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy Policy and Terms of Service on the QUANTAAR official website.\r\n\r\nhttp://quantaar.com/terms\r\n\r\nhttp://quantaar.com/privacy"
+msgstr "「同意」を押すと、 QUANTAAR 公式ウェブサイのプライバシーポリシー及び利用規約を読み、同意したことになります。\n\nhttp://quantaar.com/terms\n\nhttp://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14567,6 +14553,100 @@ msgctxt "ST_Game_Widget,[9001513]"
 msgid "Limited-Time Offer"
 msgstr "期間限定オファー"
 
+#. Key:	[9001514]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001514]"
+msgid "UPGRADED"
+msgstr "アップグレード済み"
+
+#. Key:	[9001515]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "參加賽季"
+#. InfoMetaData:	"日文" : "シーズンに参加する"
+#. InfoMetaData:	"簡體中文" : "参加赛季"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001515]"
+msgid "JOIN SEASON"
+msgstr "シーズンに参加する"
+
+#. Key:	[9001516]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001516]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001517]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001517]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001518]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001518]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001519]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001519]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001520]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001520]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001521]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001521]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001522]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001522]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001523]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001523]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001524]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001524]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001525]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001525]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001526]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001526]"
+msgid "add"
+msgstr ""
+
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 #. InfoMetaData:	"日文" : "おかえりなさい！"
@@ -15075,8 +15155,7 @@ msgstr "この部屋では、ヒーローを使って対戦相手にダメージ
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideG_2_1"
 msgid "The Heroes in QUANTAAR are divided into Fighter, Assassin, Generalist, and Shooter."
-msgstr "QUANTAARのヒーローは、戦士、暗殺者、ジェネラリスト、シューターに分かれていま"
-"す"
+msgstr "QUANTAARのヒーローは、戦士、暗殺者、ジェネラリスト、シューターに分かれています"
 
 #. Key:	GuideG_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15145,7 +15224,7 @@ msgstr "戦場の状態を常に観察し、機会を創りだすことも重要
 #. InfoMetaData:	"繁體中文" : "移動自己的視角位置"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_2_3"
-msgid "Move around to gain a better perspective "
+msgid "Move around to gain a better perspective"
 msgstr "よく見える場所へと移動して回り、気を散らせる為にフィールド上のアイテムをうまく利用してください"
 
 #. Key:	GuideI_2_4
@@ -15475,7 +15554,7 @@ msgstr "２つの異なるコンボアタックができるようになります
 #. InfoMetaData:	"繁體中文" : "除了剛剛使出的連段攻擊"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN2_1_1"
-msgid "Aside from Combo attack."
+msgid "Aside from the Combo attack."
 msgstr "今使ったコンボアタック以外にも"
 
 #. Key:	GuideN2_1_2
@@ -16427,3 +16506,4 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
+
