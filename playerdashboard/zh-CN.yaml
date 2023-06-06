@@ -112,6 +112,7 @@ menus:
     hsPlayerInfo: 個人資料
     hsPlayerFriends: 好友
     hsPlayerFightRecord: 對戰紀錄
+    hsPlayerHeroRecord: 英雄使用紀錄
     hsPlayerWalletRecord: 錢包使用紀錄
     hsPlayerDailyTask: 每日任務
     hsPlayerMail: 個人信件
@@ -124,6 +125,7 @@ menus:
     hsReportMap: 地圖報表
     hsMailList: 信件列表
     hsToolManagement: 道具管理
+    hsToolAll: 道具總表
     hsTooEquipmentlList: 道具列表
     hsToolEquipmentDetail: 道具詳情
     hsToolGiftList: 禮物列表
@@ -346,7 +348,7 @@ accountControl:
             modifiedAt: 修改日期
             createdAt: 創建日期
 
-        # 手持道具 url: /user/player/{id}
+        # 手持道具 url: /game/user/hold-tools
         holdTool:
             title: 玩家手持道具
             name: 名稱
@@ -431,7 +433,7 @@ accountControl:
                     success: 成功
                     fail: 失敗
 
-        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /game/user/fight-record
         historyRecord:
             title: 對戰歷史紀錄
             fightPlayer: 對戰玩家
@@ -467,7 +469,7 @@ accountControl:
             kill: 殺敵次數
             kd: KD比率
 
-        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
         heroHistoryRecord:
             title: 英雄戰績記錄
             winCount: 勝利次數
@@ -488,14 +490,14 @@ accountControl:
             createdAt: 創建時間
             modifiedAt: 更新時間
 
-        # 玩家資料詳情頁 -> 玩家好友 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
         friends:
             title: 玩家好友
             playerName: 玩家名稱
             level: 等級
             onlineStatus: 在戲狀態
 
-        # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
         dailyTask:
             title: 每日任務
             confirmFinish: 是否完成每日任務
@@ -520,7 +522,7 @@ accountControl:
                 placeholder:
                     inputDoneNumber: 請輸入進度值
 
-        # 信件 url: /user/player/{id}
+        # 信件 url: /game/user/mail
         mail:
             tableTitle: 信件列表
             title: 標題
@@ -534,7 +536,7 @@ accountControl:
             deleteDate: 刪除時間
             getGiftDate: 領取禮物時間
 
-        # 兌換優惠券 url: /user/player/{id}
+        # 兌換優惠券 url: /game/user/exchange-coupon
         exchangeCoupon:
             title: 兌換優惠券
             # 表單
@@ -544,3 +546,20 @@ accountControl:
                 placeholder:
                     inputUuid: 請輸入玩家uuid
                     inputCoupon: 請輸入優惠券序號
+
+# 道具管理
+toolControl:
+    onlineTool:
+        title: 道具總覽
+        img: 圖片
+        name: 名稱
+        quality: 稀有度
+        category: 分類
+        mark: 類型
+        holdMax: 最大持有數
+        coin1: 價格
+        # 搜尋
+        search:
+            type: 類型
+            placeholder:
+                inputType: 請選擇類型

@@ -112,9 +112,11 @@ menus:
     hsUserManagement: 帳號管理
     hsReportManagement: 報表管理
     hsReportFightRecord: 對戰報表
+    hsReportFightTypeCount: 對戰類型次數
     hsReportHero: 英雄報表
     hsReportMap: 地圖報表
     hsReportByPlayerFirstPayOrder: 玩家首次付費訂單報表
+    hsReportByPlayerDeposit: 玩家儲值分析
     hsReportHotPayOrderByIap: 熱門付費訂單報表
     hsReportOrderByMall: 商城訂單報表
     hsReportPlayerLevelDistribution: 玩家等級分佈報表
@@ -244,6 +246,7 @@ platforms:
     oculus: Oculus
     pico: Pico
     steam: Steam
+    all: 全部
 
 # 對戰類型
 fightTypes:
@@ -335,6 +338,12 @@ reportControl:
             deadCount: 死亡次數
             team: 隊伍
 
+    # 對戰類型次數總計報表 url: /report/fight-type/index
+    fightType:
+        title: 對戰類型次數總計
+        type: 類型
+        count: 次數
+
     # 英雄報表 url: /report/hero/index
     heroRecord:
         title: 英雄使用紀錄
@@ -398,6 +407,13 @@ reportControl:
         totalTime: 對戰時間總計
         count: 對戰總次數
         avgTime: 每場對戰平均時間
+
+    # 玩家首次付費訂單報表 url: /report/player-deposit/index
+    playerDeposit:
+        title: 玩家儲值分析
+        playerCount: 玩家人數
+        iapCount: 訂單數量
+        totalPrice: 總計金額
 
 # 系統管理
 systemControl:
@@ -1088,3 +1104,7 @@ home:
     heroUseCount:
         title: 英雄使用次數
         useCount: 使用次數
+
+    # 玩家當月儲值分析
+    playerMonthDeposit:
+        title: 玩家當月儲值分析
