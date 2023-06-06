@@ -16428,8 +16428,5 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "请依照你的使用习惯选择你的设定"
 
-msgid "ST_Game_Widget,[9001514],Ultimate Edition Owned"
-msgstr "已升级"
-
 msgid "ST_Game_Widget,[9001514]"
 msgstr "已升级"
