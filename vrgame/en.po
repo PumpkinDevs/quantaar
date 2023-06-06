@@ -16426,6 +16426,3 @@ msgstr "Please select the options that best fit your preferences."
 
 msgid "ST_Game_Widget,[9001514]"
 msgstr "UPGRADED"
-
-msgid "ST_Game_Widget,[9001514],Ultimate Edition Owned"
-msgstr "UPGRADED"
