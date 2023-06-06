@@ -16427,6 +16427,3 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
-
-msgid "ST_Game_Widget,[9001514]"
-msgstr "アップグレード済み"
