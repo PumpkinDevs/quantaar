@@ -12083,7 +12083,7 @@ msgstr "Purchase DLC on the Pico Store"
 #. InfoMetaData:	"簡體中文" : "点击「接受」即表示您已阅读并同意https://quantaar.com/privacy-policy和https://quantaar.com/terms的 Pumpkin VR 隐私政策及服务条款"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001266]"
-msgid "Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy Policy and Terms of Service on the QUANTAAR official website.\r\n\r\nhttp://quantaar.com/terms\r\n\r\nhttp://quantaar.com/privacy"
+msgid "Click \""ACCEPT\"" to indicate that you have read and agreed to the Privacy Policy and Terms of Service on the QUANTAAR official website.\r\nhttp://quantaar.com/terms\r\nhttp://quantaar.com/privacy"
 msgstr ""
 "Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy "
 "Policy and Terms of Service on the QUANTAAR official website.\n"
