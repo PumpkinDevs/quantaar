@@ -153,7 +153,7 @@ login:
     remember: Remember Password
     sure: Sure Password
     forget: Forget Password?
-    login: Login
+    login: LOG IN
     thirdLogin: Third Login
     phoneLogin: Phone Login
     qRCodeLogin: QRCode Login
