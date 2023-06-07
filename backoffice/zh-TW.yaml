@@ -40,7 +40,7 @@ menus:
   hsfourZeroFour: "404"
   hsfourZeroOne: "403"
   hsFive: "500"
-  hscomponents: 组件
+  hscomponents: 組件
   hsmessage: 消息提示組件
   hsvideo: 視頻組件
   hsmap: 地圖組件
@@ -131,8 +131,8 @@ menus:
   hsHeroList: 英雄列表
   hsHeroDetail: 英雄詳情
   hsActivityManagement: 活動管理
-  hsActivityCouponList: 優惠券列表
-  hsActivityCouponDetail: 優惠券詳情
+  hsActivityCouponList: 禮物序號列表
+  hsActivityCouponDetail: 禮物序號詳情
   hsGameManagement: 遊戲管理
   hsGameMapList: 地圖列表
   hsGameMallList: 商城列表
@@ -557,7 +557,7 @@ accountControl:
       createOrder: 新增商城訂單
       refund: 退款
       productName: 商品名稱
-      couponId: 優惠券ID
+      couponId: 禮物序號
       refundId: 退款ID
       currency: 幣別
       price: 價錢
