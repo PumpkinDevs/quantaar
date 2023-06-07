@@ -28,122 +28,122 @@ buttons:
   hsReset: 重置
   hsBackToList: 返回列表
 menus:
-  hshome: 首頁
-  hslogin: 登入
-  hsempty: 沒有展示
-  hsSysManagement: 系統管理
-  hsUser: 用戶管理
-  hsRole: 角色管理
-  hsDept: 部門管理
-  hseditor: 編輯器
-  hsabnormal: 異常頁面
-  hsfourZeroFour: "404"
-  hsfourZeroOne: "403"
-  hsFive: "500"
-  hscomponents: 组件
-  hsmessage: 消息提示組件
-  hsvideo: 影片組件
-  hsmap: 地圖組件
-  hsdraggable: 拖曳組件
-  hssplitPane: 切割面板
-  hsbutton: 按鈕組件
-  hscropping: 圖片裁剪
-  hscountTo: 數字動畫
-  hsselector: 選擇器組件
-  hsflowChart: 流程圖
-  hsseamless: 無縫滾單
-  hscontextmenu: 右鍵選單
-  hstypeit: 打字機組件
-  hsjsoneditor: JSON編譯器
-  hsmenus: 多級選單
-  hsmenu1: 選單1
-  hsmenu1-1: 選單1-1
-  hsmenu1-2: 選單1-2
-  hsmenu1-2-1: 選單1-2-1
-  hsmenu1-2-2: 選單1-2-2
-  hsmenu1-3: 選單1-3
-  hsmenu2: 選單2
-  permission: 權限管理
-  permissionPage: 頁面權限
-  permissionButton: 按鈕權限
-  hstabs: 標籤頁操作
-  hsguide: 引導頁
-  hsAble: 功能
-  hsMenuTree: 樹狀選單結構
-  hsWatermark: 水印
-  hsPrint: 打印
-  hsDownload: 下載
-  hsExternalPage: 外部頁面
-  hsPureDocument: 平台文檔（内嵌）
-  externalLink: 平台文檔（外連）
-  hsEpDocument: Element Plus 文檔（内嵌）
-  hsVueDocument: Vue3 文檔（内嵌）
-  hsViteDocument: Vite 文檔（内嵌）
-  hsPiniaDocument: Pinia 文檔（内嵌）
-  hsRouterDocument: Vue Router 文檔（内嵌）
-  hsTailwindcssDocument: Tailwindcss 文檔（内嵌）
-  hsAbout: 關於
-  hsResult: 结果頁面
-  hsSuccess: 成功頁面
-  hsFail: 失敗頁面
-  hsIconSelect: 圖像選擇棄
-  hsTimeline: 時間線
-  hsLineTree: 樹狀連接線
-  hsList: 列表頁
-  hsListCard: 卡片列表頁
-  hsDebounce: 防抖節流
-  hsFormDesign: 表單設計工具
-  hsBarcode: 條碼
-  hsQrcode: 二維碼
-  hsCascader: 區域即聯選擇器
-  hsSwiper: Swiper插件
-  hsVirtualList: 虛擬列表
-  hsPdf: PDF預覽
-  hsExecl: 導出Excel
-  hsInfiniteScroll: 表格無限滾動
-  hsdanmaku: 彈窗組件
-  hsPureTableBase: 基礎用法（23個示例）
-  hsPureTableHigh: 高級用法（10個示例）
-  hsTree: 大數據數業務组件
-  hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
-  hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
-  hsPlayerList: 玩家列表
-  hsPlayer: 玩家資料
-  hsPlayerInfo: 個人資料
-  hsPlayerFriends: 好友
-  hsPlayerFightRecord: 對戰紀錄
-  hsPlayerHeroRecord: 英雄使用紀錄
-  hsPlayerWalletRecord: 錢包使用紀錄
-  hsPlayerDailyTask: 每日任務
-  hsPlayerMail: 信件
-  hsPlayerHoldTools: 持有道具
-  hsPlayerExchangeCoupon: 兌換優惠券
-  hsUserManagement: 帳號管理
-  hsReportManagement: 報表管理
-  hsReportFightRecord: 對戰報表
-  hsReportHero: 英雄報表
-  hsReportMap: 地圖報表
-  hsMailList: 信件列表
-  hsToolManagement: 道具管理
-  hsToolAll: 道具總表
-  hsTooEquipmentlList: 道具列表
-  hsToolEquipmentDetail: 道具詳情
-  hsToolGiftList: 禮物列表
-  hsToolGiftDetail: 禮物詳情
-  hsHeroManagement: 英雄管理
-  hsHeroList: 英雄列表
-  hsHeroDetail: 英雄詳情
-  hsActivityManagement: 活動管理
-  hsActivityCouponList: 優惠券列表
-  hsActivityCouponDetail: 優惠券詳情
-  hsGameManagement: 遊戲管理
-  hsGameMapList: 地圖列表
-  hsGameMallList: 商城列表
-  hsGameServerList: 伺服器列表
-  hsGameQualifyingList: 牌位賽列表
-  hsGameQualifyingDetail: 牌位賽詳情
-  hsGameSkuList: 禮包列表
-  hsGameSeasonList: 賽季列表
+    hshome: 首頁
+    hslogin: 登入
+    hsempty: 沒有展示
+    hsSysManagement: 系統管理
+    hsUser: 用戶管理
+    hsRole: 角色管理
+    hsDept: 部門管理
+    hseditor: 編輯器
+    hsabnormal: 異常頁面
+    hsfourZeroFour: "404"
+    hsfourZeroOne: "403"
+    hsFive: "500"
+    hscomponents: 组件
+    hsmessage: 消息提示組件
+    hsvideo: 影片組件
+    hsmap: 地圖組件
+    hsdraggable: 拖曳組件
+    hssplitPane: 切割面板
+    hsbutton: 按鈕組件
+    hscropping: 圖片裁剪
+    hscountTo: 數字動畫
+    hsselector: 選擇器組件
+    hsflowChart: 流程圖
+    hsseamless: 無縫滾單
+    hscontextmenu: 右鍵選單
+    hstypeit: 打字機組件
+    hsjsoneditor: JSON編譯器
+    hsmenus: 多級選單
+    hsmenu1: 選單1
+    hsmenu1-1: 選單1-1
+    hsmenu1-2: 選單1-2
+    hsmenu1-2-1: 選單1-2-1
+    hsmenu1-2-2: 選單1-2-2
+    hsmenu1-3: 選單1-3
+    hsmenu2: 選單2
+    permission: 權限管理
+    permissionPage: 頁面權限
+    permissionButton: 按鈕權限
+    hstabs: 標籤頁操作
+    hsguide: 引導頁
+    hsAble: 功能
+    hsMenuTree: 樹狀選單結構
+    hsWatermark: 水印
+    hsPrint: 打印
+    hsDownload: 下載
+    hsExternalPage: 外部頁面
+    hsPureDocument: 平台文檔（内嵌）
+    externalLink: 平台文檔（外連）
+    hsEpDocument: Element Plus 文檔（内嵌）
+    hsVueDocument: Vue3 文檔（内嵌）
+    hsViteDocument: Vite 文檔（内嵌）
+    hsPiniaDocument: Pinia 文檔（内嵌）
+    hsRouterDocument: Vue Router 文檔（内嵌）
+    hsTailwindcssDocument: Tailwindcss 文檔（内嵌）
+    hsAbout: 關於
+    hsResult: 结果頁面
+    hsSuccess: 成功頁面
+    hsFail: 失敗頁面
+    hsIconSelect: 圖像選擇棄
+    hsTimeline: 時間線
+    hsLineTree: 樹狀連接線
+    hsList: 列表頁
+    hsListCard: 卡片列表頁
+    hsDebounce: 防抖節流
+    hsFormDesign: 表單設計工具
+    hsBarcode: 條碼
+    hsQrcode: 二維碼
+    hsCascader: 區域即聯選擇器
+    hsSwiper: Swiper插件
+    hsVirtualList: 虛擬列表
+    hsPdf: PDF預覽
+    hsExecl: 導出Excel
+    hsInfiniteScroll: 表格無限滾動
+    hsdanmaku: 彈窗組件
+    hsPureTableBase: 基礎用法（23個示例）
+    hsPureTableHigh: 高級用法（10個示例）
+    hsTree: 大數據數業務组件
+    hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
+    hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
+    hsPlayerList: 玩家列表
+    hsPlayer: 玩家資料
+    hsPlayerInfo: 個人資料
+    hsPlayerFriends: 好友
+    hsPlayerFightRecord: 戰鬥歷史紀錄
+    hsPlayerHeroRecord: 英雄使用紀錄
+    hsPlayerWalletRecord: 錢包使用紀錄
+    hsPlayerDailyTask: 每日任務
+    hsPlayerMail: 信件
+    hsPlayerHoldTools: 持有道具
+    hsPlayerExchangeCoupon: 兌換優惠券
+    hsUserManagement: 帳號管理
+    hsReportManagement: 報表管理
+    hsReportFightRecord: 戰鬥歷史報表
+    hsReportHero: 英雄報表
+    hsReportMap: 地圖報表
+    hsMailList: 信件列表
+    hsToolManagement: 道具管理
+    hsToolAll: 道具總表
+    hsTooEquipmentlList: 道具列表
+    hsToolEquipmentDetail: 道具詳情
+    hsToolGiftList: 禮物列表
+    hsToolGiftDetail: 禮物詳情
+    hsHeroManagement: 英雄管理
+    hsHeroList: 英雄列表
+    hsHeroDetail: 英雄詳情
+    hsActivityManagement: 活動管理
+    hsActivityCouponList: 優惠券列表
+    hsActivityCouponDetail: 優惠券詳情
+    hsGameManagement: 遊戲管理
+    hsGameMapList: 地圖列表
+    hsGameMallList: 商城列表
+    hsGameServerList: 伺服器列表
+    hsGameQualifyingList: 牌位賽列表
+    hsGameQualifyingDetail: 牌位賽詳情
+    hsGameSkuList: 禮包列表
+    hsGameSeasonList: 賽季列表
 status:
   hsLoad: 載入中...
 login:
@@ -217,38 +217,39 @@ responseMessages:
 
 # 常用顯示文字
 displayText:
-  startDate: 開始日期
-  startTime: 開始時間
-  endDate: 結束日期
-  endTime: 結束時間
-  dueDate: 截止時間
-  region: 區域
-  role: 身份
-  notSetDueDate: 未設定到期日
-  emptyData: 沒有資料
-  view: 查看
-  copy: 複製
-  fightType: 對戰類型
-  orderPrice: 訂單價格
-  currency: 幣別
-  online: 在線
-  offline: 離線
-  day: 日期
-  operational: 操作
-  hero: 英雄
-  createdAt: 創建時間
-  modifiedAt: 更新時間
-  delete: 刪除
-  confirmDelete: 是否刪除
-  pleaseEnter: 請輸入
-  success: 成功
-  fail: 失敗
-  discount: 折扣
-  gift: 禮物
-  minutes: 分鐘
-  walletBalance: 錢包餘額
-  profile: 個人資料
-  friends: 好友
+    startDate: 開始日期
+    startTime: 開始時間
+    endDate: 結束日期
+    endTime: 結束時間
+    dueDate: 截止時間
+    region: 區域
+    role: 身份
+    notSetDueDate: 未設定到期日
+    emptyData: 沒有資料
+    view: 查看
+    copy: 複製
+    fightType: 對戰類型
+    orderPrice: 訂單價格
+    currency: 幣別
+    online: 在線
+    offline: 離線
+    day: 日期
+    operational: 操作
+    hero: 英雄
+    createdAt: 創建時間
+    modifiedAt: 更新時間
+    delete: 刪除
+    confirmDelete: 是否刪除
+    pleaseEnter: 請輸入
+    success: 成功
+    fail: 失敗
+    discount: 折扣
+    gift: 禮物
+    minutes: 分鐘
+    walletBalance: 錢包餘額
+    profile: 個人資料
+    friends: 好友
+    version: 版本號
 
 # 對戰類型
 fightTypes:
@@ -258,8 +259,8 @@ fightTypes:
 
 # 幣別類型
 currency:
-  coin0: 銀河晶鑽
-  coin1: 星辰幣
+    coin0: 銀河晶鑽
+    coin1: 星辰幣
 
 # 道具對應 mark 翻譯
 toolMark:
@@ -317,235 +318,242 @@ lootboxTypes:
 # 帳號管理
 accountControl:
     # 新增玩家 url: /user/player-list/index
-  createPlayer:
+    createPlayer:
         # 表單資料
-    formTitle: 新增玩家
-    fullName: 玩家全名
-    countryCode: 國家代碼
-    awsRegion: 國家區域
-    platformId: 裝置 ID
-    platformType: 平台類型
+        formTitle: 新增玩家
+        fullName: 玩家全名
+        countryCode: 國家代碼
+        awsRegion: 國家區域
+        platformId: 裝置 ID
+        platformType: 平台類型
         # 輸入框提示文字
-    placeholder:
-      inputFullName: 請輸入玩家全名
-      inputCountryCode: 請選擇國家代碼
-      inputAwsRegion: 請選擇國家區域
-      inputPlatformId: 請輸入裝置 ID
-      inputPlatformType: 請選擇裝置類型
+        placeholder:
+            inputFullName: 請輸入玩家全名
+            inputCountryCode: 請選擇國家代碼
+            inputAwsRegion: 請選擇國家區域
+            inputPlatformId: 請輸入裝置 ID
+            inputPlatformType: 請選擇裝置類型
+        # 表單
+        form:
+            fullNameError: 輸入的名稱有不雅字眼
 
-        # 玩家資料詳情頁 url: /user/player/{id}
-  playerDetail:
+    # 玩家資料詳情頁 url: /user/player/{id}
+    playerDetail:
         # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
-    info:
-      fullName: 玩家全名
-      username: 玩家名稱
-      emptyUsername: 未設定名稱
-      status: 狀態
-      countryCode: 國籍
-      platformType: 平台
-      platformId: 平台ID
-      phone: 電話
-      modifiedAt: 修改日期
-      createdAt: 創建日期
+        info:
+            fullName: 玩家全名
+            username: 玩家名稱
+            emptyUsername: 未設定名稱
+            status: 狀態
+            countryCode: 國籍
+            platformType: 平台
+            platformId: 平台ID
+            phone: 電話
+            modifiedAt: 修改日期
+            createdAt: 創建日期
 
         # 手持道具 url: /game/user/hold-tools
-    holdTool:
-      title: 玩家手持道具
-      name: 名稱
-      toolId: toolID
-      createdAt: 創建時間
-      modifiedAt: 更新時間
+        holdTool:
+            title: 玩家手持道具
+            name: 名稱
+            toolId: toolID
+            createdAt: 創建時間
+            modifiedAt: 更新時間
 
-        # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
-    MallOrderRecord:
-      title: 商城購買紀錄
-      createOrder: 新增商城訂單
-      refund: 退款
-      productName: 商品名稱
-      couponId: 優惠券ID
-      refundId: 退款ID
-      currency: 幣別
-      price: 價錢
-      status: 狀態
-      createdAt: 創建時間
-      modifiedAt: 更新時間
-      operational: 操作
+            # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+        MallOrderRecord:
+            title: 商城購買紀錄
+            createOrder: 新增商城訂單
+            refund: 退款
+            productName: 商品名稱
+            couponId: 優惠券ID
+            refundId: 退款ID
+            currency: 幣別
+            price: 價錢
+            status: 狀態
+            createdAt: 創建時間
+            modifiedAt: 更新時間
+            operational: 操作
 
-            # 退款表單
-      refundForm:
-        formTitle: 商城訂單退款
-        isTakeBack: 是否歸還商品
-        give: 贈送
-        back: 歸還
-        refundPoint: 退款額度
-        placeholder:
-          inputCoin: 請輸入退款額度
-          inputRetainTool: 請選擇是否要將商品取回
+          # 退款表單
+          refundForm:
+              formTitle: 商城訂單退款
+              isTakeBack: 是否歸還商品
+              give: 贈送
+              back: 歸還
+              refundPoint: 退款額度
+              placeholder:
+                  inputCoin: 請輸入退款額度
+                  inputRetainTool: 請選擇是否要將商品取回
 
-        # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
-    resetPassword:
-      resetPlayer: 重置玩家
-      password: 密碼
-      resetPassword: 重置密碼
-      resetPasswordFail: 重置密碼失敗
+          # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+          resetPassword:
+              resetPlayer: 重置玩家
+              password: 密碼
+              resetPassword: 重置密碼
+              resetPasswordFail: 重置密碼失敗
 
-        # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
-    updateWallet:
-      fullName: 玩家全名
-      coin0Last: 銀河晶鑽剩餘額度
-      coin1Last: 星辰幣剩餘額度
-      createdAt: 創建時間
-      modifiedAt: 更新時間
-      walletInOrOut: 錢包存入或領出
-      deposit: 存入
-      withdraw: 領出
-
-            # 表單內容
-      coin0: 銀河晶鑽
-      coin1: 星辰幣
-      reason: 備註
-      placeholder:
-        inputReason: 請輸入備註
-        inputPoint: 請輸入額度
-
-            # 紀錄
-      record:
-        title: 錢包紀錄
-        orderId: 訂單 ID
-        reason: 備註
-        point: 額度
-        operational: 操作
-        status: 狀態
+            # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+            updateWallet:
+        fullName: 玩家全名
+        coin0Last: 銀河晶鑽剩餘額度
+        coin1Last: 星辰幣剩餘額度
         createdAt: 創建時間
         modifiedAt: 更新時間
+        walletInOrOut: 錢包存入或領出
+        deposit: 存入
+        withdraw: 領出
 
-            # 搜尋
-      search:
-        status: 狀態
-        operational: 操作
-        createdAt: 創建時間
+        # 表單內容
+        coin0: 銀河晶鑽
+        coin1: 星辰幣
+        reason: 備註
         placeholder:
-          inputStatus: 請選擇狀態
-          inputOperational: 請選擇操作
-        options:
-          init: 初始值
-          pending: 處理中
-          success: 成功
-          fail: 失敗
+            inputReason: 請輸入備註
+            inputPoint: 請輸入額度
 
-        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
-    historyRecord:
-      title: 對戰歷史紀錄
-      fightPlayer: 對戰玩家
-      fightId: 對戰ID
-      matchMode: matchMode
-      battleMode: battleMode
-      type: 類型
-      winner: 贏家
-      winScore: 贏分
-      totalDamage: 累計傷害
-      totalDead: 死亡次數
-      totalKill: 殺敵次數
-      kd: KD比率
-      roundNumber: 對戰回合
-      roundTime: 對戰時間(分)
-      startTime: 開始時間
-      endTime: 結束時間
-      childColumn:
-        name: 名稱
-        damage: 傷害
-        deadCount: 死亡次數
-        team: 隊伍
+            # 紀錄
+            record:
+                title: 錢包紀錄
+                orderId: 訂單 ID
+                reason: 備註
+                point: 額度
+                operational: 操作
+                status: 狀態
+                createdAt: 創建時間
+                modifiedAt:
+                    更新時間
+
+                    # 搜尋
+            search:
+                status: 狀態
+                operational: 操作
+                createdAt: 創建時間
+                placeholder:
+                    inputStatus: 請選擇狀態
+                    inputOperational: 請選擇操作
+                options:
+                    init: 初始值
+                    pending: 處理中
+                    success: 成功
+                    fail: 失敗
+
+        # 玩家資料詳情頁 -> 戰鬥歷史紀錄 url: /user/player/{id}
+        historyRecord:
+            title: 戰鬥歷史紀錄
+            fightPlayer: 對戰玩家
+            fightId: 對戰ID
+            matchMode: matchMode
+            battleMode: battleMode
+            type: 類型
+            winner: 贏家
+            winScore: 贏分
+            totalDamage: 累計傷害
+            totalDead: 死亡次數
+            totalKill: 殺敵次數
+            kd: KD比率
+            roundNumber: 對戰回合
+            roundTime: 對戰時間(分)
+            startTime: 開始時間
+            endTime: 結束時間
+            childColumn:
+                name: 名稱
+                damage: 傷害
+                deadCount: 死亡次數
+                team: 隊伍
 
         # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
-    fightTypeRecord:
-      title: 對戰類型紀錄
-      fightType: 類型
-      roundCount: 合計次數
-      win: 勝場
-      lose: 輸場
-      douce: 平手
-      dead: 死亡次數
-      kill: 殺敵次數
-      kd: KD比率
+        fightTypeRecord:
+            title: 對戰類型紀錄
+            fightType: 類型
+            roundCount: 合計次數
+            win: 勝場
+            lose: 輸場
+            douce: 平手
+            dead: 死亡次數
+            kill: 殺敵次數
+            kd:
+                KD比率
 
-        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
-    heroHistoryRecord:
-      title: 英雄戰績記錄
-      winCount: 勝利次數
-      duceCount: 平手次數
-      loseCount: 戰敗次數
-      deadCount: 死亡次數
-      killCount: 殺敵次數
+                # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
+        heroHistoryRecord:
+            title: 英雄戰績記錄
+            winCount: 勝利次數
+            duceCount: 平手次數
+            loseCount: 戰敗次數
+            deadCount: 死亡次數
+            killCount:
+                殺敵次數
 
-        # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
-    iapOrderRecord:
-      title: 禮包購買紀錄
-      skuId: 禮包ID
-      toolId: 道具ID
-      currency: 幣別
-      currencyQuantity: 遊戲幣額度
-      status: 狀態
-      comment: 備註
-      createdAt: 創建時間
-      modifiedAt: 更新時間
+                # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+        iapOrderRecord:
+            title: 禮包購買紀錄
+            skuId: 禮包ID
+            toolId: 道具ID
+            currency: 幣別
+            currencyQuantity: 遊戲幣額度
+            status: 狀態
+            comment: 備註
+            createdAt: 創建時間
+            modifiedAt:
+                更新時間
 
-        # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
-    friends:
-      title: 玩家好友
-      playerName: 玩家名稱
-      level: 等級
-      onlineStatus: 在戲狀態
+                # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
+        friends:
+            title: 玩家好友
+            playerName: 玩家名稱
+            level: 等級
+            onlineStatus: 在戲狀態
 
-        # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
-    dailyTask:
-      title: 每日任務
-      confirmFinish: 是否完成每日任務
-      finishOnce: 完成一次
-      once: 一次
-      name: 名稱
-      totalNumber: 需完成次數或數值
-      doneCount: 完成次數或數值
+            # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
+            dailyTask:
+                title: 每日任務
+                confirmFinish: 是否完成每日任務
+                finishOnce: 完成一次
+                once: 一次
+                name: 名稱
+                totalNumber: 需完成次數或數值
+                doneCount: 完成次數或數值
 
-        # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
-    seasonDailyTask:
-      title: 每日賽季任務
-      createSeasonProcess: 新增賽季進度
-      heroItemId: 英雄itemId
-      name: 名稱
-      totalNumber: 需完成次數或數值
-      doneCount: 完成次數或數值
-      notHaveSeasonTask: 尚未有賽季任務
-      form:
-        formTitle: 新增今日賽季進度次數或數值
-        doneNumber: 進度值
-        placeholder:
-          inputDoneNumber: 請輸入進度值
+            # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+            seasonDailyTask:
+              title: 每日賽季任務
+              createSeasonProcess: 新增賽季進度
+              heroItemId: 英雄itemId
+              name: 名稱
+              totalNumber: 需完成次數或數值
+              doneCount: 完成次數或數值
+              notHaveSeasonTask: 尚未有賽季任務
+              form:
+                formTitle: 新增今日賽季進度次數或數值
+                doneNumber: 進度值
+                placeholder:
+                  inputDoneNumber: 請輸入進度值
 
-        # 信件 url: /game/user/mail
-    mail:
-      tableTitle: 信件列表
-      title: 標題
-      origin: 信件分類
-      isStar: 是否為重要信件
-      content: 內容
-      imageLink: 圖片連結
-      giftId: 禮物ID
-      dueDate: 過期時間
-      readDate: 讀取時間
-      deleteDate: 刪除時間
-      getGiftDate: 領取禮物時間
+              # 信件 url: /game/user/mail
+              mail:
+                tableTitle: 信件列表
+                title: 標題
+                origin: 信件分類
+                isStar: 是否為重要信件
+                content: 內容
+                imageLink: 圖片連結
+                giftId: 禮物ID
+                dueDate: 過期時間
+                readDate: 讀取時間
+                deleteDate: 刪除時間
+                getGiftDate: 領取禮物時間
 
-        # 兌換優惠券 url: /game/user/exchange-coupon
-    exchangeCoupon:
-      title: 兌換優惠券
-                # 表單
-      form:
-        uuid: 玩家uuid
-        coupon: 優惠券序號
-        placeholder:
-          inputUuid: 請輸入玩家uuid
-          inputCoupon: 請輸入優惠券序號
+              # 兌換優惠券 url: /game/user/exchange-coupon
+              exchangeCoupon:
+                  title: 兌換優惠券
+                  # 表單
+                  form:
+                      uuid: 玩家uuid
+                      coupon: 優惠券序號
+                      placeholder:
+                          inputUuid: 請輸入玩家uuid
+                          inputCoupon: 請輸入優惠券序號
 
 # 道具管理
 toolControl:

@@ -111,7 +111,7 @@ menus:
     hsPlayer: Player Info
     hsPlayerInfo: Info
     hsPlayerFriends: Friends
-    hsPlayerFightRecord: Fight Record
+    hsPlayerFightRecord: Battle History Record
     hsPlayerHeroRecord: Hero Record
     hsPlayerWalletRecord: Wallet Use Record
     hsPlayerDailyTask: Daily Task
@@ -120,7 +120,7 @@ menus:
     hsPlayerExchangeCoupon: Exchange Gift Code
     hsUserManagement: User Manage
     hsReportManagement: Report Manage
-    hsReportFightRecord: Fight Report
+    hsReportFightRecord: Battle History Report
     hsReportHero: Hero Report
     hsReportMap: Map Report
     hsMailList: Mail List
@@ -149,7 +149,7 @@ status:
 login:
     username: Account
     password: Password
-    verifyCode: VerifyCode
+    verifyCode: Verify Code
     remember: Remember Password
     sure: Sure Password
     forget: Forget Password?
@@ -250,6 +250,7 @@ displayText:
     walletBalance: Wallet Balance
     profile: Profile
     friends: Friends
+    version: Version
 
 # fight types
 fightTypes:
@@ -325,17 +326,19 @@ accountControl:
         countryCode: Country Code
         awsRegion: Country Region
         platformId: Platform ID
-        platformType:
-            Platform Type
-            # 輸入框提示文字
+        platformType: Platform Type
+        # 輸入框提示文字
         placeholder:
             inputFullName: Please enter your full name.
             inputCountryCode: Please choose your country code.
             inputAwsRegion: Please choose your country region.
             inputPlatformId: Please enter your platform ID.
             inputPlatformType: Please choose your platform type.
+        # 表單
+        form:
+            fullNameError: Input name have naughty words.
 
-        # 玩家資料詳情頁 url: /user/player/{id}
+    # 玩家資料詳情頁 url: /user/player/{id}
     playerDetail:
         # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
         info:
@@ -371,10 +374,9 @@ accountControl:
             status: Status
             createdAt: Created At
             modifiedAt: Modified At
-            operational:
-                Operational
+            operational: Operational
 
-                # 退款表單
+            # 退款表單
             refundForm:
                 formTitle: Mall Order Refund
                 isTakeBack: Is take back or give
