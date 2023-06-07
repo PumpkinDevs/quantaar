@@ -187,7 +187,7 @@ login:
     passwordSureReg: Please enter confirm password
     passwordDifferentReg: The two passwords do not match!
     passwordUpdateReg: Password has been updated
-    signInDescription: SIGN IN TO YOUR QUANTAAR ACCOUNT
+    signInDescription: LOG IN TO YOUR QUANTAAR ACCOUNT
 countries:
     tw: Taiwan
 region:
