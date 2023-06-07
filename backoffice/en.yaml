@@ -10,7 +10,7 @@ buttons:
   hssearch: Search
   hsexpendAll: Expand All
   hscollapseAll: Collapse All
-  hssystemSet: Open ProjectConfig
+  hssystemSet: Open Project Config
   hsdelete: DELETE
   hsreload: Reload
   hscloseCurrentTab: Close Current Tab
@@ -28,7 +28,7 @@ buttons:
   hsReset: RESET
   hsBackToList: Back To List
 menus:
-  hshome: Home
+  hshome: HOME
   hslogin: LOG IN
   hsempty: Empty Page
   hsSysManagement: System Manage
@@ -676,7 +676,7 @@ accountControl:
       roundCount: Round Count
       win: Win
       lose: Lose
-      douce: Douce
+      douce: Draw
       dead: Dead
       kill: Kill
       kd: KD Ratio
