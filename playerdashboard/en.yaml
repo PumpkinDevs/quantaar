@@ -1,35 +1,35 @@
 buttons:
-    hsLoginOut: Log Out
-    hsfullscreen: FullScreen
-    hsexitfullscreen: ExitFullscreen
-    hsrefreshRoute: RefreshRoute
-    hslogin: Login
-    hsadd: Add
-    hsmark: Mark/Cancel
-    hssave: Save
-    hssearch: Search
+    hsLoginOut: LOG OUT
+    hsfullscreen: Fullscreen
+    hsexitfullscreen: Exit Fullscreen
+    hsrefreshRoute: REFRESH
+    hslogin: LOG IN
+    hsadd: ADD
+    hsmark: MARK/CANCEL
+    hssave: SAVE
+    hssearch: SEARCH
     hsexpendAll: Expand All
     hscollapseAll: Collapse All
-    hssystemSet: Open ProjectConfig
-    hsdelete: Delete
-    hsreload: Reload
-    hscloseCurrentTab: Close CurrentTab
-    hscloseLeftTabs: Close LeftTabs
-    hscloseRightTabs: Close RightTabs
-    hscloseOtherTabs: Close OtherTabs
-    hscloseAllTabs: Close AllTabs
+    hssystemSet: Open Project Config
+    hsdelete: DELETE
+    hsreload: RELOAD
+    hscloseCurrentTab: Close Current Tab
+    hscloseLeftTabs: Close Left Tabs
+    hscloseRightTabs: Close Right Tabs
+    hscloseOtherTabs: Close Other Tabs
+    hscloseAllTabs: Close All Tabs
     hswholeFullScreen: FullScreen
-    hswholeExitFullScreen: ExitFull
+    hswholeExitFullScreen: Exit Fullscreen
     hscontentFullScreen: Content FullScreen
-    hscontentExitFullScreen: Content ExitFullScreen
-    hsSure: Submit
-    hsCancel: Cancel
-    hsSearch: Search
-    hsReset: Reset
+    hscontentExitFullScreen: Exit Content Fullscreen
+    hsSure: SUBMIT
+    hsCancel: CANCEL
+    hsSearch: SEARCH
+    hsReset: RESET
     hsBackToList: Back To List
 menus:
-    hshome: Home
-    hslogin: Login
+    hshome: HOME
+    hslogin: LOG IN
     hsempty: Empty Page
     hsSysManagement: System Manage
     hsUser: User Manage
@@ -111,7 +111,7 @@ menus:
     hsPlayer: Player Info
     hsPlayerInfo: Info
     hsPlayerFriends: Friends
-    hsPlayerFightRecord: Battle History Record
+    hsPlayerFightRecord: Battle Record
     hsPlayerHeroRecord: Hero Record
     hsPlayerWalletRecord: Wallet Use Record
     hsPlayerDailyTask: Daily Task
@@ -120,7 +120,7 @@ menus:
     hsPlayerExchangeCoupon: Exchange Gift Code
     hsUserManagement: User Manage
     hsReportManagement: Report Manage
-    hsReportFightRecord: Battle History Report
+    hsReportFightRecord: Battle Report
     hsReportHero: Hero Report
     hsReportMap: Map Report
     hsMailList: Mail List
@@ -149,11 +149,11 @@ status:
 login:
     username: Account
     password: Password
-    verifyCode: Verify Code
+    verifyCode: VerifyCode
     remember: Remember Password
     sure: Sure Password
     forget: Forget Password?
-    login: LOG IN
+    login: Login
     thirdLogin: Third Login
     phoneLogin: Phone Login
     qRCodeLogin: QRCode Login
@@ -187,7 +187,7 @@ login:
     passwordSureReg: Please enter confirm password
     passwordDifferentReg: The two passwords do not match!
     passwordUpdateReg: Password has been updated
-    signInDescription: LOG IN TO YOUR QUANTAAR ACCOUNT
+    signInDescription: SIGN IN TO YOUR QUANTAAR ACCOUNT
 countries:
     tw: Taiwan
 region:
@@ -229,7 +229,7 @@ displayText:
     emptyData: Empty Data
     view: View
     copy: Copy
-    fightType: Fight type
+    fightType: Battle type
     orderPrice: Order price
     currency: Currency,
     online: Online
@@ -326,17 +326,19 @@ accountControl:
         countryCode: Country Code
         awsRegion: Country Region
         platformId: Platform ID
-        platformType: Platform Type
-        # 輸入框提示文字
+        platformType:
+            Platform Type
+            # 輸入框提示文字
         placeholder:
             inputFullName: Please enter your full name.
             inputCountryCode: Please choose your country code.
             inputAwsRegion: Please choose your country region.
             inputPlatformId: Please enter your platform ID.
             inputPlatformType: Please choose your platform type.
-        # 表單
-        form:
-            fullNameError: Input name have naughty words.
+
+            # 表單
+            form:
+                fullNameError: Input name have naughty words.
 
     # 玩家資料詳情頁 url: /user/player/{id}
     playerDetail:
@@ -464,12 +466,12 @@ accountControl:
 
         # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
         fightTypeRecord:
-            title: Fight Type Record
+            title: Battle Type Record
             fightType: Type
             roundCount: Round Count
             win: Win
             lose: Lose
-            douce: Douce
+            douce: Draw
             dead: Dead
             kill: Kill
             kd: KD Ratio
@@ -478,7 +480,7 @@ accountControl:
         heroHistoryRecord:
             title: Hero Battle Record
             winCount: Win Count
-            duceCount: Duce Count
+            duceCount: Draw Count
             loseCount: Lose Count
             deadCount: Dead Count
             killCount: Kill Count
@@ -543,14 +545,14 @@ accountControl:
 
         # 兌換優惠券 url: /game/user/exchange-coupon
         exchangeCoupon:
-            title: Exchange Gift Code
+            title: QUANTAAR GIFT CODE
             # 表單
             form:
-                uuid: Player UUID
-                coupon: Gift Code Serial Number
+                uuid: Player UID
+                coupon: Gift Code
                 placeholder:
-                    inputUuid: Please Enter UUID
-                    inputCoupon: Please Enter Gift Code
+                    inputUuid: Player UID? Enter Player UID
+                    inputCoupon: Your Gift Code? Enter Gift Code
 
 # 道具管理
 toolControl:
@@ -562,9 +564,10 @@ toolControl:
         category: Category
         mark: Mark
         holdMax: Hold Max
-        coin1: Price
-        # 搜尋
+        coin1:
+            Price
+            # 搜尋
         search:
             type: Type
             placeholder:
-                inputType: Please choose type.
+                inputType: Please choose type

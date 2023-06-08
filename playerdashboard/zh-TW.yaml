@@ -1,32 +1,32 @@
 buttons:
-  hsLoginOut: 退出系统
-  hsfullscreen: 全螢幕
-  hsexitfullscreen: 退出全螢幕
-  hsrefreshRoute: 刷新
-  hslogin: 登錄
-  hsadd: 新增
-  hsmark: 標記/取消
-  hssave: 儲存
-  hssearch: 搜尋
-  hsexpendAll: 全部展開
-  hscollapseAll: 全部折疊
-  hssystemSet: 打開項目配置
-  hsdelete: 刪除
-  hsreload: 重新加載
-  hscloseCurrentTab: 關閉當前標籤頁
-  hscloseLeftTabs: 關閉左側標籤頁
-  hscloseRightTabs: 關閉右側標籤頁
-  hscloseOtherTabs: 關閉其他標籤頁
-  hscloseAllTabs: 關閉全部標籤頁
-  hswholeFullScreen: 全螢幕
-  hswholeExitFullScreen: 退出全螢幕
-  hscontentFullScreen: 内容區全螢幕
-  hscontentExitFullScreen: 内容區退出全螢幕
-  hsSure: 確定
-  hsCancel: 取消
-  hsSearch: 搜尋
-  hsReset: 重置
-  hsBackToList: 返回列表
+    hsLoginOut: 退出系统
+    hsfullscreen: 全螢幕
+    hsexitfullscreen: 退出全螢幕
+    hsrefreshRoute: 刷新
+    hslogin: 登錄
+    hsadd: 新增
+    hsmark: 標記/取消
+    hssave: 儲存
+    hssearch: 搜尋
+    hsexpendAll: 全部展開
+    hscollapseAll: 全部折疊
+    hssystemSet: 打開項目配置
+    hsdelete: 刪除
+    hsreload: 重新加載
+    hscloseCurrentTab: 關閉當前標籤頁
+    hscloseLeftTabs: 關閉左側標籤頁
+    hscloseRightTabs: 關閉右側標籤頁
+    hscloseOtherTabs: 關閉其他標籤頁
+    hscloseAllTabs: 關閉全部標籤頁
+    hswholeFullScreen: 全螢幕
+    hswholeExitFullScreen: 退出全螢幕
+    hscontentFullScreen: 内容區全螢幕
+    hscontentExitFullScreen: 内容區退出全螢幕
+    hsSure: 確定
+    hsCancel: 取消
+    hsSearch: 搜尋
+    hsReset: 重置
+    hsBackToList: 返回列表
 menus:
     hshome: 首頁
     hslogin: 登入
@@ -40,7 +40,7 @@ menus:
     hsfourZeroFour: "404"
     hsfourZeroOne: "403"
     hsFive: "500"
-    hscomponents: 组件
+    hscomponents: 組件
     hsmessage: 消息提示組件
     hsvideo: 影片組件
     hsmap: 地圖組件
@@ -111,16 +111,16 @@ menus:
     hsPlayer: 玩家資料
     hsPlayerInfo: 個人資料
     hsPlayerFriends: 好友
-    hsPlayerFightRecord: 戰鬥歷史紀錄
+    hsPlayerFightRecord: 對戰紀錄
     hsPlayerHeroRecord: 英雄使用紀錄
     hsPlayerWalletRecord: 錢包使用紀錄
     hsPlayerDailyTask: 每日任務
     hsPlayerMail: 信件
     hsPlayerHoldTools: 持有道具
-    hsPlayerExchangeCoupon: 兌換優惠券
+    hsPlayerExchangeCoupon: 兌換禮物序號
     hsUserManagement: 帳號管理
     hsReportManagement: 報表管理
-    hsReportFightRecord: 戰鬥歷史報表
+    hsReportFightRecord: 對戰報表
     hsReportHero: 英雄報表
     hsReportMap: 地圖報表
     hsMailList: 信件列表
@@ -134,8 +134,8 @@ menus:
     hsHeroList: 英雄列表
     hsHeroDetail: 英雄詳情
     hsActivityManagement: 活動管理
-    hsActivityCouponList: 優惠券列表
-    hsActivityCouponDetail: 優惠券詳情
+    hsActivityCouponList: 禮物序號列表
+    hsActivityCouponDetail: 禮物序號詳情
     hsGameManagement: 遊戲管理
     hsGameMapList: 地圖列表
     hsGameMallList: 商城列表
@@ -145,75 +145,75 @@ menus:
     hsGameSkuList: 禮包列表
     hsGameSeasonList: 賽季列表
 status:
-  hsLoad: 載入中...
+    hsLoad: 載入中...
 login:
-  username: 帳號
-  password: 密碼
-  verifyCode: 驗證碼
-  remember: 記住密碼
-  sure: 確認密碼
-  forget: 忘記密碼?
-  login: 登入
-  thirdLogin: 第三方登入
-  phoneLogin: 手機登入
-  qRCodeLogin: 二維碼登入
-  register: 註冊
-  weChatLogin: 微信登入
-  alipayLogin: 支付寶登入
-  qqLogin: QQ登入
-  weiboLogin: 微博登入
-  phone: 手機號碼
-  smsVerifyCode: 簡訊驗證碼
-  back: 返回
-  test: 模擬測試
-  tip: 掃碼後點擊"確認"，即可完成登入
-  definite: 确定
-  loginSuccess: 登入成功
-  registerSuccess: 註冊成功
-  tickPrivacy: 請勾選隱私權政策
-  readAccept: 我已仔細閱讀並接受
-  privacyPolicy: 《隱私權政策》
-  getVerifyCode: 獲取驗證碼
-  info: 秒後重新獲取
-  usernameReg: 請輸入帳號
-  passwordReg: 請輸入密碼
-  verifyCodeReg: 請輸入驗證碼
-  verifyCodeCorrectReg: 請輸入正確驗證碼
-  verifyCodeSixReg: 請輸入6位數驗證碼
-  phoneReg: 請輸入手機號碼
-  phoneCorrectReg: 請輸入正確手機號碼格式
-  passwordRuleReg: 密碼格式應為 4-18 位數字、字母、符號的任意兩種組合。
-  passwordSureReg: 請確認密碼
-  passwordDifferentReg: 兩次密碼不一致!
-  passwordUpdateReg: 修改密碼成功
-  signInDescription: 登入您的 QUANTAAR 帳號
+    username: 帳號
+    password: 密碼
+    verifyCode: 驗證碼
+    remember: 記住密碼
+    sure: 確認密碼
+    forget: 忘記密碼?
+    login: 登入
+    thirdLogin: 第三方登入
+    phoneLogin: 手機登入
+    qRCodeLogin: 二維碼登入
+    register: 註冊
+    weChatLogin: 微信登入
+    alipayLogin: 支付寶登入
+    qqLogin: QQ登入
+    weiboLogin: 微博登入
+    phone: 手機號碼
+    smsVerifyCode: 簡訊驗證碼
+    back: 返回
+    test: 模擬測試
+    tip: 掃碼後點擊"確認"，即可完成登入
+    definite: 确定
+    loginSuccess: 登入成功
+    registerSuccess: 註冊成功
+    tickPrivacy: 請勾選隱私權政策
+    readAccept: 我已仔細閱讀並接受
+    privacyPolicy: 《隱私權政策》
+    getVerifyCode: 獲取驗證碼
+    info: 秒後重新獲取
+    usernameReg: 請輸入帳號
+    passwordReg: 請輸入密碼
+    verifyCodeReg: 請輸入驗證碼
+    verifyCodeCorrectReg: 請輸入正確驗證碼
+    verifyCodeSixReg: 請輸入6位數驗證碼
+    phoneReg: 請輸入手機號碼
+    phoneCorrectReg: 請輸入正確手機號碼格式
+    passwordRuleReg: 密碼格式應為 4-18 位數字、字母、符號的任意兩種組合。
+    passwordSureReg: 請確認密碼
+    passwordDifferentReg: 兩次密碼不一致!
+    passwordUpdateReg: 修改密碼成功
+    signInDescription: 登入您的 QUANTAAR 帳號
 countries:
-  tw: 台灣
+    tw: 台灣
 region:
-  asia: 亞洲
-  us: 美州
-  eu: 歐洲
-  ec2: ec2
-  local: local
-  sideEu: side eu
-  sideAsia: side asia
+    asia: 亞洲
+    us: 美州
+    eu: 歐洲
+    ec2: ec2
+    local: local
+    sideEu: side eu
+    sideAsia: side asia
 # 常用回應文字
 responseMessages:
-  exchangeSuccess: 兌換成功
-  exchangeFail: 兌換失敗
-  createSuccess: 新增成功
-  createFail: 新增失敗
-  updateSuccess: 更新成功
-  updateFail: 更新失敗
-  validationFail: 資料驗證失敗
-  copySuccess: 複製成功
-  copyFail: 複製失敗
-  getDataFail: 取得資料失敗
-  refundSuccess: 退款成功
-  refundFail: 退款失敗
-  deletSuccess: 刪除成功
-  deleteFail: 刪除失敗
-  tokenExpired: 登入狀態已到期請重新登入
+    exchangeSuccess: 兌換成功
+    exchangeFail: 兌換失敗
+    createSuccess: 新增成功
+    createFail: 新增失敗
+    updateSuccess: 更新成功
+    updateFail: 更新失敗
+    validationFail: 資料驗證失敗
+    copySuccess: 複製成功
+    copyFail: 複製失敗
+    getDataFail: 取得資料失敗
+    refundSuccess: 退款成功
+    refundFail: 退款失敗
+    deletSuccess: 刪除成功
+    deleteFail: 刪除失敗
+    tokenExpired: 登入狀態已到期請重新登入
 
 # 常用顯示文字
 displayText:
@@ -253,9 +253,9 @@ displayText:
 
 # 對戰類型
 fightTypes:
-  brawl: 亂鬥
-  2v2: 雙人組合對戰
-  soccer: 足球
+    brawl: 亂鬥
+    2v2: 雙人組合對戰
+    soccer: 足球
 
 # 幣別類型
 currency:
@@ -264,56 +264,56 @@ currency:
 
 # 道具對應 mark 翻譯
 toolMark:
-  helmet: 觀察者道具
-  hero: 英雄
-  core: 核心
-  toy: toy
-  lootbox: 寶箱
-  system: system
-  emoji: emoji
-  particle: 粒子特效
-  skinHero: skinHero
-  token: token
-  observers: 觀察者道具
-  heroes: 英雄們
-  cores: 核心們
+    helmet: 觀察者道具
+    hero: 英雄
+    core: 核心
+    toy: toy
+    lootbox: 寶箱
+    system: system
+    emoji: emoji
+    particle: 粒子特效
+    skinHero: skinHero
+    token: token
+    observers: 觀察者道具
+    heroes: 英雄們
+    cores: 核心們
 
 # 道具對應稀有度
 qualityTypes:
-  none: None
-  common: 常見
-  rare: 稀有
-  epic: 罕見
-  legendary: 傳說
-  ancient: 寶藏
+    none: None
+    common: 常見
+    rare: 稀有
+    epic: 罕見
+    legendary: 傳說
+    ancient: 寶藏
 
 # 觀察者分類選項項
 helmetTypes:
-  head: 頭部
-  skin: 皮膚
-  none: 無
-  hands: 手部
-  eyesAndears: 眼睛 & 耳朵
-  accessories: 飾品
+    head: 頭部
+    skin: 皮膚
+    none: 無
+    hands: 手部
+    eyesAndears: 眼睛 & 耳朵
+    accessories: 飾品
 
 # 核心分類選項
 coreTypes:
-  big: 大
-  small: 小
-  none: 無
+    big: 大
+    small: 小
+    none: 無
 
 # 英雄類別選項
 heroTypes:
-  none: 無
-  fighter: 鬥士
-  assassin: 刺客
-  generalist: 平衡
-  shooter: 射手
+    none: 無
+    fighter: 鬥士
+    assassin: 刺客
+    generalist: 平衡
+    shooter: 射手
 
 # 寶箱類型
 lootboxTypes:
-  none: 無
-  normal: 普通
+    none: 無
+    normal: 普通
 
 # 帳號管理
 accountControl:
@@ -360,13 +360,13 @@ accountControl:
             createdAt: 創建時間
             modifiedAt: 更新時間
 
-            # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
         MallOrderRecord:
             title: 商城購買紀錄
             createOrder: 新增商城訂單
             refund: 退款
             productName: 商品名稱
-            couponId: 優惠券ID
+            couponId: 禮物序號
             refundId: 退款ID
             currency: 幣別
             price: 價錢
@@ -375,42 +375,42 @@ accountControl:
             modifiedAt: 更新時間
             operational: 操作
 
-          # 退款表單
-          refundForm:
-              formTitle: 商城訂單退款
-              isTakeBack: 是否歸還商品
-              give: 贈送
-              back: 歸還
-              refundPoint: 退款額度
-              placeholder:
-                  inputCoin: 請輸入退款額度
-                  inputRetainTool: 請選擇是否要將商品取回
+            # 退款表單
+            refundForm:
+                formTitle: 商城訂單退款
+                isTakeBack: 是否歸還商品
+                give: 贈送
+                back: 歸還
+                refundPoint: 退款額度
+                placeholder:
+                    inputCoin: 請輸入退款額度
+                    inputRetainTool: 請選擇是否要將商品取回
 
-          # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
-          resetPassword:
-              resetPlayer: 重置玩家
-              password: 密碼
-              resetPassword: 重置密碼
-              resetPasswordFail: 重置密碼失敗
+        # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+        resetPassword:
+            resetPlayer: 重置玩家
+            password: 密碼
+            resetPassword: 重置密碼
+            resetPasswordFail: 重置密碼失敗
 
-            # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
-            updateWallet:
-        fullName: 玩家全名
-        coin0Last: 銀河晶鑽剩餘額度
-        coin1Last: 星辰幣剩餘額度
-        createdAt: 創建時間
-        modifiedAt: 更新時間
-        walletInOrOut: 錢包存入或領出
-        deposit: 存入
-        withdraw: 領出
+        # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+        updateWallet:
+            fullName: 玩家全名
+            coin0Last: 銀河晶鑽剩餘額度
+            coin1Last: 星辰幣剩餘額度
+            createdAt: 創建時間
+            modifiedAt: 更新時間
+            walletInOrOut: 錢包存入或領出
+            deposit: 存入
+            withdraw: 領出
 
-        # 表單內容
-        coin0: 銀河晶鑽
-        coin1: 星辰幣
-        reason: 備註
-        placeholder:
-            inputReason: 請輸入備註
-            inputPoint: 請輸入額度
+            # 表單內容
+            coin0: 銀河晶鑽
+            coin1: 星辰幣
+            reason: 備註
+            placeholder:
+                inputReason: 請輸入備註
+                inputPoint: 請輸入額度
 
             # 紀錄
             record:
@@ -438,9 +438,9 @@ accountControl:
                     success: 成功
                     fail: 失敗
 
-        # 玩家資料詳情頁 -> 戰鬥歷史紀錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
         historyRecord:
-            title: 戰鬥歷史紀錄
+            title: 對戰歷史紀錄
             fightPlayer: 對戰玩家
             fightId: 對戰ID
             matchMode: matchMode
@@ -472,20 +472,18 @@ accountControl:
             douce: 平手
             dead: 死亡次數
             kill: 殺敵次數
-            kd:
-                KD比率
+            kd: KD比率
 
-                # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
+        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
         heroHistoryRecord:
             title: 英雄戰績記錄
             winCount: 勝利次數
             duceCount: 平手次數
             loseCount: 戰敗次數
             deadCount: 死亡次數
-            killCount:
-                殺敵次數
+            killCount: 殺敵次數
 
-                # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
         iapOrderRecord:
             title: 禮包購買紀錄
             skuId: 禮包ID
@@ -495,79 +493,78 @@ accountControl:
             status: 狀態
             comment: 備註
             createdAt: 創建時間
-            modifiedAt:
-                更新時間
+            modifiedAt: 更新時間
 
-                # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
+        # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
         friends:
             title: 玩家好友
             playerName: 玩家名稱
             level: 等級
             onlineStatus: 在戲狀態
 
-            # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
-            dailyTask:
-                title: 每日任務
-                confirmFinish: 是否完成每日任務
-                finishOnce: 完成一次
-                once: 一次
-                name: 名稱
-                totalNumber: 需完成次數或數值
-                doneCount: 完成次數或數值
+        # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
+        dailyTask:
+            title: 每日任務
+            confirmFinish: 是否完成每日任務
+            finishOnce: 完成一次
+            once: 一次
+            name: 名稱
+            totalNumber: 需完成次數或數值
+            doneCount: 完成次數或數值
 
-            # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
-            seasonDailyTask:
-              title: 每日賽季任務
-              createSeasonProcess: 新增賽季進度
-              heroItemId: 英雄itemId
-              name: 名稱
-              totalNumber: 需完成次數或數值
-              doneCount: 完成次數或數值
-              notHaveSeasonTask: 尚未有賽季任務
-              form:
+        # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+        seasonDailyTask:
+            title: 每日賽季任務
+            createSeasonProcess: 新增賽季進度
+            heroItemId: 英雄itemId
+            name: 名稱
+            totalNumber: 需完成次數或數值
+            doneCount: 完成次數或數值
+            notHaveSeasonTask: 尚未有賽季任務
+            form:
                 formTitle: 新增今日賽季進度次數或數值
                 doneNumber: 進度值
                 placeholder:
-                  inputDoneNumber: 請輸入進度值
+                    inputDoneNumber: 請輸入進度值
 
-              # 信件 url: /game/user/mail
-              mail:
-                tableTitle: 信件列表
-                title: 標題
-                origin: 信件分類
-                isStar: 是否為重要信件
-                content: 內容
-                imageLink: 圖片連結
-                giftId: 禮物ID
-                dueDate: 過期時間
-                readDate: 讀取時間
-                deleteDate: 刪除時間
-                getGiftDate: 領取禮物時間
+        # 信件 url: /game/user/mail
+        mail:
+            tableTitle: 信件列表
+            title: 標題
+            origin: 信件分類
+            isStar: 是否為重要信件
+            content: 內容
+            imageLink: 圖片連結
+            giftId: 禮物ID
+            dueDate: 過期時間
+            readDate: 讀取時間
+            deleteDate: 刪除時間
+            getGiftDate: 領取禮物時間
 
-              # 兌換優惠券 url: /game/user/exchange-coupon
-              exchangeCoupon:
-                  title: 兌換優惠券
-                  # 表單
-                  form:
-                      uuid: 玩家uuid
-                      coupon: 優惠券序號
-                      placeholder:
-                          inputUuid: 請輸入玩家uuid
-                          inputCoupon: 請輸入優惠券序號
+        # 兌換優惠券 url: /game/user/exchange-coupon
+        exchangeCoupon:
+            title: 兌換禮物序號
+            # 表單
+            form:
+                uuid: 玩家 UID
+                coupon: 禮物序號
+                placeholder:
+                    inputUuid: 請輸入玩家 UID
+                    inputCoupon: 請輸入禮物序號
 
 # 道具管理
 toolControl:
-  onlineTool:
-    title: 道具總覽
-    img: 圖片
-    name: 名稱
-    quality: 稀有度
-    category: 分類
-    mark: 類型
-    holdMax: 最大持有數
-    coin1: 價格
+    onlineTool:
+        title: 道具總覽
+        img: 圖片
+        name: 名稱
+        quality: 稀有度
+        category: 分類
+        mark: 類型
+        holdMax: 最大持有數
+        coin1: 價格
         # 搜尋
-    search:
-      type: 類型
-      placeholder:
-        inputType: 請選擇類型
+        search:
+            type: 類型
+            placeholder:
+                inputType: 請選擇類型

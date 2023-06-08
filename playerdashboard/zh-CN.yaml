@@ -40,7 +40,7 @@ menus:
     hsfourZeroFour: "404"
     hsfourZeroOne: "403"
     hsFive: "500"
-    hscomponents: 组件
+    hscomponents: 組件
     hsmessage: 消息提示組件
     hsvideo: 影片組件
     hsmap: 地圖組件
@@ -111,16 +111,16 @@ menus:
     hsPlayer: 玩家資料
     hsPlayerInfo: 個人資料
     hsPlayerFriends: 好友
-    hsPlayerFightRecord: 戰鬥歷史紀錄
+    hsPlayerFightRecord: 對戰紀錄
     hsPlayerHeroRecord: 英雄使用紀錄
     hsPlayerWalletRecord: 錢包使用紀錄
     hsPlayerDailyTask: 每日任務
     hsPlayerMail: 信件
     hsPlayerHoldTools: 持有道具
-    hsPlayerExchangeCoupon: 兌換優惠券
+    hsPlayerExchangeCoupon: 兌換禮物序號
     hsUserManagement: 帳號管理
     hsReportManagement: 報表管理
-    hsReportFightRecord: 戰鬥歷史報表
+    hsReportFightRecord: 對戰報表
     hsReportHero: 英雄報表
     hsReportMap: 地圖報表
     hsMailList: 信件列表
@@ -134,8 +134,8 @@ menus:
     hsHeroList: 英雄列表
     hsHeroDetail: 英雄詳情
     hsActivityManagement: 活動管理
-    hsActivityCouponList: 優惠券列表
-    hsActivityCouponDetail: 優惠券詳情
+    hsActivityCouponList: 禮物序號列表
+    hsActivityCouponDetail: 禮物序號詳情
     hsGameManagement: 遊戲管理
     hsGameMapList: 地圖列表
     hsGameMallList: 商城列表
@@ -366,7 +366,7 @@ accountControl:
             createOrder: 新增商城訂單
             refund: 退款
             productName: 商品名稱
-            couponId: 優惠券ID
+            couponId: 禮物序號
             refundId: 退款ID
             currency: 幣別
             price: 價錢
@@ -438,9 +438,9 @@ accountControl:
                     success: 成功
                     fail: 失敗
 
-        # 玩家資料詳情頁 -> 戰鬥歷史紀錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
         historyRecord:
-            title: 戰鬥歷史紀錄
+            title: 對戰歷史紀錄
             fightPlayer: 對戰玩家
             fightId: 對戰ID
             matchMode: matchMode
@@ -472,20 +472,18 @@ accountControl:
             douce: 平手
             dead: 死亡次數
             kill: 殺敵次數
-            kd:
-                KD比率
+            kd: KD比率
 
-                # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
+        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
         heroHistoryRecord:
             title: 英雄戰績記錄
             winCount: 勝利次數
             duceCount: 平手次數
             loseCount: 戰敗次數
             deadCount: 死亡次數
-            killCount:
-                殺敵次數
+            killCount: 殺敵次數
 
-                # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+        # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
         iapOrderRecord:
             title: 禮包購買紀錄
             skuId: 禮包ID
@@ -495,10 +493,9 @@ accountControl:
             status: 狀態
             comment: 備註
             createdAt: 創建時間
-            modifiedAt:
-                更新時間
+            modifiedAt: 更新時間
 
-                # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
+        # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
         friends:
             title: 玩家好友
             playerName: 玩家名稱
@@ -546,14 +543,14 @@ accountControl:
 
         # 兌換優惠券 url: /game/user/exchange-coupon
         exchangeCoupon:
-            title: 兌換優惠券
+            title: 兌換禮物序號
             # 表單
             form:
-                uuid: 玩家uuid
-                coupon: 優惠券序號
+                uuid: 玩家 UID
+                coupon: 禮物序號
                 placeholder:
-                    inputUuid: 請輸入玩家uuid
-                    inputCoupon: 請輸入優惠券序號
+                    inputUuid: 請輸入玩家 UID
+                    inputCoupon: 請輸入禮物序號
 
 # 道具管理
 toolControl:
