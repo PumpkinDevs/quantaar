@@ -1,20 +1,17 @@
-# jp Japanese (Japan) translation.
+﻿# jp Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: jp\n"
-"POT-Creation-Date: 2023-06-06 05:50\n"
-"PO-Revision-Date: 2023-06-09 01:44+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ja/>\n"
-"Language: jp\n"
+"POT-Creation-Date: 2023-06-09 07:24\n"
+"PO-Revision-Date: 2023-06-09 07:24\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -2004,7 +2001,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "你得到了 1,000 星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007015]"
-msgid "You got 1000 Star Coin"
+msgid "You got 1000 Star Coins"
 msgstr ""
 
 #. Key:	[0007016]
@@ -2013,7 +2010,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "你得到了 2,000 星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007016]"
-msgid "You got 2000 Star Coin"
+msgid "You got 2000 Star Coins"
 msgstr ""
 
 #. Key:	[0007017]
@@ -2022,7 +2019,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "你得到了3000星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007017]"
-msgid "You got 3000 Star Coin"
+msgid "You got 3000 Star Coins"
 msgstr ""
 
 #. Key:	[0007018]
@@ -2031,7 +2028,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "你得到了4000星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007018]"
-msgid "You got 4000 Star Coin"
+msgid "You got 4000 Star Coins"
 msgstr ""
 
 #. Key:	[0007019]
@@ -2040,7 +2037,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "你得到了5000星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007019]"
-msgid "You got 5000 Star Coin"
+msgid "You got 5000 Star Coins"
 msgstr ""
 
 #. Key:	[0007020]
@@ -12083,12 +12080,8 @@ msgstr "Pico ストアで DLC を購入する"
 #. InfoMetaData:	"簡體中文" : "点击「接受」即表示您已阅读并同意https://quantaar.com/privacy-policy和https://quantaar.com/terms的 Pumpkin VR 隐私政策及服务条款"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001266]"
-msgid "Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy Policy and Terms of Service on the QUANTAAR official website.\r\n\r\nhttp://quantaar.com/terms\r\n\r\nhttp://quantaar.com/privacy"
-msgstr ""
-"「同意」を押すと、 QUANTAAR 公式ウェブサイのプライバシーポリシー及び利用規約"
-"を読み、同意したことになります。\n"
-"http://quantaar.com/terms\n"
-"http://quantaar.com/privacy"
+msgid "Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy Policy and Terms of Service on the QUANTAAR official website.\r\nhttp://quantaar.com/terms\r\nhttp://quantaar.com/privacy"
+msgstr "「同意」を押すと、 QUANTAAR 公式ウェブサイのプライバシーポリシー及び利用規約を読み、同意したことになります。\r\nhttp://quantaar.com/terms\r\nhttp://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13597,7 +13590,7 @@ msgstr "6,000 銀河のジェム"
 #. InfoMetaData:	"簡體中文" : "尊荣黄金ID边框"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001417]"
-msgid "Exclusive gold profile frame"
+msgid "Exclusive gold ID"
 msgstr "栄誉ゴールド ID"
 
 #. Key:	[9001418]
@@ -16513,3 +16506,4 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
+
