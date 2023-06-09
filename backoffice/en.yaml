@@ -106,7 +106,7 @@ menus:
   hsPureTableHigh: High Usage
   hsTree: Big Data Tree
   hsMenuoverflow: Menu Overflow Show Tooltip Text
-  hsChildMenuoverflow: Child Menu Overflow Show Tooltip Text,
+  hsChildMenuoverflow: Child Menu Overflow Show Tooltip Text
   hsPlayerList: Player List
   hsPlayer: Player Info
   hsUserManagement: User Manage
@@ -122,7 +122,7 @@ menus:
   hsReportPlayerLevelDistribution: Player Level Report
   hsReportPlayerFightRecordTime: Player Fight Record Time
   hsMailList: Mail List
-  hsToolManagement: Tool Manage
+  hsToolManagement: Item Manage
   hsTooEquipmentlList: Equipment List
   hsToolEquipmentDetail: Equipment Detail
   hsToolGiftList: Gift List
@@ -131,8 +131,8 @@ menus:
   hsHeroList: Hero List
   hsHeroDetail: Hero Detail
   hsActivityManagement: Activity Manage
-  hsActivityCouponList: Coupon List
-  hsActivityCouponDetail: Coupon Detail
+  hsActivityCouponList: Gift Code List
+  hsActivityCouponDetail: Gift Code Detail
   hsGameManagement: Game Manage
   hsGameMapList: Map List
   hsGameMallList: Mall List
@@ -265,11 +265,11 @@ toolMark:
   hero: Hero
   core: Core
   toy: Toy
-  lootbox: Lootbox
+  lootbox: Chest
   system: System
   emoji: Emoji
   particle: Particle
-  skinHero: Skin Hero
+  skinHero: Hero Skin
   token: Token
   observers: Observers
   heroes: Heros
@@ -387,7 +387,7 @@ reportControl:
   mallOrder:
     title: Mall Order Report
     coin0: Currency Coin0
-    coin1: Currency Coin1
+    coin1: Currency Star Coins
     count: Sales Volume
     mark: Type
     name: Name
@@ -545,9 +545,9 @@ accountControl:
 
                 # 玩家資料詳情頁 -> 手持道具 url: /user/player/{id}
     holdTool:
-      title: Player Hold Tool
+      title: Player Hold Items
       name: Name
-      toolId: Tool ID
+      toolId: Item ID
       createdAt: Created At
       modifiedAt: Modified At
 
@@ -557,7 +557,7 @@ accountControl:
       createOrder: Create Order
       refund: Refund
       productName: Product Name
-      couponId: Coupon ID
+      couponId: Gift Code ID
       refundId: Refund ID
       currency: Currency
       price: Price
@@ -583,7 +583,7 @@ accountControl:
                 # 表單資料
       tool: Tool
       currency: Currency
-      coupon: Coupon
+      coupon: Gift Code
       plan: Plan
       buyTime: Buy Time
       options:
@@ -695,7 +695,7 @@ accountControl:
     iapOrderRecord:
       title: Iap Order Record
       skuId: Sku ID
-      toolId: Tool ID
+      toolId: ltem ID
       currency: Currency
       currencyQuantity: Currency Quantity
       status: Status
@@ -810,8 +810,8 @@ gameControl:
     search:
       options:
         useCoinOptions:
-          option1: coin0
-          option2: coin1
+          option1: Galaxy Gems
+          option2: Star Coins
           option3: both
           option4: normal
 
@@ -954,7 +954,7 @@ toolControl:
     emojiMark:
       name: Name
       holdMax: Hold Max
-      coin1: Coin1
+      coin1: Star Coins
       startTime: Start Time
       endTime: End Time
       noSetTime: No set time.
@@ -983,7 +983,7 @@ toolControl:
         inputEndTime: Please choose end time.（not required）
                     # 寶箱表單
       lootbox:
-        coin1: Price(Coin1)
+        coin1: Price(Star Coins)
         isMallProduct: Is Mall Product
         qualityMini: Quality Mini
         qualityMax: Quality Max
@@ -1048,9 +1048,9 @@ toolControl:
 activityControl:
     # 優惠券列表 url: /activity/coupon
   couponList:
-    title: Coupon List
-    createCoupon: Create Coupon
-    sn: Serial Number
+    title: Gift Code List
+    createCoupon: Create Gift Code
+    sn: Gift Code Number
     type: Type
     number: Quantity
     startDate: Start Date
@@ -1058,18 +1058,18 @@ activityControl:
             # 細節頁
     detail:
       menus:
-        menu1: Coupon Info
-        menu2: Update Coupon
+        menu1: Gift Code Info
+        menu2: Update Gift Code
       mailId: Mail ID
-      coin0Discount: Coin0 Discount
-      coin1Discount: Coin1 Discount
-      emptyGiftData: Empty gift data.
+      coin0Discount: Galaxy Gems Discount
+      coin1Discount: Star Coins Discount
+      emptyGiftData: Empty gift data
                 # 表單
     form:
-      formTitle: Create Coupon
+      formTitle: Create Gift Code
       admin: Create Admin User
-      sn: Serial Number
-      description: Coupon Info
+      sn: Gift Code Number
+      description: Gift Code Info
       number: Quantity
       mailId: Mail
       createMail: Create Mail
@@ -1078,8 +1078,8 @@ activityControl:
       placeholder:
         inputStartDate: Please choose start date.（not required)
         inputDueDate: Please choose due date.（not required)
-        inputAdmin: Create coupon admin is required.
-        inputSn: Serial number is required.
+        inputAdmin: Create Gift Code admin is required.
+        inputSn: Gift Code number is required.
         inputSn2: The serial number must be 6~9 digits.
         inputNumber: Quantity is required.
         inputType: Type is required.
