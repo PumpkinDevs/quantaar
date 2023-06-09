@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en\n"
 "POT-Creation-Date: 2023-06-06 05:49\n"
-"PO-Revision-Date: 2023-06-07 07:47+0000\n"
+"PO-Revision-Date: 2023-06-09 01:44+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -13598,7 +13598,7 @@ msgstr "6,000 Galaxy Gems"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001417]"
 msgid "Exclusive gold profile frame"
-msgstr "Exclusive gold profile frame"
+msgstr "Exclusive gold profile"
 
 #. Key:	[9001418]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
