@@ -105,8 +105,8 @@ menus:
   hsPureTableBase: 基礎用法（23個示例）
   hsPureTableHigh: 高級用法（10個示例）
   hsTree: 大數據數業務组件
-  hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
-  hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
+  hsMenuoverflow: 目標超出顯示文字提示
+  hsChildMenuoverflow: 選單超出顯示文字提示
   hsPlayerList: 玩家列表
   hsPlayer: 玩家資料
   hsUserManagement: 帳號管理
@@ -268,9 +268,9 @@ toolMark:
   lootbox: 寶箱
   system: system
   emoji: emoji
-  particle: 粒子特效
+  particle: 個性粒子
   skinHero: skinHero
-  token: token
+  token: 代幣
   observers: 觀察者道具
   heroes: 英雄們
   cores: 核心們
@@ -386,8 +386,8 @@ reportControl:
         # 商城訂單報表 url: /report/mall-order/index
   mallOrder:
     title: 商城訂單報表
-    coin0: 幣別0
-    coin1: 幣別1
+    coin0: 銀河晶鑽
+    coin1: 星辰幣
     count: 販售數量
     mark: 分類
     name: 名稱
@@ -422,7 +422,7 @@ systemControl:
     title: 標題
     content: 內容
     imageLink: 圖片連結
-    giftId: 禮物id
+    giftId: 禮物　ID
     recipient: 區域與身分
     dueDate: 到期時間
     createdAt: 創建時間
@@ -583,7 +583,7 @@ accountControl:
                 # 表單資料
       tool: 道具
       currency: 幣別
-      coupon: 優惠券
+      coupon: 禮物序號
       plan: 方案
       buyTime: 訂單購買時間
       options:
@@ -810,8 +810,8 @@ gameControl:
     search:
       options:
         useCoinOptions:
-          option1: 幣別0
-          option2: 幣別1
+          option1: 銀河晶鑽
+          option2: 星辰幣
           option3: 通用幣別
           option4: 未設定
 
@@ -952,7 +952,7 @@ toolControl:
       info: 資訊
     emojiMark:
       name: 名稱
-      coin1: 幣別1
+      coin1: 星辰幣
       holdMax: 持有最多數量
       startTime: 開始時間
       endTime: 結束時間
@@ -982,7 +982,7 @@ toolControl:
         required: 為必填
                     # 寶箱表單
       lootbox:
-        coin1: 價值(幣別1)
+        coin1: 價值(星辰幣)
         isMallProduct: 是否為商城商品
         qualityMini: 稀有度最小值
         qualityMax: 稀有度最大值
@@ -1048,9 +1048,9 @@ toolControl:
 activityControl:
     # 優惠券列表 url: /activity/coupon
   couponList:
-    title: 優惠券列表
-    createCoupon: 新增優惠券
-    sn: 優惠券序號
+    title: 禮物序號列表
+    createCoupon: 新增禮物序號
+    sn: 禮物序號
     type: 類型
     number: 數量
     startDate: 開始時間
@@ -1058,18 +1058,18 @@ activityControl:
             # 細節頁
     detail:
       menus:
-        menu1: 優惠券資訊
-        menu2: 更新優惠券資訊
+        menu1: 禮物序號資訊
+        menu2: 更新禮物序號資訊
       mailId: 信件ID
-      coin0Discount: 幣別0優惠
-      coin1Discount: 幣別1優惠
+      coin0Discount: 銀河晶鑽優惠
+      coin1Discount: 星辰幣優惠
       emptyGiftData: 沒有禮物資料
                 # 表單
     form:
-      formTitle: 新增優惠券
-      admin: 新增此優惠券人員
-      sn: 優惠券序號
-      description: 優惠券內容
+      formTitle: 新增禮物序號
+      admin: 新增此禮物序號人員
+      sn: 禮物序號
+      description: 禮物序號內容
       number: 數量
       mailId: 信件
       createMail: 新增信件
@@ -1078,7 +1078,7 @@ activityControl:
       placeholder:
         inputStartDate: 請選擇開始時間（非必填）
         inputDueDate: 請選擇截止時間（非必填）
-        inputAdmin: 新增優惠券人員為必填
+        inputAdmin: 新增禮物序號人員為必填
         inputSn: 優惠券序號為必填
         inputSn2: 序號須為6~9位數
         inputNumber: 數量為必填
