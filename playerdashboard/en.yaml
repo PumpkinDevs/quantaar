@@ -1,573 +1,571 @@
 buttons:
-    hsLoginOut: LOG OUT
-    hsfullscreen: Fullscreen
-    hsexitfullscreen: Exit Fullscreen
-    hsrefreshRoute: REFRESH
-    hslogin: LOG IN
-    hsadd: ADD
-    hsmark: MARK/CANCEL
-    hssave: SAVE
-    hssearch: SEARCH
-    hsexpendAll: Expand All
-    hscollapseAll: Collapse All
-    hssystemSet: Open Project Config
-    hsdelete: DELETE
-    hsreload: RELOAD
-    hscloseCurrentTab: Close Current Tab
-    hscloseLeftTabs: Close Left Tabs
-    hscloseRightTabs: Close Right Tabs
-    hscloseOtherTabs: Close Other Tabs
-    hscloseAllTabs: Close All Tabs
-    hswholeFullScreen: FullScreen
-    hswholeExitFullScreen: Exit Fullscreen
-    hscontentFullScreen: Content FullScreen
-    hscontentExitFullScreen: Exit Content Fullscreen
-    hsSure: SUBMIT
-    hsCancel: CANCEL
-    hsSearch: SEARCH
-    hsReset: RESET
-    hsBackToList: Back To List
+  hsLoginOut: LOG OUT
+  hsfullscreen: Fullscreen
+  hsexitfullscreen: Exit Fullscreen
+  hsrefreshRoute: REFRESH
+  hslogin: LOG IN
+  hsadd: ADD
+  hsmark: MARK/CANCEL
+  hssave: SAVE
+  hssearch: SEARCH
+  hsexpendAll: Expand All
+  hscollapseAll: Collapse All
+  hssystemSet: Open Project Config
+  hsdelete: DELETE
+  hsreload: RELOAD
+  hscloseCurrentTab: Close Current Tab
+  hscloseLeftTabs: Close Left Tabs
+  hscloseRightTabs: Close Right Tabs
+  hscloseOtherTabs: Close Other Tabs
+  hscloseAllTabs: Close All Tabs
+  hswholeFullScreen: FullScreen
+  hswholeExitFullScreen: Exit Fullscreen
+  hscontentFullScreen: Content FullScreen
+  hscontentExitFullScreen: Exit Content Fullscreen
+  hsSure: SUBMIT
+  hsCancel: CANCEL
+  hsSearch: SEARCH
+  hsReset: RESET
+  hsBackToList: Back To List
 menus:
-    hshome: HOME
-    hslogin: LOG IN
-    hsempty: Empty Page
-    hsSysManagement: System Manage
-    hsUser: User Manage
-    hsRole: Role Manage
-    hsDept: Dept Manage
-    hseditor: Editor
-    hsabnormal: Abnormal Page
-    hsfourZeroFour: "404"
-    hsfourZeroOne: "403"
-    hsFive: "500"
-    hscomponents: Components
-    hsmessage: Message Tips Components
-    hsvideo: Video Components
-    hsmap: Map Components
-    hsdraggable: Draggable Components
-    hssplitPane: Split Pane
-    hsbutton: Button Components
-    hscropping: Picture Cropping
-    hscountTo: Digital Animation
-    hsselector: Selector Components
-    hsflowChart: Flow Chart
-    hsseamless: Seamless Scroll
-    hscontextmenu: Context Menu
-    hstypeit: Typeit Components
-    hsjsoneditor: JSON Editor
-    hsmenus: MultiLevel Menu
-    hsmenu1: Menu1
-    hsmenu1-1: Menu1-1
-    hsmenu1-2: Menu1-2
-    hsmenu1-2-1: Menu1-2-1
-    hsmenu1-2-2: Menu1-2-2
-    hsmenu1-3: Menu1-3
-    hsmenu2: Menu2
-    permission: Permission Manage
-    permissionPage: Page Permission
-    permissionButton: Button Permission
-    hstabs: Tabs Operate
-    hsguide: Guide
-    hsAble: Able
-    hsMenuTree: Menu Tree
-    hsWatermark: Water Mark
-    hsPrint: Print
-    hsDownload: Download
-    hsExternalPage: External Page
-    hsPureDocument: Pure Doc(Embedded)
-    externalLink: Pure Doc(External)
-    hsEpDocument: Element Plus Doc(Embedded)
-    hsVueDocument: Vue3 Doc(Embedded)
-    hsViteDocument: Vite Doc(Embedded)
-    hsPiniaDocument: Pinia Doc(Embedded)
-    hsRouterDocument: Vue Router Doc(Embedded)
-    hsTailwindcssDocument: Tailwindcss Doc(Embedded)
-    hsAbout: About
-    hsResult: Result Page
-    hsSuccess: Success Page
-    hsFail: Fail Page
-    hsIconSelect: Icon Select
-    hsTimeline: Time Line
-    hsLineTree: LineTree
-    hsList: List Page
-    hsListCard: Card List Page
-    hsDebounce: Debounce & Throttle
-    hsFormDesign: Form Design
-    hsBarcode: Barcode
-    hsQrcode: Qrcode
-    hsCascader: Area Cascader
-    hsSwiper: Swiper Plugin
-    hsVirtualList: Virtual List
-    hsPdf: PDF Preview
-    hsExecl: Export Excel
-    hsInfiniteScroll: Table Infinite Scroll
-    hsdanmaku: Danmaku Components
-    hsPureTableBase: Base Usage
-    hsPureTableHigh: High Usage
-    hsTree: Big Data Tree
-    hsMenuoverflow: Menu Overflow Show Tooltip Text
-    hsChildMenuoverflow: Child Menu Overflow Show Tooltip Text,
-    hsPlayerList: Player List
-    hsPlayer: Player Info
-    hsPlayerInfo: Info
-    hsPlayerFriends: Friends
-    hsPlayerFightRecord: Battle Record
-    hsPlayerHeroRecord: Hero Record
-    hsPlayerWalletRecord: Wallet Use Record
-    hsPlayerDailyTask: Daily Task
-    hsPlayerMail: Mail
-    hsPlayerHoldTools: Hold Items
-    hsPlayerExchangeCoupon: Exchange Gift Code
-    hsUserManagement: User Manage
-    hsReportManagement: Report Manage
-    hsReportFightRecord: Battle Report
-    hsReportHero: Hero Report
-    hsReportMap: Map Report
-    hsMailList: Mail List
-    hsToolManagement: Tool Manage
-    hsToolAll: All Tools
-    hsTooEquipmentlList: Equipment List
-    hsToolEquipmentDetail: Equipment Detail
-    hsToolGiftList: Gift List
-    hsToolGiftDetail: Gift Detail
-    hsHeroManagement: Hero Manage
-    hsHeroList: Hero List
-    hsHeroDetail: Hero Detail
-    hsActivityManagement: Activity Manage
-    hsActivityCouponList: Gift Code List
-    hsActivityCouponDetail: Gift Code Detail
-    hsGameManagement: Game Manage
-    hsGameMapList: Map List
-    hsGameMallList: Mall List
-    hsGameServerList: Server List
-    hsGameQualifyingList: Qualifying List
-    hsGameQualifyingDetail: Qualifying Detail
-    hsGameSkuList: Sku List
-    hsGameSeasonList: Season List
+  hshome: HOME
+  hslogin: LOG IN
+  hsempty: Empty Page
+  hsSysManagement: System Manage
+  hsUser: User Manage
+  hsRole: Role Manage
+  hsDept: Dept Manage
+  hseditor: Editor
+  hsabnormal: Abnormal Page
+  hsfourZeroFour: "404"
+  hsfourZeroOne: "403"
+  hsFive: "500"
+  hscomponents: Components
+  hsmessage: Message Tips Components
+  hsvideo: Video Components
+  hsmap: Map Components
+  hsdraggable: Draggable Components
+  hssplitPane: Split Pane
+  hsbutton: Button Components
+  hscropping: Picture Cropping
+  hscountTo: Digital Animation
+  hsselector: Selector Components
+  hsflowChart: Flow Chart
+  hsseamless: Seamless Scroll
+  hscontextmenu: Context Menu
+  hstypeit: Typeit Components
+  hsjsoneditor: JSON Editor
+  hsmenus: MultiLevel Menu
+  hsmenu1: Menu1
+  hsmenu1-1: Menu1-1
+  hsmenu1-2: Menu1-2
+  hsmenu1-2-1: Menu1-2-1
+  hsmenu1-2-2: Menu1-2-2
+  hsmenu1-3: Menu1-3
+  hsmenu2: Menu2
+  permission: Permission Manage
+  permissionPage: Page Permission
+  permissionButton: Button Permission
+  hstabs: Tabs Operate
+  hsguide: Guide
+  hsAble: Able
+  hsMenuTree: Menu Tree
+  hsWatermark: Water Mark
+  hsPrint: Print
+  hsDownload: Download
+  hsExternalPage: External Page
+  hsPureDocument: Pure Doc(Embedded)
+  externalLink: Pure Doc(External)
+  hsEpDocument: Element Plus Doc(Embedded)
+  hsVueDocument: Vue3 Doc(Embedded)
+  hsViteDocument: Vite Doc(Embedded)
+  hsPiniaDocument: Pinia Doc(Embedded)
+  hsRouterDocument: Vue Router Doc(Embedded)
+  hsTailwindcssDocument: Tailwindcss Doc(Embedded)
+  hsAbout: About
+  hsResult: Result Page
+  hsSuccess: Success Page
+  hsFail: Fail Page
+  hsIconSelect: Icon Select
+  hsTimeline: Time Line
+  hsLineTree: LineTree
+  hsList: List Page
+  hsListCard: Card List Page
+  hsDebounce: Debounce & Throttle
+  hsFormDesign: Form Design
+  hsBarcode: Barcode
+  hsQrcode: Qrcode
+  hsCascader: Area Cascader
+  hsSwiper: Swiper Plugin
+  hsVirtualList: Virtual List
+  hsPdf: PDF Preview
+  hsExecl: Export Excel
+  hsInfiniteScroll: Table Infinite Scroll
+  hsdanmaku: Danmaku Components
+  hsPureTableBase: Base Usage
+  hsPureTableHigh: High Usage
+  hsTree: Big Data Tree
+  hsMenuoverflow: Menu Overflow Show Tooltip Text
+  hsChildMenuoverflow: Child Menu Overflow Show Tooltip Text
+  hsPlayerList: Player List
+  hsPlayer: Player Info
+  hsPlayerInfo: Info
+  hsPlayerFriends: Friends
+  hsPlayerFightRecord: Battle Record
+  hsPlayerHeroRecord: Hero Record
+  hsPlayerWalletRecord: Wallet Use Record
+  hsPlayerDailyTask: Daily Task
+  hsPlayerMail: Mail
+  hsPlayerHoldTools: Hold Items
+  hsPlayerExchangeCoupon: Exchange Gift Code
+  hsUserManagement: User Manage
+  hsReportManagement: Report Manage
+  hsReportFightRecord: Battle Report
+  hsReportHero: Hero Report
+  hsReportMap: Map Report
+  hsMailList: Mail List
+  hsToolManagement: Item Manage
+  hsToolAll: All Items
+  hsTooEquipmentlList: Equipment List
+  hsToolEquipmentDetail: Equipment Detail
+  hsToolGiftList: Gift List
+  hsToolGiftDetail: Gift Detail
+  hsHeroManagement: Hero Manage
+  hsHeroList: Hero List
+  hsHeroDetail: Hero Detail
+  hsActivityManagement: Activity Manage
+  hsActivityCouponList: Gift Code List
+  hsActivityCouponDetail: Gift Code Detail
+  hsGameManagement: Game Manage
+  hsGameMapList: Map List
+  hsGameMallList: Mall List
+  hsGameServerList: Server List
+  hsGameQualifyingList: Qualifying List
+  hsGameQualifyingDetail: Qualifying Detail
+  hsGameSkuList: Sku List
+  hsGameSeasonList: Season List
 status:
-    hsLoad: Loading...
+  hsLoad: Loading...
 login:
-    username: Account
-    password: Password
-    verifyCode: VerifyCode
-    remember: Remember Password
-    sure: Sure Password
-    forget: Forget Password?
-    login: Login
-    thirdLogin: Third Login
-    phoneLogin: Phone Login
-    qRCodeLogin: QRCode Login
-    register: Register
-    weChatLogin: WeChat Login
-    alipayLogin: Alipay Login
-    qqLogin: QQ Login
-    weiboLogin: Weibo Login
-    phone: Phone
-    smsVerifyCode: SMS VerifyCode
-    back: Back
-    test: Mock Test
-    tip: After scanning the code, click "Confirm" to complete the login
-    definite: Definite
-    loginSuccess: Login Success
-    registerSuccess: Regist Success
-    tickPrivacy: Please tick Privacy Policy
-    readAccept: I have read it carefully and accept
-    privacyPolicy: Privacy Policy
-    getVerifyCode: Get VerifyCode
-    info: Seconds
-    usernameReg: Please enter username
-    passwordReg: Please enter password
-    verifyCodeReg: Please enter verify code
-    verifyCodeCorrectReg: Please enter correct verify code
-    verifyCodeSixReg: Please enter a 6-digit verify code
-    phoneReg: Please enter the phone
-    phoneCorrectReg: Please enter the correct phone number format
-    passwordRuleReg: The password format should be any 2 combinations of 4-18 characters
-        consisting of numbers, letters, and symbols.
-    passwordSureReg: Please enter confirm password
-    passwordDifferentReg: The two passwords do not match!
-    passwordUpdateReg: Password has been updated
-    signInDescription: SIGN IN TO YOUR QUANTAAR ACCOUNT
+  username: Account
+  password: Password
+  verifyCode: VerifyCode
+  remember: Remember Password
+  sure: Sure Password
+  forget: Forget Password?
+  login: Login
+  thirdLogin: Third Login
+  phoneLogin: Phone Login
+  qRCodeLogin: QRCode Login
+  register: Register
+  weChatLogin: WeChat Login
+  alipayLogin: Alipay Login
+  qqLogin: QQ Login
+  weiboLogin: Weibo Login
+  phone: Phone
+  smsVerifyCode: SMS VerifyCode
+  back: Back
+  test: Mock Test
+  tip: After scanning the code, click "Confirm" to complete the login
+  definite: Definite
+  loginSuccess: Login Success
+  registerSuccess: Regist Success
+  tickPrivacy: Please tick Privacy Policy
+  readAccept: I have read it carefully and accept
+  privacyPolicy: Privacy Policy
+  getVerifyCode: Get VerifyCode
+  info: Seconds
+  usernameReg: Please enter username
+  passwordReg: Please enter password
+  verifyCodeReg: Please enter verify code
+  verifyCodeCorrectReg: Please enter correct verify code
+  verifyCodeSixReg: Please enter a 6-digit verify code
+  phoneReg: Please enter the phone
+  phoneCorrectReg: Please enter the correct phone number format
+  passwordRuleReg: The password format should be any 2 combinations of 4-18 characters
+    consisting of numbers, letters, and symbols.
+  passwordSureReg: Please enter confirm password
+  passwordDifferentReg: The two passwords do not match!
+  passwordUpdateReg: Password has been updated
+  signInDescription: SIGN IN TO YOUR QUANTAAR ACCOUNT
 countries:
-    tw: Taiwan
+  tw: Taiwan
 region:
-    asia: asia
-    us: us
-    eu: eu
-    ec2: ec2
-    local: local
-    sideEu: side eu
-    sideAsia: side asia
+  asia: asia
+  us: us
+  eu: eu
+  ec2: ec2
+  local: local
+  sideEu: side eu
+  sideAsia: side asia
 # 常用回應文字
 responseMessages:
-    exchangeSuccess: Exchange Success
-    exchangeFail: Exchange Fail
-    createSuccess: Created Success
-    createFail: Created Fail
-    updateSuccess: Update Success
-    updateFail: Update Fail
-    validationFail: Validated Fail
-    copySuccess: Copy Success
-    copyFail: Copy Fail
-    getDataFail: Get Data Fail
-    refundSuccess: Refund Success
-    refundFail: Refund Fail
-    deletSuccess: Delete Success
-    deleteFail: Delete Fail
-    tokenExpired: The login session expired. please need login again.
+  exchangeSuccess: Exchange Success
+  exchangeFail: Exchange Fail
+  createSuccess: Created Success
+  createFail: Created Fail
+  updateSuccess: Update Success
+  updateFail: Update Fail
+  validationFail: Validated Fail
+  copySuccess: Copy Success
+  copyFail: Copy Fail
+  getDataFail: Get Data Fail
+  refundSuccess: Refund Success
+  refundFail: Refund Fail
+  deletSuccess: Delete Success
+  deleteFail: Delete Fail
+  tokenExpired: The login session expired. please need login again.
 
 # 常用顯示文字
 displayText:
-    startDate: Start Date
-    startTime: Start Time
-    endDate: End Date
-    endTime: End Time
-    dueDate: Due Date
-    region: Region
-    role: Role
-    notSetDueDate: Not set due date
-    emptyData: Empty Data
-    view: View
-    copy: Copy
-    fightType: Battle type
-    orderPrice: Order price
-    currency: Currency,
-    online: Online
-    offline: Offline
-    day: Day
-    operational: Operational
-    hero: Hero
-    createdAt: Created At
-    modifiedAt: Modified At
-    delete: Delete
-    confirmDelete: Confirm Delete
-    pleaseEnter: Please enter
-    success: Success
-    fail: Fail
-    discount: Discount
-    gift: Gift
-    minutes: Minutes
-    walletBalance: Wallet Balance
-    profile: Profile
-    friends: Friends
-    version: Version
+  startDate: Start Date
+  startTime: Start Time
+  endDate: End Date
+  endTime: End Time
+  dueDate: Due Date
+  region: Region
+  role: Role
+  notSetDueDate: Not set due date
+  emptyData: Empty Data
+  view: View
+  copy: Copy
+  fightType: Battle type
+  orderPrice: Order price
+  currency: Currency,
+  online: Online
+  offline: Offline
+  day: Day
+  operational: Operational
+  hero: Hero
+  createdAt: Created At
+  modifiedAt: Modified At
+  delete: Delete
+  confirmDelete: Confirm Delete
+  pleaseEnter: Please enter
+  success: Success
+  fail: Fail
+  discount: Discount
+  gift: Gift
+  minutes: Minutes
+  walletBalance: Wallet Balance
+  profile: Profile
+  friends: Friends
+  version: Version
 
 # fight types
 fightTypes:
-    brawl: Brawl
-    2v2: Two Versus Two
-    soccer: Soccer
+  brawl: Brawl
+  2v2: Two Versus Two
+  soccer: Soccer
 
 # 幣別類型
 currency:
-    coin0: Galaxy Gems
-    coin1: Star Coins
+  coin0: Galaxy Gems
+  coin1: Star Coins
 
 # 道具對應 mark 翻譯
 toolMark:
-    helmet: Helmet
-    hero: Hero
-    core: Core
-    toy: Toy
-    lootbox: Lootbox
-    system: System
-    emoji: Emoji
-    particle: Particle
-    skinHero: Skin Hero
-    token: Token
-    observers: Observers
-    heroes: Heros
-    cores: Cores
+  helmet: Helmet
+  hero: Hero
+  core: Core
+  toy: Toy
+  lootbox: Chest
+  system: System
+  emoji: Emoji
+  particle: Particle
+  skinHero: Hero Skin
+  token: Token
+  observers: Observers
+  heroes: Heros
+  cores: Cores
 
 # 道具對應稀有度
 qualityTypes:
-    none: None
-    common: Common
-    rare: Rare
-    epic: Epic
-    legendary: Legendary
-    ancient: Ancient
+  none: None
+  common: Common
+  rare: Rare
+  epic: Epic
+  legendary: Legendary
+  ancient: Ancient
 
 # 觀察者分類選項項
 helmetTypes:
-    head: Head
-    skin: Skin
-    none: None
-    hands: Hands
-    eyesAndears: Eyes & Ears
-    accessories: Accessories
+  head: Head
+  skin: Skin
+  none: None
+  hands: Hands
+  eyesAndears: Eyes & Ears
+  accessories: Accessories
 
 # 核心分類選項
 coreTypes:
-    big: Big
-    small: Small
-    none: None
+  big: Big
+  small: Small
+  none: None
 
 # 英雄類別選項
 heroTypes:
-    none: None
-    fighter: Figher
-    assassin: Assassin
-    generalist: Generalist
-    shooter: Shooter
+  none: None
+  fighter: Figher
+  assassin: Assassin
+  generalist: Generalist
+  shooter: Shooter
 
 # 寶箱類型
 lootboxTypes:
-    none: None
-    normal: Normal
+  none: None
+  normal: Normal
 
 # 帳號管理
 accountControl:
     # 新增玩家 url: /user/player-list/index
-    createPlayer:
+  createPlayer:
         # 表單資料
-        formTitle: Create Player
-        fullName: Full Name
-        countryCode: Country Code
-        awsRegion: Country Region
-        platformId: Platform ID
-        platformType:
-            Platform Type
+    formTitle: Create Player
+    fullName: Full Name
+    countryCode: Country Code
+    awsRegion: Country Region
+    platformId: Platform ID
+    platformType: Platform Type
             # 輸入框提示文字
-        placeholder:
-            inputFullName: Please enter your full name.
-            inputCountryCode: Please choose your country code.
-            inputAwsRegion: Please choose your country region.
-            inputPlatformId: Please enter your platform ID.
-            inputPlatformType: Please choose your platform type.
+    placeholder:
+      inputFullName: Please enter your full name.
+      inputCountryCode: Please choose your country code.
+      inputAwsRegion: Please choose your country region.
+      inputPlatformId: Please enter your platform ID.
+      inputPlatformType: Please choose your platform type.
 
             # 表單
-            form:
-                fullNameError: Input name have naughty words.
+      form:
+        fullNameError: Input name have naughty words.
 
     # 玩家資料詳情頁 url: /user/player/{id}
-    playerDetail:
+  playerDetail:
         # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
-        info:
-            fullName: Full Name
-            username: Name
-            emptyUsername: Empty Name
-            status: Status
-            countryCode: Country Code
-            platformType: Platform Type
-            platformId: platform ID
-            phone: Phone
-            modifiedAt: Modified Date
-            createdAt: Created Date
+    info:
+      fullName: Full Name
+      username: Name
+      emptyUsername: Empty Name
+      status: Status
+      countryCode: Country Code
+      platformType: Platform Type
+      platformId: platform ID
+      phone: Phone
+      modifiedAt: Modified Date
+      createdAt: Created Date
 
         # 手持道具 url: /game/user/hold-tools
-        holdTool:
-            title: Player Hold Tool
-            name: Name
-            toolId: Tool ID
-            createdAt: Created At
-            modifiedAt: Modified At
+    holdTool:
+      title: Player Hold Items
+      name: Name
+      toolId: Item ID
+      createdAt: Created At
+      modifiedAt: Modified At
 
         # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
-        MallOrderRecord:
-            title: Mall Order Record
-            createOrder: Create Order
-            refund: Refund
-            productName: Product Name
-            couponId: Gift Code ID
-            refundId: Refund ID
-            currency: Currency
-            price: Price
-            status: Status
-            createdAt: Created At
-            modifiedAt: Modified At
-            operational: Operational
+    MallOrderRecord:
+      title: Mall Order Record
+      createOrder: Create Order
+      refund: Refund
+      productName: Product Name
+      couponId: Gift Code ID
+      refundId: Refund ID
+      currency: Currency
+      price: Price
+      status: Status
+      createdAt: Created At
+      modifiedAt: Modified At
+      operational: Operational
 
             # 退款表單
-            refundForm:
-                formTitle: Mall Order Refund
-                isTakeBack: Is take back or give
-                give: Give
-                back: Back
-                refundPoint: Refund Point
-                placeholder:
-                    inputCoin: Please enter refund point.
-                    inputRetainTool: Please confirm product need take back?
+      refundForm:
+        formTitle: Mall Order Refund
+        isTakeBack: Is take back or give
+        give: Give
+        back: Back
+        refundPoint: Refund Point
+        placeholder:
+          inputCoin: Please enter refund point.
+          inputRetainTool: Please confirm product need take back?
 
         # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
-        resetPassword:
-            resetPlayer: ResetPlayer
-            password: Password
-            resetPassword: Reset password
-            resetPasswordFail: Reset password fail.
+    resetPassword:
+      resetPlayer: ResetPlayer
+      password: Password
+      resetPassword: Reset password
+      resetPasswordFail: Reset password fail.
 
         # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
-        updateWallet:
-            fullName: Full Name
-            coin0Last: Galaxy Gems Balance
-            coin1Last: Star Coins Balance
-            createdAt: Created At
-            modifiedAt: Modified At
-            walletInOrOut: Deposit or Withdraw
-            deposit: Deposit
-            withdraw: Withdraw
+    updateWallet:
+      fullName: Full Name
+      coin0Last: Galaxy Gems Balance
+      coin1Last: Star Coins Balance
+      createdAt: Created At
+      modifiedAt: Modified At
+      walletInOrOut: Deposit or Withdraw
+      deposit: Deposit
+      withdraw: Withdraw
 
             # 表單內容
-            coin0: Galaxy Gems
-            coin1: Star Coins
-            reason: Note
-            placeholder:
-                inputReason: Please enter remark.
-                inputPoint: Please enter point.
+      coin0: Galaxy Gems
+      coin1: Star Coins
+      reason: Note
+      placeholder:
+        inputReason: Please enter remark.
+        inputPoint: Please enter point.
 
             # 紀錄
-            record:
-                title: Wallet Record
-                orderId: Order ID
-                reason: Note
-                point: Point
-                operational: Operational
-                status: Status
-                createdAt: Created At
-                modifiedAt: Modified At
+      record:
+        title: Wallet Record
+        orderId: Order ID
+        reason: Note
+        point: Point
+        operational: Operational
+        status: Status
+        createdAt: Created At
+        modifiedAt: Modified At
 
             # 搜尋
-            search:
-                status: Status
-                operational: Operational
-                createdAt: Created At
-                placeholder:
-                    inputStatus: Please choose status.
-                    inputOperational: Please choose operational
-                options:
-                    init: Init
-                    pending: Pending
-                    success: Success
-                    fail: Fail
+      search:
+        status: Status
+        operational: Operational
+        createdAt: Created At
+        placeholder:
+          inputStatus: Please choose status.
+          inputOperational: Please choose operational
+        options:
+          init: Init
+          pending: Pending
+          success: Success
+          fail: Fail
 
         # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /game/user/fight-record
-        historyRecord:
-            title: Battle History Record
-            fightPlayer: Battle Player
-            fightId: Battle ID
-            matchMode: Match Mode
-            battleMode: Battle Mode
-            type: Type
-            winner: Winner
-            winScore: WinScore
-            totalDamage: Total Damage
-            totalDead: Total Dead
-            totalKill: Total Kill
-            kd: KD Ratio
-            roundNumber: Round Number
-            roundTime: Round Time(minute)
-            startTime: Start Time
-            endTime: End Time
-            childColumn:
-                name: Name
-                damage: Damage
-                deadCount: Dead Count
-                team: Team
+    historyRecord:
+      title: Battle History Record
+      fightPlayer: Battle Player
+      fightId: Battle ID
+      matchMode: Match Mode
+      battleMode: Battle Mode
+      type: Type
+      winner: Winner
+      winScore: WinScore
+      totalDamage: Total Damage
+      totalDead: Total Dead
+      totalKill: Total Kill
+      kd: KD Ratio
+      roundNumber: Round Number
+      roundTime: Round Time(minute)
+      startTime: Start Time
+      endTime: End Time
+      childColumn:
+        name: Name
+        damage: Damage
+        deadCount: Dead Count
+        team: Team
 
         # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
-        fightTypeRecord:
-            title: Battle Type Record
-            fightType: Type
-            roundCount: Round Count
-            win: Win
-            lose: Lose
-            douce: Draw
-            dead: Dead
-            kill: Kill
-            kd: KD Ratio
+    fightTypeRecord:
+      title: Battle Type Record
+      fightType: Type
+      roundCount: Round Count
+      win: Win
+      lose: Lose
+      douce: Draw
+      dead: Dead
+      kill: Kill
+      kd: KD Ratio
 
         # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
-        heroHistoryRecord:
-            title: Hero Battle Record
-            winCount: Win Count
-            duceCount: Draw Count
-            loseCount: Lose Count
-            deadCount: Dead Count
-            killCount: Kill Count
+    heroHistoryRecord:
+      title: Hero Battle Record
+      winCount: Win Count
+      duceCount: Draw Count
+      loseCount: Lose Count
+      deadCount: Dead Count
+      killCount: Kill Count
 
         # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
-        iapOrderRecord:
-            title: Iap Order Record
-            skuId: Sku ID
-            toolId: Tool ID
-            currency: Currency
-            currencyQuantity: Currency Quantity
-            status: Status
-            comment: Comment
-            createdAt: Created At
-            modifiedAt: Modified At
+    iapOrderRecord:
+      title: Iap Order Record
+      skuId: Sku ID
+      toolId: ltem ID
+      currency: Currency
+      currencyQuantity: Currency Quantity
+      status: Status
+      comment: Comment
+      createdAt: Created At
+      modifiedAt: Modified At
 
         # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
-        friends:
-            title: Player Friends
-            playerName: Player Name
-            level: Level
-            onlineStatus: Online Status
+    friends:
+      title: Player Friends
+      playerName: Player Name
+      level: Level
+      onlineStatus: Online Status
 
         # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
-        dailyTask:
-            title: Daily Task
-            confirmFinish: Confirm finish
-            finishOnce: Finish once
-            once: Once
-            name: Name
-            totalNumber: Need Finish Times
-            doneCount: Finish Times
+    dailyTask:
+      title: Daily Task
+      confirmFinish: Confirm finish
+      finishOnce: Finish once
+      once: Once
+      name: Name
+      totalNumber: Need Finish Times
+      doneCount: Finish Times
 
         # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
-        seasonDailyTask:
-            title: Daily Season Task
-            createSeasonProcess: Create Season Process
-            heroItemId: Hero itemId
-            name: Name
-            totalNumber: Need Finish Times
-            doneCount: Finish Times
-            notHaveSeasonTask: Not have season runing
-            form:
-                formTitle: Create Daily Season Season
-                doneNumber: Process
-                placeholder:
-                    inputDoneNumber: Please enter process.
+    seasonDailyTask:
+      title: Daily Season Task
+      createSeasonProcess: Create Season Process
+      heroItemId: Hero itemId
+      name: Name
+      totalNumber: Need Finish Times
+      doneCount: Finish Times
+      notHaveSeasonTask: Not have season runing
+      form:
+        formTitle: Create Daily Season Season
+        doneNumber: Process
+        placeholder:
+          inputDoneNumber: Please enter process.
 
         # 信件 url: /game/user/mail
-        mail:
-            tableTitle: Mail List
-            title: Title
-            origin: Type
-            isStar: Is Important
-            content: Content
-            imageLink: Image Link
-            giftId: Gift ID
-            dueDate: Due Date
-            readDate: Read Date
-            deleteDate: Delete Date
-            getGiftDate: Get Gift Date
+    mail:
+      tableTitle: Mail List
+      title: Title
+      origin: Type
+      isStar: Is Important
+      content: Content
+      imageLink: Image Link
+      giftId: Gift ID
+      dueDate: Due Date
+      readDate: Read Date
+      deleteDate: Delete Date
+      getGiftDate: Get Gift Date
 
         # 兌換優惠券 url: /game/user/exchange-coupon
-        exchangeCoupon:
-            title: QUANTAAR GIFT CODE
+    exchangeCoupon:
+      title: QUANTAAR GIFT CODE
             # 表單
-            form:
-                uuid: Player UID
-                coupon: Gift Code
-                placeholder:
-                    inputUuid: Player UID? Enter Player UID
-                    inputCoupon: Your Gift Code? Enter Gift Code
+      form:
+        uuid: Player UID
+        coupon: Gift Code
+        placeholder:
+          inputUuid: Player UID? Enter Player UID
+          inputCoupon: Your Gift Code? Enter Gift Code
 
 # 道具管理
 toolControl:
-    onlineTool:
-        title: All Tools
-        img: Image
-        name: Name
-        quality: Quality
-        category: Category
-        mark: Mark
-        holdMax: Hold Max
-        coin1:
-            Price
+  onlineTool:
+    title: All Items
+    img: Image
+    name: Name
+    quality: Quality
+    category: Category
+    mark: Mark
+    holdMax: Hold Max
+    coin1: Price
             # 搜尋
-        search:
-            type: Type
-            placeholder:
-                inputType: Please choose type
+    search:
+      type: Type
+      placeholder:
+        inputType: Please choose type
