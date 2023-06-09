@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zh_cn\n"
 "POT-Creation-Date: 2023-06-06 05:48\n"
-"PO-Revision-Date: 2023-06-07 07:47+0000\n"
+"PO-Revision-Date: 2023-06-09 01:44+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hans/>\n"
@@ -13597,7 +13597,7 @@ msgstr "6,000 银河晶钻"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001417]"
 msgid "Exclusive gold profile frame"
-msgstr "尊荣黄金ID边框"
+msgstr "尊荣黄金ID"
 
 #. Key:	[9001418]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
