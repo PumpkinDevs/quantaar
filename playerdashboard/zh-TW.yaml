@@ -317,29 +317,30 @@ lootboxTypes:
 
 # 帳號管理
 accountControl:
-    # 新增玩家 url: /user/player-list/index
+  # 新增玩家 url: /user/player-list/index
   createPlayer:
-        # 表單資料
+    # 表單資料
     formTitle: 新增玩家
     fullName: 玩家全名
     countryCode: 國家代碼
     awsRegion: 國家區域
     platformId: 裝置 ID
     platformType: 平台類型
-        # 輸入框提示文字
+    # 輸入框提示文字
     placeholder:
       inputFullName: 請輸入玩家全名
       inputCountryCode: 請選擇國家代碼
       inputAwsRegion: 請選擇國家區域
       inputPlatformId: 請輸入裝置 ID
       inputPlatformType: 請選擇裝置類型
-        # 表單
+    # 表單
     form:
       fullNameError: 輸入的名稱有不雅字眼
+      fullNameCanNotBeBlank: 名稱不可為空格
 
-    # 玩家資料詳情頁 url: /user/player/{id}
+  # 玩家資料詳情頁 url: /user/player/{id}
   playerDetail:
-        # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
     info:
       fullName: 玩家全名
       username: 玩家名稱
@@ -352,7 +353,7 @@ accountControl:
       modifiedAt: 修改日期
       createdAt: 創建日期
 
-        # 手持道具 url: /game/user/hold-tools
+    # 手持道具 url: /game/user/hold-tools
     holdTool:
       title: 玩家手持道具
       name: 名稱
@@ -360,7 +361,7 @@ accountControl:
       createdAt: 創建時間
       modifiedAt: 更新時間
 
-        # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
     MallOrderRecord:
       title: 商城購買紀錄
       createOrder: 新增商城訂單
@@ -375,7 +376,7 @@ accountControl:
       modifiedAt: 更新時間
       operational: 操作
 
-            # 退款表單
+      # 退款表單
       refundForm:
         formTitle: 商城訂單退款
         isTakeBack: 是否歸還商品
@@ -386,14 +387,14 @@ accountControl:
           inputCoin: 請輸入退款額度
           inputRetainTool: 請選擇是否要將商品取回
 
-        # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: 重置玩家
       password: 密碼
       resetPassword: 重置密碼
       resetPasswordFail: 重置密碼失敗
 
-        # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
     updateWallet:
       fullName: 玩家全名
       coin0Last: 銀河晶鑽剩餘額度
@@ -404,7 +405,7 @@ accountControl:
       deposit: 存入
       withdraw: 領出
 
-            # 表單內容
+      # 表單內容
       coin0: 銀河晶鑽
       coin1: 星辰幣
       reason: 備註
@@ -412,7 +413,7 @@ accountControl:
         inputReason: 請輸入備註
         inputPoint: 請輸入額度
 
-            # 紀錄
+      # 紀錄
       record:
         title: 錢包紀錄
         orderId: 訂單 ID
@@ -423,7 +424,7 @@ accountControl:
         createdAt: 創建時間
         modifiedAt: 更新時間
 
-                    # 搜尋
+      # 搜尋
       search:
         status: 狀態
         operational: 操作
@@ -437,7 +438,7 @@ accountControl:
           success: 成功
           fail: 失敗
 
-        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
     historyRecord:
       title: 對戰歷史紀錄
       fightPlayer: 對戰玩家
@@ -461,7 +462,7 @@ accountControl:
         deadCount: 死亡次數
         team: 隊伍
 
-        # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
     fightTypeRecord:
       title: 對戰類型紀錄
       fightType: 類型
@@ -473,7 +474,7 @@ accountControl:
       kill: 殺敵次數
       kd: KD比率
 
-        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
+    # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
     heroHistoryRecord:
       title: 英雄戰績記錄
       winCount: 勝利次數
@@ -482,7 +483,7 @@ accountControl:
       deadCount: 死亡次數
       killCount: 殺敵次數
 
-        # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
     iapOrderRecord:
       title: 禮包購買紀錄
       skuId: 禮包ID
@@ -494,14 +495,14 @@ accountControl:
       createdAt: 創建時間
       modifiedAt: 更新時間
 
-        # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
+    # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
     friends:
       title: 玩家好友
       playerName: 玩家名稱
       level: 等級
       onlineStatus: 在戲狀態
 
-        # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
+    # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
     dailyTask:
       title: 每日任務
       confirmFinish: 是否完成每日任務
@@ -511,7 +512,7 @@ accountControl:
       totalNumber: 需完成次數或數值
       doneCount: 完成次數或數值
 
-        # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
     seasonDailyTask:
       title: 每日賽季任務
       createSeasonProcess: 新增賽季進度
@@ -526,7 +527,7 @@ accountControl:
         placeholder:
           inputDoneNumber: 請輸入進度值
 
-        # 信件 url: /game/user/mail
+    # 信件 url: /game/user/mail
     mail:
       tableTitle: 信件列表
       title: 標題
@@ -540,10 +541,11 @@ accountControl:
       deleteDate: 刪除時間
       getGiftDate: 領取禮物時間
 
-        # 兌換優惠券 url: /game/user/exchange-coupon
+    # 兌換優惠券 url: /game/user/exchange-coupon
     exchangeCoupon:
-      title: 兌換禮物序號
-            # 表單
+      title:
+        兌換禮物序號
+        # 表單
       form:
         uuid: 玩家 UID
         coupon: 禮物序號
@@ -562,7 +564,7 @@ toolControl:
     mark: 類型
     holdMax: 最大持有數
     coin1: 價格
-        # 搜尋
+    # 搜尋
     search:
       type: 類型
       placeholder:

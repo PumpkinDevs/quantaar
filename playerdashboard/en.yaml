@@ -153,7 +153,7 @@ login:
   remember: Remember Password
   sure: Sure Password
   forget: Forget Password?
-  login: Login
+  login: LOG IN
   thirdLogin: Third Login
   phoneLogin: Phone Login
   qRCodeLogin: QRCode Login
@@ -182,7 +182,8 @@ login:
   verifyCodeSixReg: Please enter a 6-digit verify code
   phoneReg: Please enter the phone
   phoneCorrectReg: Please enter the correct phone number format
-  passwordRuleReg: The password format should be any 2 combinations of 4-18 characters
+  passwordRuleReg:
+    The password format should be any 2 combinations of 4-18 characters
     consisting of numbers, letters, and symbols.
   passwordSureReg: Please enter confirm password
   passwordDifferentReg: The two passwords do not match!
@@ -318,16 +319,16 @@ lootboxTypes:
 
 # 帳號管理
 accountControl:
-    # 新增玩家 url: /user/player-list/index
+  # 新增玩家 url: /user/player-list/index
   createPlayer:
-        # 表單資料
+    # 表單資料
     formTitle: Create Player
     fullName: Full Name
     countryCode: Country Code
     awsRegion: Country Region
     platformId: Platform ID
     platformType: Platform Type
-            # 輸入框提示文字
+    # 輸入框提示文字
     placeholder:
       inputFullName: Please enter your full name.
       inputCountryCode: Please choose your country code.
@@ -335,13 +336,14 @@ accountControl:
       inputPlatformId: Please enter your platform ID.
       inputPlatformType: Please choose your platform type.
 
-            # 表單
-      form:
-        fullNameError: Input name have naughty words.
+    # 表單
+    form:
+      fullNameError: Input name have naughty words.
+      fullNameCanNotBeBlank: Name cannot be blank.
 
-    # 玩家資料詳情頁 url: /user/player/{id}
+  # 玩家資料詳情頁 url: /user/player/{id}
   playerDetail:
-        # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
     info:
       fullName: Full Name
       username: Name
@@ -354,7 +356,7 @@ accountControl:
       modifiedAt: Modified Date
       createdAt: Created Date
 
-        # 手持道具 url: /game/user/hold-tools
+    # 手持道具 url: /game/user/hold-tools
     holdTool:
       title: Player Hold Items
       name: Name
@@ -362,7 +364,7 @@ accountControl:
       createdAt: Created At
       modifiedAt: Modified At
 
-        # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
     MallOrderRecord:
       title: Mall Order Record
       createOrder: Create Order
@@ -377,7 +379,7 @@ accountControl:
       modifiedAt: Modified At
       operational: Operational
 
-            # 退款表單
+      # 退款表單
       refundForm:
         formTitle: Mall Order Refund
         isTakeBack: Is take back or give
@@ -388,14 +390,14 @@ accountControl:
           inputCoin: Please enter refund point.
           inputRetainTool: Please confirm product need take back?
 
-        # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: ResetPlayer
       password: Password
       resetPassword: Reset password
       resetPasswordFail: Reset password fail.
 
-        # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
     updateWallet:
       fullName: Full Name
       coin0Last: Galaxy Gems Balance
@@ -406,7 +408,7 @@ accountControl:
       deposit: Deposit
       withdraw: Withdraw
 
-            # 表單內容
+      # 表單內容
       coin0: Galaxy Gems
       coin1: Star Coins
       reason: Note
@@ -414,7 +416,7 @@ accountControl:
         inputReason: Please enter remark.
         inputPoint: Please enter point.
 
-            # 紀錄
+      # 紀錄
       record:
         title: Wallet Record
         orderId: Order ID
@@ -425,7 +427,7 @@ accountControl:
         createdAt: Created At
         modifiedAt: Modified At
 
-            # 搜尋
+      # 搜尋
       search:
         status: Status
         operational: Operational
@@ -439,7 +441,7 @@ accountControl:
           success: Success
           fail: Fail
 
-        # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /game/user/fight-record
+    # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /game/user/fight-record
     historyRecord:
       title: Battle History Record
       fightPlayer: Battle Player
@@ -463,7 +465,7 @@ accountControl:
         deadCount: Dead Count
         team: Team
 
-        # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
     fightTypeRecord:
       title: Battle Type Record
       fightType: Type
@@ -475,7 +477,7 @@ accountControl:
       kill: Kill
       kd: KD Ratio
 
-        # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
+    # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
     heroHistoryRecord:
       title: Hero Battle Record
       winCount: Win Count
@@ -484,7 +486,7 @@ accountControl:
       deadCount: Dead Count
       killCount: Kill Count
 
-        # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
     iapOrderRecord:
       title: Iap Order Record
       skuId: Sku ID
@@ -496,14 +498,14 @@ accountControl:
       createdAt: Created At
       modifiedAt: Modified At
 
-        # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
+    # 玩家資料詳情頁 -> 玩家好友 url: /game/user/friends
     friends:
       title: Player Friends
       playerName: Player Name
       level: Level
       onlineStatus: Online Status
 
-        # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
+    # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
     dailyTask:
       title: Daily Task
       confirmFinish: Confirm finish
@@ -513,7 +515,7 @@ accountControl:
       totalNumber: Need Finish Times
       doneCount: Finish Times
 
-        # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
     seasonDailyTask:
       title: Daily Season Task
       createSeasonProcess: Create Season Process
@@ -528,7 +530,7 @@ accountControl:
         placeholder:
           inputDoneNumber: Please enter process.
 
-        # 信件 url: /game/user/mail
+    # 信件 url: /game/user/mail
     mail:
       tableTitle: Mail List
       title: Title
@@ -542,10 +544,11 @@ accountControl:
       deleteDate: Delete Date
       getGiftDate: Get Gift Date
 
-        # 兌換優惠券 url: /game/user/exchange-coupon
+    # 兌換優惠券 url: /game/user/exchange-coupon
     exchangeCoupon:
-      title: QUANTAAR GIFT CODE
-            # 表單
+      title:
+        QUANTAAR GIFT CODE
+        # 表單
       form:
         uuid: Player UID
         coupon: Gift Code
@@ -564,7 +567,7 @@ toolControl:
     mark: Mark
     holdMax: Hold Max
     coin1: Price
-            # 搜尋
+    # 搜尋
     search:
       type: Type
       placeholder:
