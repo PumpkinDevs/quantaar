@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-13 03:43\n"
-"PO-Revision-Date: 2023-06-13 03:43\n"
+"POT-Creation-Date: 2023-06-13 03:55\n"
+"PO-Revision-Date: 2023-06-13 03:55\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -3902,7 +3902,7 @@ msgstr "Pump Core"
 #. InfoMetaData:	"簡體中文" : "每跳跃 6/4/2 次都能恢复20点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3020002]"
-msgid "Restore 20 Health for every 6/4/2 umps."
+msgid "Restore 20 Health for every 6/4/2 jumps."
 msgstr "Restore 20 Health for every 6/4/2 jumps."
 
 #. Key:	[3021001]
