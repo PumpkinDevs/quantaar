@@ -1,11 +1,11 @@
-﻿# zh_Hant Chinese (Chinese Taipei) translation.
+﻿# Game Chinese (Chinese Taipei) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: zh_Hant\n"
-"POT-Creation-Date: 2023-06-09 07:22\n"
-"PO-Revision-Date: 2023-06-09 07:22\n"
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-06-13 03:43\n"
+"PO-Revision-Date: 2023-06-13 03:43\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -2926,7 +2926,7 @@ msgstr "此處可更換英雄、道具、 AI 難度及其他相關設定。"
 #. InfoMetaData:	"西班牙" : "El cambio a modo Entrenamiento puede tardar un poco."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026004]"
-msgid "Switch to Training mode might take a moment."
+msgid "Switch to Training Mode might take a moment."
 msgstr "切換到練習模式時可能會需要一些時間。"
 
 #. Key:	[0027001]
@@ -13280,7 +13280,7 @@ msgstr "使用特務巴，累積造成10個擊殺"
 #. InfoMetaData:	"簡體中文" : "使用斗士型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001386]"
-msgid "Deal a total of 3,000 damage over time using Fighter-type hero."
+msgid "Deal a total of 3,000 damage over time using Fighter-type Hero."
 msgstr "使用鬥士型英雄，累積造成3000點傷害"
 
 #. Key:	[9001387]
@@ -13290,7 +13290,7 @@ msgstr "使用鬥士型英雄，累積造成3000點傷害"
 #. InfoMetaData:	"簡體中文" : "使用刺客型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001387]"
-msgid "Deal a total of 3,000 damage over time using Assassin-type hero."
+msgid "Deal a total of 3,000 damage over time using Assassin-type Hero."
 msgstr "使用刺客型英雄，累積造成3000點傷害"
 
 #. Key:	[9001388]
@@ -13300,7 +13300,7 @@ msgstr "使用刺客型英雄，累積造成3000點傷害"
 #. InfoMetaData:	"簡體中文" : "使用平衡型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001388]"
-msgid "Deal a total of 3,000 damage over time using Generalist-type hero."
+msgid "Deal a total of 3,000 damage over time using Generalist-type Hero."
 msgstr "使用平衡型英雄，累積造成3000點傷害"
 
 #. Key:	[9001389]
@@ -13310,7 +13310,7 @@ msgstr "使用平衡型英雄，累積造成3000點傷害"
 #. InfoMetaData:	"簡體中文" : "使用射手型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001389]"
-msgid "Deal a total of 3,000 damage over time using Shooter-type hero."
+msgid "Deal a total of 3,000 damage over time using Shooter-type Hero."
 msgstr "使用射手型英雄，累積造成3000點傷害"
 
 #. Key:	[9001390]
@@ -13320,7 +13320,7 @@ msgstr "使用射手型英雄，累積造成3000點傷害"
 #. InfoMetaData:	"簡體中文" : "使用斗士型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001390]"
-msgid "Accumulate 10 kills over time using Fighter-type hero."
+msgid "Accumulate 10 kills over time using Fighter-type Hero."
 msgstr "使用鬥士型英雄，累積造成10個擊殺"
 
 #. Key:	[9001391]
@@ -13330,7 +13330,7 @@ msgstr "使用鬥士型英雄，累積造成10個擊殺"
 #. InfoMetaData:	"簡體中文" : "使用刺客型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001391]"
-msgid "Accumulate 10 kills over time using Assassin-type hero."
+msgid "Accumulate 10 kills over time using Assassin-type Hero."
 msgstr "使用刺客型英雄，累積造成10個擊殺"
 
 #. Key:	[9001392]
@@ -13340,7 +13340,7 @@ msgstr "使用刺客型英雄，累積造成10個擊殺"
 #. InfoMetaData:	"簡體中文" : "使用平衡型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001392]"
-msgid "Accumulate 10 kills over time using Generalist-type hero."
+msgid "Accumulate 10 kills over time using Generalist-type Hero."
 msgstr "使用平衡型英雄，累積造成10個擊殺"
 
 #. Key:	[9001393]
@@ -13350,7 +13350,7 @@ msgstr "使用平衡型英雄，累積造成10個擊殺"
 #. InfoMetaData:	"簡體中文" : "使用射手型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001393]"
-msgid "Accumulate 10 kills over time using Shooter-type hero."
+msgid "Accumulate 10 kills over time using Shooter-type Hero."
 msgstr "使用射手型英雄，累積造成10個擊殺"
 
 #. Key:	[9001394]

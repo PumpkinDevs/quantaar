@@ -1,11 +1,11 @@
-﻿# jp Japanese (Japan) translation.
+﻿# Game Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: jp\n"
-"POT-Creation-Date: 2023-06-09 07:24\n"
-"PO-Revision-Date: 2023-06-09 07:24\n"
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-06-13 03:43\n"
+"PO-Revision-Date: 2023-06-13 03:43\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -2926,7 +2926,7 @@ msgstr "このスペースでは、ヒーロー、アイテム、AIの難易度�
 #. InfoMetaData:	"西班牙" : "El cambio a modo Entrenamiento puede tardar un poco."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026004]"
-msgid "Switch to Training mode might take a moment."
+msgid "Switch to Training Mode might take a moment."
 msgstr "トレーニングモードへの切り替えには少し時間がかかる場合があります。"
 
 #. Key:	[0027001]
@@ -13280,7 +13280,7 @@ msgstr "エージェント・パグで、累計10キルを達成する"
 #. InfoMetaData:	"簡體中文" : "使用斗士型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001386]"
-msgid "Deal a total of 3,000 damage over time using Fighter-type hero."
+msgid "Deal a total of 3,000 damage over time using Fighter-type Hero."
 msgstr "戦士タイプのヒーローで、ダメージを累計3,000与える"
 
 #. Key:	[9001387]
@@ -13290,7 +13290,7 @@ msgstr "戦士タイプのヒーローで、ダメージを累計3,000与える"
 #. InfoMetaData:	"簡體中文" : "使用刺客型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001387]"
-msgid "Deal a total of 3,000 damage over time using Assassin-type hero."
+msgid "Deal a total of 3,000 damage over time using Assassin-type Hero."
 msgstr "暗殺者タイプのヒーローで、ダメージを累計3,000与える"
 
 #. Key:	[9001388]
@@ -13300,7 +13300,7 @@ msgstr "暗殺者タイプのヒーローで、ダメージを累計3,000与え�
 #. InfoMetaData:	"簡體中文" : "使用平衡型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001388]"
-msgid "Deal a total of 3,000 damage over time using Generalist-type hero."
+msgid "Deal a total of 3,000 damage over time using Generalist-type Hero."
 msgstr "ジェネラリストタイプのヒーローで、ダメージを累計3,000与える"
 
 #. Key:	[9001389]
@@ -13310,7 +13310,7 @@ msgstr "ジェネラリストタイプのヒーローで、ダメージを累計
 #. InfoMetaData:	"簡體中文" : "使用射手型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001389]"
-msgid "Deal a total of 3,000 damage over time using Shooter-type hero."
+msgid "Deal a total of 3,000 damage over time using Shooter-type Hero."
 msgstr "狙撃手タイプのヒーローで、ダメージを累計3,000与える"
 
 #. Key:	[9001390]
@@ -13320,7 +13320,7 @@ msgstr "狙撃手タイプのヒーローで、ダメージを累計3,000与え�
 #. InfoMetaData:	"簡體中文" : "使用斗士型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001390]"
-msgid "Accumulate 10 kills over time using Fighter-type hero."
+msgid "Accumulate 10 kills over time using Fighter-type Hero."
 msgstr "戦士タイプのヒーローで、累計10キルを達成する"
 
 #. Key:	[9001391]
@@ -13330,7 +13330,7 @@ msgstr "戦士タイプのヒーローで、累計10キルを達成する"
 #. InfoMetaData:	"簡體中文" : "使用刺客型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001391]"
-msgid "Accumulate 10 kills over time using Assassin-type hero."
+msgid "Accumulate 10 kills over time using Assassin-type Hero."
 msgstr "暗殺者タイプのヒーローで、累計10キルを達成する"
 
 #. Key:	[9001392]
@@ -13340,7 +13340,7 @@ msgstr "暗殺者タイプのヒーローで、累計10キルを達成する"
 #. InfoMetaData:	"簡體中文" : "使用平衡型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001392]"
-msgid "Accumulate 10 kills over time using Generalist-type hero."
+msgid "Accumulate 10 kills over time using Generalist-type Hero."
 msgstr "ジェネラリストのヒーローで、累計10キルを達成する"
 
 #. Key:	[9001393]
@@ -13350,7 +13350,7 @@ msgstr "ジェネラリストのヒーローで、累計10キルを達成する"
 #. InfoMetaData:	"簡體中文" : "使用射手型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001393]"
-msgid "Accumulate 10 kills over time using Shooter-type hero."
+msgid "Accumulate 10 kills over time using Shooter-type Hero."
 msgstr "狙撃手タイプのヒーローで、累計10キルを達成する"
 
 #. Key:	[9001394]
