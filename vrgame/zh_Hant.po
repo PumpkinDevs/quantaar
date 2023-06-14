@@ -1,17 +1,20 @@
-﻿# Game Chinese (Chinese Taipei) translation.
+# Game Chinese (Chinese Taipei) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-14 08:10\n"
-"Language-Team: \n"
-"Language: zh-TW\n"
+"PO-Revision-Date: 2023-06-14 08:56+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/zh_Hant/>\n"
+"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -14582,14 +14585,14 @@ msgstr "參加賽季"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001516]"
 msgid "Please Check Your Internet Connection"
-msgstr ""
+msgstr "請檢查網路連線狀態"
 
 #. Key:	[9001517]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
 msgid "Purchase 200 Tickets with 900 Galaxy Gems"
-msgstr ""
+msgstr "使用 900 銀河晶鑽購買票券 200 張"
 
 #. Key:	[9001518]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -16513,4 +16516,3 @@ msgstr "讓我們先來登錄一些你的資料吧"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "請依照你的使用習慣選擇你的設定"
-
