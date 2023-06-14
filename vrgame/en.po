@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-14 07:45\n"
-"PO-Revision-Date: 2023-06-14 07:45\n"
+"POT-Creation-Date: 2023-06-14 08:10\n"
+"PO-Revision-Date: 2023-06-14 08:10\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -12207,8 +12207,8 @@ msgstr "UNLOCK"
 #. InfoMetaData:	"簡體中文" : "购买票券?"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001278]"
-msgid "PURCHASE TICKETS?"
-msgstr "PURCHASE TICKETS?"
+msgid "PURCHASE TICKETS"
+msgstr "PURCHASE TICKETS"
 
 #. Key:	[9001279]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
