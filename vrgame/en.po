@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-13 03:55\n"
-"PO-Revision-Date: 2023-06-13 03:55\n"
+"POT-Creation-Date: 2023-06-14 07:45\n"
+"PO-Revision-Date: 2023-06-14 07:45\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -817,6 +817,13 @@ msgstr "找不到玩家"
 msgctxt "ST_Game_StateCode,[0021202]NotFoundRoom"
 msgid "找不到房間"
 msgstr "找不到房間"
+
+#. Key:	[0021300]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0021300]TimeOut"
+msgid "配對資料連線逾時"
+msgstr "配對資料連線逾時"
 
 #. Key:	[0030100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1651,8 +1658,8 @@ msgstr "Mute All"
 #. InfoMetaData:	"簡體中文" : "反转水平视角"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003031]"
-msgid "HeroView Invert Y"
-msgstr "HeroView Invert Y"
+msgid "Hero View Invert Y"
+msgstr "Hero View Invert Y"
 
 #. Key:	[0004001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1768,8 +1775,8 @@ msgstr "A very small percentage of people may experience a seizure, nausea, dizz
 #. InfoMetaData:	"西班牙" : "Si usted experimenta algún síntoma\ndeje de jugar inmediatamente y\nconsulte a un médico."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
-msgid "Immediately stop playing and consult a doctor if you experience any symptoms."
-msgstr "Immediately stop playing and consult a doctor if you experience any symptoms."
+msgid "Immediately stop playing and consult a doctor if you experience any symptoms"
+msgstr "Immediately stop playing and consult a doctor if you experience any symptoms"
 
 #. Key:	[0005004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2575,8 +2582,8 @@ msgstr "MATCHMAKING ..."
 #. InfoMetaData:	"西班牙" : "Fin de partida"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018002]"
-msgid "Match Complete"
-msgstr "Match Complete"
+msgid "Matchmaking Complete"
+msgstr "Matchmaking Complete"
 
 #. Key:	[0018003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12880,8 +12887,8 @@ msgstr "Quick match Soccer Mode 2 times"
 #. InfoMetaData:	"簡體中文" : "给予五个玩家赞扬"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001346]"
-msgid "Compliment 5 players."
-msgstr "Compliment 5 players."
+msgid "Give a Thumb-Up to 5 players after matches"
+msgstr "Give a Thumb-Up to 5 players after matches"
 
 #. Key:	[9001347]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12980,8 +12987,8 @@ msgstr "Go to Training Mode"
 #. InfoMetaData:	"簡體中文" : "使用恒星，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001356]"
-msgid "Deal a total of 3,000 damage over time using Quasar."
-msgstr "Deal a total of 3,000 damage over time using Quasar."
+msgid "Deal a total of 3,000 damage over time using Quasar"
+msgstr "Deal a total of 3,000 damage over time using Quasar"
 
 #. Key:	[9001357]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12990,8 +12997,8 @@ msgstr "Deal a total of 3,000 damage over time using Quasar."
 #. InfoMetaData:	"簡體中文" : "使用怒锚船长，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001357]"
-msgid "Deal a total of 3,000 damage over time using Captain Fury."
-msgstr "Deal a total of 3,000 damage over time using Captain Fury."
+msgid "Deal a total of 3,000 damage over time using Captain Fury"
+msgstr "Deal a total of 3,000 damage over time using Captain Fury"
 
 #. Key:	[9001358]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13000,8 +13007,8 @@ msgstr "Deal a total of 3,000 damage over time using Captain Fury."
 #. InfoMetaData:	"簡體中文" : "使用弥勒，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001358]"
-msgid "Deal a total of 3,000 damage over time using Maitreya."
-msgstr "Deal a total of 3,000 damage over time using Maitreya."
+msgid "Deal a total of 3,000 damage over time using Maitreya"
+msgstr "Deal a total of 3,000 damage over time using Maitreya"
 
 #. Key:	[9001359]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13010,8 +13017,8 @@ msgstr "Deal a total of 3,000 damage over time using Maitreya."
 #. InfoMetaData:	"簡體中文" : "使用咕米&酷奇，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001359]"
-msgid "Deal a total of 3,000 damage over time using Gumi & Cookie."
-msgstr "Deal a total of 3,000 damage over time using Gumi & Cookie."
+msgid "Deal a total of 3,000 damage over time using Gumi & Cookie"
+msgstr "Deal a total of 3,000 damage over time using Gumi & Cookie"
 
 #. Key:	[9001360]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13020,8 +13027,8 @@ msgstr "Deal a total of 3,000 damage over time using Gumi & Cookie."
 #. InfoMetaData:	"簡體中文" : "使用芙雷琪，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001360]"
-msgid "Deal a total of 3,000 damage over time using Flèche."
-msgstr "Deal a total of 3,000 damage over time using Flèche."
+msgid "Deal a total of 3,000 damage over time using Flèche"
+msgstr "Deal a total of 3,000 damage over time using Flèche"
 
 #. Key:	[9001361]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13030,8 +13037,8 @@ msgstr "Deal a total of 3,000 damage over time using Flèche."
 #. InfoMetaData:	"簡體中文" : "使用类比，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001361]"
-msgid "Deal a total of 3,000 damage over time using Analog."
-msgstr "Deal a total of 3,000 damage over time using Analog."
+msgid "Deal a total of 3,000 damage over time using Analog"
+msgstr "Deal a total of 3,000 damage over time using Analog"
 
 #. Key:	[9001362]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13040,8 +13047,8 @@ msgstr "Deal a total of 3,000 damage over time using Analog."
 #. InfoMetaData:	"簡體中文" : "使用凯尔斯，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001362]"
-msgid "Deal a total of 3,000 damage over time using Chaos."
-msgstr "Deal a total of 3,000 damage over time using Chaos."
+msgid "Deal a total of 3,000 damage over time using Chaos"
+msgstr "Deal a total of 3,000 damage over time using Chaos"
 
 #. Key:	[9001363]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13050,8 +13057,8 @@ msgstr "Deal a total of 3,000 damage over time using Chaos."
 #. InfoMetaData:	"簡體中文" : "使用影先生，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001363]"
-msgid "Deal a total of 3,000 damage over time using ShadowSan."
-msgstr "Deal a total of 3,000 damage over time using ShadowSan."
+msgid "Deal a total of 3,000 damage over time using ShadowSan"
+msgstr "Deal a total of 3,000 damage over time using ShadowSan"
 
 #. Key:	[9001364]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13060,8 +13067,8 @@ msgstr "Deal a total of 3,000 damage over time using ShadowSan."
 #. InfoMetaData:	"簡體中文" : "使用丝派西，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001364]"
-msgid "Deal a total of 3,000 damage over time using Spice."
-msgstr "Deal a total of 3,000 damage over time using Spice."
+msgid "Deal a total of 3,000 damage over time using Spice"
+msgstr "Deal a total of 3,000 damage over time using Spice"
 
 #. Key:	[9001365]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13070,8 +13077,8 @@ msgstr "Deal a total of 3,000 damage over time using Spice."
 #. InfoMetaData:	"簡體中文" : "使用费罗，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001365]"
-msgid "Deal a total of 3,000 damage over time using Flaw."
-msgstr "Deal a total of 3,000 damage over time using Flaw."
+msgid "Deal a total of 3,000 damage over time using Flaw"
+msgstr "Deal a total of 3,000 damage over time using Flaw"
 
 #. Key:	[9001366]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13090,8 +13097,8 @@ msgstr "Deal a total of 3,000 damage over time using Plasma."
 #. InfoMetaData:	"簡體中文" : "使用鲨奇，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001367]"
-msgid "Deal a total of 3,000 damage over time using Sharky."
-msgstr "Deal a total of 3,000 damage over time using Sharky."
+msgid "Deal a total of 3,000 damage over time using Sharky"
+msgstr "Deal a total of 3,000 damage over time using Sharky"
 
 #. Key:	[9001368]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13100,8 +13107,8 @@ msgstr "Deal a total of 3,000 damage over time using Sharky."
 #. InfoMetaData:	"簡體中文" : "使用太肯，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001368]"
-msgid "Deal a total of 3,000 damage over time using Tachyon."
-msgstr "Deal a total of 3,000 damage over time using Tachyon."
+msgid "Deal a total of 3,000 damage over time using Tachyon"
+msgstr "Deal a total of 3,000 damage over time using Tachyon"
 
 #. Key:	[9001369]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13110,8 +13117,8 @@ msgstr "Deal a total of 3,000 damage over time using Tachyon."
 #. InfoMetaData:	"簡體中文" : "使用元素蒙特，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001369]"
-msgid "Deal a total of 3,000 damage over time using Elemont."
-msgstr "Deal a total of 3,000 damage over time using Elemont."
+msgid "Deal a total of 3,000 damage over time using Elemont"
+msgstr "Deal a total of 3,000 damage over time using Elemont"
 
 #. Key:	[9001370]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13120,8 +13127,8 @@ msgstr "Deal a total of 3,000 damage over time using Elemont."
 #. InfoMetaData:	"簡體中文" : "使用特务巴，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001370]"
-msgid "Deal a total of 3,000 damage over time using Agent Pug."
-msgstr "Deal a total of 3,000 damage over time using Agent Pug."
+msgid "Deal a total of 3,000 damage over time using Agent Pug"
+msgstr "Deal a total of 3,000 damage over time using Agent Pug"
 
 #. Key:	[9001371]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13130,8 +13137,8 @@ msgstr "Deal a total of 3,000 damage over time using Agent Pug."
 #. InfoMetaData:	"簡體中文" : "使用恒星，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001371]"
-msgid "Accumulate 10 kills over time using Quasar."
-msgstr "Accumulate 10 kills over time using Quasar."
+msgid "Accumulate 10 kills over time using Quasar"
+msgstr "Accumulate 10 kills over time using Quasar"
 
 #. Key:	[9001372]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13140,8 +13147,8 @@ msgstr "Accumulate 10 kills over time using Quasar."
 #. InfoMetaData:	"簡體中文" : "使用怒锚船长，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001372]"
-msgid "Accumulate 10 kills over time using Captain Fury."
-msgstr "Accumulate 10 kills over time using Captain Fury."
+msgid "Accumulate 10 kills over time using Captain Fury"
+msgstr "Accumulate 10 kills over time using Captain Fury"
 
 #. Key:	[9001373]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13150,8 +13157,8 @@ msgstr "Accumulate 10 kills over time using Captain Fury."
 #. InfoMetaData:	"簡體中文" : "使用弥勒，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001373]"
-msgid "Accumulate 10 kills over time using Maitreya."
-msgstr "Accumulate 10 kills over time using Maitreya."
+msgid "Accumulate 10 kills over time using Maitreya"
+msgstr "Accumulate 10 kills over time using Maitreya"
 
 #. Key:	[9001374]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13160,8 +13167,8 @@ msgstr "Accumulate 10 kills over time using Maitreya."
 #. InfoMetaData:	"簡體中文" : "使用咕米&酷奇，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001374]"
-msgid "Accumulate 10 kills over time using Gumi & Cookie."
-msgstr "Accumulate 10 kills over time using Gumi & Cookie."
+msgid "Accumulate 10 kills over time using Gumi & Cookie"
+msgstr "Accumulate 10 kills over time using Gumi & Cookie"
 
 #. Key:	[9001375]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13170,8 +13177,8 @@ msgstr "Accumulate 10 kills over time using Gumi & Cookie."
 #. InfoMetaData:	"簡體中文" : "使用芙雷琪，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001375]"
-msgid "Accumulate 10 kills over time using Flèche."
-msgstr "Accumulate 10 kills over time using Flèche."
+msgid "Accumulate 10 kills over time using Flèche"
+msgstr "Accumulate 10 kills over time using Flèche"
 
 #. Key:	[9001376]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13180,8 +13187,8 @@ msgstr "Accumulate 10 kills over time using Flèche."
 #. InfoMetaData:	"簡體中文" : "使用类比，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001376]"
-msgid "Accumulate 10 kills over time using Analog."
-msgstr "Accumulate 10 kills over time using Analog."
+msgid "Accumulate 10 kills over time using Analog"
+msgstr "Accumulate 10 kills over time using Analog"
 
 #. Key:	[9001377]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13190,8 +13197,8 @@ msgstr "Accumulate 10 kills over time using Analog."
 #. InfoMetaData:	"簡體中文" : "使用凯尔斯，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001377]"
-msgid "Accumulate 10 kills over time using Chaos."
-msgstr "Accumulate 10 kills over time using Chaos."
+msgid "Accumulate 10 kills over time using Chaos"
+msgstr "Accumulate 10 kills over time using Chaos"
 
 #. Key:	[9001378]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13200,8 +13207,8 @@ msgstr "Accumulate 10 kills over time using Chaos."
 #. InfoMetaData:	"簡體中文" : "使用影先生，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001378]"
-msgid "Accumulate 10 kills over time using Shadow San."
-msgstr "Accumulate 10 kills over time using Shadow San."
+msgid "Accumulate 10 kills over time using Shadow San"
+msgstr "Accumulate 10 kills over time using Shadow San"
 
 #. Key:	[9001379]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13210,8 +13217,8 @@ msgstr "Accumulate 10 kills over time using Shadow San."
 #. InfoMetaData:	"簡體中文" : "使用丝派西，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001379]"
-msgid "Accumulate 10 kills over time using Spice."
-msgstr "Accumulate 10 kills over time using Spice."
+msgid "Accumulate 10 kills over time using Spice"
+msgstr "Accumulate 10 kills over time using Spice"
 
 #. Key:	[9001380]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13220,8 +13227,8 @@ msgstr "Accumulate 10 kills over time using Spice."
 #. InfoMetaData:	"簡體中文" : "使用费罗，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001380]"
-msgid "Accumulate 10 kills over time using Flaw."
-msgstr "Accumulate 10 kills over time using Flaw."
+msgid "Accumulate 10 kills over time using Flaw"
+msgstr "Accumulate 10 kills over time using Flaw"
 
 #. Key:	[9001381]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13230,8 +13237,8 @@ msgstr "Accumulate 10 kills over time using Flaw."
 #. InfoMetaData:	"簡體中文" : "使用磁暴，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001381]"
-msgid "Accumulate 10 kills over time using Plasma."
-msgstr "Accumulate 10 kills over time using Plasma."
+msgid "Accumulate 10 kills over time using Plasma"
+msgstr "Accumulate 10 kills over time using Plasma"
 
 #. Key:	[9001382]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13240,8 +13247,8 @@ msgstr "Accumulate 10 kills over time using Plasma."
 #. InfoMetaData:	"簡體中文" : "使用鲨奇，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001382]"
-msgid "Accumulate 10 kills over time using Sharky."
-msgstr "Accumulate 10 kills over time using Sharky."
+msgid "Accumulate 10 kills over time using Sharky"
+msgstr "Accumulate 10 kills over time using Sharky"
 
 #. Key:	[9001383]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13250,8 +13257,8 @@ msgstr "Accumulate 10 kills over time using Sharky."
 #. InfoMetaData:	"簡體中文" : "使用太肯，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001383]"
-msgid "Accumulate 10 kills over time using Tachyon."
-msgstr "Accumulate 10 kills over time using Tachyon."
+msgid "Accumulate 10 kills over time using Tachyon"
+msgstr "Accumulate 10 kills over time using Tachyon"
 
 #. Key:	[9001384]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13260,8 +13267,8 @@ msgstr "Accumulate 10 kills over time using Tachyon."
 #. InfoMetaData:	"簡體中文" : "使用元素蒙特，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001384]"
-msgid "Accumulate 10 kills over time using Elemont."
-msgstr "Accumulate 10 kills over time using Elemont."
+msgid "Accumulate 10 kills over time using Elemont"
+msgstr "Accumulate 10 kills over time using Elemont"
 
 #. Key:	[9001385]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13270,8 +13277,8 @@ msgstr "Accumulate 10 kills over time using Elemont."
 #. InfoMetaData:	"簡體中文" : "使用特务巴，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001385]"
-msgid "Accumulate 10 kills over time using Agent Pug."
-msgstr "Accumulate 10 kills over time using Agent Pug."
+msgid "Accumulate 10 kills over time using Agent Pug"
+msgstr "Accumulate 10 kills over time using Agent Pug"
 
 #. Key:	[9001386]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13280,8 +13287,8 @@ msgstr "Accumulate 10 kills over time using Agent Pug."
 #. InfoMetaData:	"簡體中文" : "使用斗士型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001386]"
-msgid "Deal a total of 3,000 damage over time using Fighter-type Hero."
-msgstr "Deal a total of 3,000 damage over time using Fighter-type Hero."
+msgid "Deal a total of 3,000 damage over time using Fighter-type Hero"
+msgstr "Deal a total of 3,000 damage over time using Fighter-type Hero"
 
 #. Key:	[9001387]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13290,8 +13297,8 @@ msgstr "Deal a total of 3,000 damage over time using Fighter-type Hero."
 #. InfoMetaData:	"簡體中文" : "使用刺客型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001387]"
-msgid "Deal a total of 3,000 damage over time using Assassin-type Hero."
-msgstr "Deal a total of 3,000 damage over time using Assassin-type Hero."
+msgid "Deal a total of 3,000 damage over time using Assassin-type Hero"
+msgstr "Deal a total of 3,000 damage over time using Assassin-type Hero"
 
 #. Key:	[9001388]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13300,8 +13307,8 @@ msgstr "Deal a total of 3,000 damage over time using Assassin-type Hero."
 #. InfoMetaData:	"簡體中文" : "使用平衡型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001388]"
-msgid "Deal a total of 3,000 damage over time using Generalist-type Hero."
-msgstr "Deal a total of 3,000 damage over time using Generalist-type Hero."
+msgid "Deal a total of 3,000 damage over time using Generalist-type Hero"
+msgstr "Deal a total of 3,000 damage over time using Generalist-type Hero"
 
 #. Key:	[9001389]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13310,8 +13317,8 @@ msgstr "Deal a total of 3,000 damage over time using Generalist-type Hero."
 #. InfoMetaData:	"簡體中文" : "使用射手型英雄，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001389]"
-msgid "Deal a total of 3,000 damage over time using Shooter-type Hero."
-msgstr "Deal a total of 3,000 damage over time using Shooter-type Hero."
+msgid "Deal a total of 3,000 damage over time using Shooter-type Hero"
+msgstr "Deal a total of 3,000 damage over time using Shooter-type Hero"
 
 #. Key:	[9001390]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13320,8 +13327,8 @@ msgstr "Deal a total of 3,000 damage over time using Shooter-type Hero."
 #. InfoMetaData:	"簡體中文" : "使用斗士型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001390]"
-msgid "Accumulate 10 kills over time using Fighter-type Hero."
-msgstr "Accumulate 10 kills over time using Fighter-type Hero."
+msgid "Accumulate 10 kills over time using Fighter-type Hero"
+msgstr "Accumulate 10 kills over time using Fighter-type Hero"
 
 #. Key:	[9001391]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13330,8 +13337,8 @@ msgstr "Accumulate 10 kills over time using Fighter-type Hero."
 #. InfoMetaData:	"簡體中文" : "使用刺客型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001391]"
-msgid "Accumulate 10 kills over time using Assassin-type Hero."
-msgstr "Accumulate 10 kills over time using Assassin-type Hero."
+msgid "Accumulate 10 kills over time using Assassin-type Hero"
+msgstr "Accumulate 10 kills over time using Assassin-type Hero"
 
 #. Key:	[9001392]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13340,8 +13347,8 @@ msgstr "Accumulate 10 kills over time using Assassin-type Hero."
 #. InfoMetaData:	"簡體中文" : "使用平衡型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001392]"
-msgid "Accumulate 10 kills over time using Generalist-type Hero."
-msgstr "Accumulate 10 kills over time using Generalist-type Hero."
+msgid "Accumulate 10 kills over time using Generalist-type Hero"
+msgstr "Accumulate 10 kills over time using Generalist-type Hero"
 
 #. Key:	[9001393]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14574,15 +14581,15 @@ msgstr "JOIN SEASON"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001516]"
-msgid "add"
-msgstr "add"
+msgid "Please Check Your Internet Connection"
+msgstr "Please Check Your Internet Connection"
 
 #. Key:	[9001517]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
-msgid "add"
-msgstr "add"
+msgid "Purchase 200 Tickets with 900 Galaxy Gems"
+msgstr "Purchase 200 Tickets with 900 Galaxy Gems"
 
 #. Key:	[9001518]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
