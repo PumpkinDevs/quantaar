@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-14 08:56+0000\n"
+"PO-Revision-Date: 2023-06-15 05:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hant/>\n"
@@ -12891,7 +12891,7 @@ msgstr "遊玩快速配對足球模式兩次"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001346]"
 msgid "Give a Thumb-Up to 5 players after matches"
-msgstr "給予五個玩家讚揚"
+msgstr "在比賽結束後，給 5 位玩家按讚"
 
 #. Key:	[9001347]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
