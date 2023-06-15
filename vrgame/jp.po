@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-14 09:04+0000\n"
+"PO-Revision-Date: 2023-06-15 05:25+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -12891,7 +12891,7 @@ msgstr "クイックマッチで2回サッカーをする"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001346]"
 msgid "Give a Thumb-Up to 5 players after matches"
-msgstr "プレイヤーを5人表彰する"
+msgstr "マッチ終了後、 5 人のプレイヤーにいいねを送ります"
 
 #. Key:	[9001347]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
