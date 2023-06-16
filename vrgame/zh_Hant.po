@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-15 05:25+0000\n"
+"PO-Revision-Date: 2023-06-16 09:24+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/zh_Hant/>\n"
@@ -14592,7 +14592,7 @@ msgstr "請檢查網路連線狀態"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
 msgid "Purchase 200 Tickets with 900 Galaxy Gems"
-msgstr "使用 900 銀河晶鑽購買票券 200 張"
+msgstr "使用 600 銀河晶鑽購買票券 200 張"
 
 #. Key:	[9001518]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
