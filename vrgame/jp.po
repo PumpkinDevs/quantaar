@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-15 05:25+0000\n"
+"PO-Revision-Date: 2023-06-16 09:24+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -14592,7 +14592,7 @@ msgstr "インターネット接続状態を確認してください"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
 msgid "Purchase 200 Tickets with 900 Galaxy Gems"
-msgstr "900銀河のジェムを使って200枚のチケットを購入する"
+msgstr "600 銀河のジェムを使って 200 枚のチケットを購入する"
 
 #. Key:	[9001518]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
