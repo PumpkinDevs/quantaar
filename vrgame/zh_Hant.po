@@ -1,20 +1,17 @@
-# Game Chinese (Chinese Taipei) translation.
+﻿# Game Chinese (Chinese Taipei) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-16 09:24+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/zh_Hant/>\n"
-"Language: zh_Hant\n"
+"POT-Creation-Date: 2023-06-17 07:53\n"
+"PO-Revision-Date: 2023-06-17 07:53\n"
+"Language-Team: \n"
+"Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -2663,7 +2660,7 @@ msgstr "伺服器位置"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 players, including AI."
+msgid "A Custom Mode can only be started with 4 players, including AI"
 msgstr "自訂賽局只能在有 4 名玩家 (包含 AI ) 時才能啟動。"
 
 #. Key:	[0019002]
@@ -2741,7 +2738,7 @@ msgstr "注意 : 在自訂房間模式下進行遊戲將不會獲得任何經驗
 #. InfoMetaData:	"西班牙" : "Agregar jugador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0021001]"
-msgid "ADD PLAYER"
+msgid "ADD"
 msgstr "新增玩家"
 
 #. Key:	[0022001]
@@ -2975,7 +2972,7 @@ msgstr "在新手教學中，你將會學到如何操縱英雄！"
 #. InfoMetaData:	"西班牙" : "El cambio a Turorial puede tardar un poco."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0027003]"
-msgid "Please note that switching to the Tutorial may take a moment."
+msgid "Please note that switching to the Tutorial may take a moment"
 msgstr "切換到新手教學時可能會需要一些時間"
 
 #. Key:	[0028001]
@@ -2988,7 +2985,7 @@ msgstr "切換到新手教學時可能會需要一些時間"
 #. InfoMetaData:	"西班牙" : "Solicitud de amistad enviada."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0028001]"
-msgid "Friend Request sent sucessfully."
+msgid "Friend Request sent successfully"
 msgstr "好友邀請已送出"
 
 #. Key:	[0029001]
@@ -3472,7 +3469,7 @@ msgstr "強棒核心"
 #. InfoMetaData:	"西班牙" : "Aumenta el poder de lanzamiento de derribo en un 10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3001002]"
-msgid "Increase knockup launch power by 10/20/30%."
+msgid "Increase knockup launch power by 10/20/30%"
 msgstr "擊飛威力提升 10/20/30%"
 
 #. Key:	[3002001]
@@ -3496,7 +3493,7 @@ msgstr "戰士核心"
 #. InfoMetaData:	"西班牙" : "Aumenta el daño cuerpo a cuerpo en un 10/20/30 %"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3002002]"
-msgid "Increase 10/20/30% of melee damage."
+msgid "Increase 10/20/30% of melee damage"
 msgstr "近戰攻擊傷害提升 10/20/30%"
 
 #. Key:	[3003001]
@@ -3520,7 +3517,7 @@ msgstr "豪豬核心"
 #. InfoMetaData:	"西班牙" : "Cada golpe recibido devuelve 10/15/20 puntos de daño al atacante"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3003002]"
-msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured."
+msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured"
 msgstr "每受傷一次都給予敵人 10/15/20 傷害"
 
 #. Key:	[3004001]
@@ -3544,7 +3541,7 @@ msgstr "輕盈核心"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de movimiento en un 15% cuando no se ha recibido daño durante 6/5/4 segundos continuos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3004002]"
-msgid "Increase 15% of your moving speed when you are not being damaged for a continous 6/5/4 seconds."
+msgid "Increase 15% of your moving speed when you are not being damaged for a continuous 6/5/4 seconds"
 msgstr "未受傷  6/5/4  秒後，跑速增加 15%"
 
 #. Key:	[3005001]
@@ -3568,7 +3565,7 @@ msgstr "汲取核心"
 #. InfoMetaData:	"西班牙" : "Recupera salud en 50/100/150 puntos por cada uso de objeto"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3005002]"
-msgid "Recover your Health for 50/100/150 Health everytime when you use an item"
+msgid "Recover your Health for 50/100/150 Health every time when you use an item"
 msgstr "使用道具回血 50/100/150 點血量"
 
 #. Key:	[3006001]
@@ -3592,7 +3589,7 @@ msgstr "糾纏核心"
 #. InfoMetaData:	"西班牙" : "Reduce la velocidad de movimiento del enemigo en un 10/15/20 % durante 1 segundo cada vez que lo golpeas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
-msgid "Slow down enemy's 10/15/20% moving speed for 2.5 second eveytime when you hit them."
+msgid "Slow down enemys' movement speed by 10/15/20% for 2.5 seconds every time you hit them"
 msgstr "每次攻擊命中敵人時，將使其移動速度減 10/15/20%，持續 1 秒。"
 
 #. Key:	[3007001]
@@ -3616,7 +3613,7 @@ msgstr "抗擊核心"
 #. InfoMetaData:	"西班牙" : "Reduce el daño cuerpo a cuerpo recibido en un 15/20/25 %"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3007002]"
-msgid "Decrease 15/20/25% of the melee damage you receive."
+msgid "Decrease 15/20/25% of melee damage you receive"
 msgstr "降低遭受近戰傷害 15/20/25%"
 
 #. Key:	[3008001]
@@ -3640,7 +3637,7 @@ msgstr "迅擊核心"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3008002]"
-msgid "Increase 5/10/15% of your attacking speed."
+msgid "Increase 5/10/15% of your attacking speed"
 msgstr "攻擊速度提升 5/10/15%"
 
 #. Key:	[3009001]
@@ -3664,7 +3661,7 @@ msgstr "神速核心"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de movimiento en un 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3009002]"
-msgid "Increase 10/15/20% of your moving speed."
+msgid "Increase 10/15/20% of your moving speed"
 msgstr "跑速增加10/15/20%"
 
 #. Key:	[3010001]
@@ -3688,7 +3685,7 @@ msgstr "狂怒之魂"
 #. InfoMetaData:	"西班牙" : "Cuando lanzas a un enemigo por los aires, obtienes superarmadura durante 3 segundos."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3010002]"
-msgid "When you knock up an enemy, gain Super Armor for 3 seconds."
+msgid "When you knock up an enemy, gain Super Armor for 3 seconds"
 msgstr "當你擊飛敵人時會得霸體3秒"
 
 #. Key:	[3011001]
@@ -3712,7 +3709,7 @@ msgstr "循環能源"
 #. InfoMetaData:	"西班牙" : "Reduce el costo de súper habilidad de 25 a 15 de energía"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3011002]"
-msgid "Reduce the super move cost from 25 to 15 energy."
+msgid "Reduce the Super Move cost from 25 to 15 energy"
 msgstr "施放絕招的消耗由25降為15能量"
 
 #. Key:	[3012001]
@@ -3736,7 +3733,7 @@ msgstr "狂野節奏"
 #. InfoMetaData:	"西班牙" : "Después de correr, el siguiente ataque inflige 5 puntos extra de daño."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3012002]"
-msgid "When you dash, your next attack deals 50 extra points of damage."
+msgid "When you dash, your next attack deals 50 extra points of damage"
 msgstr "當你使用衝刺後的下一次傷害將造成額外50點的傷害"
 
 #. Key:	[3013001]
@@ -3759,7 +3756,7 @@ msgstr "荊棘核心"
 #. InfoMetaData:	"簡體中文" : "每防御一次攻击,反弹20/30/40点伤害给敌人"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3013002]"
-msgid "Deflect 20/30/40 damage to your enemy each time you defend against an attack."
+msgid "Deflect 20/30/40 damage to your enemy each time you defend against an attack"
 msgstr "每防禦一次攻擊,反彈20/30/40點傷害給敵人"
 
 #. Key:	[3014001]
@@ -3782,7 +3779,7 @@ msgstr "復仇核心"
 #. InfoMetaData:	"簡體中文" : "在战局中每次死亡都会提升自身的击飞威力5/10/15% (最多生效2次)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
-msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)."
+msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)"
 msgstr "死亡後攻擊傷害和擊飛威力提升 5/10/15% (最多生效 2 次)。"
 
 #. Key:	[3015001]
@@ -3805,7 +3802,7 @@ msgstr "嗜血核心"
 #. InfoMetaData:	"簡體中文" : "击杀敌人会替自己恢复 100/150/200 点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3015002]"
-msgid "Kill an enemy to restore 100/150/200 Health."
+msgid "Kill an enemy to restore 100/150/200 Health"
 msgstr "擊殺敵人會替自己恢復 100/150/200 點血量"
 
 #. Key:	[3016001]
@@ -3828,7 +3825,7 @@ msgstr "吸收核心"
 #. InfoMetaData:	"簡體中文" : "每防御一次攻击，恢复 10/20/30 点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3016002]"
-msgid "Restore 10/20/30 Health each time you defend against an attack."
+msgid "Restore 10/20/30 Health each time you defend against an attack"
 msgstr "每防禦一次攻擊，恢復 10/20/30 點血量"
 
 #. Key:	[3017001]
@@ -3849,7 +3846,7 @@ msgstr "迴光核心"
 #. InfoMetaData:	"簡體中文" : "没有承受任何攻击的8/6/4秒后，每秒自恢复20点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3017002]"
-msgid "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds."
+msgid "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds"
 msgstr "沒有承受任何攻擊的8/6/4秒後，每秒自恢復20點血量"
 
 #. Key:	[3018001]
@@ -3870,7 +3867,7 @@ msgstr "防彈核心"
 #. InfoMetaData:	"簡體中文" : "降低所受到的远程伤害15/20/25%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3018002]"
-msgid "Reduce damage sustained from ranged attacks by 15/20/25%."
+msgid "Reduce damage sustained from Range attack by 15/20/25%"
 msgstr "降低所受到的遠程傷害15/20/25%"
 
 #. Key:	[3019001]
@@ -3891,7 +3888,7 @@ msgstr "引力核心"
 #. InfoMetaData:	"簡體中文" : "降低所受到的击飞威力 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3019002]"
-msgid "Reduce the knockup launch power received from an enemy by 5/10/15%."
+msgid "Reduce the knockup launch power received from an enemy by 5/10/15%"
 msgstr "降低所受到的擊飛威力 5/10/15%"
 
 #. Key:	[3020001]
@@ -3912,7 +3909,7 @@ msgstr "幫浦核心"
 #. InfoMetaData:	"簡體中文" : "每跳跃 6/4/2 次都能恢复20点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3020002]"
-msgid "Restore 20 Health for every 6/4/2 jumps."
+msgid "Restore 20 Health for every 6/4/2 jumps"
 msgstr "每跳躍 6/4/2 次都能恢復20點生命"
 
 #. Key:	[3021001]
@@ -3933,7 +3930,7 @@ msgstr "射手核心"
 #. InfoMetaData:	"簡體中文" : "增加远程攻击的伤害 15/20/25%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3021002]"
-msgid "Increase your ranged attack damage by 15/20/25%."
+msgid "Increase your Range attack damage by 15/20/25%"
 msgstr "增加遠程攻擊的傷害 15/20/25%"
 
 #. Key:	[3022001]
@@ -3954,7 +3951,7 @@ msgstr "高爆護盾"
 #. InfoMetaData:	"簡體中文" : "当你的防御被击破时会产生一个爆炸炸飞周围的敌人"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3022002]"
-msgid "When your defence is breached, generate an explosion to blow up surrounding enemies."
+msgid "When your defence is breached, generate an explosion to blow up surrounding enemies"
 msgstr "當你的防禦被擊破時會產生一個爆炸炸飛周圍的敵人"
 
 #. Key:	[3023001]
@@ -3975,7 +3972,7 @@ msgstr "暗影獵手"
 #. InfoMetaData:	"簡體中文" : "超过 4 秒没攻击或承受伤害，会进入隐形状态。再次攻击或承受伤害会再现形"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3023002]"
-msgid "Invisible after 4s no action of attacking or receiving damage. Attack or take damage to reappear."
+msgid "Invisible after 4s no action of attacking or receiving damage. Attack or take damage to reappear"
 msgstr "超過 4 秒沒攻擊或承受傷害，會進入隱形狀態。再次攻擊或承受傷害會再現形"
 
 #. Key:	[3024001]
@@ -3996,7 +3993,7 @@ msgstr "超載爆破"
 #. InfoMetaData:	"簡體中文" : "当你施放绝招时会产生一个爆炸炸飞周围的敌人"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3024002]"
-msgid "Release your Super Move to create an explosion that can blow up surrounding enemies."
+msgid "Release your Super Move to create an explosion that can blow up surrounding enemies"
 msgstr "當你施放絕招時會產生一個爆炸炸飛周圍的敵人"
 
 #. Key:	[3025001]
@@ -4017,7 +4014,7 @@ msgstr "持久核心"
 #. InfoMetaData:	"簡體中文" : "延长霸体状态的持续时间 15/30/45%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3025002]"
-msgid "Increase the duration of Super Armor by 15/30/45%."
+msgid "Increase the duration of Super Armor by 15/30/45%"
 msgstr "延長霸體狀態的持續時間 15/30/45%"
 
 #. Key:	[3026001]
@@ -4038,7 +4035,7 @@ msgstr "渾沌核心"
 #. InfoMetaData:	"簡體中文" : "当血量低于20%以下时，提升攻击伤害和击飞威力 10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3026002]"
-msgid "Increase your attack and knockup launch power by 10/20/30% when your Health is below 20%."
+msgid "Increase your attack and knockup launch power by 10/20/30% when your Health is below 20%"
 msgstr "當血量低於20%以下時，提升攻擊傷害和擊飛威力 10/20/30%"
 
 #. Key:	[3027001]
@@ -4059,7 +4056,7 @@ msgstr "忍耐核心"
 #. InfoMetaData:	"簡體中文" : "当霸体状态时将降低承受伤害 10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3027002]"
-msgid "Decrease damage taken by 10/20/30% when in Super Armor status."
+msgid "Decrease damage taken by 10/20/30% when in Super Armor status"
 msgstr "當霸體狀態時將降低承受傷害 10/20/30%"
 
 #. Key:	[3028001]
@@ -4080,7 +4077,7 @@ msgstr "能源核心"
 #. InfoMetaData:	"簡體中文" : "对敌人造成伤害所掠夺的奥义值增加 15/25/35%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3028002]"
-msgid "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%."
+msgid "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%"
 msgstr "對敵人造成傷害所掠奪的奧義值增加 15/25/35%"
 
 #. Key:	[3029001]
@@ -4101,7 +4098,7 @@ msgstr "無盡核心"
 #. InfoMetaData:	"簡體中文" : "使用道具时有 15/30/45% 机率不消耗道具"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3029002]"
-msgid "When using an item, gain a 15/30/45% chance that the item won't be consumed."
+msgid "When using an item, gain a 15/30/45% chance that the item won't be consumed"
 msgstr "使用道具時有 15/30/45% 機率不消耗道具"
 
 #. Key:	[3030001]
@@ -4122,7 +4119,7 @@ msgstr "鐵壁核心"
 #. InfoMetaData:	"簡體中文" : "减少所承受伤害 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3030002]"
-msgid "Decrease damage taken by 10/15/20%."
+msgid "Decrease damage taken by 10/15/20%"
 msgstr "減少所承受傷害 10/15/20%"
 
 #. Key:	[3031001]
@@ -4143,7 +4140,7 @@ msgstr "狡兔核心"
 #. InfoMetaData:	"簡體中文" : "当血量低于 20% 以下时，提升移动速度和跳跃高度 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3031002]"
-msgid "Increase moving speed and jump height by 10/15/20% when your Health is below 20%."
+msgid "Increase moving speed and jump height by 10/15/20% when your Health is below 20%"
 msgstr "當血量低於 20% 以下時，提升移動速度和跳躍高度 10/15/20%"
 
 #. Key:	[3032001]
@@ -4164,7 +4161,7 @@ msgstr "彈簧核心"
 #. InfoMetaData:	"簡體中文" : "增加跳跃高度 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3032002]"
-msgid "Increase jump height by 10/15/20%."
+msgid "Increase jump height by 10/15/20%"
 msgstr "增加跳躍高度 10/15/20%"
 
 #. Key:	[3033001]
@@ -4185,7 +4182,7 @@ msgstr "快充核心"
 #. InfoMetaData:	"簡體中文" : "降低蓄力攻击的蓄力时间10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3033002]"
-msgid "Decrease the time needed to charge an attack by 10/20/30%."
+msgid "Decrease the time needed to charge an attack by 10/20/30%"
 msgstr "降低蓄力攻擊的蓄力時間10/20/30%"
 
 #. Key:	[3034001]
@@ -4206,7 +4203,7 @@ msgstr "神經毒素"
 #. InfoMetaData:	"簡體中文" : "当被击飞时会产生一个令周围敌人缓速25%的毒气新星"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3034002]"
-msgid "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy."
+msgid "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy"
 msgstr "當被擊飛時會產生一個令周圍敵人緩速25%的毒氣新星"
 
 #. Key:	[3035001]
@@ -4227,7 +4224,7 @@ msgstr "冥思專注"
 #. InfoMetaData:	"簡體中文" : "当使用蓄力攻击时的蓄力状态会进入霸体状态,但蓄力的时间变慢25%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3035002]"
-msgid "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%."
+msgid "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%"
 msgstr "當使用蓄力攻擊時的蓄力狀態會進入霸體狀態,但蓄力的時間變慢25%"
 
 #. Key:	[3036001]
@@ -4248,7 +4245,7 @@ msgstr "冰霜引擎"
 #. InfoMetaData:	"簡體中文" : "当你施放绝招时会产生一个冰冻周围敌人的霜冻之星"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3036002]"
-msgid "Release your Super Move to create a Frost Nova and freeze surrounding enemies."
+msgid "Release your Super Move to create a Frost Nova and freeze surrounding enemies"
 msgstr "當你施放絕招時會產生一個冰凍周圍敵人的霜凍之星"
 
 #. Key:	[4001116]
@@ -11220,7 +11217,7 @@ msgstr "恭喜"
 #. InfoMetaData:	"簡體中文" : "透过ID寻找好友"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001163]"
-msgid "Search friends or stranger by ID."
+msgid "Search friends or strangers by ID"
 msgstr "透過ID尋找好友"
 
 #. Key:	[9001164]
@@ -11820,7 +11817,7 @@ msgstr "樂器-鍵盤"
 #. InfoMetaData:	"簡體中文" : "新增好友"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001223]"
-msgid "ADD FRIEND"
+msgid "ADD"
 msgstr "新增好友"
 
 #. Key:	[9001224]
@@ -12900,7 +12897,7 @@ msgstr "在比賽結束後，給 5 位玩家按讚"
 #. InfoMetaData:	"簡體中文" : "新增一个好友"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001347]"
-msgid "Add a new friend."
+msgid "Add a new friend"
 msgstr "新增一個好友"
 
 #. Key:	[9001348]
@@ -13735,7 +13732,7 @@ msgstr "恭喜，您已升級為終極版"
 #. InfoMetaData:	"簡體中文" : "道具超过持有上限已自动转换为星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001431]"
-msgid "You have reached your max item limit,\nall excess items are automatically converted to Star Coins."
+msgid "You have reached your max item limit, all excess items are automatically converted into Star Coins"
 msgstr "道具超過持有上限\r\n已自動轉換為星辰幣"
 
 #. Key:	[9001432]
@@ -14260,8 +14257,8 @@ msgstr "組合"
 #. InfoMetaData:	"簡體中文" : "赠送"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001483]"
-msgid "FREE"
-msgstr "贈送"
+msgid "Bonus"
+msgstr "加碼"
 
 #. Key:	[9001484]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14290,7 +14287,7 @@ msgstr "等級獎勵"
 #. InfoMetaData:	"簡體中文" : "赛季奖励"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001486]"
-msgid "Season Rewards"
+msgid "Season Reward"
 msgstr "賽季獎勵"
 
 #. Key:	[9001487]
@@ -14300,7 +14297,7 @@ msgstr "賽季獎勵"
 #. InfoMetaData:	"簡體中文" : "牌位奖励"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001487]"
-msgid "Rank Rewards"
+msgid "Rank Reward"
 msgstr "牌位獎勵"
 
 #. Key:	[9001488]
@@ -14410,7 +14407,7 @@ msgstr "抽獎資訊可於官方網站查看"
 #. InfoMetaData:	"簡體中文" : "活动详情"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001498]"
-msgid "Event Details"
+msgid "EVENT DETAIL"
 msgstr "活動詳情"
 
 #. Key:	[9001499]
@@ -14530,8 +14527,8 @@ msgstr "回合結束"
 #. InfoMetaData:	"簡體中文" : "网路异常，请检查连线状态后重启游戏。"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001510]"
-msgid "Network issue, please check connection and restart game."
-msgstr "網路異常，請檢查連線狀態後重啟遊戲。"
+msgid "Network issue, please check your connection and restart the game"
+msgstr "網路異常，請檢查連線狀態後重啟遊戲"
 
 #. Key:	[9001511]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14540,8 +14537,8 @@ msgstr "網路異常，請檢查連線狀態後重啟遊戲。"
 #. InfoMetaData:	"簡體中文" : "游戏已释出最新版本，请更新至最新版本。"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001511]"
-msgid "Game version outdated, please update to the latest version."
-msgstr "遊戲已釋出最新版本，請更新至最新版本。"
+msgid "Game version outdated, please update to the latest version"
+msgstr "遊戲已釋出最新版本，請更新至最新版本"
 
 #. Key:	[9001512]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14591,7 +14588,7 @@ msgstr "請檢查網路連線狀態"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
-msgid "Purchase 200 Tickets with 900 Galaxy Gems"
+msgid "Purchase 200 Tickets with 600 Galaxy Gems"
 msgstr "使用 600 銀河晶鑽購買票券 200 張"
 
 #. Key:	[9001518]
@@ -16516,3 +16513,4 @@ msgstr "讓我們先來登錄一些你的資料吧"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "請依照你的使用習慣選擇你的設定"
+

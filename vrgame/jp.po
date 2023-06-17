@@ -1,20 +1,17 @@
-# Game Japanese (Japan) translation.
+﻿# Game Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-14 08:10\n"
-"PO-Revision-Date: 2023-06-16 09:24+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ja/>\n"
-"Language: jp\n"
+"POT-Creation-Date: 2023-06-17 07:53\n"
+"PO-Revision-Date: 2023-06-17 07:53\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -2663,7 +2660,7 @@ msgstr "サーバーの場所"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 players, including AI."
+msgid "A Custom Mode can only be started with 4 players, including AI"
 msgstr "カスタムマッチは4人しかプレイできません。"
 
 #. Key:	[0019002]
@@ -2741,7 +2738,7 @@ msgstr "注：カスタム部屋モードでは報酬や経験は得られませ
 #. InfoMetaData:	"西班牙" : "Agregar jugador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0021001]"
-msgid "ADD PLAYER"
+msgid "ADD"
 msgstr "プレイヤーを追加する"
 
 #. Key:	[0022001]
@@ -2975,7 +2972,7 @@ msgstr "チュートリアルでは、ヒーローのコントロール方を学
 #. InfoMetaData:	"西班牙" : "El cambio a Turorial puede tardar un poco."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0027003]"
-msgid "Please note that switching to the Tutorial may take a moment."
+msgid "Please note that switching to the Tutorial may take a moment"
 msgstr "チュートリアルへの切り替えには少し時間がかかる場合があります。"
 
 #. Key:	[0028001]
@@ -2988,7 +2985,7 @@ msgstr "チュートリアルへの切り替えには少し時間がかかる場
 #. InfoMetaData:	"西班牙" : "Solicitud de amistad enviada."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0028001]"
-msgid "Friend Request sent sucessfully."
+msgid "Friend Request sent successfully"
 msgstr "フレンドリクエスト送信した。"
 
 #. Key:	[0029001]
@@ -3472,7 +3469,7 @@ msgstr "スラッガーコア"
 #. InfoMetaData:	"西班牙" : "Aumenta el poder de lanzamiento de derribo en un 10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3001002]"
-msgid "Increase knockup launch power by 10/20/30%."
+msgid "Increase knockup launch power by 10/20/30%"
 msgstr "ノックアップパワーが10/20/30％増加する。"
 
 #. Key:	[3002001]
@@ -3496,7 +3493,7 @@ msgstr "戦士コア"
 #. InfoMetaData:	"西班牙" : "Aumenta el daño cuerpo a cuerpo en un 10/20/30 %"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3002002]"
-msgid "Increase 10/20/30% of melee damage."
+msgid "Increase 10/20/30% of melee damage"
 msgstr "接近攻撃でのダメージが10/20/30％増加する。"
 
 #. Key:	[3003001]
@@ -3520,7 +3517,7 @@ msgstr "ハリネズミコア"
 #. InfoMetaData:	"西班牙" : "Cada golpe recibido devuelve 10/15/20 puntos de daño al atacante"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3003002]"
-msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured."
+msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured"
 msgstr "ヒットするたびに、攻撃者に 10/15/20 ダメージを返す。"
 
 #. Key:	[3004001]
@@ -3544,7 +3541,7 @@ msgstr "フェザーコア"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de movimiento en un 15% cuando no se ha recibido daño durante 6/5/4 segundos continuos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3004002]"
-msgid "Increase 15% of your moving speed when you are not being damaged for a continous 6/5/4 seconds."
+msgid "Increase 15% of your moving speed when you are not being damaged for a continuous 6/5/4 seconds"
 msgstr "6/5/4 秒間ダメージを受けていない場合、移動速度が15％増加する。"
 
 #. Key:	[3005001]
@@ -3568,7 +3565,7 @@ msgstr "抽出コア"
 #. InfoMetaData:	"西班牙" : "Recupera salud en 50/100/150 puntos por cada uso de objeto"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3005002]"
-msgid "Recover your Health for 50/100/150 Health everytime when you use an item"
+msgid "Recover your Health for 50/100/150 Health every time when you use an item"
 msgstr "アイテム使用ごとにヘルスが50/100/150 HP 回復する"
 
 #. Key:	[3006001]
@@ -3592,7 +3589,7 @@ msgstr "ブドウコア"
 #. InfoMetaData:	"西班牙" : "Reduce la velocidad de movimiento del enemigo en un 10/15/20 % durante 1 segundo cada vez que lo golpeas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
-msgid "Slow down enemy's 10/15/20% moving speed for 2.5 second eveytime when you hit them."
+msgid "Slow down enemys' movement speed by 10/15/20% for 2.5 seconds every time you hit them"
 msgstr "敵を攻撃するたびに、敵の移動速度が 2.5 秒間、10/15/20％遅くなる。"
 
 #. Key:	[3007001]
@@ -3616,7 +3613,7 @@ msgstr "アーマーコア"
 #. InfoMetaData:	"西班牙" : "Reduce el daño cuerpo a cuerpo recibido en un 15/20/25 %"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3007002]"
-msgid "Decrease 15/20/25% of the melee damage you receive."
+msgid "Decrease 15/20/25% of melee damage you receive"
 msgstr "接近戦で受けるダメージが15/20/25％減少する"
 
 #. Key:	[3008001]
@@ -3640,7 +3637,7 @@ msgstr "閃光コア"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de ataque en un 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3008002]"
-msgid "Increase 5/10/15% of your attacking speed."
+msgid "Increase 5/10/15% of your attacking speed"
 msgstr "攻撃速度が5/10/15％増加する"
 
 #. Key:	[3009001]
@@ -3664,7 +3661,7 @@ msgstr "スピードコア"
 #. InfoMetaData:	"西班牙" : "Aumenta la velocidad de movimiento en un 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3009002]"
-msgid "Increase 10/15/20% of your moving speed."
+msgid "Increase 10/15/20% of your moving speed"
 msgstr "移動速度が5/10/15％増加する"
 
 #. Key:	[3010001]
@@ -3688,7 +3685,7 @@ msgstr "荒ぶる魂"
 #. InfoMetaData:	"西班牙" : "Cuando lanzas a un enemigo por los aires, obtienes superarmadura durante 3 segundos."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3010002]"
-msgid "When you knock up an enemy, gain Super Armor for 3 seconds."
+msgid "When you knock up an enemy, gain Super Armor for 3 seconds"
 msgstr "敵を空中にノックすると、スーパーアーマーを３秒間獲得する"
 
 #. Key:	[3011001]
@@ -3712,7 +3709,7 @@ msgstr "エネルギーリサイクル"
 #. InfoMetaData:	"西班牙" : "Reduce el costo de súper habilidad de 25 a 15 de energía"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3011002]"
-msgid "Reduce the super move cost from 25 to 15 energy."
+msgid "Reduce the Super Move cost from 25 to 15 energy"
 msgstr "必殺技にかかるエネルギーが25から15に減る"
 
 #. Key:	[3012001]
@@ -3736,7 +3733,7 @@ msgstr "ワイルドリズム"
 #. InfoMetaData:	"西班牙" : "Después de correr, el siguiente ataque inflige 5 puntos extra de daño."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3012002]"
-msgid "When you dash, your next attack deals 50 extra points of damage."
+msgid "When you dash, your next attack deals 50 extra points of damage"
 msgstr "ダッシュ後、その次の攻撃は追加で５ポイントのダメージを与える"
 
 #. Key:	[3013001]
@@ -3759,7 +3756,7 @@ msgstr "いばらコア"
 #. InfoMetaData:	"簡體中文" : "每防御一次攻击,反弹20/30/40点伤害给敌人"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3013002]"
-msgid "Deflect 20/30/40 damage to your enemy each time you defend against an attack."
+msgid "Deflect 20/30/40 damage to your enemy each time you defend against an attack"
 msgstr "攻撃を防ぐごとに、敵に20/30/40のダメージを跳ね返す"
 
 #. Key:	[3014001]
@@ -3782,7 +3779,7 @@ msgstr "復讐コア"
 #. InfoMetaData:	"簡體中文" : "在战局中每次死亡都会提升自身的击飞威力5/10/15% (最多生效2次)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
-msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)."
+msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)"
 msgstr "死亡後のダメージとノックアップパワー効果が 5/10/15% 増加します（最大 2 回有効）。"
 
 #. Key:	[3015001]
@@ -3805,7 +3802,7 @@ msgstr "ヴァンパイアコア"
 #. InfoMetaData:	"簡體中文" : "击杀敌人会替自己恢复 100/150/200 点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3015002]"
-msgid "Kill an enemy to restore 100/150/200 Health."
+msgid "Kill an enemy to restore 100/150/200 Health"
 msgstr "敵を倒すと、HPが100/150/200回復"
 
 #. Key:	[3016001]
@@ -3828,7 +3825,7 @@ msgstr "吸収コア"
 #. InfoMetaData:	"簡體中文" : "每防御一次攻击，恢复 10/20/30 点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3016002]"
-msgid "Restore 10/20/30 Health each time you defend against an attack."
+msgid "Restore 10/20/30 Health each time you defend against an attack"
 msgstr "攻撃を防御するごとに、HPが10/20/30回復"
 
 #. Key:	[3017001]
@@ -3849,7 +3846,7 @@ msgstr "回復コア"
 #. InfoMetaData:	"簡體中文" : "没有承受任何攻击的8/6/4秒后，每秒自恢复20点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3017002]"
-msgid "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds."
+msgid "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds"
 msgstr "攻撃を受けずに8/6/4秒間しのぐと、その後、HPが毎秒20回復"
 
 #. Key:	[3018001]
@@ -3870,7 +3867,7 @@ msgstr "防弾コア"
 #. InfoMetaData:	"簡體中文" : "降低所受到的远程伤害15/20/25%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3018002]"
-msgid "Reduce damage sustained from ranged attacks by 15/20/25%."
+msgid "Reduce damage sustained from Range attack by 15/20/25%"
 msgstr "遠距離攻撃で受けるダメージを15/20/25%軽減"
 
 #. Key:	[3019001]
@@ -3891,7 +3888,7 @@ msgstr "引力コア"
 #. InfoMetaData:	"簡體中文" : "降低所受到的击飞威力 5/10/15%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3019002]"
-msgid "Reduce the knockup launch power received from an enemy by 5/10/15%."
+msgid "Reduce the knockup launch power received from an enemy by 5/10/15%"
 msgstr "敵からのノックアップ効果を5/10/15%減少させる"
 
 #. Key:	[3020001]
@@ -3912,7 +3909,7 @@ msgstr "ポンプコア"
 #. InfoMetaData:	"簡體中文" : "每跳跃 6/4/2 次都能恢复20点血量"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3020002]"
-msgid "Restore 20 Health for every 6/4/2 jumps."
+msgid "Restore 20 Health for every 6/4/2 jumps"
 msgstr "6/4/2回ジャンプする毎にHPが20回復"
 
 #. Key:	[3021001]
@@ -3933,7 +3930,7 @@ msgstr "射撃コア"
 #. InfoMetaData:	"簡體中文" : "增加远程攻击的伤害 15/20/25%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3021002]"
-msgid "Increase your ranged attack damage by 15/20/25%."
+msgid "Increase your Range attack damage by 15/20/25%"
 msgstr "遠距離攻撃のダメージが15/20/25%増加します"
 
 #. Key:	[3022001]
@@ -3954,7 +3951,7 @@ msgstr "高爆発シールド"
 #. InfoMetaData:	"簡體中文" : "当你的防御被击破时会产生一个爆炸炸飞周围的敌人"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3022002]"
-msgid "When your defence is breached, generate an explosion to blow up surrounding enemies."
+msgid "When your defence is breached, generate an explosion to blow up surrounding enemies"
 msgstr "防御が破られると、爆発を起こし周囲の敵を吹き飛ばす"
 
 #. Key:	[3023001]
@@ -3975,7 +3972,7 @@ msgstr "シャドーハンター"
 #. InfoMetaData:	"簡體中文" : "超过 4 秒没攻击或承受伤害，会进入隐形状态。再次攻击或承受伤害会再现形"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3023002]"
-msgid "Invisible after 4s no action of attacking or receiving damage. Attack or take damage to reappear."
+msgid "Invisible after 4s no action of attacking or receiving damage. Attack or take damage to reappear"
 msgstr "4秒以上攻撃・ダメージを避けると透明になり、再び攻撃・ダメージを受けると姿が現れます"
 
 #. Key:	[3024001]
@@ -3996,7 +3993,7 @@ msgstr "オーバーロード爆発"
 #. InfoMetaData:	"簡體中文" : "当你施放绝招时会产生一个爆炸炸飞周围的敌人"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3024002]"
-msgid "Release your Super Move to create an explosion that can blow up surrounding enemies."
+msgid "Release your Super Move to create an explosion that can blow up surrounding enemies"
 msgstr "必殺技を放つと、周囲の敵を吹き飛ばす爆発が発生する"
 
 #. Key:	[3025001]
@@ -4017,7 +4014,7 @@ msgstr "持久コア"
 #. InfoMetaData:	"簡體中文" : "延长霸体状态的持续时间 15/30/45%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3025002]"
-msgid "Increase the duration of Super Armor by 15/30/45%."
+msgid "Increase the duration of Super Armor by 15/30/45%"
 msgstr "スーパーアーマーの持続時間が15/30/45%増加します"
 
 #. Key:	[3026001]
@@ -4038,7 +4035,7 @@ msgstr "カオスコア"
 #. InfoMetaData:	"簡體中文" : "当血量低于20%以下时，提升攻击伤害和击飞威力 10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3026002]"
-msgid "Increase your attack and knockup launch power by 10/20/30% when your Health is below 20%."
+msgid "Increase your attack and knockup launch power by 10/20/30% when your Health is below 20%"
 msgstr "HPが20%未満の場合、攻撃力とノックアップ起動力が10/20/30%増加します"
 
 #. Key:	[3027001]
@@ -4059,7 +4056,7 @@ msgstr "忍耐コア"
 #. InfoMetaData:	"簡體中文" : "当霸体状态时将降低承受伤害 10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3027002]"
-msgid "Decrease damage taken by 10/20/30% when in Super Armor status."
+msgid "Decrease damage taken by 10/20/30% when in Super Armor status"
 msgstr "スーパーアーマー状態時に受けるダメージが10/20/30%軽減されます"
 
 #. Key:	[3028001]
@@ -4080,7 +4077,7 @@ msgstr "エナジーコア"
 #. InfoMetaData:	"簡體中文" : "对敌人造成伤害所掠夺的奥义值增加 15/25/35%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3028002]"
-msgid "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%."
+msgid "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%"
 msgstr "敵にダメージを与えることで得られる奥儀エネルギー量が15/25/35%増加します"
 
 #. Key:	[3029001]
@@ -4101,7 +4098,7 @@ msgstr "無限コア"
 #. InfoMetaData:	"簡體中文" : "使用道具时有 15/30/45% 机率不消耗道具"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3029002]"
-msgid "When using an item, gain a 15/30/45% chance that the item won't be consumed."
+msgid "When using an item, gain a 15/30/45% chance that the item won't be consumed"
 msgstr "アイテム使用時、15/30/45%の確率でアイテムが消耗しない"
 
 #. Key:	[3030001]
@@ -4122,7 +4119,7 @@ msgstr "鉄壁コア"
 #. InfoMetaData:	"簡體中文" : "减少所承受伤害 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3030002]"
-msgid "Decrease damage taken by 10/15/20%."
+msgid "Decrease damage taken by 10/15/20%"
 msgstr "受けるダメージを10/15/20%減少させる"
 
 #. Key:	[3031001]
@@ -4143,7 +4140,7 @@ msgstr "身軽コア"
 #. InfoMetaData:	"簡體中文" : "当血量低于 20% 以下时，提升移动速度和跳跃高度 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3031002]"
-msgid "Increase moving speed and jump height by 10/15/20% when your Health is below 20%."
+msgid "Increase moving speed and jump height by 10/15/20% when your Health is below 20%"
 msgstr "HPが20%未満の場合、移動速度とジャンプの高さが10/15/20%増加します"
 
 #. Key:	[3032001]
@@ -4164,7 +4161,7 @@ msgstr "バネコア"
 #. InfoMetaData:	"簡體中文" : "增加跳跃高度 10/15/20%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3032002]"
-msgid "Increase jump height by 10/15/20%."
+msgid "Increase jump height by 10/15/20%"
 msgstr "ジャンプの高さが10/15/20%増加します"
 
 #. Key:	[3033001]
@@ -4185,7 +4182,7 @@ msgstr "高速充電コア"
 #. InfoMetaData:	"簡體中文" : "降低蓄力攻击的蓄力时间10/20/30%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3033002]"
-msgid "Decrease the time needed to charge an attack by 10/20/30%."
+msgid "Decrease the time needed to charge an attack by 10/20/30%"
 msgstr "攻撃のチャージに必要な時間が10/20/30%短縮されます"
 
 #. Key:	[3034001]
@@ -4206,7 +4203,7 @@ msgstr "ニュートロキシン"
 #. InfoMetaData:	"簡體中文" : "当被击飞时会产生一个令周围敌人缓速25%的毒气新星"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3034002]"
-msgid "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy."
+msgid "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy"
 msgstr "敵に吹き飛ばされると、敵の速度を25%低下させるニューロトキシンノヴァを放出"
 
 #. Key:	[3035001]
@@ -4227,7 +4224,7 @@ msgstr "深い瞑想"
 #. InfoMetaData:	"簡體中文" : "当使用蓄力攻击时的蓄力状态会进入霸体状态,但蓄力的时间变慢25%"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3035002]"
-msgid "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%."
+msgid "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%"
 msgstr "攻撃のチャージ中にスーパーアーマー状態に入る。ただし、充電時間は25%遅くなる"
 
 #. Key:	[3036001]
@@ -4248,7 +4245,7 @@ msgstr "フロストノヴァ"
 #. InfoMetaData:	"簡體中文" : "当你施放绝招时会产生一个冰冻周围敌人的霜冻之星"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3036002]"
-msgid "Release your Super Move to create a Frost Nova and freeze surrounding enemies."
+msgid "Release your Super Move to create a Frost Nova and freeze surrounding enemies"
 msgstr "必殺技を放ってフロストノヴァで周囲の敵を凍らせる"
 
 #. Key:	[4001116]
@@ -8557,7 +8554,7 @@ msgstr "スパイス"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4209001]"
 msgid "Sharpshooter"
-msgstr "狙撃手"
+msgstr "シャープシューター"
 
 #. Key:	[4209002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11220,7 +11217,7 @@ msgstr "おめでとう！"
 #. InfoMetaData:	"簡體中文" : "透过ID寻找好友"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001163]"
-msgid "Search friends or stranger by ID."
+msgid "Search friends or strangers by ID"
 msgstr "IDで知り合い検索"
 
 #. Key:	[9001164]
@@ -11820,7 +11817,7 @@ msgstr "楽器 - キーボード"
 #. InfoMetaData:	"簡體中文" : "新增好友"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001223]"
-msgid "ADD FRIEND"
+msgid "ADD"
 msgstr "友達追加"
 
 #. Key:	[9001224]
@@ -12900,7 +12897,7 @@ msgstr "マッチ終了後、 5 人のプレイヤーにいいねを送ります
 #. InfoMetaData:	"簡體中文" : "新增一个好友"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001347]"
-msgid "Add a new friend."
+msgid "Add a new friend"
 msgstr "新しい友達を追加する"
 
 #. Key:	[9001348]
@@ -13735,7 +13732,7 @@ msgstr "おめでとうございます。究極版 にアップグレードさ�
 #. InfoMetaData:	"簡體中文" : "道具超过持有上限已自动转换为星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001431]"
-msgid "You have reached your max item limit,\nall excess items are automatically converted to Star Coins."
+msgid "You have reached your max item limit, all excess items are automatically converted into Star Coins"
 msgstr "所持上限を超えたアイテムは自動的にスターコインに変換されます"
 
 #. Key:	[9001432]
@@ -14260,8 +14257,8 @@ msgstr "SET"
 #. InfoMetaData:	"簡體中文" : "赠送"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001483]"
-msgid "FREE"
-msgstr "無料"
+msgid "Bonus"
+msgstr "增量"
 
 #. Key:	[9001484]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14290,7 +14287,7 @@ msgstr "レベルアップ報酬"
 #. InfoMetaData:	"簡體中文" : "赛季奖励"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001486]"
-msgid "Season Rewards"
+msgid "Season Reward"
 msgstr "シーズン報酬"
 
 #. Key:	[9001487]
@@ -14300,7 +14297,7 @@ msgstr "シーズン報酬"
 #. InfoMetaData:	"簡體中文" : "牌位奖励"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001487]"
-msgid "Rank Rewards"
+msgid "Rank Reward"
 msgstr "ランク報酬"
 
 #. Key:	[9001488]
@@ -14410,7 +14407,7 @@ msgstr "抽選情報は公式ウェブサイトで確認できます"
 #. InfoMetaData:	"簡體中文" : "活动详情"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001498]"
-msgid "Event Details"
+msgid "EVENT DETAIL"
 msgstr "イベント詳細"
 
 #. Key:	[9001499]
@@ -14530,8 +14527,8 @@ msgstr "ラウンドの終わり"
 #. InfoMetaData:	"簡體中文" : "网路异常，请检查连线状态后重启游戏。"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001510]"
-msgid "Network issue, please check connection and restart game."
-msgstr "ネットワークエラー。\r\n接続を確認して再起動してください。"
+msgid "Network issue, please check your connection and restart the game"
+msgstr "ネットワークエラー、接続を確認して再起動してください"
 
 #. Key:	[9001511]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14540,8 +14537,8 @@ msgstr "ネットワークエラー。\r\n接続を確認して再起動して�
 #. InfoMetaData:	"簡體中文" : "游戏已释出最新版本，请更新至最新版本。"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001511]"
-msgid "Game version outdated, please update to the latest version."
-msgstr "ゲームの最新バージョンがリリースされています。\r\n最新バージョンに更新してください。"
+msgid "Game version outdated, please update to the latest version"
+msgstr "ゲームの最新バージョンがリリースされています、最新バージョンに更新してください"
 
 #. Key:	[9001512]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14591,8 +14588,8 @@ msgstr "インターネット接続状態を確認してください"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
-msgid "Purchase 200 Tickets with 900 Galaxy Gems"
-msgstr "600 銀河のジェムを使って 200 枚のチケットを購入する"
+msgid "Purchase 200 Tickets with 600 Galaxy Gems"
+msgstr "600銀河のジェムを使って200枚のチケットを購入する"
 
 #. Key:	[9001518]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -16516,3 +16513,4 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
+
