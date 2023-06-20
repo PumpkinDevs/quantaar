@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-17 07:53\n"
-"PO-Revision-Date: 2023-06-17 07:53\n"
+"POT-Creation-Date: 2023-06-20 06:43\n"
+"PO-Revision-Date: 2023-06-20 06:43\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -683,6 +683,13 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020702]StopMatchmaking_Failed"
 msgid "連線失敗 [0020702]"
+msgstr ""
+
+#. Key:	[0020703]CreatingBattleServer
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0020703]CreatingBattleServer"
+msgid "無法取消配對 因正在開啟戰鬥伺服器"
 msgstr ""
 
 #. Key:	[0020800]TimeOut
@@ -1749,7 +1756,7 @@ msgstr "Quantaarのゲームサイト内のユーザーガイドライン最新�
 #. InfoMetaData:	"西班牙" : "Advertencia de ataque de fotosensibilidad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005001]"
-msgid "Photosensitive seizure warning"
+msgid "Photosensitive Seizure Warning"
 msgstr "光過敏性発作の可能性について"
 
 #. Key:	[0005002]
@@ -1775,7 +1782,7 @@ msgstr "ごくわすかな割合で、ビデオゲーム内で表示される場
 #. InfoMetaData:	"西班牙" : "Si usted experimenta algún síntoma\ndeje de jugar inmediatamente y\nconsulte a un médico."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
-msgid "Immediately stop playing and consult a doctor if you experience any symptoms"
+msgid "Immediately Stop Playing And Consult A Doctor If You Experience Any Symptoms"
 msgstr "症状を感じた場合は、すぐにゲームを中止し、医療機関を受診してください。"
 
 #. Key:	[0005004]
@@ -14589,20 +14596,20 @@ msgstr "インターネット接続状態を確認してください"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001517]"
 msgid "Purchase 200 Tickets with 600 Galaxy Gems"
-msgstr "600銀河のジェムを使って200枚のチケットを購入する"
+msgstr "600 銀河のジェムを使って 200 枚のチケットを購入する"
 
 #. Key:	[9001518]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001518]"
-msgid "add"
-msgstr ""
+msgid "Would you like to experience the beginner tutorial?"
+msgstr "初心者向けチュートリアルを体験しますか？"
 
 #. Key:	[9001519]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001519]"
-msgid "add"
+msgid "You must choose your initial hero before being able to skip the beginner tutorial."
 msgstr ""
 
 #. Key:	[9001520]

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-17 07:53\n"
-"PO-Revision-Date: 2023-06-17 07:53\n"
+"POT-Creation-Date: 2023-06-20 06:43\n"
+"PO-Revision-Date: 2023-06-20 06:43\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -683,6 +683,13 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020702]StopMatchmaking_Failed"
 msgid "連線失敗 [0020702]"
+msgstr ""
+
+#. Key:	[0020703]CreatingBattleServer
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0020703]CreatingBattleServer"
+msgid "無法取消配對 因正在開啟戰鬥伺服器"
 msgstr ""
 
 #. Key:	[0020800]TimeOut
@@ -1749,7 +1756,7 @@ msgstr "Entiendo y acepto la última versión de los términos del servicio de l
 #. InfoMetaData:	"西班牙" : "Advertencia de ataque de fotosensibilidad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005001]"
-msgid "Photosensitive seizure warning"
+msgid "Photosensitive Seizure Warning"
 msgstr "Advertencia de ataque de fotosensibilidad"
 
 #. Key:	[0005002]
@@ -1775,7 +1782,7 @@ msgstr "Un ínfimo porcentaje de la población puede sufrir ataques, náuseas, m
 #. InfoMetaData:	"西班牙" : "Si usted experimenta algún síntoma\ndeje de jugar inmediatamente y\nconsulte a un médico."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
-msgid "Immediately stop playing and consult a doctor if you experience any symptoms"
+msgid "Immediately Stop Playing And Consult A Doctor If You Experience Any Symptoms"
 msgstr "Si usted experimenta algún síntoma deje de jugar inmediatamente y consulte a un médico."
 
 #. Key:	[0005004]
@@ -2661,7 +2668,7 @@ msgstr "Ubicación del Servidor"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
 msgid "A Custom Mode can only be started with 4 players, including AI"
-msgstr ""
+msgstr "Solo se puede empezar una Partida personalizada"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2739,7 +2746,7 @@ msgstr "Aviso: no recibirás ninguna recompensa ni experiencia en el modo Sala p
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0021001]"
 msgid "ADD"
-msgstr ""
+msgstr "Agregar jugador"
 
 #. Key:	[0022001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2973,7 +2980,7 @@ msgstr "En el tutorial aprenderás cómo controlar al héroe."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0027003]"
 msgid "Please note that switching to the Tutorial may take a moment"
-msgstr ""
+msgstr "El cambio a Turorial puede tardar un poco."
 
 #. Key:	[0028001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2986,7 +2993,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0028001]"
 msgid "Friend Request sent successfully"
-msgstr ""
+msgstr "Solicitud de amistad enviada."
 
 #. Key:	[0029001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3470,7 +3477,7 @@ msgstr "Núcleo de golpeador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3001002]"
 msgid "Increase knockup launch power by 10/20/30%"
-msgstr ""
+msgstr "Aumenta el poder de lanzamiento de derribo en un 10/20/30%"
 
 #. Key:	[3002001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3494,7 +3501,7 @@ msgstr "Núcleo de guerrero"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3002002]"
 msgid "Increase 10/20/30% of melee damage"
-msgstr ""
+msgstr "Aumenta el daño cuerpo a cuerpo en un 10/20/30 %"
 
 #. Key:	[3003001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3518,7 +3525,7 @@ msgstr "Núcleo de erizo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3003002]"
 msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured"
-msgstr ""
+msgstr "Cada golpe recibido devuelve 10/15/20 puntos de daño al atacante"
 
 #. Key:	[3004001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3542,7 +3549,7 @@ msgstr "Núcleo de plumas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3004002]"
 msgid "Increase 15% of your moving speed when you are not being damaged for a continuous 6/5/4 seconds"
-msgstr ""
+msgstr "Aumenta la velocidad de movimiento en un 15% cuando no se ha recibido daño durante 6/5/4 segundos continuos"
 
 #. Key:	[3005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3566,7 +3573,7 @@ msgstr "extracción de núcleo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3005002]"
 msgid "Recover your Health for 50/100/150 Health every time when you use an item"
-msgstr ""
+msgstr "Recupera salud en 50/100/150 puntos por cada uso de objeto"
 
 #. Key:	[3006001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3590,7 +3597,7 @@ msgstr "Núcleo de vid"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
 msgid "Slow down enemys' movement speed by 10/15/20% for 2.5 seconds every time you hit them"
-msgstr ""
+msgstr "Reduce la velocidad de movimiento del enemigo en un 10/15/20 % durante 1 segundo cada vez que lo golpeas"
 
 #. Key:	[3007001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3614,7 +3621,7 @@ msgstr "Núcleo de armadura"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3007002]"
 msgid "Decrease 15/20/25% of melee damage you receive"
-msgstr ""
+msgstr "Reduce el daño cuerpo a cuerpo recibido en un 15/20/25 %"
 
 #. Key:	[3008001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3638,7 +3645,7 @@ msgstr "Núcleo de relámpagos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3008002]"
 msgid "Increase 5/10/15% of your attacking speed"
-msgstr ""
+msgstr "Aumenta la velocidad de ataque en un 5/10/15%"
 
 #. Key:	[3009001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3662,7 +3669,7 @@ msgstr "Núcleo de velocidad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3009002]"
 msgid "Increase 10/15/20% of your moving speed"
-msgstr ""
+msgstr "Aumenta la velocidad de movimiento en un 10/15/20%"
 
 #. Key:	[3010001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3686,7 +3693,7 @@ msgstr "Alma furiosa"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3010002]"
 msgid "When you knock up an enemy, gain Super Armor for 3 seconds"
-msgstr ""
+msgstr "Cuando lanzas a un enemigo por los aires, obtienes superarmadura durante 3 segundos."
 
 #. Key:	[3011001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3710,7 +3717,7 @@ msgstr "Poder de reciclaje"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3011002]"
 msgid "Reduce the Super Move cost from 25 to 15 energy"
-msgstr ""
+msgstr "Reduce el costo de súper habilidad de 25 a 15 de energía"
 
 #. Key:	[3012001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3734,7 +3741,7 @@ msgstr "ritmo salvaje"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3012002]"
 msgid "When you dash, your next attack deals 50 extra points of damage"
-msgstr ""
+msgstr "Después de correr, el siguiente ataque inflige 5 puntos extra de daño."
 
 #. Key:	[3013001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3757,7 +3764,7 @@ msgstr "Thorns Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3013002]"
 msgid "Deflect 20/30/40 damage to your enemy each time you defend against an attack"
-msgstr ""
+msgstr "Deflect 20/30/40 damage to your enemy each time you defend against an attack."
 
 #. Key:	[3014001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3780,7 +3787,7 @@ msgstr "Vengeance Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
 msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)"
-msgstr ""
+msgstr "Knockup Launch Power increases by 5/10/15% each time you die in a battle (maximum 2 times)."
 
 #. Key:	[3015001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3803,7 +3810,7 @@ msgstr "Vampire Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3015002]"
 msgid "Kill an enemy to restore 100/150/200 Health"
-msgstr ""
+msgstr "Kill an enemy to restore 100/150/200 Health."
 
 #. Key:	[3016001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3826,7 +3833,7 @@ msgstr "Absorbing Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3016002]"
 msgid "Restore 10/20/30 Health each time you defend against an attack"
-msgstr ""
+msgstr "Restore 10/20/30 Health each time you defend against an attack."
 
 #. Key:	[3017001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3847,7 +3854,7 @@ msgstr "Comeback Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3017002]"
 msgid "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds"
-msgstr ""
+msgstr "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds."
 
 #. Key:	[3018001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3868,7 +3875,7 @@ msgstr "Bulletproof Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3018002]"
 msgid "Reduce damage sustained from Range attack by 15/20/25%"
-msgstr ""
+msgstr "Reduce damage sustained from ranged attacks by 15/20/25%."
 
 #. Key:	[3019001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3889,7 +3896,7 @@ msgstr "Grav Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3019002]"
 msgid "Reduce the knockup launch power received from an enemy by 5/10/15%"
-msgstr ""
+msgstr "Reduce the Knockup Launch Power received from an enemy by 5/10/15%."
 
 #. Key:	[3020001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3910,7 +3917,7 @@ msgstr "Pump Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3020002]"
 msgid "Restore 20 Health for every 6/4/2 jumps"
-msgstr ""
+msgstr "Restore 20 Health for every 6/4/2 jumps."
 
 #. Key:	[3021001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3931,7 +3938,7 @@ msgstr "Crackshot Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3021002]"
 msgid "Increase your Range attack damage by 15/20/25%"
-msgstr ""
+msgstr "Increase your ranged attack damage by 15/20/25%."
 
 #. Key:	[3022001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3952,7 +3959,7 @@ msgstr "Explosive Shield"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3022002]"
 msgid "When your defence is breached, generate an explosion to blow up surrounding enemies"
-msgstr ""
+msgstr "When your defence is breached, generate an explosion to blow up surrounding enemies."
 
 #. Key:	[3023001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3973,7 +3980,7 @@ msgstr "Shadow Hunter"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3023002]"
 msgid "Invisible after 4s no action of attacking or receiving damage. Attack or take damage to reappear"
-msgstr ""
+msgstr "Avoid attacking or taking damage for 4 seconds to become invisible. You'll reappear when you attack or take damage."
 
 #. Key:	[3024001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3994,7 +4001,7 @@ msgstr "Explosive Overload"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3024002]"
 msgid "Release your Super Move to create an explosion that can blow up surrounding enemies"
-msgstr ""
+msgstr "Release your Super Move to create an explosion that can blow up surrounding enemies."
 
 #. Key:	[3025001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4015,7 +4022,7 @@ msgstr "Persistence Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3025002]"
 msgid "Increase the duration of Super Armor by 15/30/45%"
-msgstr ""
+msgstr "Increase the duration of Super Armor by 15/30/45%."
 
 #. Key:	[3026001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4036,7 +4043,7 @@ msgstr "Chaos Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3026002]"
 msgid "Increase your attack and knockup launch power by 10/20/30% when your Health is below 20%"
-msgstr ""
+msgstr "Increase your Attack and Knockup Launch Power by 10/20/30% when your Health is below 20%."
 
 #. Key:	[3027001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4057,7 +4064,7 @@ msgstr "Endurance Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3027002]"
 msgid "Decrease damage taken by 10/20/30% when in Super Armor status"
-msgstr ""
+msgstr "Decrease damage taken by 10/20/30% when in Super Armor status."
 
 #. Key:	[3028001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4078,7 +4085,7 @@ msgstr "Energy Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3028002]"
 msgid "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%"
-msgstr ""
+msgstr "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%."
 
 #. Key:	[3029001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4099,7 +4106,7 @@ msgstr "Infinity Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3029002]"
 msgid "When using an item, gain a 15/30/45% chance that the item won't be consumed"
-msgstr ""
+msgstr "When using an item, gain a 15/30/45% chance that the item won't be consumed."
 
 #. Key:	[3030001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4120,7 +4127,7 @@ msgstr "Iron Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3030002]"
 msgid "Decrease damage taken by 10/15/20%"
-msgstr ""
+msgstr "Decrease damage taken by 10/15/20%."
 
 #. Key:	[3031001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4141,7 +4148,7 @@ msgstr "Cunning Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3031002]"
 msgid "Increase moving speed and jump height by 10/15/20% when your Health is below 20%"
-msgstr ""
+msgstr "Increase moving speed and jump height by 10/15/20% when your Health is below 20%."
 
 #. Key:	[3032001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4162,7 +4169,7 @@ msgstr "Spring Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3032002]"
 msgid "Increase jump height by 10/15/20%"
-msgstr ""
+msgstr "Increase jump height by 10/15/20%."
 
 #. Key:	[3033001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4183,7 +4190,7 @@ msgstr "Quick Charge Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3033002]"
 msgid "Decrease the time needed to charge an attack by 10/20/30%"
-msgstr ""
+msgstr "Decrease the time needed to charge an attack by 10/20/30%."
 
 #. Key:	[3034001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4204,7 +4211,7 @@ msgstr "Neurotoxin"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3034002]"
 msgid "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy"
-msgstr ""
+msgstr "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy."
 
 #. Key:	[3035001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4225,7 +4232,7 @@ msgstr "Deep Focus"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3035002]"
 msgid "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%"
-msgstr ""
+msgstr "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%."
 
 #. Key:	[3036001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4246,7 +4253,7 @@ msgstr "Frost Engine"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3036002]"
 msgid "Release your Super Move to create a Frost Nova and freeze surrounding enemies"
-msgstr ""
+msgstr "Release your Super Move to create a Frost Nova and freeze surrounding enemies."
 
 #. Key:	[4001116]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14595,14 +14602,14 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001518]"
-msgid "add"
+msgid "Would you like to experience the beginner tutorial?"
 msgstr ""
 
 #. Key:	[9001519]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001519]"
-msgid "add"
+msgid "You must choose your initial hero before being able to skip the beginner tutorial."
 msgstr ""
 
 #. Key:	[9001520]

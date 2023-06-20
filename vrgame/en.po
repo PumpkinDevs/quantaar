@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-17 07:53\n"
-"PO-Revision-Date: 2023-06-17 07:53\n"
+"POT-Creation-Date: 2023-06-20 06:43\n"
+"PO-Revision-Date: 2023-06-20 06:43\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -684,6 +684,13 @@ msgstr "找不到玩家"
 msgctxt "ST_Game_StateCode,[0020702]StopMatchmaking_Failed"
 msgid "連線失敗 [0020702]"
 msgstr "連線失敗 [0020702]"
+
+#. Key:	[0020703]CreatingBattleServer
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0020703]CreatingBattleServer"
+msgid "無法取消配對 因正在開啟戰鬥伺服器"
+msgstr "無法取消配對 因正在開啟戰鬥伺服器"
 
 #. Key:	[0020800]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1749,8 +1756,8 @@ msgstr "I have read and accepted the latest version of the terms of service on t
 #. InfoMetaData:	"西班牙" : "Advertencia de ataque de fotosensibilidad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005001]"
-msgid "Photosensitive seizure warning"
-msgstr "Photosensitive seizure warning"
+msgid "Photosensitive Seizure Warning"
+msgstr "Photosensitive Seizure Warning"
 
 #. Key:	[0005002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1775,8 +1782,8 @@ msgstr "A very small percentage of people may experience a seizure, nausea, dizz
 #. InfoMetaData:	"西班牙" : "Si usted experimenta algún síntoma\ndeje de jugar inmediatamente y\nconsulte a un médico."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
-msgid "Immediately stop playing and consult a doctor if you experience any symptoms"
-msgstr "Immediately stop playing and consult a doctor if you experience any symptoms"
+msgid "Immediately Stop Playing And Consult A Doctor If You Experience Any Symptoms"
+msgstr "Immediately Stop Playing And Consult A Doctor If You Experience Any Symptoms"
 
 #. Key:	[0005004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14595,15 +14602,15 @@ msgstr "Purchase 200 Tickets with 600 Galaxy Gems"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001518]"
-msgid "add"
-msgstr "add"
+msgid "Would you like to experience the beginner tutorial?"
+msgstr "Would you like to experience the beginner tutorial?"
 
 #. Key:	[9001519]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001519]"
-msgid "add"
-msgstr "add"
+msgid "You must choose your initial hero before being able to skip the beginner tutorial."
+msgstr "You must choose your initial hero before being able to skip the beginner tutorial."
 
 #. Key:	[9001520]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
