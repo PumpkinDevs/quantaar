@@ -117,7 +117,9 @@ menus:
   hsPlayerDailyTask: Daily Task
   hsPlayerMail: Mail
   hsPlayerHoldTools: Hold Items
-  hsPlayerExchangeCoupon: Exchange Gift Code
+  hsPlayerExchangeCoupon: Gift Code
+  hsPlayerOrderByIap: Iap Order
+  hsPlayerOrderByMall: Mall Order
   hsUserManagement: User Manage
   hsReportManagement: Report Manage
   hsReportFightRecord: Battle Report
@@ -188,7 +190,7 @@ login:
   passwordSureReg: Please enter confirm password
   passwordDifferentReg: The two passwords do not match!
   passwordUpdateReg: Password has been updated
-  signInDescription: SIGN IN TO YOUR QUANTAAR ACCOUNT
+  signInDescription: LOG IN TO YOUR QUANTAAR ACCOUNT
 countries:
   tw: Taiwan
 region:

@@ -118,6 +118,8 @@ menus:
   hsPlayerMail: 信件
   hsPlayerHoldTools: 持有道具
   hsPlayerExchangeCoupon: 兌換禮物序號
+  hsPlayerOrderByIap: 禮包購買紀錄
+  hsPlayerOrderByMall: 商城購買紀錄
   hsUserManagement: 帳號管理
   hsReportManagement: 報表管理
   hsReportFightRecord: 對戰報表
@@ -422,10 +424,9 @@ accountControl:
         operational: 操作
         status: 狀態
         createdAt: 創建時間
-        modifiedAt:
-          更新時間
+        modifiedAt: 更新時間
 
-          # 搜尋
+      # 搜尋
       search:
         status: 狀態
         operational: 操作
