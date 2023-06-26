@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-20 06:43\n"
-"PO-Revision-Date: 2023-06-20 06:43\n"
+"POT-Creation-Date: 2023-06-26 03:40\n"
+"PO-Revision-Date: 2023-06-26 03:40\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2238,8 +2238,8 @@ msgstr "Highest Score"
 #. InfoMetaData:	"西班牙" : "Partida jugada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010001]"
-msgid "Match Played"
-msgstr "Match Played"
+msgid "Matches Played"
+msgstr "Matches Played"
 
 #. Key:	[0010002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2251,8 +2251,8 @@ msgstr "Match Played"
 #. InfoMetaData:	"西班牙" : "Partida ganada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010002]"
-msgid "Match Won"
-msgstr "Match Won"
+msgid "Matches Won"
+msgstr "Matches Won"
 
 #. Key:	[0010003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12984,8 +12984,8 @@ msgstr "Complete 3 Quick Matches"
 #. InfoMetaData:	"簡體中文" : "前往训练模式"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001355]"
-msgid "Go to Training Mode"
-msgstr "Go to Training Mode"
+msgid "Go to the Training Mode"
+msgstr "Go to the Training Mode"
 
 #. Key:	[9001356]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14602,8 +14602,8 @@ msgstr "Purchase 200 Tickets with 600 Galaxy Gems"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001518]"
-msgid "Would you like to experience the beginner tutorial?"
-msgstr "Would you like to experience the beginner tutorial?"
+msgid "Ready to start the Tutorial?"
+msgstr "Ready to start the Tutorial?"
 
 #. Key:	[9001519]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

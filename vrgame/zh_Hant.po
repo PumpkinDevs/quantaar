@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-20 06:43\n"
-"PO-Revision-Date: 2023-06-20 06:43\n"
+"POT-Creation-Date: 2023-06-26 03:40\n"
+"PO-Revision-Date: 2023-06-26 03:40\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -2238,7 +2238,7 @@ msgstr "最高分數"
 #. InfoMetaData:	"西班牙" : "Partida jugada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010001]"
-msgid "Match Played"
+msgid "Matches Played"
 msgstr "遊玩場數"
 
 #. Key:	[0010002]
@@ -2251,7 +2251,7 @@ msgstr "遊玩場數"
 #. InfoMetaData:	"西班牙" : "Partida ganada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0010002]"
-msgid "Match Won"
+msgid "Matches Won"
 msgstr "勝利場數"
 
 #. Key:	[0010003]
@@ -12984,7 +12984,7 @@ msgstr "完成三次快速配對"
 #. InfoMetaData:	"簡體中文" : "前往训练模式"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001355]"
-msgid "Go to Training Mode"
+msgid "Go to the Training Mode"
 msgstr "前往訓練模式"
 
 #. Key:	[9001356]
@@ -14602,7 +14602,7 @@ msgstr "使用 600 銀河晶鑽購買票券 200 張"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001518]"
-msgid "Would you like to experience the beginner tutorial?"
+msgid "Ready to start the Tutorial?"
 msgstr "是否要體驗新手教學？"
 
 #. Key:	[9001519]
