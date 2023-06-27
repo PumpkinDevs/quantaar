@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-26 03:40\n"
-"PO-Revision-Date: 2023-06-26 03:40\n"
+"POT-Creation-Date: 2023-06-27 06:50\n"
+"PO-Revision-Date: 2023-06-27 06:50\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -12574,8 +12574,8 @@ msgstr "ダーツボード"
 #. InfoMetaData:	"簡體中文" : "系统错误。请重试。"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001314]"
-msgid "System error. Please retry."
-msgstr "システムエラー　再試行してください"
+msgid "Please check your internet connection and try reconnecting to the game."
+msgstr "インターネット接続を確認し、ゲームに再接続してみてください"
 
 #. Key:	[9001315]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12724,7 +12724,7 @@ msgstr "ラウンド"
 #. InfoMetaData:	"簡體中文" : "当启动 VIP 限定的快速配对后，您会优先与 VIP 限定的房间配对"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001329]"
-msgid "When you use VIP Access Quick Match, the matchmaking will prioritize VIP Access rooms."
+msgid "When you use VIP Access quick match, the matchmaking will prioritize VIP Access rooms."
 msgstr "VIP 限定のクイックマッチを使用すると、マッチメイキングでは VIP 限定の部屋が優先されます。"
 
 #. Key:	[9001330]
@@ -12874,7 +12874,7 @@ msgstr "クイックマッチで勝利（どのモードでも可）"
 #. InfoMetaData:	"簡體中文" : "前往社交大厅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001344]"
-msgid "Enter Social Hall"
+msgid "Enter Social"
 msgstr "ソーシャルホールに入る"
 
 #. Key:	[9001345]
@@ -12884,7 +12884,7 @@ msgstr "ソーシャルホールに入る"
 #. InfoMetaData:	"簡體中文" : "游玩快速配对足球模式两次"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001345]"
-msgid "Quick match Soccer Mode 2 times"
+msgid "Quick-match Soccer Mode 2 times"
 msgstr "クイックマッチで2回サッカーをする"
 
 #. Key:	[9001346]
@@ -12934,7 +12934,7 @@ msgstr "ロビーの音楽を変更する"
 #. InfoMetaData:	"簡體中文" : "与一名玩家碰拳"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001350]"
-msgid "Fist bump a player"
+msgid "Give a fist bump to a player"
 msgstr "プレイヤー1人にフィストバンプする"
 
 #. Key:	[9001351]
@@ -12974,7 +12974,7 @@ msgstr "観察者を１度カスタマイズする"
 #. InfoMetaData:	"簡體中文" : "完成三次快速配对"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001354]"
-msgid "Complete 3 Quick Matches"
+msgid "Complete 3 quick match in any mode"
 msgstr "3回クイックマッチを完了する"
 
 #. Key:	[9001355]
@@ -13094,7 +13094,7 @@ msgstr "フローで、ダメージを累計3,000与える"
 #. InfoMetaData:	"簡體中文" : "使用磁暴，累积造成3000点伤害"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001366]"
-msgid "Deal a total of 3,000 damage over time using Plasma."
+msgid "Deal a total of 3,000 damage over time using Plasma"
 msgstr "プラズマで、ダメージを累計3,000与える"
 
 #. Key:	[9001367]
@@ -13364,7 +13364,7 @@ msgstr "ジェネラリストのヒーローで、累計10キルを達成する"
 #. InfoMetaData:	"簡體中文" : "使用射手型英雄，累积造成10个击杀"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001393]"
-msgid "Accumulate 10 kills over time using Shooter-type Hero."
+msgid "Accumulate 10 kills over time using Shooter-type Hero"
 msgstr "狙撃手タイプのヒーローで、累計10キルを達成する"
 
 #. Key:	[9001394]
