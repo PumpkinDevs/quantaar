@@ -40,7 +40,7 @@ menus:
   hsfourZeroFour: "404"
   hsfourZeroOne: "403"
   hsFive: "500"
-  hscomponents: 組件
+  hscomponents: 组件
   hsmessage: 消息提示組件
   hsvideo: 視頻組件
   hsmap: 地圖組件
@@ -105,8 +105,8 @@ menus:
   hsPureTableBase: 基礎用法（23個示例）
   hsPureTableHigh: 高級用法（10個示例）
   hsTree: 大數據數業務组件
-  hsMenuoverflow: 目標超出顯示文字提示
-  hsChildMenuoverflow: 選單超出顯示文字提示
+  hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
+  hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
   hsPlayerList: 玩家列表
   hsPlayer: 玩家資料
   hsUserManagement: 帳號管理
@@ -131,8 +131,8 @@ menus:
   hsHeroList: 英雄列表
   hsHeroDetail: 英雄詳情
   hsActivityManagement: 活動管理
-  hsActivityCouponList: 禮物序號列表
-  hsActivityCouponDetail: 禮物序號詳情
+  hsActivityCouponList: 優惠券列表
+  hsActivityCouponDetail: 優惠券詳情
   hsGameManagement: 遊戲管理
   hsGameMapList: 地圖列表
   hsGameMallList: 商城列表
@@ -256,8 +256,8 @@ fightTypes:
 
 # 幣別類型
 currency:
-  coin0: 銀河晶鑽
-  coin1: 星辰幣
+  coin0: 幣別0
+  coin1: 幣別1
 
 # 道具對應 mark 翻譯
 toolMark:
@@ -268,9 +268,9 @@ toolMark:
   lootbox: 寶箱
   system: system
   emoji: emoji
-  particle: 個性粒子
+  particle: 粒子特效
   skinHero: skinHero
-  token: 代幣
+  token: token
   observers: 觀察者道具
   heroes: 英雄們
   cores: 核心們
@@ -286,12 +286,12 @@ qualityTypes:
 
 # 觀察者分類選項項
 helmetTypes:
-  head: 頭部
-  skin: 皮膚
-  none: 無
-  hands: 手部
-  eyesAndears: 眼睛 & 耳朵
-  accessories: 飾品
+  head: Head
+  skin: Skin
+  none: None
+  hands: Hands
+  eyesAndears: Eyes & Ears
+  accessories: Accessories
 
 # 核心分類選項
 coreTypes:
@@ -301,20 +301,20 @@ coreTypes:
 
 # 英雄類別選項
 heroTypes:
-  none: 無
+  none: None
   fighter: 鬥士
   assassin: 刺客
-  generalist: 平衡
+  generalist: 平衡型
   shooter: 射手
 
 # 寶箱類型
 lootboxTypes:
-  none: 無
-  normal: 普通
+  none: None
+  normal: Normal
 
 # 報表
 reportControl:
-    # 對戰報表 url: /report/fight-record/index
+  # 對戰報表 url: /report/fight-record/index
   fightRecord:
     title: 對戰紀錄
     exportCSV: 匯出CSV
@@ -338,13 +338,13 @@ reportControl:
       deadCount: 死亡次數
       team: 隊伍
 
-        # 對戰類型次數總計報表 url: /report/fight-type/index
-    fightType:
-      title: 對戰類型次數總計
-      type: 類型
-      count: 次數
+  # 對戰類型次數總計報表 url: /report/fight-type/index
+  fightType:
+    title: 對戰類型次數總計
+    type: 類型
+    count: 次數
 
-        # 英雄報表 url: /report/hero/index
+  # 英雄報表 url: /report/hero/index
   heroRecord:
     title: 英雄使用紀錄
     name: 名稱
@@ -359,21 +359,21 @@ reportControl:
     avgDamage: 每場平均傷害輸出
     avgExskill: 每場平均奧義施放次數
 
-        # 地圖報表 url: /report/map/index
+  # 地圖報表 url: /report/map/index
   mapRecord:
     title: 地圖使用紀錄
     name: 名稱
     useCount: 使用次數
     type: 類型
 
-        # 玩家首次付費訂單報表 url: /report/first-pay-order/index
+  # 玩家首次付費訂單報表 url: /report/first-pay-order/index
   playerFirstPayOrder:
     title: 玩家首次付費訂單報表
     avgTime: 首次付費平均時間
     avgPrice: 首次付費平均價格
     count: 購買次數
 
-        # 熱門付費訂單報表 url: /report/first-pay-order/index
+  # 熱門付費訂單報表 url: /report/first-pay-order/index
   hotPayOrderByIap:
     title: 熱門付費訂單報表
     skuName: 禮包名稱
@@ -383,23 +383,23 @@ reportControl:
     totalCount: 購買次數總計
     avgPrice: 平均金額
 
-        # 商城訂單報表 url: /report/mall-order/index
+  # 商城訂單報表 url: /report/mall-order/index
   mallOrder:
     title: 商城訂單報表
-    coin0: 銀河晶鑽
-    coin1: 星辰幣
+    coin0: 幣別0
+    coin1: 幣別1
     count: 販售數量
     mark: 分類
     name: 名稱
 
-        # 玩家等級分佈報表 url: /report/player-level-distribution/index
+  # 玩家等級分佈報表 url: /report/player-level-distribution/index
   playerLevel:
     title: 玩家等級分佈報表
     level: 等級
     count: 人數
     playersId: 玩家ID
 
-        # 玩家等級分佈報表 url: /report/player-fight-record-time/index
+  # 玩家等級分佈報表 url: /report/player-fight-record-time/index
   playerFightRecordTime:
     title: 玩家對戰時長分析
     playerId: 玩家ID
@@ -408,36 +408,36 @@ reportControl:
     count: 對戰總次數
     avgTime: 每場對戰平均時間
 
-        # 玩家首次付費訂單報表 url: /report/player-deposit/index
-    playerDeposit:
-      title: 玩家儲值分析
-      playerCount: 玩家人數
-      iapCount: 訂單數量
-      totalPrice: 總計金額
+  # 玩家首次付費訂單報表 url: /report/player-deposit/index
+  playerDeposit:
+    title: 玩家儲值分析
+    playerCount: 玩家人數
+    iapCount: 訂單數量
+    totalPrice: 總計金額
 
 # 系統管理
 systemControl:
-    # 信件列表 url: /system/mail/index
+  # 信件列表 url: /system/mail/index
   mail:
     title: 標題
     content: 內容
     imageLink: 圖片連結
-    giftId: 禮物　ID
+    giftId: 禮物id
     recipient: 區域與身分
     dueDate: 到期時間
     createdAt: 創建時間
     modifiedAt: 更新時間
     createMail: 新增郵件
     mailList: 郵件列表
-            # 搜尋信件列表
+    # 搜尋信件列表
     search:
       awsRegion: 國家區域
       position: 玩家身份
       dueDate: 信件過期時間
 
-        # 新增信件 url: /system/mail/index
+  # 新增信件 url: /system/mail/index
   createMail:
-        # 表單資料
+    # 表單資料
     formTitle: 新增信件
     isImportantMail: 是否為重要郵件
     title: 信件標題
@@ -449,7 +449,7 @@ systemControl:
     awsRegion: 國家區域
     position: 玩家身份
     dueDate: 信件過期時間
-            # 輸入框提示文字
+    # 輸入框提示文字
     placeholder:
       inputTitle: 請輸入標題
       inputContent: 請輸入信件內容
@@ -458,7 +458,7 @@ systemControl:
       inputRecipientAwsRegion: 請選擇國家區域
       inputRecipientPosition: 請選擇玩家資格
       inputDueDate: 請選擇信件過期時間（非必填）
-                # 下拉選單翻譯
+    # 下拉選單翻譯
     options:
       gift:
         label1: 無需禮物
@@ -466,7 +466,7 @@ systemControl:
 
 # 帳號管理
 accountControl:
-    # 玩家列表 url: /user/player-list/index
+  # 玩家列表 url: /user/player-list/index
   player:
     playerList: 玩家列表
     createPlayer: 新增玩家
@@ -478,7 +478,7 @@ accountControl:
     lastPay: 最後一次付款
     createdAt: 創建時間
     operation: 操作
-            # 搜尋玩家列表
+    # 搜尋玩家列表
     search:
       fullName: 玩家全名
       status: 狀態
@@ -486,24 +486,24 @@ accountControl:
       placeholder:
         status: 請選擇狀態
 
-        # 新增玩家 url: /user/player-list/index
+  # 新增玩家 url: /user/player-list/index
   createPlayer:
-        # 表單資料
+    # 表單資料
     formTitle: 新增玩家
     fullName: 玩家全名
     countryCode: 國家代碼
     awsRegion: 國家區域
-    platformId: 裝置 ID
+    platformId: 裝置ID
     platformType: 平台類型
-            # 輸入框提示文字
+    # 輸入框提示文字
     placeholder:
       inputFullName: 請輸入玩家全名
       inputCountryCode: 請選擇國家代碼
       inputAwsRegion: 請選擇國家區域
-      inputPlatformId: 請輸入裝置 ID
+      inputPlatformId: 請輸入裝置ID
       inputPlatformType: 請選擇裝置類型
 
-        # 玩家資料詳情頁 url: /user/player/{id}
+  # 玩家資料詳情頁 url: /user/player/{id}
   playerDetail:
     menus:
       info: 玩家資訊
@@ -522,7 +522,7 @@ accountControl:
       seasonDailyTask: 每日賽季任務
       mail: 信件
 
-                # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
     info:
       fullName: 玩家全名
       username: 玩家名稱
@@ -534,8 +534,16 @@ accountControl:
       phone: 電話
       modifiedAt: 修改日期
       createdAt: 創建日期
+      experience: 經驗值
+      playerLevel: 等級
+      seasonPts: 賽季積分
+      seasonTicket: 賽季票數
+      unsetPhone: 未設定電話
+      cores: 符文
+      level5At: 升級五等時間
+      currentSeasonMaxpts: 當前賽季最高積分
 
-                # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
     createHoldTool:
       formTitle: 新增手持道具
       createTool: 新增道具
@@ -543,7 +551,7 @@ accountControl:
       quantity: 數量
       operational: 操作
 
-                # 玩家資料詳情頁 -> 手持道具 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 手持道具 url: /user/player/{id}
     holdTool:
       title: 玩家手持道具
       name: 名稱
@@ -551,13 +559,13 @@ accountControl:
       createdAt: 創建時間
       modifiedAt: 更新時間
 
-                # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
     MallOrderRecord:
       title: 商城購買紀錄
       createOrder: 新增商城訂單
       refund: 退款
       productName: 商品名稱
-      couponId: 禮物序號
+      couponId: 優惠券ID
       refundId: 退款ID
       currency: 幣別
       price: 價錢
@@ -566,7 +574,7 @@ accountControl:
       modifiedAt: 更新時間
       operational: 操作
 
-                # 退款表單
+      # 退款表單
       refundForm:
         formTitle: 商城訂單退款
         isTakeBack: 是否歸還商品
@@ -577,13 +585,13 @@ accountControl:
           inputCoin: 請輸入退款額度
           inputRetainTool: 請選擇是否要將商品取回
 
-                # 玩家資料詳情頁 -> 商城購買紀錄 -> 新增商城訂單彈窗 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 商城購買紀錄 -> 新增商城訂單彈窗 url: /user/player/{id}
     createMallOrder:
       formTitle: 新增商城訂單
-                # 表單資料
+      # 表單資料
       tool: 道具
       currency: 幣別
-      coupon: 禮物序號
+      coupon: 優惠券
       plan: 方案
       buyTime: 訂單購買時間
       options:
@@ -594,44 +602,44 @@ accountControl:
         inputToolId: 請輸入 toolID
         inputCurrency: 請選擇幣別
 
-                # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: 重置玩家
       password: 密碼
       resetPassword: 重置密碼
       resetPasswordFail: 重置密碼失敗
 
-                # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
     updateWallet:
       fullName: 玩家全名
-      coin0Last: 銀河晶鑽剩餘額度
-      coin1Last: 星辰幣剩餘額度
+      coin0Last: 幣別0剩餘額度
+      coin1Last: 幣別1剩餘額度
       createdAt: 創建時間
       modifiedAt: 更新時間
       walletInOrOut: 錢包存入或領出
       deposit: 存入
       withdraw: 領出
 
-                # 表單內容
-      coin0: 銀河晶鑽
-      coin1: 星辰幣
-      reason: 備註
+      # 表單內容
+      coin0: 幣別0
+      coin1: 幣別1
+      reason: 備注
       placeholder:
         inputReason: 請輸入備註
         inputPoint: 請輸入額度
 
-                    # 紀錄
+      # 紀錄
       record:
         title: 錢包紀錄
-        orderId: 訂單 ID
-        reason: 備註
+        orderId: 訂單ID
+        reason: 備注
         point: 額度
         operational: 操作
         status: 狀態
         createdAt: 創建時間
         modifiedAt: 更新時間
 
-                    # 搜尋
+      # 搜尋
       search:
         status: 狀態
         operational: 操作
@@ -645,7 +653,7 @@ accountControl:
           success: 成功
           fail: 失敗
 
-                # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
     historyRecord:
       title: 對戰歷史紀錄
       fightPlayer: 對戰玩家
@@ -669,7 +677,7 @@ accountControl:
         deadCount: 死亡次數
         team: 隊伍
 
-                # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
     fightTypeRecord:
       title: 對戰類型紀錄
       fightType: 類型
@@ -681,7 +689,7 @@ accountControl:
       kill: 殺敵次數
       kd: KD比率
 
-                # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
     heroHistoryRecord:
       title: 英雄戰績記錄
       name: 名稱
@@ -691,7 +699,7 @@ accountControl:
       deadCount: 死亡次數
       killCount: 殺敵次數
 
-                # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
     iapOrderRecord:
       title: 禮包購買紀錄
       skuId: 禮包ID
@@ -703,14 +711,14 @@ accountControl:
       createdAt: 創建時間
       modifiedAt: 更新時間
 
-                # 玩家資料詳情頁 -> 玩家好友 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 玩家好友 url: /user/player/{id}
     friends:
       title: 玩家好友
       playerName: 玩家名稱
       level: 等級
       onlineStatus: 在線狀態
 
-                # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
     dailyTask:
       title: 每日任務
       confirmFinish: 是否完成每日任務
@@ -720,7 +728,7 @@ accountControl:
       totalNumber: 需完成次數或數值
       doneCount: 完成次數或數值
 
-                # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
     seasonDailyTask:
       title: 每日賽季任務
       createSeasonProcess: 新增賽季進度
@@ -735,7 +743,7 @@ accountControl:
         placeholder:
           inputDoneNumber: 請輸入進度值
 
-                # 玩家資料詳情頁 -> 信件 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 信件 url: /user/player/{id}
     mail:
       tableTitle: 信件列表
       title: 標題
@@ -791,13 +799,13 @@ heroControl:
 
 # 遊戲管理
 gameControl:
-    # 地圖列表 url: /game/map/index
+  # 地圖列表 url: /game/map/index
   mapList:
     title: 地圖列表
     name: 名稱
     type: 類型
 
-        # 商城列表 url: /game/mall/index
+  # 商城列表 url: /game/mall/index
   mallList:
     title: 商城列表
     name: 名稱
@@ -810,19 +818,19 @@ gameControl:
     search:
       options:
         useCoinOptions:
-          option1: 銀河晶鑽
-          option2: 星辰幣
+          option1: 幣別0
+          option2: 幣別1
           option3: 通用幣別
           option4: 未設定
 
-        # 伺服器主機列表 url: /game/server/index
+  # 伺服器主機列表 url: /game/server/index
   serverList:
     title: 伺服器主機列表
     name: 名稱
     staging: Staging
     remark: 備注
 
-        # 牌位賽列表 url: /game/qualifying/index
+  # 牌位賽列表 url: /game/qualifying/index
   qualifyingList:
     title: 牌位賽列表
     name: 牌位名稱
@@ -833,12 +841,12 @@ gameControl:
     deleteData: 刪除資料
     createQualifying: 新增牌位
     confirmDelete: 是否刪除
-            # 細節頁
+    # 細節頁
     detail:
       menus:
         menu1: 牌位賽資訊
         menu2: 更新牌位賽資訊
-                # 表單
+    # 表單
     form:
       formTitle: 新增牌位
       name: 牌位名稱
@@ -854,7 +862,7 @@ gameControl:
         inputNumber: 請輸入贈送獎勵數量
         inputDescription: 請輸入牌位賽描述
 
-        # 賽季列表
+  # 賽季列表
   seasonList:
     title: 賽季列表
     createSeason: 新增賽季
@@ -868,7 +876,7 @@ gameControl:
       name: 名稱
       description: 描述
       score: 分數
-                # 細節
+    # 細節
     detail:
       menus:
         menu1: 賽季資訊
@@ -877,10 +885,10 @@ gameControl:
       cnName: 簡體名稱
       enName: 英文名稱
       jpName: 日文名稱
-                # 搜尋
+    # 搜尋
     search:
       startDate: 賽季開始時間
-                # 表單
+    # 表單
     form:
       formTitle: 新增賽季
       startDate: 賽季開始時間
@@ -895,7 +903,7 @@ gameControl:
         inputStartDate: 請選擇賽季開始時間
         inputEndDate: 請選擇賽季結束時間
 
-        # 禮包列表 url: /game/sku/index
+  # 禮包列表 url: /game/sku/index
   skuList:
     title: 禮包列表
     sn: 序號
@@ -908,7 +916,7 @@ gameControl:
 
 # 道具管理
 toolControl:
-    # 道具列表 url: /tool/equipment/{mark}
+  # 道具列表 url: /tool/equipment/{mark}
   equipmentList:
     createTool: 新增道具
     deleteData: 刪除資料
@@ -952,24 +960,24 @@ toolControl:
       info: 資訊
     emojiMark:
       name: 名稱
-      coin1: 星辰幣
+      coin1: 幣別1
       holdMax: 持有最多數量
       startTime: 開始時間
       endTime: 結束時間
       noSetTime: 未設定時間
-                # 細節頁
+    # 細節頁
     detail:
       menus:
         menu1: 道具資訊
         menu2: 更新道具資訊
       info:
         name: 道具名稱
-                # 搜尋
+    # 搜尋
     search:
       type: 類型
       placeholder:
         inputType: 請選擇類型
-                # 表單
+    # 表單
     form:
       formTitle: 新增道具
       name: 名稱
@@ -980,14 +988,14 @@ toolControl:
         inputStartTime: 請選擇開始時間（非必填）
         inputEndTime: 請選擇結束時間（非必填）
         required: 為必填
-                    # 寶箱表單
+      # 寶箱表單
       lootbox:
-        coin1: 價值(星辰幣)
+        coin1: 價值(幣別1)
         isMallProduct: 是否為商城商品
         qualityMini: 稀有度最小值
         qualityMax: 稀有度最大值
         markRange: 寶箱內容物範圍
-                    # 選項
+      # 選項
       options:
         lootboxForOrigin:
           all: 全部道具
@@ -1015,7 +1023,7 @@ toolControl:
           hero_particle: Hero Particle
           daily_task: Daily Task
 
-        # 禮物列表 url: /tool/gift
+  # 禮物列表 url: /tool/gift
   giftList:
     title: 禮物列表
     createGift: 新增禮物
@@ -1026,12 +1034,12 @@ toolControl:
     dueDate: 截止時間
     notSetStartDate: 未設定開始日
     notSetDueDate: 未設定截止日
-            # 細節頁
+    # 細節頁
     detail:
       menus:
         menu1: 禮物資訊
         menu2: 更新禮物資訊
-                # 表單
+    # 表單
     form:
       formTitle: 新增禮物
       toolId: 禮物
@@ -1046,30 +1054,30 @@ toolControl:
 
 # 活動管理
 activityControl:
-    # 優惠券列表 url: /activity/coupon
+  # 優惠券列表 url: /activity/coupon
   couponList:
-    title: 禮物序號列表
-    createCoupon: 新增禮物序號
-    sn: 禮物序號
+    title: 優惠券列表
+    createCoupon: 新增優惠券
+    sn: 優惠券序號
     type: 類型
     number: 數量
     startDate: 開始時間
     dueDate: 截止時間
-            # 細節頁
+    # 細節頁
     detail:
       menus:
-        menu1: 禮物序號資訊
-        menu2: 更新禮物序號資訊
+        menu1: 優惠券資訊
+        menu2: 更新優惠券資訊
       mailId: 信件ID
-      coin0Discount: 銀河晶鑽優惠
-      coin1Discount: 星辰幣優惠
+      coin0Discount: 幣別0優惠
+      coin1Discount: 幣別1優惠
       emptyGiftData: 沒有禮物資料
-                # 表單
+    # 表單
     form:
-      formTitle: 新增禮物序號
-      admin: 新增此禮物序號人員
-      sn: 禮物序號
-      description: 禮物序號內容
+      formTitle: 新增優惠券
+      admin: 新增此優惠券人員
+      sn: 優惠券序號
+      description: 優惠券內容
       number: 數量
       mailId: 信件
       createMail: 新增信件
@@ -1078,7 +1086,7 @@ activityControl:
       placeholder:
         inputStartDate: 請選擇開始時間（非必填）
         inputDueDate: 請選擇截止時間（非必填）
-        inputAdmin: 新增禮物序號人員為必填
+        inputAdmin: 新增優惠券人員為必填
         inputSn: 優惠券序號為必填
         inputSn2: 序號須為6~9位數
         inputNumber: 數量為必填
@@ -1090,7 +1098,7 @@ activityControl:
 
 # 首頁
 home:
-    # 玩家活躍人數圓餅圖
+  # 玩家活躍人數圓餅圖
   playerActive:
     title: 玩家活躍人數
     dau: 日活躍人數
@@ -1100,11 +1108,11 @@ home:
     getWauDataFail: 取得週活躍人數失敗
     getMauDataFail: 取得月活躍人數失敗
 
-        # 英雄使用次數柱狀圖
-    heroUseCount:
-      title: 英雄使用次數
-      useCount: 使用次數
+  # 英雄使用次數柱狀圖
+  heroUseCount:
+    title: 英雄使用次數
+    useCount: 使用次數
 
-        # 玩家當月儲值分析
-    playerMonthDeposit:
-      title: 玩家當月儲值分析
+  # 玩家當月儲值分析
+  playerMonthDeposit:
+    title: 玩家當月儲值分析

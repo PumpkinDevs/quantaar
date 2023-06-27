@@ -252,6 +252,7 @@ displayText:
   profile: 個人資料
   friends: 好友
   version: 版本號
+  invitationCode: 邀請碼
 
 # 對戰類型
 fightTypes:

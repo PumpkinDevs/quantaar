@@ -105,8 +105,8 @@ menus:
   hsPureTableBase: 基礎用法（23個示例）
   hsPureTableHigh: 高級用法（10個示例）
   hsTree: 大數據數業務组件
-  hsMenuoverflow: 目標超出顯示文字提示
-  hsChildMenuoverflow: 選單超出顯示文字提示
+  hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
+  hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
   hsPlayerList: 玩家列表
   hsPlayer: 玩家資料
   hsPlayerInfo: 個人資料
@@ -252,6 +252,7 @@ displayText:
   profile: 個人資料
   friends: 好友
   version: 版本號
+  invitationCode: 邀請碼
 
 # 對戰類型
 fightTypes:
@@ -273,9 +274,9 @@ toolMark:
   lootbox: 寶箱
   system: system
   emoji: emoji
-  particle: 個性粒子
+  particle: 粒子特效
   skinHero: skinHero
-  token: 代幣
+  token: token
   observers: 觀察者道具
   heroes: 英雄們
   cores: 核心們
@@ -545,9 +546,8 @@ accountControl:
 
     # 兌換優惠券 url: /game/user/exchange-coupon
     exchangeCoupon:
-      title:
-        兌換禮物序號
-        # 表單
+      title: 兌換禮物序號
+      # 表單
       form:
         uuid: 玩家 UID
         coupon: 禮物序號

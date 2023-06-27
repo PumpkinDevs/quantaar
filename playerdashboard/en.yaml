@@ -254,6 +254,7 @@ displayText:
   profile: Profile
   friends: Friends
   version: Version
+  invitationCode: Invitation Code
 
 # fight types
 fightTypes:

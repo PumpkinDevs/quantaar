@@ -1,35 +1,35 @@
 buttons:
-  hsLoginOut: LOG OUT
+  hsLoginOut: LoginOut
   hsfullscreen: FullScreen
   hsexitfullscreen: ExitFullscreen
   hsrefreshRoute: RefreshRoute
   hslogin: Login
-  hsadd: ADD
-  hsmark: MARK/CANCEL
-  hssave: SAVE
+  hsadd: Add
+  hsmark: Mark/Cancel
+  hssave: Save
   hssearch: Search
   hsexpendAll: Expand All
   hscollapseAll: Collapse All
-  hssystemSet: Open Project Config
-  hsdelete: DELETE
+  hssystemSet: Open ProjectConfig
+  hsdelete: Delete
   hsreload: Reload
-  hscloseCurrentTab: Close Current Tab
-  hscloseLeftTabs: Close Left Tabs
-  hscloseRightTabs: Close Right Tabs
-  hscloseOtherTabs: Close Other Tabs
-  hscloseAllTabs: Close All Tabs
+  hscloseCurrentTab: Close CurrentTab
+  hscloseLeftTabs: Close LeftTabs
+  hscloseRightTabs: Close RightTabs
+  hscloseOtherTabs: Close OtherTabs
+  hscloseAllTabs: Close AllTabs
   hswholeFullScreen: FullScreen
   hswholeExitFullScreen: ExitFull
   hscontentFullScreen: Content FullScreen
   hscontentExitFullScreen: Content ExitFullScreen
-  hsSure: SUBMIT
-  hsCancel: CANCEL
-  hsSearch: SEARCH
-  hsReset: RESET
+  hsSure: Submit
+  hsCancel: Cancel
+  hsSearch: Search
+  hsReset: Reset
   hsBackToList: Back To List
 menus:
-  hshome: HOME
-  hslogin: LOG IN
+  hshome: Home
+  hslogin: Login
   hsempty: Empty Page
   hsSysManagement: System Manage
   hsUser: User Manage
@@ -106,12 +106,12 @@ menus:
   hsPureTableHigh: High Usage
   hsTree: Big Data Tree
   hsMenuoverflow: Menu Overflow Show Tooltip Text
-  hsChildMenuoverflow: Child Menu Overflow Show Tooltip Text
+  hsChildMenuoverflow: Child Menu Overflow Show Tooltip Text,
   hsPlayerList: Player List
   hsPlayer: Player Info
   hsUserManagement: User Manage
   hsReportManagement: Report Manage
-  hsReportFightRecord: Battle Report
+  hsReportFightRecord: Fight Report
   hsReportFightTypeCount: Fight Type Count
   hsReportHero: Hero Report
   hsReportMap: Map Report
@@ -122,7 +122,7 @@ menus:
   hsReportPlayerLevelDistribution: Player Level Report
   hsReportPlayerFightRecordTime: Player Fight Record Time
   hsMailList: Mail List
-  hsToolManagement: Item Manage
+  hsToolManagement: Tool Manage
   hsTooEquipmentlList: Equipment List
   hsToolEquipmentDetail: Equipment Detail
   hsToolGiftList: Gift List
@@ -131,8 +131,8 @@ menus:
   hsHeroList: Hero List
   hsHeroDetail: Hero Detail
   hsActivityManagement: Activity Manage
-  hsActivityCouponList: Gift Code List
-  hsActivityCouponDetail: Gift Code Detail
+  hsActivityCouponList: Coupon List
+  hsActivityCouponDetail: Coupon Detail
   hsGameManagement: Game Manage
   hsGameMapList: Map List
   hsGameMallList: Mall List
@@ -144,7 +144,7 @@ menus:
 status:
   hsLoad: Loading...
 login:
-  username: Account
+  username: Username
   password: Password
   verifyCode: VerifyCode
   remember: Remember Password
@@ -207,7 +207,7 @@ responseMessages:
   refundFail: Refund Fail
   deletSuccess: Delete Success
   deleteFail: Delete Fail
-  tokenExpired: The login session expired. please need login again.
+  tokenExpired: Login session expired. please need login again.
 
 # 常用顯示文字
 displayText:
@@ -222,7 +222,7 @@ displayText:
   emptyData: Empty Data
   view: View
   copy: Copy
-  fightType: Battle type
+  fightType: Fight type
   orderPrice: Order price
   currency: Currency,
   online: Online
@@ -256,8 +256,8 @@ fightTypes:
 
 # 幣別類型
 currency:
-  coin0: Galaxy Gems
-  coin1: Star Coins
+  coin0: Currency 0
+  coin1: Currency 1
 
 # 道具對應 mark 翻譯
 toolMark:
@@ -265,11 +265,11 @@ toolMark:
   hero: Hero
   core: Core
   toy: Toy
-  lootbox: Chest
+  lootbox: Lootbox
   system: System
   emoji: Emoji
   particle: Particle
-  skinHero: Hero Skin
+  skinHero: Skin Hero
   token: Token
   observers: Observers
   heroes: Heros
@@ -314,7 +314,7 @@ lootboxTypes:
 
 # report
 reportControl:
-    # fight report url: /report/fight-record/index
+  # fight report url: /report/fight-record/index
   fightRecord:
     title: Fight Record
     exportCSV: Export CSV
@@ -338,13 +338,13 @@ reportControl:
       deadCount: Dead Count
       team: Team
 
-        # 對戰類型次數總計報表 url: /report/fight-type/index
-    fightType:
-      title: Fight Type Count
-      type: Type
-      count: Count
+  # 對戰類型次數總計報表 url: /report/fight-type/index
+  fightType:
+    title: Fight Type Count
+    type: Type
+    count: Count
 
-        # 英雄報表 url: /report/hero/index
+  # 英雄報表 url: /report/hero/index
   heroRecord:
     title: Hero Record
     name: Name
@@ -359,21 +359,21 @@ reportControl:
     avgDamage: Every Game Avg Damage
     avgExskill: Every Game Avg Exskill
 
-        # 地圖報表 url: /report/map/index
+  # 地圖報表 url: /report/map/index
   mapRecord:
     title: Map Use Record
     name: Name
     useCount: Use Count
     type: Type
 
-        # 玩家首次付費訂單報表 url: /report/first-pay-order/index
+  # 玩家首次付費訂單報表 url: /report/first-pay-order/index
   playerFirstPayOrder:
     title: Player First Pay Order
     avgTime: First pay avg time
     avgPrice: First pay avg price
     count: Pay count
 
-        # 熱門付費訂單報表 url: /report/first-pay-order/index
+  # 熱門付費訂單報表 url: /report/first-pay-order/index
   hotPayOrderByIap:
     title: Hot Pay Order
     skuName: Name
@@ -383,23 +383,23 @@ reportControl:
     totalCount: Total Count
     avgPrice: Avg Price
 
-        # 商城訂單報表 url: /report/mall-order/index
+  # 商城訂單報表 url: /report/mall-order/index
   mallOrder:
     title: Mall Order Report
     coin0: Currency Coin0
-    coin1: Currency Star Coins
+    coin1: Currency Coin1
     count: Sales Volume
     mark: Type
     name: Name
 
-        # 玩家等級分佈報表 url: /report/player-level-distribution/index
+  # 玩家等級分佈報表 url: /report/player-level-distribution/index
   playerLevel:
     title: Player Level Distribution
     level: Level
     count: Count
     playersId: Player Ids
 
-        # 玩家等級分佈報表 url: /report/player-fight-record-time/index
+  # 玩家等級分佈報表 url: /report/player-fight-record-time/index
   playerFightRecordTime:
     title: Player Fight Record Time
     playerId: Player ID
@@ -408,16 +408,16 @@ reportControl:
     count: Count Fight
     avgTime: Average Fight Time
 
-        # 玩家首次付費訂單報表 url: /report/player-deposit/index
-    playerDeposit:
-      title: Player Deposit Report
-      playerCount: Count Player
-      iapCount: Count Order
-      totalPrice: Total Price
+  # 玩家首次付費訂單報表 url: /report/player-deposit/index
+  playerDeposit:
+    title: Player Deposit Report
+    playerCount: Count Player
+    iapCount: Count Order
+    totalPrice: Total Price
 
 # 系統管理
 systemControl:
-    # 信件列表 url: /system/mail/index
+  # 信件列表 url: /system/mail/index
   mail:
     title: Title
     content: Content
@@ -429,15 +429,15 @@ systemControl:
     modifiedAt: Modified At
     createMail: Create Mail
     mailList: Mail List
-            # 搜尋信件列表
+    # 搜尋信件列表
     search:
       awsRegion: Region
       position: Player Position
       dueDate: Due Date
 
-        # 新增信件 url: /system/mail/index
+  # 新增信件 url: /system/mail/index
   createMail:
-        # 表單資料
+    # 表單資料
     formTitle: Form Title
     isImportantMail: Is Important Mail
     title: Mail Title
@@ -449,7 +449,7 @@ systemControl:
     awsRegion: Region
     position: Player Position
     dueDate: Due Date
-            # 輸入框提示文字
+    # 輸入框提示文字
     placeholder:
       inputTitle: Please input title.
       inputContent: Please input content.
@@ -458,7 +458,7 @@ systemControl:
       inputRecipientAwsRegion: Please choose Region.
       inputRecipientPosition: Plesse choose player position.
       inputDueDate: Please choose due date. (optional)
-                # 下拉選單翻譯
+    # 下拉選單翻譯
     options:
       gift:
         label1: No need gift
@@ -466,7 +466,7 @@ systemControl:
 
 # 帳號管理
 accountControl:
-    # 玩家列表 url: /user/player-list/index
+  # 玩家列表 url: /user/player-list/index
   player:
     playerList: Player List
     createPlayer: Create Player
@@ -478,7 +478,7 @@ accountControl:
     lastPay: Last Pay
     createdAt: Created At
     operation: Operation
-            # 搜尋玩家列表
+    # 搜尋玩家列表
     search:
       fullName: Full Name
       status: Status
@@ -486,16 +486,16 @@ accountControl:
       placeholder:
         status: Please choose status
 
-        # 新增玩家 url: /user/player-list/index
+  # 新增玩家 url: /user/player-list/index
   createPlayer:
-        # 表單資料
+    # 表單資料
     formTitle: Create Player
     fullName: Full Name
     countryCode: Country Code
     awsRegion: Country Region
     platformId: Platform ID
     platformType: Platform Type
-            # 輸入框提示文字
+    # 輸入框提示文字
     placeholder:
       inputFullName: Please enter your full name.
       inputCountryCode: Please choose your country code.
@@ -503,7 +503,7 @@ accountControl:
       inputPlatformId: Please enter your platform ID.
       inputPlatformType: Please choose your platform type.
 
-        # 玩家資料詳情頁 url: /user/player/{id}
+  # 玩家資料詳情頁 url: /user/player/{id}
   playerDetail:
     menus:
       info: Info
@@ -522,7 +522,7 @@ accountControl:
       seasonDailyTask: Season Daily Task
       mail: Mail
 
-                # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
     info:
       fullName: Full Name
       username: Name
@@ -534,8 +534,16 @@ accountControl:
       phone: Phone
       modifiedAt: Modified Date
       createdAt: Created Date
+      experience: Experience
+      playerLevel: Player Level
+      seasonPts: Season Pts
+      seasonTicket: Season Ticket
+      unsetPhone: Un Set Phone Number
+      cores: Cores
+      level5At: Level 5 At
+      currentSeasonMaxpts: Current Season Max Pts
 
-                # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
     createHoldTool:
       formTitle: Create Hold Tool
       createTool: Create Tool
@@ -543,21 +551,21 @@ accountControl:
       quantity: Quantity
       operational: Operational
 
-                # 玩家資料詳情頁 -> 手持道具 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 手持道具 url: /user/player/{id}
     holdTool:
-      title: Player Hold Items
+      title: Player Hold Tool
       name: Name
-      toolId: Item ID
+      toolId: Tool ID
       createdAt: Created At
       modifiedAt: Modified At
 
-                # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 商城購買紀錄 url: /user/player/{id}
     MallOrderRecord:
       title: Mall Order Record
       createOrder: Create Order
       refund: Refund
       productName: Product Name
-      couponId: Gift Code ID
+      couponId: Coupon ID
       refundId: Refund ID
       currency: Currency
       price: Price
@@ -566,7 +574,7 @@ accountControl:
       modifiedAt: Modified At
       operational: Operational
 
-                # 退款表單
+      # 退款表單
       refundForm:
         formTitle: Mall Order Refund
         isTakeBack: Is take back or give
@@ -577,13 +585,13 @@ accountControl:
           inputCoin: Please enter refund point.
           inputRetainTool: Please confirm product need take back?
 
-                # 玩家資料詳情頁 -> 商城購買紀錄 -> 新增商城訂單彈窗 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 商城購買紀錄 -> 新增商城訂單彈窗 url: /user/player/{id}
     createMallOrder:
       formTitle: Create Mall Order
-                # 表單資料
+      # 表單資料
       tool: Tool
       currency: Currency
-      coupon: Gift Code
+      coupon: Coupon
       plan: Plan
       buyTime: Buy Time
       options:
@@ -594,44 +602,44 @@ accountControl:
         inputToolId: Please enter tool id.
         inputCurrency: Please choose currency.
 
-                # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: ResetPlayer
       password: Password
       resetPassword: Reset password
       resetPasswordFail: Reset password fail.
 
-                # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 更新玩家錢包 url: /user/player/{id}
     updateWallet:
       fullName: Full Name
-      coin0Last: Galaxy Gems Balance
-      coin1Last: Star Coins Balance
+      coin0Last: Coin0 Last
+      coin1Last: Coin1 Last
       createdAt: Created At
       modifiedAt: Modified At
       walletInOrOut: Deposit or Withdraw
       deposit: Deposit
       withdraw: Withdraw
 
-                # 表單內容
-      coin0: Galaxy Gems
-      coin1: Star Coins
-      reason: Note
+      # 表單內容
+      coin0: Coin0
+      coin1: Coin1
+      reason: Remark
       placeholder:
         inputReason: Please enter remark.
         inputPoint: Please enter point.
 
-                    # 紀錄
+      # 紀錄
       record:
         title: Wallet Record
         orderId: Order ID
-        reason: Note
+        reason: Remark
         point: Point
         operational: Operational
         status: Status
         createdAt: Created At
         modifiedAt: Modified At
 
-                    # 搜尋
+      # 搜尋
       search:
         status: Status
         operational: Operational
@@ -645,11 +653,11 @@ accountControl:
           success: Success
           fail: Fail
 
-                # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰歷史紀錄 url: /user/player/{id}
     historyRecord:
-      title: Battle History Record
-      fightPlayer: Battle Player
-      fightId: Battle ID
+      title: Fight History Record
+      fightPlayer: Fight Player
+      fightId: Fight Id
       matchMode: Match Mode
       battleMode: Battle Mode
       type: Type
@@ -669,33 +677,33 @@ accountControl:
         deadCount: Dead Count
         team: Team
 
-                # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 對戰類型紀錄 url: /user/player/{id}
     fightTypeRecord:
-      title: Battle Type Record
+      title: Fight Type Record
       fightType: Type
       roundCount: Round Count
       win: Win
       lose: Lose
-      douce: Draw
+      douce: Douce
       dead: Dead
       kill: Kill
       kd: KD Ratio
 
-                # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 英雄戰績記錄 url: /user/player/{id}
     heroHistoryRecord:
-      title: Hero Battle Record
+      title: Hero Fight Record
       name: Name
       winCount: Win Count
-      duceCount: Draw Count
+      duceCount: Duce Count
       loseCount: Lose Count
       deadCount: Dead Count
       killCount: Kill Count
 
-                # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 禮包購買紀錄 url: /user/player/{id}
     iapOrderRecord:
       title: Iap Order Record
       skuId: Sku ID
-      toolId: ltem ID
+      toolId: Tool ID
       currency: Currency
       currencyQuantity: Currency Quantity
       status: Status
@@ -703,14 +711,14 @@ accountControl:
       createdAt: Created At
       modifiedAt: Modified At
 
-                # 玩家資料詳情頁 -> 玩家好友 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 玩家好友 url: /user/player/{id}
     friends:
       title: Player Friends
       playerName: Player Name
       level: Level
       onlineStatus: Online Status
 
-                # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 每日任務 url: /user/player/{id}
     dailyTask:
       title: Daily Task
       confirmFinish: Confirm finish
@@ -720,7 +728,7 @@ accountControl:
       totalNumber: Need Finish Times
       doneCount: Finish Times
 
-                # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
     seasonDailyTask:
       title: Daily Season Task
       createSeasonProcess: Create Season Process
@@ -735,7 +743,7 @@ accountControl:
         placeholder:
           inputDoneNumber: Please enter process.
 
-                # 玩家資料詳情頁 -> 信件 url: /user/player/{id}
+    # 玩家資料詳情頁 -> 信件 url: /user/player/{id}
     mail:
       tableTitle: Mail List
       title: Title
@@ -791,13 +799,13 @@ heroControl:
 
 # 遊戲管理
 gameControl:
-    # 地圖列表 url: /game/map/index
+  # 地圖列表 url: /game/map/index
   mapList:
     title: Map List
     name: Name
     type: Type
 
-        # 商城列表 url: /game/mall/index
+  # 商城列表 url: /game/mall/index
   mallList:
     title: Mall List
     name: Name
@@ -810,19 +818,19 @@ gameControl:
     search:
       options:
         useCoinOptions:
-          option1: Galaxy Gems
-          option2: Star Coins
+          option1: coin0
+          option2: coin1
           option3: both
           option4: normal
 
-        # 伺服器主機列表 url: /game/server/index
+  # 伺服器主機列表 url: /game/server/index
   serverList:
     title: Server List
     name: Name
     staging: Staging
     remark: Remark
 
-        # 牌位賽列表 url: /game/qualifying/index
+  # 牌位賽列表 url: /game/qualifying/index
   qualifyingList:
     title: Qualifying List
     name: Qualifying Name
@@ -833,12 +841,12 @@ gameControl:
     deleteData: Delete Date
     createQualifying: Create Qualifying
     confirmDelete: Confirm Delete
-            # 細節頁
+    # 細節頁
     detail:
       menus:
         menu1: Qualifying Info
         menu2: Update Qualifying
-                # 表單
+    # 表單
     form:
       formTitle: Create Qualifying
       name: Qualifying Name
@@ -854,7 +862,7 @@ gameControl:
         inputNumber: Please enter quantity.
         inputDescription: Please enter description.
 
-        # 賽季列表
+  # 賽季列表
   seasonList:
     title: Season List
     createSeason: Create Season
@@ -868,7 +876,7 @@ gameControl:
       name: Name
       description: Description
       score: score
-                # 細節
+    # 細節
     detail:
       menus:
         menu1: Season Info
@@ -877,10 +885,10 @@ gameControl:
       cnName: CN Name
       enName: EN Name
       jpName: JP Name
-                # 搜尋
+    # 搜尋
     search:
       startDate: Season Start Date
-                # 表單
+    # 表單
     form:
       formTitle: Create Season
       startDate: Season Start Date
@@ -895,7 +903,7 @@ gameControl:
         inputStartDate: Please choose start time.
         inputEndDate: Please choose end time.
 
-        # 禮包列表 url: /game/sku/index
+  # 禮包列表 url: /game/sku/index
   skuList:
     title: Sku List
     sn: Serial Number
@@ -908,7 +916,7 @@ gameControl:
 
 # 道具管理
 toolControl:
-    # 道具列表 url: /tool/equipment/{mark}
+  # 道具列表 url: /tool/equipment/{mark}
   equipmentList:
     createTool: Create Tool
     deleteData: Delete Data
@@ -954,24 +962,24 @@ toolControl:
     emojiMark:
       name: Name
       holdMax: Hold Max
-      coin1: Star Coins
+      coin1: Coin1
       startTime: Start Time
       endTime: End Time
       noSetTime: No set time.
-                # 搜尋
+    # 搜尋
     search:
       type: Type
       placeholder:
         inputType: Please choose type.
 
-                # 細節頁
+    # 細節頁
     detail:
       menus:
         menu1: Tool Info
         menu2: Update Tool
       info:
         name: Tool Name
-                # 表單
+    # 表單
     form:
       formTitle: Create Tool
       name: Name
@@ -981,14 +989,14 @@ toolControl:
         inputColumn: Please enter
         inputStartTime: Please choose start time.（not required）
         inputEndTime: Please choose end time.（not required）
-                    # 寶箱表單
+      # 寶箱表單
       lootbox:
-        coin1: Price(Star Coins)
+        coin1: Price(Coin1)
         isMallProduct: Is Mall Product
         qualityMini: Quality Mini
         qualityMax: Quality Max
         markRange: Mark Range
-                    # 選項
+      # 選項
       options:
         lootboxForOrigin:
           all: All Tools
@@ -1015,7 +1023,7 @@ toolControl:
           emoji: Emoji
           hero_particle: Hero Particle
           daily_task: Daily Task
-        # 禮物列表 url: /tool/gift
+  # 禮物列表 url: /tool/gift
   giftList:
     title: Gift List
     createGift: Create Gift
@@ -1026,12 +1034,12 @@ toolControl:
     dueDate: Due Date
     notSetStartDate: Not set start date.
     notSetDueDate: Not set due date.
-            # 細節頁
+    # 細節頁
     detail:
       menus:
         menu1: Gift Info
         menu2: Update Gift
-                # 表單
+    # 表單
     form:
       formTitle: Create Gift
       toolId: Gift
@@ -1046,30 +1054,30 @@ toolControl:
 
 # 活動管理
 activityControl:
-    # 優惠券列表 url: /activity/coupon
+  # 優惠券列表 url: /activity/coupon
   couponList:
-    title: Gift Code List
-    createCoupon: Create Gift Code
-    sn: Gift Code Number
+    title: Coupon List
+    createCoupon: Create Coupon
+    sn: Serial Number
     type: Type
     number: Quantity
     startDate: Start Date
     dueDate: Due Date
-            # 細節頁
+    # 細節頁
     detail:
       menus:
-        menu1: Gift Code Info
-        menu2: Update Gift Code
+        menu1: Coupon Info
+        menu2: Update Coupon
       mailId: Mail ID
-      coin0Discount: Galaxy Gems Discount
-      coin1Discount: Star Coins Discount
-      emptyGiftData: Empty gift data
-                # 表單
+      coin0Discount: Coin0 Discount
+      coin1Discount: Coin1 Discount
+      emptyGiftData: Empty gift data.
+    # 表單
     form:
-      formTitle: Create Gift Code
+      formTitle: Create Coupon
       admin: Create Admin User
-      sn: Gift Code Number
-      description: Gift Code Info
+      sn: Serial Number
+      description: Coupon Info
       number: Quantity
       mailId: Mail
       createMail: Create Mail
@@ -1078,8 +1086,8 @@ activityControl:
       placeholder:
         inputStartDate: Please choose start date.（not required)
         inputDueDate: Please choose due date.（not required)
-        inputAdmin: Create Gift Code admin is required.
-        inputSn: Gift Code number is required.
+        inputAdmin: Create coupon admin is required.
+        inputSn: Serial number is required.
         inputSn2: The serial number must be 6~9 digits.
         inputNumber: Quantity is required.
         inputType: Type is required.
@@ -1090,7 +1098,7 @@ activityControl:
 
 # 首頁
 home:
-    # 玩家活躍人數圓餅圖
+  # 玩家活躍人數圓餅圖
   playerActive:
     title: Player active number of people
     dau: Player day active number of people
@@ -1100,11 +1108,11 @@ home:
     getWauDataFail: Get player week active number of people fail
     getMauDataFail: Get player month active number of people fail
 
-        # 英雄使用次數柱狀圖
-    heroUseCount:
-      title: Hero use count
-      useCount: Use count
+  # 英雄使用次數柱狀圖
+  heroUseCount:
+    title: Hero use count
+    useCount: Use count
 
-        # 玩家當月儲值分析
-    playerMonthDeposit:
-      title: Player Current Month Deposit
+  # 玩家當月儲值分析
+  playerMonthDeposit:
+    title: Player Current Month Deposit
