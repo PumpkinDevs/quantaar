@@ -335,8 +335,18 @@ reportControl:
     childColumn:
       nickname: 名稱
       damage: 傷害
+      takeDamage: 受到傷害
       deadCount: 死亡次數
       team: 隊伍
+      observerHead: 觀察者(頭)
+      observerSkin: 觀察者(皮膚)
+      observerEyesAndEars: 觀察者(眼睛和耳朵)
+      observerAccessories: 觀察者(配件)
+      observerHands: 觀察者(手)
+      coreBig: 大核心
+      coreSmall1: 小核心1
+      coreSmall2: 小核心2
+      coreSmall3: 小核心3
 
   # 對戰類型次數總計報表 url: /report/fight-type/index
   fightType:
@@ -521,6 +531,7 @@ accountControl:
       dailyTask: 每日任務
       seasonDailyTask: 每日賽季任務
       mail: 信件
+      invitationCode: 邀請碼
 
     # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
     info:
@@ -757,6 +768,13 @@ accountControl:
       deleteDate: 刪除時間
       getGiftDate: 領取禮物時間
 
+    # 玩家推薦碼
+    invitationCode:
+      title: 玩家邀請碼
+      active: 啟用
+      close: 關閉
+      status: 邀請碼啟用狀態
+
 # 英雄管理
 heroControl:
   heroList:
@@ -815,6 +833,12 @@ gameControl:
     useCurrency: 使用幣別
     discountStartTime: 折扣時間
     upStartTime: 上架時間
+    notSale: 未打折
+    noSetTime: 未設定時間
+    start: 開始
+    end: 結束
+    price: 售價
+    sale: 折扣
     search:
       options:
         useCoinOptions:

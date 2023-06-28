@@ -335,8 +335,18 @@ reportControl:
     childColumn:
       nickname: Name
       damage: Damage
+      takeDamage: Take Damage
       deadCount: Dead Count
       team: Team
+      observerHead: Observer(Head)
+      observerSkin: Observer(Skin)
+      observerEyesAndEars: Observer(Eyes And Ears)
+      observerAccessories: Observer(Accessories)
+      observerHands: Observer(Hands)
+      coreBig: Core Big
+      coreSmall1: Core Small1
+      coreSmall2: Core Small2
+      coreSmall3: Core Small3
 
   # 對戰類型次數總計報表 url: /report/fight-type/index
   fightType:
@@ -521,6 +531,7 @@ accountControl:
       dailyTask: Daily Task
       seasonDailyTask: Season Daily Task
       mail: Mail
+      invitationCode: Invitation Code
 
     # 玩家資料詳情頁 -> 玩家資料 url: /user/player/{id}
     info:
@@ -757,6 +768,13 @@ accountControl:
       deleteDate: Delete Date
       getGiftDate: Get Gift Date
 
+    # 玩家推薦碼
+    invitationCode:
+      title: Player Invitation Code
+      active: Active
+      close: Close
+      status: Allow Invitation Code
+
 # 英雄管理
 heroControl:
   heroList:
@@ -815,6 +833,12 @@ gameControl:
     useCurrency: Use Currency
     discountStartTime: Discount Start Time
     upStartTime: Up Start Time
+    notSale: Not Sale
+    noSetTime: No Set Time
+    start: Start
+    end: End
+    price: Price
+    sale: Sale
     search:
       options:
         useCoinOptions:
