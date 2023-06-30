@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-27 06:50\n"
-"PO-Revision-Date: 2023-06-27 06:50\n"
+"POT-Creation-Date: 2023-06-30 06:14\n"
+"PO-Revision-Date: 2023-06-30 06:14\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -14603,21 +14603,21 @@ msgstr "使用 600 银河晶鑽购买票券 200 张"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001518]"
 msgid "Ready to start the Tutorial?"
-msgstr "是否要进行新手教程？"
+msgstr "准备好开始新手教学了吗？"
 
 #. Key:	[9001519]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001519]"
-msgid "You must choose your initial hero before being able to skip the beginner tutorial."
-msgstr ""
+msgid "Choose a Hero to skip the Tutorial."
+msgstr "想跳过新手教学 , 请直接选择英雄。"
 
 #. Key:	[9001520]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001520]"
-msgid "add"
-msgstr ""
+msgid "SKIP"
+msgstr "跳过"
 
 #. Key:	[9001521]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-27 06:50\n"
-"PO-Revision-Date: 2023-06-27 06:50\n"
+"POT-Creation-Date: 2023-06-30 06:14\n"
+"PO-Revision-Date: 2023-06-30 06:14\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -14609,14 +14609,14 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001519]"
-msgid "You must choose your initial hero before being able to skip the beginner tutorial."
+msgid "Choose a Hero to skip the Tutorial."
 msgstr ""
 
 #. Key:	[9001520]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001520]"
-msgid "add"
+msgid "SKIP"
 msgstr ""
 
 #. Key:	[9001521]
