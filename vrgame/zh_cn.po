@@ -1,17 +1,20 @@
-﻿# Game Chinese (Simplified, China) translation.
+# Game Chinese (Simplified, China) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-06-30 06:14\n"
-"PO-Revision-Date: 2023-06-30 06:14\n"
-"Language-Team: \n"
-"Language: zh-Hans-CN\n"
+"PO-Revision-Date: 2023-07-03 03:14+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/zh_Hans/>\n"
+"Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -9959,7 +9962,7 @@ msgstr "Flash Sale"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001054]"
 msgid "Bundle"
-msgstr "捆"
+msgstr "礼包"
 
 #. Key:	[9001055]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -16520,4 +16523,3 @@ msgstr "让我们先来登录一些你的资料吧"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "请依照你的使用习惯选择你的设定"
-
