@@ -29,7 +29,7 @@ buttons:
   hsBackToList: 返回列表
 menus:
   hshome: 首頁
-  hslogin: ログイン
+  hslogin: 登入
   hsempty: 沒有展示
   hsSysManagement: 系統管理
   hsUser: 用戶管理
@@ -105,8 +105,8 @@ menus:
   hsPureTableBase: 基礎用法（23個示例）
   hsPureTableHigh: 高級用法（10個示例）
   hsTree: 大數據數業務组件
-  hsMenuoverflow: 目標超出顯示 Tooltip 文字提示
-  hsChildMenuoverflow: 選單超出顯示 Tooltip 文字提示,
+  hsMenuoverflow: 目標超出顯示文字提示
+  hsChildMenuoverflow: 選單超出顯示文字提示
   hsPlayerList: 玩家列表
   hsPlayer: 玩家資料
   hsPlayerInfo: 個人資料
@@ -120,6 +120,7 @@ menus:
   hsPlayerExchangeCoupon: 兌換禮物序號
   hsPlayerOrderByIap: 禮包購買紀錄
   hsPlayerOrderByMall: 商城購買紀錄
+  hsGamePlayerInvitationCode: 推薦碼報表
   hsUserManagement: 帳號管理
   hsReportManagement: 報表管理
   hsReportFightRecord: 對戰報表
@@ -155,7 +156,7 @@ login:
   remember: 記住密碼
   sure: 確認密碼
   forget: 忘記密碼?
-  login: ログイン
+  login: 登入
   thirdLogin: 第三方登入
   phoneLogin: 手機登入
   qRCodeLogin: 二維碼登入
@@ -274,9 +275,9 @@ toolMark:
   lootbox: 寶箱
   system: system
   emoji: emoji
-  particle: 粒子特效
+  particle: 個性粒子
   skinHero: skinHero
-  token: token
+  token: 代幣
   observers: 觀察者道具
   heroes: 英雄們
   cores: 核心們
@@ -546,14 +547,23 @@ accountControl:
 
     # 兌換優惠券 url: /game/user/exchange-coupon
     exchangeCoupon:
-      title: 兌換禮物序號
-      # 表單
+      title:
+        兌換禮物序號
+        # 表單
       form:
         uuid: 玩家 UID
         coupon: 禮物序號
         placeholder:
           inputUuid: 請輸入玩家 UID
           inputCoupon: 請輸入禮物序號
+
+    # 玩家推薦碼已推薦成功下線玩家
+    invitationCodeDownlinePlayers:
+      title: 推薦碼介紹報表
+      createdAt: 註冊時間
+      level5At: 到達五等時間
+      uuid: 玩家 UID
+      fullName: 名稱
 
 # 道具管理
 toolControl:

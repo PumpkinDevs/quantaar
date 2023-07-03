@@ -240,6 +240,7 @@ displayText:
   discount: Discount
   gift: Gift
   minutes: Minutes
+  invitationCode: Invitation Code
 
 # 裝置平台
 platforms:
@@ -774,6 +775,15 @@ accountControl:
       active: Active
       close: Close
       status: Allow Invitation Code
+      getInvitationCode: Get Invitation Code
+
+    # 玩家推薦碼已推薦成功下線玩家
+    invitationCodeDownlinePlayers:
+      title: Invitation Code Downline Players
+      createdAt: Register Time
+      level5At: Level 5 At
+      uuid: Player UID
+      fullName: Name
 
 # 英雄管理
 heroControl:

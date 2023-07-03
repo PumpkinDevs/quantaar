@@ -120,6 +120,7 @@ menus:
   hsPlayerExchangeCoupon: 兌換禮物序號
   hsPlayerOrderByIap: 禮包購買紀錄
   hsPlayerOrderByMall: 商城購買紀錄
+  hsGamePlayerInvitationCode: 推薦碼報表
   hsUserManagement: 帳號管理
   hsReportManagement: 報表管理
   hsReportFightRecord: 對戰報表
@@ -555,6 +556,14 @@ accountControl:
         placeholder:
           inputUuid: 請輸入玩家 UID
           inputCoupon: 請輸入禮物序號
+
+    # 玩家推薦碼已推薦成功下線玩家
+    invitationCodeDownlinePlayers:
+      title: 推薦碼介紹報表
+      createdAt: 註冊時間
+      level5At: 到達五等時間
+      uuid: 玩家 UID
+      fullName: 名稱
 
 # 道具管理
 toolControl:

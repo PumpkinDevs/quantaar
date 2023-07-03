@@ -120,6 +120,7 @@ menus:
   hsPlayerExchangeCoupon: Gift Code
   hsPlayerOrderByIap: Iap Order
   hsPlayerOrderByMall: Mall Order
+  hsGamePlayerInvitationCode: Invitation Code Report
   hsUserManagement: User Manage
   hsReportManagement: Report Manage
   hsReportFightRecord: Battle Report
@@ -549,15 +550,22 @@ accountControl:
 
     # 兌換優惠券 url: /game/user/exchange-coupon
     exchangeCoupon:
-      title:
-        QUANTAAR GIFT CODE
-        # 表單
+      title: QUANTAAR GIFT CODE
+      # 表單
       form:
         uuid: Player UID
         coupon: Gift Code
         placeholder:
           inputUuid: Player UID? Enter Player UID
           inputCoupon: Your Gift Code? Enter Gift Code
+
+    # 玩家推薦碼已推薦成功下線玩家
+    invitationCodeDownlinePlayers:
+      title: Invitation Code Downline Players
+      createdAt: Register Time
+      level5At: Level 5 At
+      uuid: Player UID
+      fullName: Name
 
 # 道具管理
 toolControl:

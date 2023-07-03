@@ -240,6 +240,7 @@ displayText:
   discount: 折扣
   gift: 禮物
   minutes: 分鐘
+  invitationCode: 邀請碼
 
 # 裝置平台
 platforms:
@@ -774,6 +775,15 @@ accountControl:
       active: 啟用
       close: 關閉
       status: 邀請碼啟用狀態
+      getInvitationCode: 取得邀請碼
+
+    # 玩家推薦碼已推薦成功下線玩家
+    invitationCodeDownlinePlayers:
+      title: 推薦碼介紹報表
+      createdAt: 註冊時間
+      level5At: 到達五等時間
+      uuid: 玩家 UID
+      fullName: 名稱
 
 # 英雄管理
 heroControl:
