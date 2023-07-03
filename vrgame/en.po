@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-30 06:14\n"
-"PO-Revision-Date: 2023-06-30 06:14\n"
+"POT-Creation-Date: 2023-07-03 08:39\n"
+"PO-Revision-Date: 2023-07-03 08:39\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2576,8 +2576,8 @@ msgstr "Australia"
 #. InfoMetaData:	"西班牙" : "Emparejamiento"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018001]"
-msgid "MATCHMAKING ..."
-msgstr "MATCHMAKING ..."
+msgid "MATCHMAKING..."
+msgstr "MATCHMAKING..."
 
 #. Key:	[0018002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10498,8 +10498,8 @@ msgstr "Observer"
 #. InfoMetaData:	"西班牙" : "Partida rápido"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001098]"
-msgid "MATCH"
-msgstr "MATCH"
+msgid "MATCHMAKING"
+msgstr "MATCHMAKING"
 
 #. Key:	[9001099]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

@@ -1,20 +1,17 @@
-# Game Japanese (Japan) translation.
+﻿# Game Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-06-30 06:14\n"
-"PO-Revision-Date: 2023-07-03 03:14+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ja/>\n"
-"Language: jp\n"
+"POT-Creation-Date: 2023-07-03 08:39\n"
+"PO-Revision-Date: 2023-07-03 08:39\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -2579,7 +2576,7 @@ msgstr "オーストラリア"
 #. InfoMetaData:	"西班牙" : "Emparejamiento"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018001]"
-msgid "MATCHMAKING ..."
+msgid "MATCHMAKING..."
 msgstr "マッチメイキング..."
 
 #. Key:	[0018002]
@@ -9578,7 +9575,7 @@ msgstr "編集"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001023]"
 msgid "SOCIAL HALL"
-msgstr "ソーシャル"
+msgstr "ソーシャルホール"
 
 #. Key:	[9001024]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10501,7 +10498,7 @@ msgstr "観察者"
 #. InfoMetaData:	"西班牙" : "Partida rápido"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001098]"
-msgid "MATCH"
+msgid "MATCHMAKING"
 msgstr "クイックマッチ"
 
 #. Key:	[9001099]
@@ -16523,3 +16520,4 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
+
