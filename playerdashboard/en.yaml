@@ -562,6 +562,12 @@ accountControl:
     # 玩家推薦碼已推薦成功下線玩家
     invitationCodeDownlinePlayers:
       title: Invitation Code Downline Players
+      agreeTerms: Agree Terms
+      terms: Terms
+      allowInvitationCode: Invitation Code use status.
+      active: active
+      close: shut down
+      contact: Contact service
       createdAt: Register Time
       level5At: Level 5 At
       uuid: Player UID

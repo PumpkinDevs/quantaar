@@ -121,6 +121,7 @@ menus:
   hsReportOrderByMall: 商城訂單報表
   hsReportPlayerLevelDistribution: 玩家等級分佈報表
   hsReportPlayerFightRecordTime: 玩家對戰時長分析
+  hsReportInvitationCodeDownline: 推薦碼排行榜
   hsMailList: 信件列表
   hsToolManagement: 道具管理
   hsTooEquipmentlList: 道具列表
@@ -425,6 +426,12 @@ reportControl:
     playerCount: 玩家人數
     iapCount: 訂單數量
     totalPrice: 總計金額
+
+  # 玩家推薦碼排行榜 url: /report/invitation-code-downline/index
+  invitationCodeDownline:
+    title: 推薦碼排行榜
+    fullName: 名稱
+    count: 推薦人數
 
 # 系統管理
 systemControl:

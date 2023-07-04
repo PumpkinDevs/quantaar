@@ -560,6 +560,12 @@ accountControl:
     # 玩家推薦碼已推薦成功下線玩家
     invitationCodeDownlinePlayers:
       title: 推薦碼介紹報表
+      agreeTerms: 同意條款
+      terms: 條款內容
+      allowInvitationCode: 推薦碼啟用狀態
+      active: 啟用
+      close: 禁止
+      contact: 聯繫客服
       createdAt: 註冊時間
       level5At: 到達五等時間
       uuid: 玩家 UID

@@ -121,6 +121,7 @@ menus:
   hsReportOrderByMall: Mall Order Report
   hsReportPlayerLevelDistribution: Player Level Report
   hsReportPlayerFightRecordTime: Player Fight Record Time
+  hsReportInvitationCodeDownline: Invitation Code Leaderboard
   hsMailList: Mail List
   hsToolManagement: Tool Manage
   hsTooEquipmentlList: Equipment List
@@ -425,6 +426,12 @@ reportControl:
     playerCount: Count Player
     iapCount: Count Order
     totalPrice: Total Price
+
+  # 玩家推薦碼排行榜 url: /report/invitation-code-downline/index
+  invitationCodeDownline:
+    title: Invitation Code Leaderboard
+    fullName: Name
+    count: Downline users
 
 # 系統管理
 systemControl:
