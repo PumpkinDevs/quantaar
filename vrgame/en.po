@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-03 08:39\n"
-"PO-Revision-Date: 2023-07-03 08:39\n"
+"POT-Creation-Date: 2023-07-07 07:47\n"
+"PO-Revision-Date: 2023-07-07 07:47\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -14494,8 +14494,8 @@ msgstr "Pioneer Chest"
 #. InfoMetaData:	"簡體中文" : " 分钟后结束"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001506]"
-msgid " Mins Left"
-msgstr " Mins Left"
+msgid " m Left"
+msgstr " m Left"
 
 #. Key:	[9001507]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14623,41 +14623,146 @@ msgstr "SKIP"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001521]"
-msgid "add"
-msgstr "add"
+msgid "Astral Guardian"
+msgstr "Astral Guardian"
 
 #. Key:	[9001522]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001522]"
-msgid "add"
-msgstr "add"
+msgid "Deal a total of 3,000 damage over time using Hunt"
+msgstr "Deal a total of 3,000 damage over time using Hunt"
 
 #. Key:	[9001523]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001523]"
-msgid "add"
-msgstr "add"
+msgid "Accumulate 10 kills over time using Hunt"
+msgstr "Accumulate 10 kills over time using Hunt"
 
 #. Key:	[9001524]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001524]"
-msgid "add"
-msgstr "add"
+msgid "Referral code does not exist"
+msgstr "Referral code does not exist"
 
 #. Key:	[9001525]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001525]"
-msgid "add"
-msgstr "add"
+msgid "Invalid referral code, please contact the Support Team for assistance"
+msgstr "Invalid referral code, please contact the Support Team for assistance"
 
 #. Key:	[9001526]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001526]"
+msgid "Already entered referral code before"
+msgstr "Already entered referral code before"
+
+#. Key:	[9001527]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001527]"
+msgid "d"
+msgstr "d"
+
+#. Key:	[9001528]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001528]"
+msgid "Shadow of Astral  Early Access Bundle"
+msgstr "Shadow of Astral  Early Access Bundle"
+
+#. Key:	[9001529]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001529]"
+msgid "Shadow of Astral Bundle"
+msgstr "Shadow of Astral Bundle"
+
+#. Key:	[9001530]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001530]"
+msgid "Network Error"
+msgstr "Network Error"
+
+#. Key:	[9001531]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001531]"
+msgid "Referral code input timed out"
+msgstr "Referral code input timed out"
+
+#. Key:	[9001532]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001532]"
+msgid "Success"
+msgstr "Success"
+
+#. Key:	[9001533]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001533]"
+msgid "Enter referral code"
+msgstr "Enter referral code"
+
+#. Key:	[9001534]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001534]"
+msgid "Away from VR. Please log in again."
+msgstr "Away from VR. Please log in again."
+
+#. Key:	[9001535]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001535]"
+msgid "Super Offer"
+msgstr "Super Offer"
+
+#. Key:	[9001536]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001536]"
+msgid "Gem Offer"
+msgstr "Gem Offer"
+
+#. Key:	[9001537]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001537]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001538]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001538]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001539]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001539]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001540]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001540]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001541]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001541]"
 msgid "add"
 msgstr "add"
 
