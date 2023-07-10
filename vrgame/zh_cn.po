@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-07 08:49\n"
-"PO-Revision-Date: 2023-07-07 08:49\n"
+"POT-Creation-Date: 2023-07-10 09:45\n"
+"PO-Revision-Date: 2023-07-10 09:45\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -14742,8 +14742,8 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001538]"
-msgid "add"
-msgstr ""
+msgid "Daily Log-in Reward"
+msgstr "每日登入奖励"
 
 #. Key:	[9001539]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
