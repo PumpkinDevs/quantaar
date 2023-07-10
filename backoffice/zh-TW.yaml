@@ -123,6 +123,7 @@ menus:
   hsReportPlayerFightRecordTime: 玩家對戰時長分析
   hsReportInvitationCodeDownline: 推薦碼排行榜
   hsMailList: 信件列表
+  hsSettingInvitationCodeRule: 設定推薦碼規則
   hsToolManagement: 道具管理
   hsTooEquipmentlList: 道具列表
   hsToolEquipmentDetail: 道具詳情
@@ -466,6 +467,7 @@ systemControl:
     gift: 禮物
     awsRegion: 國家區域
     position: 玩家身份
+    uuid: 玩家 UID
     dueDate: 信件過期時間
     # 輸入框提示文字
     placeholder:
@@ -481,6 +483,22 @@ systemControl:
       gift:
         label1: 無需禮物
         label2: 沒有禮物資料
+
+  # 推薦碼規則 /system/setting-invitation-code-rule
+  invitationCodeRule:
+    title: 推薦碼規則
+    form:
+      limitDay: 註冊後幾內天可以輸入推薦碼
+      limitUse: 推薦碼上限人數
+      referrerBonus1: 介紹人獎勵
+      referrerBonus2: 使用推薦碼玩家達到5等時，介紹人獲得階段2獎勵
+      playerBonus: 推薦碼贈送獎勵額度
+      placeholder:
+        inputLimitDay: 請輸入註冊後幾內天可以輸入推薦碼
+        inputLimitUse: 請輸入推薦碼上限人數
+        inputReferrerBonus1: 請輸入介紹人獎勵
+        inputReferrerBonus2: 請輸入使用推薦碼玩家達到5等時，介紹人獲得階段2獎勵
+        inputPlayerBonus: 請輸入推薦碼贈送獎勵額度
 
 # 帳號管理
 accountControl:

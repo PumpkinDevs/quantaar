@@ -123,6 +123,7 @@ menus:
   hsReportPlayerFightRecordTime: Player Fight Record Time
   hsReportInvitationCodeDownline: Invitation Code Leaderboard
   hsMailList: Mail List
+  hsSettingInvitationCodeRule: Setting Invitation Code Rule
   hsToolManagement: Tool Manage
   hsTooEquipmentlList: Equipment List
   hsToolEquipmentDetail: Equipment Detail
@@ -466,6 +467,7 @@ systemControl:
     gift: Gift
     awsRegion: Region
     position: Player Position
+    uuid: Player UID
     dueDate: Due Date
     # 輸入框提示文字
     placeholder:
@@ -481,6 +483,22 @@ systemControl:
       gift:
         label1: No need gift
         label2: Empty gift datas
+
+  # 推薦碼規則 /system/setting-invitation-code-rule
+  invitationCodeRule:
+    title: Invitation Code Rule
+    form:
+      limitDay: Limit Day
+      limitUse: Limit Use
+      referrerBonus1: Referrer Bonus
+      referrerBonus2: When Referrer Can Get Bonus By Use invitation Code Player Level5 at
+      playerBonus: Player Bonus
+      placeholder:
+        inputLimitDay: Please enter limit day.
+        inputLimitUse: Please enter limit use.
+        inputReferrerBonus1: Please enter referrer bonus.
+        inputReferrerBonus2: Please enter when referrer can get bonus by use invitation code player level5 at.
+        inputPlayerBonus: Please enter use invitation code player can get bonus.
 
 # 帳號管理
 accountControl:

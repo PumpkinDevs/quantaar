@@ -147,6 +147,9 @@ menus:
   hsGameQualifyingDetail: 牌位賽詳情
   hsGameSkuList: 禮包列表
   hsGameSeasonList: 賽季列表
+  hsGuildManagement: 公會管理
+  hsGuildList: 公會列表
+  hsGuildUpdate: 公會更新
 status:
   hsLoad: 載入中...
 login:
@@ -254,6 +257,7 @@ displayText:
   friends: 好友
   version: 版本號
   invitationCode: 邀請碼
+  confirm: 確認
 
 # 對戰類型
 fightTypes:
@@ -481,6 +485,7 @@ accountControl:
     # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
     heroHistoryRecord:
       title: 英雄戰績記錄
+      name: 名稱
       winCount: 勝利次數
       duceCount: 平手次數
       loseCount: 戰敗次數
@@ -587,3 +592,23 @@ toolControl:
       type: 類型
       placeholder:
         inputType: 請選擇類型
+
+# 公會管理
+guildControl:
+  list:
+    title: 公會列表
+    name: 名稱
+    suportPlayerTotal: 連署人數
+    status: 狀態
+    joinSuport: 參加連署
+    confirmJoinSuport: 確認參加連署?
+    create: 新增公會
+    # 表單
+    form:
+      formTitle: 新增公會
+      name: 公會名稱
+      money: 公會基金
+      # 輸入框提示文字
+      placeholder:
+        inputName: 請輸入公會名稱
+        inputMoney: 請輸入公會基金

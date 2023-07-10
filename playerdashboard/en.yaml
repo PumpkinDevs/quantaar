@@ -112,11 +112,11 @@ menus:
   hsPlayerInfo: Info
   hsPlayerFriends: Friends
   hsPlayerFightRecord: Battle Record
-  hsPlayerHeroRecord: Hero Record
-  hsPlayerWalletRecord: Wallet Use Record
-  hsPlayerDailyTask: Daily Task
+  hsPlayerHeroRecord: Heros
+  hsPlayerWalletRecord: Balance
+  hsPlayerDailyTask: Daily Tasks
   hsPlayerMail: Mail
-  hsPlayerHoldTools: Hold Items
+  hsPlayerHoldTools: Items Owned
   hsPlayerExchangeCoupon: Gift Code
   hsPlayerOrderByIap: Iap Order
   hsPlayerOrderByMall: Mall Order
@@ -147,6 +147,9 @@ menus:
   hsGameQualifyingDetail: Qualifying Detail
   hsGameSkuList: Sku List
   hsGameSeasonList: Season List
+  hsGuildManagement: Guild Manage
+  hsGuildList: Guild List
+  hsGuildUpdate: Guild Update
 status:
   hsLoad: Loading...
 login:
@@ -185,9 +188,7 @@ login:
   verifyCodeSixReg: Please enter a 6-digit verify code
   phoneReg: Please enter the phone
   phoneCorrectReg: Please enter the correct phone number format
-  passwordRuleReg:
-    The password format should be any 2 combinations of 4-18 characters
-    consisting of numbers, letters, and symbols.
+  passwordRuleReg: Invalid input. Enter a maximum 9-digit alphanumeric code.
   passwordSureReg: Please enter confirm password
   passwordDifferentReg: The two passwords do not match!
   passwordUpdateReg: Password has been updated
@@ -256,6 +257,7 @@ displayText:
   friends: Friends
   version: Version
   invitationCode: Invitation Code
+  confirm: Confirm
 
 # fight types
 fightTypes:
@@ -374,7 +376,7 @@ accountControl:
       createOrder: Create Order
       refund: Refund
       productName: Product Name
-      couponId: Gift Code ID
+      couponId: Gift Code
       refundId: Refund ID
       currency: Currency
       price: Price
@@ -484,6 +486,7 @@ accountControl:
     # 玩家資料詳情頁 -> 英雄戰績記錄 url: /game/user/hero-record
     heroHistoryRecord:
       title: Hero Battle Record
+      name: Name
       winCount: Win Count
       duceCount: Draw Count
       loseCount: Lose Count
@@ -515,9 +518,9 @@ accountControl:
       confirmFinish: Confirm finish
       finishOnce: Finish once
       once: Once
-      name: Name
-      totalNumber: Need Finish Times
-      doneCount: Finish Times
+      name: Description
+      totalNumber: Required Count
+      doneCount: Complete Count
 
     # 玩家資料詳情頁 -> 每日賽季任務 url: /user/player/{id}
     seasonDailyTask:
@@ -589,3 +592,23 @@ toolControl:
       type: Type
       placeholder:
         inputType: Please choose type
+
+# 公會管理
+guildControl:
+  list:
+    title: Guild List
+    name: Name
+    suportPlayerTotal: Suport Player Total
+    status: Status
+    joinSuport: Join Suport
+    confirmJoinSuport: Join suport confirm?
+    create: Create Guild
+    # 表單
+    form:
+      formTitle: Create Guild
+      name: Guild Name
+      money: Fund
+      # 輸入框提示文字
+      placeholder:
+        inputName: Please enter guild name.
+        inputMoney: Please enter fund.
