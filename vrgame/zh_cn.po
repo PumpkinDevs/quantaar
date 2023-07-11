@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-10 09:45\n"
-"PO-Revision-Date: 2023-07-10 09:45\n"
+"POT-Creation-Date: 2023-07-11 01:42\n"
+"PO-Revision-Date: 2023-07-11 01:42\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -14722,14 +14722,14 @@ msgstr "暂离 VR ，请重新登入。"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001535]"
 msgid "Super Offer"
-msgstr ""
+msgstr "超值优惠"
 
 #. Key:	[9001536]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001536]"
-msgid "Gem Offer"
-msgstr ""
+msgid "Unlocking with Star Coins!"
+msgstr "星辰币解锁！"
 
 #. Key:	[9001537]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
