@@ -220,6 +220,8 @@ responseMessages:
   deletSuccess: Delete Success
   deleteFail: Delete Fail
   tokenExpired: The login session expired. please need login again.
+  joinSuccess: Join Success
+  joinFail: Join Fail
 
 # 常用顯示文字
 displayText:
@@ -258,6 +260,7 @@ displayText:
   version: Version
   invitationCode: Invitation Code
   confirm: Confirm
+  apply: Apply
 
 # fight types
 fightTypes:
@@ -598,6 +601,7 @@ guildControl:
   list:
     title: Guild List
     name: Name
+    purpose: Purpose
     suportPlayerTotal: Suport Player Total
     status: Status
     joinSuport: Join Suport
@@ -608,7 +612,18 @@ guildControl:
       formTitle: Create Guild
       name: Guild Name
       money: Fund
+      purpose: Guild Purpose
       # 輸入框提示文字
       placeholder:
         inputName: Please enter guild name.
+        inputPurpose: Please enter guild purpose.
         inputMoney: Please enter fund.
+
+  # 公會會長畫面 url: /guild/leader/
+  leaderPage:
+    toBeReviewed:
+      title: Uncofirmed Apply Join Guild Players
+      name: Player Name
+      applyDate: Apply Date
+      createdAt: Join Date
+      confirmApply: Confirm Apply

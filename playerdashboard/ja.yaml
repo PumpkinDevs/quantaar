@@ -220,6 +220,8 @@ responseMessages:
   deletSuccess: 刪除成功
   deleteFail: 刪除失敗
   tokenExpired: 登入狀態已到期請重新登入
+  joinSuccess: 參加成功
+  joinFail: 參加失敗
 
 # 常用顯示文字
 displayText:
@@ -258,6 +260,7 @@ displayText:
   version: 版本號
   invitationCode: 邀請碼
   confirm: 確認
+  apply: 申請
 
 # 對戰類型
 fightTypes:
@@ -595,9 +598,11 @@ toolControl:
 
 # 公會管理
 guildControl:
+  # 公會列表 url: /guild/list
   list:
     title: 公會列表
     name: 名稱
+    purpose: 公會宗旨
     suportPlayerTotal: 連署人數
     status: 狀態
     joinSuport: 參加連署
@@ -607,8 +612,19 @@ guildControl:
     form:
       formTitle: 新增公會
       name: 公會名稱
+      purpose: 公會宗旨
       money: 公會基金
       # 輸入框提示文字
       placeholder:
         inputName: 請輸入公會名稱
+        inputPurpose: 請輸入公會宗旨
         inputMoney: 請輸入公會基金
+
+  # 公會會長畫面 url: /guild/leader/
+  leaderPage:
+    toBeReviewed:
+      title: 待審核人員
+      name: 玩家名稱
+      applyDate: 申請日期
+      createdAt: 加入日期
+      confirmApply: 確認申請
