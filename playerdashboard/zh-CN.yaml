@@ -150,6 +150,7 @@ menus:
   hsGuildManagement: 公會管理
   hsGuildList: 公會列表
   hsGuildUpdate: 公會更新
+  hsGuildOwnerManagement: 公會會長管理
 status:
   hsLoad: 載入中...
 login:
@@ -222,6 +223,10 @@ responseMessages:
   tokenExpired: 登入狀態已到期請重新登入
   joinSuccess: 參加成功
   joinFail: 參加失敗
+  setSuccess: 設定成功
+  setFail: 設定失敗
+  removeSuccess: 移除成功
+  removeFail: 移除失敗
 
 # 常用顯示文字
 displayText:
@@ -261,6 +266,7 @@ displayText:
   invitationCode: 邀請碼
   confirm: 確認
   apply: 申請
+  cancel: 取消
 
 # 對戰類型
 fightTypes:
@@ -626,5 +632,16 @@ guildControl:
       title: 待審核人員
       name: 玩家名稱
       applyDate: 申請日期
-      createdAt: 加入日期
+      joinDate: 加入日期
       confirmApply: 確認申請
+      cancelApply: 取消申請
+
+  # 公會成員
+  members:
+    title: 公會成員
+    name: 名稱
+    applyDate: 申請日期
+    joinDate: 加入日期
+    changeOwner: 指派會長
+    removeMember: 移除成員
+    levelUp: 升級公會

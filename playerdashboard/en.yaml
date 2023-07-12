@@ -150,6 +150,7 @@ menus:
   hsGuildManagement: Guild Manage
   hsGuildList: Guild List
   hsGuildUpdate: Guild Update
+  hsGuildOwnerManagement: Guild Owner Manage
 status:
   hsLoad: Loading...
 login:
@@ -222,6 +223,10 @@ responseMessages:
   tokenExpired: The login session expired. please need login again.
   joinSuccess: Join Success
   joinFail: Join Fail
+  setSuccess: Set Success
+  setFail: Set Fail
+  removeSuccess: Remove Success
+  removeFail: Remove Fail
 
 # 常用顯示文字
 displayText:
@@ -261,6 +266,7 @@ displayText:
   invitationCode: Invitation Code
   confirm: Confirm
   apply: Apply
+  cancel: Cancel
 
 # fight types
 fightTypes:
@@ -590,7 +596,7 @@ toolControl:
     mark: Mark
     holdMax: Hold Max
     coin1: Price
-    # 搜尋
+    # 搜尋－
     search:
       type: Type
       placeholder:
@@ -627,3 +633,14 @@ guildControl:
       applyDate: Apply Date
       createdAt: Join Date
       confirmApply: Confirm Apply
+      cancelApply: Cancel Apply
+
+  # 公會成員
+  members:
+    title: Guild Members
+    name: Name
+    applyDate: Apply Date
+    joinDate: Join Date
+    changeOwner: Change Owner
+    removeMember: Remove Member
+    levelUp: Level Up
