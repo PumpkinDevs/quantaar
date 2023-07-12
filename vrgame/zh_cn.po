@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-11 01:42\n"
-"PO-Revision-Date: 2023-07-11 01:42\n"
+"POT-Creation-Date: 2023-07-12 07:03\n"
+"PO-Revision-Date: 2023-07-12 07:03\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -14749,15 +14749,15 @@ msgstr "每日登入奖励"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001539]"
-msgid "add"
-msgstr ""
+msgid "Deal a total of 3,000 damage over time using Digi"
+msgstr "使用蒂吉，累积造成3000点伤害"
 
 #. Key:	[9001540]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001540]"
-msgid "add"
-msgstr ""
+msgid "Accumulate 10 kills over time using Digi"
+msgstr "使用蒂吉，累积造成10个击杀"
 
 #. Key:	[9001541]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
