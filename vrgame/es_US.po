@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-12 07:03\n"
-"PO-Revision-Date: 2023-07-12 07:03\n"
+"POT-Creation-Date: 2023-07-14 08:32\n"
+"PO-Revision-Date: 2023-07-14 08:32\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -11064,7 +11064,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "房间名称"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001147]"
-msgid "Room Name"
+msgid "Hall Name"
 msgstr ""
 
 #. Key:	[9001148]
@@ -11654,7 +11654,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "房间编号"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001206]"
-msgid "Room ID"
+msgid "Hall ID"
 msgstr ""
 
 #. Key:	[9001207]
@@ -11664,7 +11664,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "房间名称"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001207]"
-msgid "Room Name"
+msgid "Hall Name"
 msgstr ""
 
 #. Key:	[9001208]
@@ -11674,7 +11674,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "创建房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001208]"
-msgid "CREATE ROOM"
+msgid "CREATE HALL"
 msgstr ""
 
 #. Key:	[9001209]
@@ -11884,7 +11884,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "加入房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001229]"
-msgid "JOIN ROOM"
+msgid "JOIN HALL"
 msgstr ""
 
 #. Key:	[9001230]
@@ -12264,7 +12264,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "创建房间中"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001283]"
-msgid "Create Room"
+msgid "Create Hall"
 msgstr ""
 
 #. Key:	[9001284]
@@ -12274,7 +12274,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "快速进入房间中"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001284]"
-msgid "Quick Join Room"
+msgid "Quick Join Hall"
 msgstr ""
 
 #. Key:	[9001285]
@@ -12744,7 +12744,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "此房间无效，请稍后再试"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001331]"
-msgid "The room is invalid. Try again later."
+msgid "The hall is invalid. Try again later."
 msgstr ""
 
 #. Key:	[9001332]
@@ -13454,7 +13454,7 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "房间资讯"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001402]"
-msgid "Room Information"
+msgid "Hall Information"
 msgstr ""
 
 #. Key:	[9001403]
@@ -14763,7 +14763,14 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001541]"
-msgid "add"
+msgid "New Hero Arrival"
+msgstr ""
+
+#. Key:	[9001542]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001542]"
+msgid "Unlock the Power of Spectral Realm in the Store!"
 msgstr ""
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1

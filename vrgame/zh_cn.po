@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-12 07:03\n"
-"PO-Revision-Date: 2023-07-12 07:03\n"
+"POT-Creation-Date: 2023-07-14 08:32\n"
+"PO-Revision-Date: 2023-07-14 08:32\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -11064,8 +11064,8 @@ msgstr "私人"
 #. InfoMetaData:	"簡體中文" : "房间名称"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001147]"
-msgid "Room Name"
-msgstr "房间名称"
+msgid "Hall Name"
+msgstr "大厅名称"
 
 #. Key:	[9001148]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11654,8 +11654,8 @@ msgstr "加入"
 #. InfoMetaData:	"簡體中文" : "房间编号"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001206]"
-msgid "Room ID"
-msgstr "房间编号"
+msgid "Hall ID"
+msgstr "大厅编号"
 
 #. Key:	[9001207]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11664,8 +11664,8 @@ msgstr "房间编号"
 #. InfoMetaData:	"簡體中文" : "房间名称"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001207]"
-msgid "Room Name"
-msgstr "房间名称"
+msgid "Hall Name"
+msgstr "大厅名称"
 
 #. Key:	[9001208]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11674,8 +11674,8 @@ msgstr "房间名称"
 #. InfoMetaData:	"簡體中文" : "创建房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001208]"
-msgid "CREATE ROOM"
-msgstr "创建房间"
+msgid "CREATE HALL"
+msgstr "创建大厅"
 
 #. Key:	[9001209]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11884,8 +11884,8 @@ msgstr "核心组合 未生效"
 #. InfoMetaData:	"簡體中文" : "加入房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001229]"
-msgid "JOIN ROOM"
-msgstr "加入房间"
+msgid "JOIN HALL"
+msgstr "加入大厅"
 
 #. Key:	[9001230]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12264,8 +12264,8 @@ msgstr "取消"
 #. InfoMetaData:	"簡體中文" : "创建房间中"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001283]"
-msgid "Create Room"
-msgstr "创建房间中"
+msgid "Create Hall"
+msgstr "创建大厅中"
 
 #. Key:	[9001284]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12274,8 +12274,8 @@ msgstr "创建房间中"
 #. InfoMetaData:	"簡體中文" : "快速进入房间中"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001284]"
-msgid "Quick Join Room"
-msgstr "快速进入房间中"
+msgid "Quick Join Hall"
+msgstr "快速进入大厅中"
 
 #. Key:	[9001285]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12744,8 +12744,8 @@ msgstr "伺服器已满，请稍后重新加入"
 #. InfoMetaData:	"簡體中文" : "此房间无效，请稍后再试"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001331]"
-msgid "The room is invalid. Try again later."
-msgstr "此房间无效，请稍后再试"
+msgid "The hall is invalid. Try again later."
+msgstr "此大厅无效，请稍后再试"
 
 #. Key:	[9001332]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13454,8 +13454,8 @@ msgstr "是否马上装备?"
 #. InfoMetaData:	"簡體中文" : "房间资讯"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001402]"
-msgid "Room Information"
-msgstr "房间资讯"
+msgid "Hall Information"
+msgstr "大厅资讯"
 
 #. Key:	[9001403]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14763,8 +14763,15 @@ msgstr "使用蒂吉，累积造成10个击杀"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001541]"
-msgid "add"
-msgstr ""
+msgid "New Hero Arrival"
+msgstr "新英雄报到"
+
+#. Key:	[9001542]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001542]"
+msgid "Unlock the Power of Spectral Realm in the Store!"
+msgstr "前往商店解锁幽魂灵域的力量"
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
