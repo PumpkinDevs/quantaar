@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-17 02:41\n"
-"PO-Revision-Date: 2023-07-17 02:41\n"
+"POT-Creation-Date: 2023-07-17 06:41\n"
+"PO-Revision-Date: 2023-07-17 06:41\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -9910,7 +9910,7 @@ msgstr "英雄"
 #. InfoMetaData:	"西班牙" : "Apariencia"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001050]"
-msgid "STYLE"
+msgid "Style"
 msgstr "造型"
 
 #. Key:	[9001051]
