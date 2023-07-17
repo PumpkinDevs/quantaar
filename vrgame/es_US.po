@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-14 08:32\n"
-"PO-Revision-Date: 2023-07-14 08:32\n"
+"POT-Creation-Date: 2023-07-17 02:41\n"
+"PO-Revision-Date: 2023-07-17 02:41\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -14771,6 +14771,27 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001542]"
 msgid "Unlock the Power of Spectral Realm in the Store!"
+msgstr ""
+
+#. Key:	[9001543]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001543]"
+msgid "Gems"
+msgstr ""
+
+#. Key:	[9001544]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001544]"
+msgid "add"
+msgstr ""
+
+#. Key:	[9001545]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001545]"
+msgid "add"
 msgstr ""
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
