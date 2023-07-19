@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-17 06:41\n"
-"PO-Revision-Date: 2023-07-17 06:41\n"
+"POT-Creation-Date: 2023-07-19 06:38\n"
+"PO-Revision-Date: 2023-07-19 06:38\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -2602,8 +2602,8 @@ msgstr "Matchmaking Complete"
 #. InfoMetaData:	"西班牙" : "Esperando a otros Jugadores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018003]"
-msgid "Waiting For Other Players"
-msgstr "Waiting For Other Players"
+msgid "Waiting For Other Observers"
+msgstr "Waiting For Other Observers"
 
 #. Key:	[0018004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2667,8 +2667,8 @@ msgstr "Server Location"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 players, including AI"
-msgstr "A Custom Mode can only be started with 4 players, including AI"
+msgid "A Custom Mode can only be started with 4 Observers, including AI"
+msgstr "A Custom Mode can only be started with 4 Observers, including AI"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2693,8 +2693,8 @@ msgstr "Arena"
 #. InfoMetaData:	"西班牙" : "Cada equipo debe tener 2 jugadores para poder iniciar un combate 2 contra 2."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
-msgid "\"Each team must have 2 players to start a 2 vs 2 combat.\""
-msgstr "\"Each team must have 2 players to start a 2 vs 2 combat.\""
+msgid "\"Each team must have 2  Observers to start a 2 vs 2 combat.\""
+msgstr "\"Each team must have 2  Observers to start a 2 vs 2 combat.\""
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2797,8 +2797,8 @@ msgstr "COUNTDOWN"
 #. InfoMetaData:	"西班牙" : "Eliminado"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0022004]"
-msgid "ELIMINATED"
-msgstr "ELIMINATED"
+msgid "Eliminated"
+msgstr "Eliminated"
 
 #. Key:	[0023001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2836,8 +2836,8 @@ msgstr "Speech Chat"
 #. InfoMetaData:	"西班牙" : "Número de rondas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0024001]"
-msgid "ROUND"
-msgstr "ROUND"
+msgid "Round"
+msgstr "Round"
 
 #. Key:	[0024002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3187,8 +3187,8 @@ msgstr "Enter Battle"
 #. InfoMetaData:	"西班牙" : "Esperando a otros jugadores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0032001]"
-msgid "Waiting for other players"
-msgstr "Waiting for other players"
+msgid "Waiting for other  Observers"
+msgstr "Waiting for other  Observers"
 
 #. Key:	[0033001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3226,8 +3226,8 @@ msgstr "Rule"
 #. InfoMetaData:	"西班牙" : "Rondas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0033003]"
-msgid "ROUND"
-msgstr "ROUND"
+msgid "Round"
+msgstr "Round"
 
 #. Key:	[0033004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3239,8 +3239,8 @@ msgstr "ROUND"
 #. InfoMetaData:	"西班牙" : "Segs. por Ronda"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0033004]"
-msgid "Sec Per Round"
-msgstr "Sec Per Round"
+msgid "Time per round"
+msgstr "Time per round"
 
 #. Key:	[0034001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10162,8 +10162,8 @@ msgstr "VIP"
 #. InfoMetaData:	"西班牙" : "Jugadores reunidos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001071]"
-msgid "PLAYERS MET"
-msgstr "PLAYERS MET"
+msgid "OBSERVER MET"
+msgstr "OBSERVER MET"
 
 #. Key:	[9001072]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11964,8 +11964,8 @@ msgstr "VOICE"
 #. InfoMetaData:	"簡體中文" : "封锁玩家"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001237]"
-msgid "BLOCK PLAYER"
-msgstr "BLOCK PLAYER"
+msgid "BLOCK OBSERVER"
+msgstr "BLOCK OBSERVER"
 
 #. Key:	[9001238]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12104,8 +12104,8 @@ msgstr "Click \"ACCEPT\" to indicate that you have read and agreed to the Privac
 #. InfoMetaData:	"簡體中文" : "若勾选「 VIP 限定」后再创建房间，只有同样拥有高级版或终极版游戏的玩家可以参与你的房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001267]"
-msgid "Choose 'VIP Access' to allow only players with the Premium Edition or Ultimate Edition to join your room."
-msgstr "Choose 'VIP Access' to allow only players with the Premium Edition or Ultimate Edition to join your room."
+msgid "Choose 'VIP Access' to allow only Observers with the Premium Edition or Ultimate Edition to join your room."
+msgstr "Choose 'VIP Access' to allow only Observers with the Premium Edition or Ultimate Edition to join your room."
 
 #. Key:	[9001268]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12624,8 +12624,8 @@ msgstr "Light Blue"
 #. InfoMetaData:	"簡體中文" : "没有玩家"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001319]"
-msgid "No Player"
-msgstr "No Player"
+msgid "No Observer"
+msgstr "No Observer"
 
 #. Key:	[9001320]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12714,8 +12714,8 @@ msgstr "Get Reward from Chest"
 #. InfoMetaData:	"簡體中文" : "回合"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001328]"
-msgid "ROUND"
-msgstr "ROUND"
+msgid "Round"
+msgstr "Round"
 
 #. Key:	[9001329]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12934,8 +12934,8 @@ msgstr "Change a track in the music player"
 #. InfoMetaData:	"簡體中文" : "与一名玩家碰拳"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001350]"
-msgid "Give a fist bump to a player"
-msgstr "Give a fist bump to a player"
+msgid "Give a fist bump to another Observer once"
+msgstr "Give a fist bump to another Observer once"
 
 #. Key:	[9001351]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

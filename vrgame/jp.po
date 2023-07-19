@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-17 06:41\n"
-"PO-Revision-Date: 2023-07-17 06:41\n"
+"POT-Creation-Date: 2023-07-19 06:38\n"
+"PO-Revision-Date: 2023-07-19 06:38\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -2602,8 +2602,8 @@ msgstr "マッチコンプリート"
 #. InfoMetaData:	"西班牙" : "Esperando a otros Jugadores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018003]"
-msgid "Waiting For Other Players"
-msgstr "他のプレイヤーを待っています"
+msgid "Waiting For Other Observers"
+msgstr "他の観察者を待っています"
 
 #. Key:	[0018004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2667,8 +2667,8 @@ msgstr "サーバーの場所"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 players, including AI"
-msgstr "カスタムマッチは4人しかプレイできません。"
+msgid "A Custom Mode can only be started with 4 Observers, including AI"
+msgstr "カスタムマッチは4人しかプレイできません"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2693,8 +2693,8 @@ msgstr "アリーナ"
 #. InfoMetaData:	"西班牙" : "Cada equipo debe tener 2 jugadores para poder iniciar un combate 2 contra 2."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
-msgid "\"Each team must have 2 players to start a 2 vs 2 combat.\""
-msgstr "2対2の戦闘を開始するために、各チームのプレイヤーが２人必要があります"
+msgid "\"Each team must have 2  Observers to start a 2 vs 2 combat.\""
+msgstr "2 対 2 の戦闘を開始するために、各チームの観察者が２人必要があります"
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2797,7 +2797,7 @@ msgstr "カウントダウン"
 #. InfoMetaData:	"西班牙" : "Eliminado"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0022004]"
-msgid "ELIMINATED"
+msgid "Eliminated"
 msgstr "殲滅戦"
 
 #. Key:	[0023001]
@@ -2836,7 +2836,7 @@ msgstr "音声設定"
 #. InfoMetaData:	"西班牙" : "Número de rondas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0024001]"
-msgid "ROUND"
+msgid "Round"
 msgstr "ラウンド数"
 
 #. Key:	[0024002]
@@ -3187,8 +3187,8 @@ msgstr "バトルに入る"
 #. InfoMetaData:	"西班牙" : "Esperando a otros jugadores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0032001]"
-msgid "Waiting for other players"
-msgstr "他のプレイヤーを待っています"
+msgid "Waiting for other  Observers"
+msgstr "他の観察者を待っています"
 
 #. Key:	[0033001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3226,7 +3226,7 @@ msgstr "ルール"
 #. InfoMetaData:	"西班牙" : "Rondas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0033003]"
-msgid "ROUND"
+msgid "Round"
 msgstr "ラウンド"
 
 #. Key:	[0033004]
@@ -3239,8 +3239,8 @@ msgstr "ラウンド"
 #. InfoMetaData:	"西班牙" : "Segs. por Ronda"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0033004]"
-msgid "Sec Per Round"
-msgstr "ラウンドあたりの秒数"
+msgid "Time per round"
+msgstr "ラウンドあたりの時間"
 
 #. Key:	[0034001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10162,8 +10162,8 @@ msgstr "VIP"
 #. InfoMetaData:	"西班牙" : "Jugadores reunidos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001071]"
-msgid "PLAYERS MET"
-msgstr "会ったプレイヤー"
+msgid "OBSERVER MET"
+msgstr "会った観察者"
 
 #. Key:	[9001072]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11964,8 +11964,8 @@ msgstr "音量"
 #. InfoMetaData:	"簡體中文" : "封锁玩家"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001237]"
-msgid "BLOCK PLAYER"
-msgstr "プレイヤーをブロック"
+msgid "BLOCK OBSERVER"
+msgstr "観察者をブロック"
 
 #. Key:	[9001238]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12104,8 +12104,8 @@ msgstr "「同意」を押すと、 QUANTAAR 公式ウェブサイのプライ�
 #. InfoMetaData:	"簡體中文" : "若勾选「 VIP 限定」后再创建房间，只有同样拥有高级版或终极版游戏的玩家可以参与你的房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001267]"
-msgid "Choose 'VIP Access' to allow only players with the Premium Edition or Ultimate Edition to join your room."
-msgstr "作成した部屋で 「 VIP 限定」を選択すると、プレミアムや究極版のゲームを所有しているプレイヤーのみが部屋に参加できます。"
+msgid "Choose 'VIP Access' to allow only Observers with the Premium Edition or Ultimate Edition to join your room."
+msgstr "作成した部屋で 「 VIP 限定」を選択すると、プレミアムや究極版のゲームを所有している観察者のみが部屋に参加できます。"
 
 #. Key:	[9001268]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12624,8 +12624,8 @@ msgstr "水色"
 #. InfoMetaData:	"簡體中文" : "没有玩家"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001319]"
-msgid "No Player"
-msgstr "プレイヤーなし"
+msgid "No Observer"
+msgstr "観察者なし"
 
 #. Key:	[9001320]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12714,7 +12714,7 @@ msgstr "チェストから報酬を入手"
 #. InfoMetaData:	"簡體中文" : "回合"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001328]"
-msgid "ROUND"
+msgid "Round"
 msgstr "ラウンド"
 
 #. Key:	[9001329]
@@ -12934,8 +12934,8 @@ msgstr "ロビーの音楽を変更する"
 #. InfoMetaData:	"簡體中文" : "与一名玩家碰拳"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001350]"
-msgid "Give a fist bump to a player"
-msgstr "プレイヤー1人にフィストバンプする"
+msgid "Give a fist bump to another Observer once"
+msgstr "観察者 1 人にフィストバンプする"
 
 #. Key:	[9001351]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

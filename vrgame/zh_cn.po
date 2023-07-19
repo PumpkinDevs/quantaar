@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-17 06:41\n"
-"PO-Revision-Date: 2023-07-17 06:41\n"
+"POT-Creation-Date: 2023-07-19 06:38\n"
+"PO-Revision-Date: 2023-07-19 06:38\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -2602,8 +2602,8 @@ msgstr "配对完成"
 #. InfoMetaData:	"西班牙" : "Esperando a otros Jugadores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018003]"
-msgid "Waiting For Other Players"
-msgstr "等待其他玩家"
+msgid "Waiting For Other Observers"
+msgstr "等待其他观察者"
 
 #. Key:	[0018004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2667,8 +2667,8 @@ msgstr "伺服器位置"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 players, including AI"
-msgstr "自订赛局只能在有 4 名玩家 (包含 AI ) 时才能启动。"
+msgid "A Custom Mode can only be started with 4 Observers, including AI"
+msgstr "自订赛局只能在有 4 名观察者 (包含 AI ) 时才能启动"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2693,8 +2693,8 @@ msgstr "场地"
 #. InfoMetaData:	"西班牙" : "Cada equipo debe tener 2 jugadores para poder iniciar un combate 2 contra 2."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
-msgid "\"Each team must have 2 players to start a 2 vs 2 combat.\""
-msgstr "每个队伍必须拥有 2 名玩家 才能开始 2 对 2 模式的战斗"
+msgid "\"Each team must have 2  Observers to start a 2 vs 2 combat.\""
+msgstr "每个队伍必须拥有 2 名观察者 才能开始 2 对 2 模式的战斗"
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2797,7 +2797,7 @@ msgstr "倒数计时"
 #. InfoMetaData:	"西班牙" : "Eliminado"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0022004]"
-msgid "ELIMINATED"
+msgid "Eliminated"
 msgstr "歼灭战"
 
 #. Key:	[0023001]
@@ -2836,7 +2836,7 @@ msgstr "语音设定"
 #. InfoMetaData:	"西班牙" : "Número de rondas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0024001]"
-msgid "ROUND"
+msgid "Round"
 msgstr "回合数"
 
 #. Key:	[0024002]
@@ -3187,8 +3187,8 @@ msgstr "进入战斗"
 #. InfoMetaData:	"西班牙" : "Esperando a otros jugadores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0032001]"
-msgid "Waiting for other players"
-msgstr "等待其他玩家"
+msgid "Waiting for other  Observers"
+msgstr "等待其他观察者"
 
 #. Key:	[0033001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3226,7 +3226,7 @@ msgstr "规则"
 #. InfoMetaData:	"西班牙" : "Rondas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0033003]"
-msgid "ROUND"
+msgid "Round"
 msgstr "回合"
 
 #. Key:	[0033004]
@@ -3239,8 +3239,8 @@ msgstr "回合"
 #. InfoMetaData:	"西班牙" : "Segs. por Ronda"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0033004]"
-msgid "Sec Per Round"
-msgstr "每回合秒数"
+msgid "Time per round"
+msgstr "每回合时间"
 
 #. Key:	[0034001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10162,8 +10162,8 @@ msgstr "VIP"
 #. InfoMetaData:	"西班牙" : "Jugadores reunidos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001071]"
-msgid "PLAYERS MET"
-msgstr "遇过的玩家"
+msgid "OBSERVER MET"
+msgstr "遇过的观察者"
 
 #. Key:	[9001072]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11964,8 +11964,8 @@ msgstr "音量"
 #. InfoMetaData:	"簡體中文" : "封锁玩家"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001237]"
-msgid "BLOCK PLAYER"
-msgstr "封锁玩家"
+msgid "BLOCK OBSERVER"
+msgstr "封锁观察者"
 
 #. Key:	[9001238]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12104,8 +12104,8 @@ msgstr "点击「接受」即表示您已阅读并同意《永恆对决》官网
 #. InfoMetaData:	"簡體中文" : "若勾选「 VIP 限定」后再创建房间，只有同样拥有高级版或终极版游戏的玩家可以参与你的房间"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001267]"
-msgid "Choose 'VIP Access' to allow only players with the Premium Edition or Ultimate Edition to join your room."
-msgstr "若勾选「 VIP 限定」后再创建房间，只有同样拥有高级版或终极版游戏的玩家可以参与你的房间"
+msgid "Choose 'VIP Access' to allow only Observers with the Premium Edition or Ultimate Edition to join your room."
+msgstr "若勾选「 VIP 限定」后再创建房间，只有同样拥有高级版或终极版游戏的观察者可以参与你的房间"
 
 #. Key:	[9001268]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12624,8 +12624,8 @@ msgstr "浅蓝"
 #. InfoMetaData:	"簡體中文" : "没有玩家"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001319]"
-msgid "No Player"
-msgstr "没有玩家"
+msgid "No Observer"
+msgstr "没有观察者"
 
 #. Key:	[9001320]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12714,7 +12714,7 @@ msgstr "从宝箱中获得奖励"
 #. InfoMetaData:	"簡體中文" : "回合"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001328]"
-msgid "ROUND"
+msgid "Round"
 msgstr "回合"
 
 #. Key:	[9001329]
@@ -12934,8 +12934,8 @@ msgstr "切换一首大厅音乐"
 #. InfoMetaData:	"簡體中文" : "与一名玩家碰拳"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001350]"
-msgid "Give a fist bump to a player"
-msgstr "与一名玩家碰拳"
+msgid "Give a fist bump to another Observer once"
+msgstr "与一名观察者碰拳"
 
 #. Key:	[9001351]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
