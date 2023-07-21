@@ -151,6 +151,7 @@ menus:
   hsGuildList: 公會列表
   hsGuildUpdate: 公會更新
   hsGuildOwnerManagement: 公會會長管理
+  hsGuild: 公會
 status:
   hsLoad: 載入中...
 login:
@@ -267,6 +268,17 @@ displayText:
   confirm: 確認
   apply: 申請
   cancel: 取消
+
+# 公會狀態
+guildStatus:
+  petition: "連署中"
+  normal: "已成立"
+
+# 公會成員職位
+guildRole:
+  president: 會長
+  member: 成員
+  applicant: 申請加入者
 
 # 對戰類型
 fightTypes:
@@ -613,10 +625,10 @@ guildControl:
     status: 狀態
     joinSuport: 參加連署
     confirmJoinSuport: 確認參加連署?
-    create: 新增公會
+    create: 創立公會
     # 表單
     form:
-      formTitle: 新增公會
+      formTitle: 創立公會
       name: 公會名稱
       purpose: 公會宗旨
       money: 公會基金
@@ -626,7 +638,7 @@ guildControl:
         inputPurpose: 請輸入公會宗旨
         inputMoney: 請輸入公會基金
 
-  # 公會會長畫面 url: /guild/leader/
+  # 公會會長畫面 url: /guild/owner
   leaderPage:
     toBeReviewed:
       title: 待審核人員
@@ -636,7 +648,7 @@ guildControl:
       confirmApply: 確認申請
       cancelApply: 取消申請
 
-  # 公會成員
+  # 公會成員 url: /guild/member 與 url: /guild/owner 都有用到
   members:
     title: 公會成員
     name: 名稱
@@ -645,3 +657,11 @@ guildControl:
     changeOwner: 指派會長
     removeMember: 移除成員
     levelUp: 升級公會
+    confirmLevelUp: 確認升級公會
+    confirmChangeOwner: 確認指派為會長
+    ownerRecall: 發動罷免會長
+    referendumRecall: 連署罷免會長
+    ownerRecallSuccess: 發動罷免成功
+    ownerRecallFail: 發動罷免失敗
+    referendumRecallSuccess: 連署罷免成功
+    referendumRecallFail: 連署罷免失敗

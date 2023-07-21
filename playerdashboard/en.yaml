@@ -120,7 +120,7 @@ menus:
   hsPlayerExchangeCoupon: Gift Code
   hsPlayerOrderByIap: Iap Order
   hsPlayerOrderByMall: Mall Order
-  hsGamePlayerInvitationCode: Invitation Code Report
+  hsGamePlayerInvitationCode: Referral Code Report
   hsUserManagement: User Manage
   hsReportManagement: Report Manage
   hsReportFightRecord: Battle Report
@@ -263,10 +263,21 @@ displayText:
   profile: Profile
   friends: Friends
   version: Version
-  invitationCode: Invitation Code
+  invitationCode: Referral Code
   confirm: Confirm
   apply: Apply
   cancel: Cancel
+
+# 公會狀態
+guildStatus:
+  petition: Launching a petition
+  normal: Created
+
+# 公會成員職位
+guildRole:
+  president: President
+  member: Member
+  applicant: Applicant
 
 # fight types
 fightTypes:
@@ -573,10 +584,10 @@ accountControl:
 
     # 玩家推薦碼已推薦成功下線玩家
     invitationCodeDownlinePlayers:
-      title: Invitation Code Downline Players
+      title: Referral Code Downline Players
       agreeTerms: Agree Terms
       terms: Terms
-      allowInvitationCode: Invitation Code use status.
+      allowInvitationCode: Referral Code use status.
       active: active
       close: shut down
       contact: Contact service
@@ -612,10 +623,10 @@ guildControl:
     status: Status
     joinSuport: Join Suport
     confirmJoinSuport: Join suport confirm?
-    create: Create Guild
+    create: Make Guild
     # 表單
     form:
-      formTitle: Create Guild
+      formTitle: Make Guild
       name: Guild Name
       money: Fund
       purpose: Guild Purpose
@@ -625,7 +636,7 @@ guildControl:
         inputPurpose: Please enter guild purpose.
         inputMoney: Please enter fund.
 
-  # 公會會長畫面 url: /guild/leader/
+  # 公會會長畫面 url: /guild/owner
   leaderPage:
     toBeReviewed:
       title: Uncofirmed Apply Join Guild Players
@@ -635,7 +646,7 @@ guildControl:
       confirmApply: Confirm Apply
       cancelApply: Cancel Apply
 
-  # 公會成員
+  # 公會成員 url: /guild/member 與 url: /guild/owner 都有用到
   members:
     title: Guild Members
     name: Name
@@ -644,3 +655,11 @@ guildControl:
     changeOwner: Change Owner
     removeMember: Remove Member
     levelUp: Level Up
+    confirmLevelUp: Confirm Level Up
+    confirmChangeOwner: Confirm Change Owner
+    ownerRecall: Start Owner Recall
+    referendumRecall: Referendum Recall
+    ownerRecallSuccess: Start Owner Recall Success
+    ownerRecallFail: Start Owner Recall Fail
+    referendumRecallSuccess: Referendum Recall Success
+    referendumRecallFail: Referendum Recall Fail
