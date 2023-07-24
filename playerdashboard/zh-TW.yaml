@@ -224,6 +224,8 @@ responseMessages:
   tokenExpired: 登入狀態已到期請重新登入
   joinSuccess: 參加成功
   joinFail: 參加失敗
+  cancelSuccess: 取消成功
+  cancelFail: 取消失敗
   setSuccess: 設定成功
   setFail: 設定失敗
   removeSuccess: 移除成功
@@ -620,22 +622,24 @@ guildControl:
   list:
     title: 公會列表
     name: 名稱
-    purpose: 公會宗旨
-    suportPlayerTotal: 連署人數
+    goal: 公會宗旨
+    supportPlayerTotal: 連署人數
     status: 狀態
-    joinSuport: 參加連署
-    confirmJoinSuport: 確認參加連署?
+    joinSupport: 參加連署
+    cancelSupport: 取消連署
+    confirmJoinSupport: 確認參加連署?
+    confirmCancelSupport: 確認取消連署?
     create: 創立公會
     # 表單
     form:
       formTitle: 創立公會
       name: 公會名稱
-      purpose: 公會宗旨
+      goal: 公會宗旨
       money: 公會基金
       # 輸入框提示文字
       placeholder:
         inputName: 請輸入公會名稱
-        inputPurpose: 請輸入公會宗旨
+        inputGoal: 請輸入公會宗旨
         inputMoney: 請輸入公會基金
 
   # 公會會長畫面 url: /guild/owner

@@ -223,6 +223,8 @@ responseMessages:
   tokenExpired: The login session expired. please need login again.
   joinSuccess: Join Success
   joinFail: Join Fail
+  cancelSuccess: Cancel Success
+  cancelFail: Cancel Fail
   setSuccess: Set Success
   setFail: Set Fail
   removeSuccess: Remove Success
@@ -618,22 +620,24 @@ guildControl:
   list:
     title: Guild List
     name: Name
-    purpose: Purpose
-    suportPlayerTotal: Suport Player Total
+    goal: Purpose
+    supportPlayerTotal: Support Player Total
     status: Status
-    joinSuport: Join Suport
-    confirmJoinSuport: Join suport confirm?
+    joinSupport: Join Support
+    cancelSupport: Cancel Support
+    confirmJoinSupport: Join suport confirm?
+    confirmCancelSupport: Cacenl suport confirm?
     create: Make Guild
     # 表單
     form:
       formTitle: Make Guild
       name: Guild Name
       money: Fund
-      purpose: Guild Purpose
+      goal: Guild Purpose
       # 輸入框提示文字
       placeholder:
         inputName: Please enter guild name.
-        inputPurpose: Please enter guild purpose.
+        inputGoal: Please enter guild purpose.
         inputMoney: Please enter fund.
 
   # 公會會長畫面 url: /guild/owner
