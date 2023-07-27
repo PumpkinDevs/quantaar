@@ -624,9 +624,13 @@ guildControl:
     supportPlayerTotal: Support Player Total
     status: Status
     joinSupport: Join Support
-    cancelSupport: Cancel Support
+    joinGuild: Join Guild
     confirmJoinSupport: Join suport confirm?
+    confirmJoinGuild: Join guild confirm?
+    cancelSupport: Cancel Support
     confirmCancelSupport: Cacenl suport confirm?
+    cancelJoin: Cancel Join
+    confirmCancelJoin: Cacenl join confirm?
     create: Make Guild
     # 表單
     form:

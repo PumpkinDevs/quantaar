@@ -222,8 +222,8 @@ responseMessages:
   deletSuccess: 刪除成功
   deleteFail: 刪除失敗
   tokenExpired: 登入狀態已到期請重新登入
-  joinSuccess: 參加成功
-  joinFail: 參加失敗
+  joinSuccess: 加入成功
+  joinFail: 加入失敗
   cancelSuccess: 取消成功
   cancelFail: 取消失敗
   setSuccess: 設定成功
@@ -626,9 +626,13 @@ guildControl:
     supportPlayerTotal: 連署人數
     status: 狀態
     joinSupport: 參加連署
-    cancelSupport: 取消連署
+    joinGuild: 加入公會
     confirmJoinSupport: 確認參加連署?
+    confirmJoinGuild: 確認加入公會?
+    cancelSupport: 取消連署
     confirmCancelSupport: 確認取消連署?
+    cancelJoin: 取消加入
+    confirmCancelJoin: 確認取消加入?
     create: 創立公會
     # 表單
     form:
