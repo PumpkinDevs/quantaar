@@ -143,6 +143,7 @@ menus:
   hsGameQualifyingDetail: Qualifying Detail
   hsGameSkuList: Sku List
   hsGameSeasonList: Season List
+  hsSettingGuildRule: Setting Guild Rule
 status:
   hsLoad: Loading...
 login:
@@ -243,6 +244,7 @@ displayText:
   gift: Gift
   minutes: Minutes
   invitationCode: Invitation Code
+  add: Add
 
 # 裝置平台
 platforms:
@@ -499,6 +501,28 @@ systemControl:
         inputReferrerBonus1: Please enter referrer bonus.
         inputReferrerBonus2: Please enter when referrer can get bonus by use invitation code player level5 at.
         inputPlayerBonus: Please enter use invitation code player can get bonus.
+
+  # 公會規則 /system/setting-guild-rule
+  guildRule:
+    title: Guild Rule
+    form:
+      makeGuildNeedLevel: Make Guild Need Level
+      joinGuildNeedLevel: Join Guild Need Level
+      destroyGuildNeedAgreeToNumberOfRequests: Destroy Guild Need Agree To Number Of Requests
+      setUpGuildNeedPetitionMemberTotal: Set Up Guild Need Petition Member Total
+      setUpGuildPetitionMaximumNumberOfDays: Set Up Guild Petition Maximum Number Of Days
+      autoJoinGuildNumberOfDays: Auto Join Guild Number Of Days
+      upgradeLevelNeedCoin: Upgrade Level Need  Coin
+      placeholder:
+        inputMakeGuildNeedLevel: Please enter make guild need level.
+        inputJoinGuildNeedLevel: Please enter join guild need level.
+        inputDestroyGuildNeedAgreeToNumberOfRequests: Please enter destroy guild need agree to number of requests.
+        inputSetUpGuildNeedPetitionMemberTotal: Please enter set up guild need Petition member total.
+        inputSetUpGuildPetitionMaximumNumberOfDays: Please enter set up guild petition maximum number of days.
+        inputAutoJoinGuildNumberOfDays: Please enter auto join guild number of days.
+        inputUpgradeLevelNeedCoin: Please upgrade level need coin.
+        inputUpgradeLevelCurrency: Please select upgrade level use currency.
+        inputUpgradeLevel: Please enter upgrade level.
 
 # 帳號管理
 accountControl:

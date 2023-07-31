@@ -143,6 +143,7 @@ menus:
   hsGameQualifyingDetail: 牌位賽詳情
   hsGameSkuList: 禮包列表
   hsGameSeasonList: 賽季列表
+  hsSettingGuildRule: 設定公會規則
 status:
   hsLoad: 載入中...
 login:
@@ -243,6 +244,7 @@ displayText:
   gift: 禮物
   minutes: 分鐘
   invitationCode: 邀請碼
+  add: 新增
 
 # 裝置平台
 platforms:
@@ -499,6 +501,28 @@ systemControl:
         inputReferrerBonus1: 請輸入介紹人獎勵
         inputReferrerBonus2: 請輸入使用推薦碼玩家達到5等時，介紹人獲得階段2獎勵
         inputPlayerBonus: 請輸入推薦碼贈送獎勵額度
+
+  # 公會規則 /system/setting-guild-rule
+  guildRule:
+    title: 公會規則
+    form:
+      makeGuildNeedLevel: 創立公會等級
+      joinGuildNeedLevel: 加入公會等級
+      destroyGuildNeedAgreeToNumberOfRequests: 公會解散同意人數
+      setUpGuildNeedPetitionMemberTotal: 成立公會需要連署人數
+      setUpGuildPetitionMaximumNumberOfDays: 連署公會成立天數
+      autoJoinGuildNumberOfDays: 系統自動審核申請加入天數
+      upgradeLevelNeedCoin: 升級公會需要資金
+      placeholder:
+        inputMakeGuildNeedLevel: 請輸入創立公會等級
+        inputJoinGuildNeedLevel: 請輸入加入公會等級
+        inputDestroyGuildNeedAgreeToNumberOfRequests: 請輸入公會解散同意人數
+        inputSetUpGuildNeedPetitionMemberTotal: 請輸入成立公會需要連署人數
+        inputSetUpGuildPetitionMaximumNumberOfDays: 請輸入連署公會成立天數
+        inputAutoJoinGuildNumberOfDays: 請輸入系統自動審核申請加入天數
+        inputUpgradeLevelNeedCoin: 請輸入升級公會需要資金
+        inputUpgradeLevelCurrency: 請選擇升級公會幣別
+        inputUpgradeLevel: 請輸入公會升級等級
 
 # 帳號管理
 accountControl:
