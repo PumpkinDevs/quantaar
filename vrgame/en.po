@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-19 06:38\n"
-"PO-Revision-Date: 2023-07-19 06:38\n"
+"POT-Creation-Date: 2023-07-31 02:00\n"
+"PO-Revision-Date: 2023-07-31 02:00\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1499,8 +1499,8 @@ msgstr "Big"
 #. InfoMetaData:	"西班牙" : "No molestar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003018]"
-msgid "Do not disturb"
-msgstr "Do not disturb"
+msgid "Do Not Disturb"
+msgstr "Do Not Disturb"
 
 #. Key:	[0003019]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13739,8 +13739,8 @@ msgstr "Congratulations, you've upgraded the game to the Ultimate Edition"
 #. InfoMetaData:	"簡體中文" : "道具超过持有上限已自动转换为星辰币"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001431]"
-msgid "You have reached your max item limit, all excess items are automatically converted into Star Coins"
-msgstr "You have reached your max item limit, all excess items are automatically converted into Star Coins"
+msgid "Duplicate item found. It will be converted to Star Coins at its original value."
+msgstr "Duplicate item found. It will be converted to Star Coins at its original value."
 
 #. Key:	[9001432]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14304,8 +14304,8 @@ msgstr "Season Reward"
 #. InfoMetaData:	"簡體中文" : "牌位奖励"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001487]"
-msgid "Rank Reward"
-msgstr "Rank Reward"
+msgid "Ranked Reward"
+msgstr "Ranked Reward"
 
 #. Key:	[9001488]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14672,8 +14672,8 @@ msgstr "d"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001528]"
-msgid "Shadow of Astral  Early Access Bundle"
-msgstr "Shadow of Astral  Early Access Bundle"
+msgid "Shadow of Astral Bundle"
+msgstr "Shadow of Astral Bundle"
 
 #. Key:	[9001529]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14784,13 +14784,83 @@ msgstr "Gems"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001544]"
-msgid "add"
-msgstr "add"
+msgid "Smooth Turn"
+msgstr "Smooth Turn"
 
 #. Key:	[9001545]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001545]"
+msgid "Smooth Turn Speed"
+msgstr "Smooth Turn Speed"
+
+#. Key:	[9001546]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001546]"
+msgid "Fast"
+msgstr "Fast"
+
+#. Key:	[9001547]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001547]"
+msgid "Medium"
+msgstr "Medium"
+
+#. Key:	[9001548]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001548]"
+msgid "Slow"
+msgstr "Slow"
+
+#. Key:	[9001549]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001549]"
+msgid "Ranked"
+msgstr "Ranked"
+
+#. Key:	[9001550]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001550]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001551]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001551]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001552]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001552]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001553]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001553]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001554]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001554]"
+msgid "add"
+msgstr "add"
+
+#. Key:	[9001555]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001555]"
 msgid "add"
 msgstr "add"
 
