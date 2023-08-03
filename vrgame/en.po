@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-31 02:00\n"
-"PO-Revision-Date: 2023-07-31 02:00\n"
+"POT-Creation-Date: 2023-08-03 07:54\n"
+"PO-Revision-Date: 2023-08-03 07:54\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -14826,43 +14826,148 @@ msgstr "Ranked"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001550]"
-msgid "add"
-msgstr "add"
+msgid "7200 Galaxy Gems Chest"
+msgstr "7200 Galaxy Gems Chest"
 
 #. Key:	[9001551]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001551]"
-msgid "add"
-msgstr "add"
+msgid "100 Galaxy Gems Chest"
+msgstr "100 Galaxy Gems Chest"
 
 #. Key:	[9001552]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001552]"
-msgid "add"
-msgstr "add"
+msgid "Leaderboard"
+msgstr "Leaderboard"
 
 #. Key:	[9001553]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001553]"
-msgid "add"
-msgstr "add"
+msgid "Top 50"
+msgstr "Top 50"
 
 #. Key:	[9001554]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001554]"
-msgid "add"
-msgstr "add"
+msgid "Personal Ranking"
+msgstr "Personal Ranking"
 
 #. Key:	[9001555]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001555]"
-msgid "add"
-msgstr "add"
+msgid "Friend ranking"
+msgstr "Friend ranking"
+
+#. Key:	[9001556]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001556]"
+msgid "Guild ranking"
+msgstr "Guild ranking"
+
+#. Key:	[9001557]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001557]"
+msgid "Ranking"
+msgstr "Ranking"
+
+#. Key:	[9001558]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001558]"
+msgid "Ranked"
+msgstr "Ranked"
+
+#. Key:	[9001559]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001559]"
+msgid "Level"
+msgstr "Level"
+
+#. Key:	[9001560]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001560]"
+msgid "Matches Won"
+msgstr "Matches Won"
+
+#. Key:	[9001561]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001561]"
+msgid "QP"
+msgstr "QP"
+
+#. Key:	[9001562]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001562]"
+msgid "My Ranking"
+msgstr "My Ranking"
+
+#. Key:	[9001563]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001563]"
+msgid "Next refresh time"
+msgstr "Next refresh time"
+
+#. Key:	[9001564]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001564]"
+msgid "Not available yet"
+msgstr "Not available yet"
+
+#. Key:	[9001565]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001565]"
+msgid "A"
+msgstr "A"
+
+#. Key:	[9001566]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001566]"
+msgid "A"
+msgstr "A"
+
+#. Key:	[9001567]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001567]"
+msgid "A"
+msgstr "A"
+
+#. Key:	[9001568]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001568]"
+msgid "A"
+msgstr "A"
+
+#. Key:	[9001569]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001569]"
+msgid "A"
+msgstr "A"
+
+#. Key:	[9001570]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001570]"
+msgid "A"
+msgstr "A"
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
