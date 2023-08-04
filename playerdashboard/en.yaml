@@ -229,6 +229,8 @@ responseMessages:
   setFail: Set Fail
   removeSuccess: Remove Success
   removeFail: Remove Fail
+  votingSuccess: Voting Success
+  votingFail: Voting Fail
 
 # 常用顯示文字
 displayText:
@@ -269,6 +271,8 @@ displayText:
   confirm: Confirm
   apply: Apply
   cancel: Cancel
+  agree: Agree
+  disagree: Disagree
 
 # 公會狀態
 guildStatus:
@@ -632,6 +636,7 @@ guildControl:
     cancelJoin: Cancel Join
     confirmCancelJoin: Cacenl join confirm?
     create: Make Guild
+    viewGuild: View Guild
     # 表單
     form:
       formTitle: Make Guild
@@ -671,3 +676,13 @@ guildControl:
     ownerRecallFail: Start Owner Recall Fail
     referendumRecallSuccess: Referendum Recall Success
     referendumRecallFail: Referendum Recall Fail
+
+  # 公會投票
+  vote:
+    dismissPresident:
+      title: Vote By Dismiss President
+      count: Vote Count
+      perCentPass: Per Cent Pass
+      endTime: End Time
+      agree: Agree
+      disagree: Disagree

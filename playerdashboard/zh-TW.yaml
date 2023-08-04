@@ -230,6 +230,8 @@ responseMessages:
   setFail: 設定失敗
   removeSuccess: 移除成功
   removeFail: 移除失敗
+  votingSuccess: 投票成功
+  votingFail: 投票失敗
 
 # 常用顯示文字
 displayText:
@@ -270,6 +272,8 @@ displayText:
   confirm: 確認
   apply: 申請
   cancel: 取消
+  agree: 同意
+  disagree: 反對
 
 # 公會狀態
 guildStatus:
@@ -634,6 +638,7 @@ guildControl:
     cancelJoin: 取消加入
     confirmCancelJoin: 確認取消加入?
     create: 創立公會
+    viewGuild: 查看公會
     # 表單
     form:
       formTitle: 創立公會
@@ -667,9 +672,19 @@ guildControl:
     levelUp: 升級公會
     confirmLevelUp: 確認升級公會
     confirmChangeOwner: 確認指派為會長
-    ownerRecall: 發動罷免會長
+    ownerRecall: 發起罷免會長
     referendumRecall: 連署罷免會長
     ownerRecallSuccess: 發動罷免成功
     ownerRecallFail: 發動罷免失敗
     referendumRecallSuccess: 連署罷免成功
     referendumRecallFail: 連署罷免失敗
+
+  # 公會投票
+  vote:
+    dismissPresident:
+      title: 罷免會長投票
+      count: 投票人數
+      perCentPass: 投票通過比例
+      endTime: 投票結束時間
+      agree: 同意
+      disagree: 不同意
