@@ -512,7 +512,10 @@ systemControl:
       setUpGuildNeedPetitionMemberTotal: 成立公會需要連署人數
       setUpGuildPetitionMaximumNumberOfDays: 連署公會成立天數
       autoJoinGuildNumberOfDays: 系統自動審核申請加入天數
-      upgradeLevelNeedCoin: 升級公會需要資金
+      voteDay: 投票天數
+      voteRate: 投票成功比例
+      presidentRemoveVoteIntervalDay: 罷免會長投票兼隔天數
+      upgrade: 公會等級對應限制
       placeholder:
         inputMakeGuildNeedLevel: 請輸入創立公會等級
         inputJoinGuildNeedLevel: 請輸入加入公會等級
@@ -523,6 +526,11 @@ systemControl:
         inputUpgradeLevelNeedCoin: 請輸入升級公會需要資金
         inputUpgradeLevelCurrency: 請選擇升級公會幣別
         inputUpgradeLevel: 請輸入公會升級等級
+        inputMemberLimit: 請輸入公會限制人數
+        inputBulletinLimit: 請輸入公告限制篇數
+        inputVoteDay: 請輸入公會投票天數
+        inputVoteRate: 請輸入投票通過比例
+        inputPresidentRemoveIntervalDay: 請輸入罷免會長投票間隔天數
 
 # 帳號管理
 accountControl:

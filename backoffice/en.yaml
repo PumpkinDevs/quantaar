@@ -512,7 +512,10 @@ systemControl:
       setUpGuildNeedPetitionMemberTotal: Set Up Guild Need Petition Member Total
       setUpGuildPetitionMaximumNumberOfDays: Set Up Guild Petition Maximum Number Of Days
       autoJoinGuildNumberOfDays: Auto Join Guild Number Of Days
-      upgradeLevelNeedCoin: Upgrade Level Need  Coin
+      upgrade: Upgrade Level Mache Rule
+      voteDay: Vote Day
+      voteRate: Vote Active Rate
+      presidentRemoveVoteIntervalDay: President Remove Vote Interval Day
       placeholder:
         inputMakeGuildNeedLevel: Please enter make guild need level.
         inputJoinGuildNeedLevel: Please enter join guild need level.
@@ -523,6 +526,11 @@ systemControl:
         inputUpgradeLevelNeedCoin: Please upgrade level need coin.
         inputUpgradeLevelCurrency: Please select upgrade level use currency.
         inputUpgradeLevel: Please enter upgrade level.
+        inputMemberLimit: Please enter guild member limit.
+        inputBulletinLimit: Please enter guild bulletin limit.
+        inputVoteDay: Please enter vote day.
+        inputVoteRate: Please enter vote can active rate.
+        inputPresidentRemoveIntervalDay: Please president remove interval day.
 
 # 帳號管理
 accountControl:
