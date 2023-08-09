@@ -536,7 +536,7 @@ accountControl:
       title: 玩家好友
       playerName: 玩家名稱
       level: 等級
-      onlineStatus: 在戲狀態
+      onlineStatus: 在線狀態
 
     # 玩家資料詳情頁 -> 每日任務 url: /game/user/daily-task
     dailyTask:
