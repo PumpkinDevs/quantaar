@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-09 06:11\n"
-"PO-Revision-Date: 2023-08-09 06:11\n"
+"POT-Creation-Date: 2023-08-09 06:54\n"
+"PO-Revision-Date: 2023-08-09 06:54\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -15008,50 +15008,50 @@ msgstr "Vacation mode"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001576]"
-msgid "A"
-msgstr "A"
+msgid "Ocean Drive"
+msgstr "Ocean Drive"
 
 #. Key:	[9001577]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001577]"
-msgid "A"
-msgstr "A"
+msgid "Battle Pass"
+msgstr "Battle Pass"
 
 #. Key:	[9001578]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001578]"
-msgid "A"
-msgstr "A"
+msgid "Free Pass"
+msgstr "Free Pass"
 
 #. Key:	[9001579]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001579]"
-msgid "A"
-msgstr "A"
+msgid "Buy Battle Pass"
+msgstr "Buy Battle Pass"
 
 #. Key:	[9001580]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001580]"
-msgid "A"
-msgstr "A"
+msgid "Please confirm your purchase"
+msgstr "Please confirm your purchase"
 
 #. Key:	[9001581]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001581]"
-msgid "A"
-msgstr "A"
+msgid "Congratulations! You've upgraded to Battle Pass"
+msgstr "Congratulations! You've upgraded to Battle Pass"
 
 #. Key:	[9001582]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001582]"
-msgid "A"
-msgstr "A"
+msgid "Check ranked reward"
+msgstr "Check ranked reward"
 
 #. Key:	[9001583]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
