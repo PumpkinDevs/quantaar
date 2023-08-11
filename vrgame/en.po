@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-09 07:07\n"
-"PO-Revision-Date: 2023-08-09 07:07\n"
+"POT-Creation-Date: 2023-08-11 06:16\n"
+"PO-Revision-Date: 2023-08-11 06:16\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -15057,22 +15057,22 @@ msgstr "Check ranked reward"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001583]"
-msgid "A"
-msgstr "A"
+msgid "Casual"
+msgstr "Casual"
 
 #. Key:	[9001584]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001584]"
-msgid "A"
-msgstr "A"
+msgid "INVITE"
+msgstr "INVITE"
 
 #. Key:	[9001585]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001585]"
-msgid "A"
-msgstr "A"
+msgid "Invite your friend to the Social Hall"
+msgstr "Invite your friend to the Social Hall"
 
 #. Key:	[9001586]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
