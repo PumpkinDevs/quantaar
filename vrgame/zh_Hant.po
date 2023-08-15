@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-11 06:16\n"
-"PO-Revision-Date: 2023-08-11 06:16\n"
+"POT-Creation-Date: 2023-08-15 10:05\n"
+"PO-Revision-Date: 2023-08-15 10:05\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -2667,8 +2667,8 @@ msgstr "伺服器位置"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 Observers, including AI"
-msgstr "自訂賽局只能在有 4 名觀察者 (包含 AI ) 時才能啟動"
+msgid "A Custom Mode can only be started with 4 Observers, AI included  *AI can’t be a Spectator"
+msgstr "自訂賽局只能在有 4 名觀察者 (包含 AI ) 時才能啟動  *AI 不能為觀戰者"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2693,8 +2693,8 @@ msgstr "場地"
 #. InfoMetaData:	"西班牙" : "Cada equipo debe tener 2 jugadores para poder iniciar un combate 2 contra 2."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
-msgid "\"Each team must have 2  Observers to start a 2 vs 2 combat.\""
-msgstr "每個隊伍必須擁有 2 名觀察者才能開始 2 對 2 模式的戰鬥"
+msgid "For a 2 vs 2 match, each team needs 2 Observers, AI included."
+msgstr "每個隊伍必須擁有 2 名觀察者才能開始 2 對 2 模式的戰鬥 (包含 AI )"
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15078,43 +15078,43 @@ msgstr "邀請你的好友前往社交大廳"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001586]"
-msgid "A"
-msgstr ""
+msgid "Grab the fresh Battle Pass and unlock trendy Observer and Hero styles with a fun Ocean Drive theme!"
+msgstr "購買全新的戰鬥通行證，解鎖時尚的觀察者和英雄造型來搭配有趣的海洋大道主題吧！"
 
 #. Key:	[9001587]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001587]"
-msgid "A"
-msgstr ""
+msgid "Spectator"
+msgstr "觀戰者"
 
 #. Key:	[9001588]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001588]"
-msgid "A"
-msgstr ""
+msgid "Observers in Battle"
+msgstr "參戰的觀察者"
 
 #. Key:	[9001589]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001589]"
-msgid "A"
-msgstr ""
+msgid "Observer Action View"
+msgstr "觀察者視角"
 
 #. Key:	[9001590]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001590]"
-msgid "A"
-msgstr ""
+msgid "Free View"
+msgstr "自由視角"
 
 #. Key:	[9001591]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001591]"
-msgid "A"
-msgstr ""
+msgid "Spin View"
+msgstr "旋轉視角"
 
 #. Key:	[9001592]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

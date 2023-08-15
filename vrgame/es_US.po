@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-11 06:16\n"
-"PO-Revision-Date: 2023-08-11 06:16\n"
+"POT-Creation-Date: 2023-08-15 10:05\n"
+"PO-Revision-Date: 2023-08-15 10:05\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -2667,7 +2667,7 @@ msgstr "Ubicación del Servidor"
 #. InfoMetaData:	"西班牙" : "Solo se puede empezar una Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
-msgid "A Custom Mode can only be started with 4 Observers, including AI"
+msgid "A Custom Mode can only be started with 4 Observers, AI included  *AI can’t be a Spectator"
 msgstr ""
 
 #. Key:	[0019002]
@@ -2693,7 +2693,7 @@ msgstr "Escenario"
 #. InfoMetaData:	"西班牙" : "Cada equipo debe tener 2 jugadores para poder iniciar un combate 2 contra 2."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
-msgid "\"Each team must have 2  Observers to start a 2 vs 2 combat.\""
+msgid "For a 2 vs 2 match, each team needs 2 Observers, AI included."
 msgstr ""
 
 #. Key:	[0019004]
@@ -15078,42 +15078,42 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001586]"
-msgid "A"
+msgid "Grab the fresh Battle Pass and unlock trendy Observer and Hero styles with a fun Ocean Drive theme!"
 msgstr ""
 
 #. Key:	[9001587]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001587]"
-msgid "A"
+msgid "Spectator"
 msgstr ""
 
 #. Key:	[9001588]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001588]"
-msgid "A"
+msgid "Observers in Battle"
 msgstr ""
 
 #. Key:	[9001589]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001589]"
-msgid "A"
+msgid "Observer Action View"
 msgstr ""
 
 #. Key:	[9001590]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001590]"
-msgid "A"
+msgid "Free View"
 msgstr ""
 
 #. Key:	[9001591]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001591]"
-msgid "A"
+msgid "Spin View"
 msgstr ""
 
 #. Key:	[9001592]
