@@ -245,6 +245,19 @@ displayText:
   minutes: 分鐘
   invitationCode: 邀請碼
   add: 新增
+  local: 環境
+
+# 玩家狀態
+playerStatus:
+  normal: 正常
+  abnormal: 異常
+  disabled: 禁用
+
+# 玩家付費類型
+playerPosition:
+  free: 免費(free)
+  standard: 基本(standard)
+  deluxe: 豪華(deluxe)
 
 # 裝置平台
 platforms:
@@ -274,7 +287,7 @@ toolMark:
   system: system
   emoji: emoji
   particle: 粒子特效
-  skinHero: skinHero
+  skinHero: 英雄皮膚
   token: token
   observers: 觀察者道具
   heroes: 英雄們
@@ -611,6 +624,7 @@ accountControl:
       cores: 符文
       level5At: 升級五等時間
       currentSeasonMaxpts: 當前賽季最高積分
+      position: 付費類型
 
     # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
     createHoldTool:

@@ -245,6 +245,19 @@ displayText:
   minutes: Minutes
   invitationCode: Invitation Code
   add: Add
+  local: Local
+
+# 玩家狀態
+playerStatus:
+  normal: noraml
+  abnormal: abnormal
+  disabled: disabled
+
+# 玩家付費類型
+playerPosition:
+  free: Free
+  standard: Standard
+  deluxe: Deluxe
 
 # 裝置平台
 platforms:
@@ -618,6 +631,7 @@ accountControl:
       cores: Cores
       level5At: Level 5 At
       currentSeasonMaxpts: Current Season Max Pts
+      position: Payment Type
 
     # 玩家資料詳情頁 -> 新增手持道具 url: /user/player/{id}
     createHoldTool:
