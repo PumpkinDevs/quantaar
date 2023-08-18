@@ -219,7 +219,7 @@ responseMessages:
   getDataFail: 取得資料失敗
   refundSuccess: 退款成功
   refundFail: 退款失敗
-  deletSuccess: 刪除成功
+  deleteSuccess: 刪除成功
   deleteFail: 刪除失敗
   tokenExpired: 登入狀態已到期請重新登入
   joinSuccess: 加入成功
@@ -246,6 +246,7 @@ displayText:
   emptyData: 沒有資料
   view: 查看
   copy: 複製
+  edit: 編輯
   fightType: 對戰類型
   orderPrice: 訂單價格
   currency: 幣別
@@ -274,6 +275,7 @@ displayText:
   cancel: 取消
   agree: 同意
   disagree: 反對
+  close: 關閉
 
 # 公會狀態
 guildStatus:
@@ -688,3 +690,16 @@ guildControl:
       endTime: 投票結束時間
       agree: 同意
       disagree: 不同意
+
+  # 公會文章
+  post:
+    viewAnnouncement: 查看公告
+    announcement: 公告
+    createAnnouncement: 新增公告
+    title: 標題
+    content: 內容
+    author: 發布者
+    form:
+      placeholder:
+        inputTitle: 請輸入標題
+        inputContent: 請輸入內容

@@ -218,7 +218,7 @@ responseMessages:
   getDataFail: Get Data Fail
   refundSuccess: Refund Success
   refundFail: Refund Fail
-  deletSuccess: Delete Success
+  deleteSuccess: Delete Success
   deleteFail: Delete Fail
   tokenExpired: The login session expired. please need login again.
   joinSuccess: Join Success
@@ -245,6 +245,7 @@ displayText:
   emptyData: Empty Data
   view: View
   copy: Copy
+  edit: Edit
   fightType: Battle type
   orderPrice: Order price
   currency: Currency,
@@ -273,6 +274,7 @@ displayText:
   cancel: Cancel
   agree: Agree
   disagree: Disagree
+  close: Close
 
 # 公會狀態
 guildStatus:
@@ -686,3 +688,16 @@ guildControl:
       endTime: End Time
       agree: Agree
       disagree: Disagree
+
+  # 公會公告
+  post:
+    viewAnnouncement: View Announcement
+    announcement: Announcement
+    createAnnouncement: Create Announcement
+    title: Title
+    content: Content
+    author: Author
+    form:
+      placeholder:
+        inputTitle: Please enter title.
+        inputContent: Please enter content.
