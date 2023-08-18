@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-15 10:05\n"
-"PO-Revision-Date: 2023-08-15 10:05\n"
+"POT-Creation-Date: 2023-08-18 07:29\n"
+"PO-Revision-Date: 2023-08-18 07:29\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -15120,21 +15120,21 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001592]"
-msgid "A"
+msgid "Unlock the Shiny Celebration in the Store!"
 msgstr ""
 
 #. Key:	[9001593]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001593]"
-msgid "A"
+msgid "Friending"
 msgstr ""
 
 #. Key:	[9001594]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001594]"
-msgid "A"
+msgid "Friend!"
 msgstr ""
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1

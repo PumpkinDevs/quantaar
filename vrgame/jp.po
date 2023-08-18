@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-15 10:05\n"
-"PO-Revision-Date: 2023-08-15 10:05\n"
+"POT-Creation-Date: 2023-08-18 07:29\n"
+"PO-Revision-Date: 2023-08-18 07:29\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -15120,22 +15120,22 @@ msgstr "スピンビュー"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001592]"
-msgid "A"
-msgstr ""
+msgid "Unlock the Shiny Celebration in the Store!"
+msgstr "ストアでシャイニーセレブレーションを解放してください！"
 
 #. Key:	[9001593]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001593]"
-msgid "A"
-msgstr ""
+msgid "Friending"
+msgstr "フレンド追加"
 
 #. Key:	[9001594]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001594]"
-msgid "A"
-msgstr ""
+msgid "Friend!"
+msgstr "友達になた！"
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
