@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-18 07:29\n"
-"PO-Revision-Date: 2023-08-18 07:29\n"
+"POT-Creation-Date: 2023-08-22 02:17\n"
+"PO-Revision-Date: 2023-08-22 02:17\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -15136,6 +15136,48 @@ msgstr "フレンド追加"
 msgctxt "ST_Game_Widget,[9001594]"
 msgid "Friend!"
 msgstr "友達になた！"
+
+#. Key:	[9001595]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001595]"
+msgid "Event"
+msgstr "イベント"
+
+#. Key:	[9001596]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001596]"
+msgid "Guild"
+msgstr "ギルド"
+
+#. Key:	[9001597]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001597]"
+msgid "Please report bugs on discord"
+msgstr "Discordでバグを報告してください"
+
+#. Key:	[9001598]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001598]"
+msgid "a"
+msgstr ""
+
+#. Key:	[9001599]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001599]"
+msgid "a"
+msgstr ""
+
+#. Key:	[9001600]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001600]"
+msgid "a"
+msgstr ""
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
