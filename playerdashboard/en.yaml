@@ -110,6 +110,7 @@ menus:
   hsPlayerList: Player List
   hsPlayer: Player Info
   hsPlayerInfo: Info
+  hsPlayerBindEmail: Bind Email
   hsPlayerFriends: Friends
   hsPlayerFightRecord: Battle Record
   hsPlayerHeroRecord: Heros
@@ -424,6 +425,25 @@ accountControl:
           inputCoin: Please enter refund point.
           inputRetainTool: Please confirm product need take back?
 
+    # 綁定 email url: /game/user/bind-email
+    BindEmail:
+      title: Bind Email
+      changeBindTitle: Change Bind Email
+      sendCode: Send Verify Code
+      bindSuccess: Bind email success.
+      form:
+        code: Verify Code
+        placeholder:
+          inputEmail: Please enter email.
+          inputCode: Please enter verify code.
+        emailVaidationError: Email validation fail.
+        emailHaveAlreadyError: Email is already.
+        emailVerifyCodeTimeoutError: Email verify code timeout.
+        emailVerifyCodeSendLimitError: Email verify code send limit in 24 hour, please wait for 24 hour.
+        emailRebindError: Email Rebind need bind day after 7days.
+        emailSendVerifyCodeError: Send email verify code fail.
+        emailVerifyFailError: Email verify fail.
+
     # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: ResetPlayer
@@ -694,6 +714,9 @@ guildControl:
     viewAnnouncement: View Announcement
     announcement: Announcement
     createAnnouncement: Create Announcement
+    viewPost: View Post
+    post: Post
+    createPost: Create Post
     title: Title
     content: Content
     author: Author

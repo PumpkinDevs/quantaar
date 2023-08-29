@@ -110,6 +110,7 @@ menus:
   hsPlayerList: 玩家列表
   hsPlayer: 玩家資料
   hsPlayerInfo: 個人資料
+  hsPlayerBindEmail: 綁定Email
   hsPlayerFriends: 好友
   hsPlayerFightRecord: 對戰紀錄
   hsPlayerHeroRecord: 英雄使用紀錄
@@ -424,6 +425,25 @@ accountControl:
           inputCoin: 請輸入退款額度
           inputRetainTool: 請選擇是否要將商品取回
 
+    # 綁定 email url: /game/user/bind-email
+    BindEmail:
+      title: 綁定Email
+      changeBindTitle: 更換綁定Email
+      sendCode: 發送驗證碼
+      bindSuccess: 綁定成功
+      form:
+        code: 驗證碼
+        placeholder:
+          inputEmail: 請輸入 Email
+          inputCode: 請輸入驗證碼
+        emailVaidationError: Email 格式錯誤
+        emailHaveAlreadyError: Email 已存在
+        emailVerifyCodeTimeoutError: Email 驗證碼過時
+        emailVerifyCodeSendLimitError: Email 驗證碼24小時內超過3次發送 請於24小時後再嘗試
+        emailRebindError: Email 更新綁定 需綁定日7天後才能更新
+        emailSendVerifyCodeError: 發送驗證碼失敗
+        emailVerifyFailError: 信箱驗證失敗
+
     # 玩家資料詳情頁 -> 重置玩家密碼 url: /user/player/{id}
     resetPassword:
       resetPlayer: 重置玩家
@@ -696,6 +716,9 @@ guildControl:
     viewAnnouncement: 查看公告
     announcement: 公告
     createAnnouncement: 新增公告
+    viewPost: 查看塗鴉牆
+    post: 塗鴉牆
+    createPost: 新增塗鴉牆
     title: 標題
     content: 內容
     author: 發布者
