@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-22 02:17\n"
-"PO-Revision-Date: 2023-08-22 02:17\n"
+"POT-Creation-Date: 2023-08-31 03:25\n"
+"PO-Revision-Date: 2023-08-31 03:25\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -15162,20 +15162,139 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001598]"
-msgid "a"
+msgid "SkipTutorial"
 msgstr ""
 
 #. Key:	[9001599]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001599]"
-msgid "a"
+msgid "Cosmic Call"
 msgstr ""
 
 #. Key:	[9001600]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001600]"
+msgid "Fix"
+msgstr ""
+
+#. Key:	[9001601]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001601]"
+msgid "Rally your friends to venture into QUANTAAR and unlock a variety of resources and rewards."
+msgstr ""
+
+#. Key:	[9001602]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001602]"
+msgid "August 19, 2023 - October 11, 2023"
+msgstr ""
+
+#. Key:	[9001603]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001603]"
+msgid "Gather your friends to join you in QUANTAAR and unlock a plethora of resources and rewards! If you're an existing Observer, you can find your current invitation reward stage and your referral code on your event page. This referral code will be key in inviting others to participate. If you're a new player, you can enter the referral code provided by other players on the event page. A new player is defined as someone who has created an account within the last seven days."
+msgstr ""
+
+#. Key:	[9001604]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001604]"
+msgid "Rewards"
+msgstr ""
+
+#. Key:	[9001605]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001605]"
+msgid "New Observer Referral Code Reward: Eligible new players who successfully input a referral code will receive a reward of 1,000 Galaxy Gems."
+msgstr ""
+
+#. Key:	[9001606]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001606]"
+msgid "Existing Observer Inviting New Observer Reward: For every new Observer who successfully inputs your referral code, you'll receive a reward of 200 Galaxy Gems. Once each of the Observers you've invited reaches level 5, you'll receive an additional reward of 800 Galaxy Gems."
+msgstr ""
+
+#. Key:	[9001607]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001607]"
+msgid "Each account can input a referral code only once."
+msgstr ""
+
+#. Key:	[9001608]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001608]"
+msgid "Rewards will be delivered to you through in-game mail."
+msgstr ""
+
+#. Key:	[9001609]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001609]"
+msgid "Event Details"
+msgstr ""
+
+#. Key:	[9001610]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001610]"
+msgid "Number of referrals"
+msgstr ""
+
+#. Key:	[9001611]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001611]"
+msgid "Referred reached LV.5"
+msgstr ""
+
+#. Key:	[9001612]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001612]"
+msgid "My referral code"
+msgstr ""
+
+#. Key:	[9001613]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001613]"
+msgid "PURCHASE"
+msgstr ""
+
+#. Key:	[9001614]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001614]"
+msgid "Purchase Failed. Check network or card info, then reconnect to the game if \"PURCHASE\" isn't working"
+msgstr ""
+
+#. Key:	[9001615]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001615]"
+msgid "Custom mode exclusive map (rolling out gradually)"
+msgstr ""
+
+#. Key:	[9001616]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001616]"
+msgid "Neptune's Apostle"
+msgstr ""
+
+#. Key:	[9001617]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001617]"
 msgid "a"
 msgstr ""
 

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-08-22 02:17\n"
-"PO-Revision-Date: 2023-08-22 02:17\n"
+"POT-Creation-Date: 2023-08-31 03:25\n"
+"PO-Revision-Date: 2023-08-31 03:25\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -15162,20 +15162,139 @@ msgstr "請在 Discord 上回報錯誤"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001598]"
-msgid "a"
-msgstr ""
+msgid "SkipTutorial"
+msgstr "跳過新手教學"
 
 #. Key:	[9001599]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001599]"
-msgid "a"
-msgstr ""
+msgid "Cosmic Call"
+msgstr "宇宙召集令"
 
 #. Key:	[9001600]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001600]"
+msgid "Fix"
+msgstr "召集你的好友一同進入QUANTAAR，解鎖多種資源與獎品"
+
+#. Key:	[9001601]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001601]"
+msgid "Rally your friends to venture into QUANTAAR and unlock a variety of resources and rewards."
+msgstr "召集你的好友一同進入QUANTAAR，解鎖多種資源與獎品"
+
+#. Key:	[9001602]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001602]"
+msgid "August 19, 2023 - October 11, 2023"
+msgstr ""
+
+#. Key:	[9001603]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001603]"
+msgid "Gather your friends to join you in QUANTAAR and unlock a plethora of resources and rewards! If you're an existing Observer, you can find your current invitation reward stage and your referral code on your event page. This referral code will be key in inviting others to participate. If you're a new player, you can enter the referral code provided by other players on the event page. A new player is defined as someone who has created an account within the last seven days."
+msgstr "召集你的好友一同進入QUANTAAR，解鎖多種資源與獎品!\r\n如果您是已加入的觀察者，在您的活動頁面，您可以查看自己目前的邀請獎勵階段以及您的推薦碼。這個推薦碼將是您邀請他人參與活動的關鍵。\r\n如果您是新加入的觀察者，您可以在活動頁面中輸入其他玩家提供的推薦碼。\r\n新玩家定義： 從您創建帳號的那一刻開始的七天內，將被視為新加入的觀察者。"
+
+#. Key:	[9001604]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001604]"
+msgid "Rewards"
+msgstr "獎勵內容"
+
+#. Key:	[9001605]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001605]"
+msgid "New Observer Referral Code Reward: Eligible new players who successfully input a referral code will receive a reward of 1,000 Galaxy Gems."
+msgstr "新加入的觀察者推薦碼獎勵：符合資格並成功填寫推薦碼，新加入的觀察者將獲得 1,000 銀河晶鑽作為獎勵。"
+
+#. Key:	[9001606]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001606]"
+msgid "Existing Observer Inviting New Observer Reward: For every new Observer who successfully inputs your referral code, you'll receive a reward of 200 Galaxy Gems. Once each of the Observers you've invited reaches level 5, you'll receive an additional reward of 800 Galaxy Gems."
+msgstr "已加入的觀察者邀請新觀察者獎勵：\r\n每位成功填寫您的推薦碼的新加入的觀察者將讓您獲得 200 銀河晶鑽作為獎勵。\r\n每位您邀請新加入的觀察者升級至等級 5 後，您可以再獲得 800 銀河晶鑽作為獎勵。"
+
+#. Key:	[9001607]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001607]"
+msgid "Each account can input a referral code only once."
+msgstr "每個帳號僅能填寫一次推薦碼。"
+
+#. Key:	[9001608]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001608]"
+msgid "Rewards will be delivered to you through in-game mail."
+msgstr "獎勵將透過遊戲內信件寄送給您。"
+
+#. Key:	[9001609]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001609]"
+msgid "Event Details"
+msgstr "活動說明"
+
+#. Key:	[9001610]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001610]"
+msgid "Number of referrals"
+msgstr "已推薦數量"
+
+#. Key:	[9001611]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001611]"
+msgid "Referred reached LV.5"
+msgstr "邀請的玩家達成 LV.5"
+
+#. Key:	[9001612]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001612]"
+msgid "My referral code"
+msgstr "我的推薦代碼"
+
+#. Key:	[9001613]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001613]"
+msgid "PURCHASE"
+msgstr "購買"
+
+#. Key:	[9001614]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001614]"
+msgid "Purchase Failed. Check network or card info, then reconnect to the game if \"PURCHASE\" isn't working"
+msgstr "購買失敗 若無法成功點選 「購買」，請檢查網路連線或信用卡資訊後，重新連線遊戲"
+
+#. Key:	[9001615]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001615]"
+msgid "Custom mode exclusive map (rolling out gradually)"
+msgstr "自訂房間專屬地圖 (逐步推出)"
+
+#. Key:	[9001616]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001616]"
+msgid "Neptune's Apostle"
+msgstr "海神使徒"
+
+#. Key:	[9001617]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001617]"
 msgid "a"
 msgstr ""
 
