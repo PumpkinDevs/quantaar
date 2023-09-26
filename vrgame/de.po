@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-13 02:44+0000\n"
+"PO-Revision-Date: 2023-09-26 11:40+0000\n"
 "Last-Translator: David <david@pumpkinvrar.com>\n"
 "Language-Team: German <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/de/>\n"
@@ -17827,3 +17827,129 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr ""
 "Bitte wählen Sie die Optionen aus, die Ihren Vorlieben am besten entsprechen."
+
+#. Key:	9001678
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001678"
+msgid "Unlock the Power of Border Controller in the Store!"
+msgstr "Schalte die Macht von Border Controller im Store frei!"
+
+#. Key:	[9001023]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"UI" : "WB_OnlineBattle_BattleMode_Wide"
+#. InfoMetaData:	"中文" : "社交大廳"
+#. InfoMetaData:	"使用到的藍圖" : "WB_OnlineBattle_BattleMode_Wide"
+#. InfoMetaData:	"日文" : "ソーシャルホール"
+#. InfoMetaData:	"簡體中文" : "社交大厅"
+#. InfoMetaData:	"西班牙" : "Social"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001023]"
+msgid "PARTY HALL"
+msgstr "PARTYSAAL"
+
+#. Key:	[9001122]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "創建社交大廳"
+#. InfoMetaData:	"日文" : "ソーシャルホールの作成"
+#. InfoMetaData:	"簡體中文" : "创建社交大厅"
+#. InfoMetaData:	"西班牙" : "CREAR SALA SOCIAL"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001122]"
+msgid "CREATE PARTY HALL"
+msgstr "PARTYSAAL ERSTELLEN"
+
+#. Key:	[9001123]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "社交大廳列表"
+#. InfoMetaData:	"日文" : "ソーシャルホールリスト"
+#. InfoMetaData:	"簡體中文" : "社交大厅列表"
+#. InfoMetaData:	"西班牙" : "LISTA DE SALONES SOCIALES"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001123]"
+msgid "PARTY HALL LIST"
+msgstr "LISTE DER PARTYHALLEN"
+
+#. Key:	[9001413]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "社交大廳"
+#. InfoMetaData:	"日文" : "ソーシャルホール"
+#. InfoMetaData:	"簡體中文" : "社交大厅"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001413]"
+msgid "Party Hall"
+msgstr "Festsaal"
+
+#. Key:	[9001481]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"UI" : "HomeUI"
+#. InfoMetaData:	"中文" : "社交"
+#. InfoMetaData:	"日文" : "ソーシャル"
+#. InfoMetaData:	"簡體中文" : "社交"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001481]"
+msgid "PARTY"
+msgstr "PARTEI"
+
+#. Key:	[9001585]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001585]"
+msgid "Invite your friend to the Party Hall"
+msgstr "Lade deinen Freund in die Partyhalle ein"
+
+#. Key:	[9001674]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001674]"
+msgid "Border Control Early Access Bundle"
+msgstr "Early-Access-Paket für Grenzkontrolle"
+
+#. Key:	[9001129]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "加入社交房間"
+#. InfoMetaData:	"日文" : "ソーシャルルームに参加"
+#. InfoMetaData:	"簡體中文" : "加入社交房间"
+#. InfoMetaData:	"西班牙" : "ÚNETE A LA SALA SOCIAL"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001129]"
+msgid "JOIN PARTY HALL"
+msgstr "DEM PARTYSAAL BEITRETEN"
+
+#. Key:	[9001344]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "前往社交大廳"
+#. InfoMetaData:	"日文" : "ソーシャルホールに入る"
+#. InfoMetaData:	"簡體中文" : "前往社交大厅"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001344]"
+msgid "Enter Party"
+msgstr "Party eintragen"
+
+#. Key:	[9001673]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001673]"
+msgid "Border Controller"
+msgstr "Grenzkontrolleur"
+
+#. Key:	[9001675]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001675]"
+msgid "Border Control Bundle"
+msgstr "Paket „Grenzkontrolle“"
+
+#. Key:	[9001676]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001676]"
+msgid "Border Observer Helmet"
+msgstr "Helm Border Observer"
+
+#. Key:	[9001677]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001677]"
+msgid "Border Observer Gloves"
+msgstr "Border Observer Handschuhe"
