@@ -1,1211 +1,1214 @@
-# Game Japanese (Japan) translation.
+﻿# Game Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-06 08:45\n"
-"PO-Revision-Date: 2023-09-13 03:23+0000\n"
-"Last-Translator: David <david@pumpkinvrar.com>\n"
-"Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ja/>\n"
-"Language: jp\n"
+"POT-Creation-Date: 2023-09-26 03:42\n"
+"PO-Revision-Date: 2023-09-26 03:42\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000000]Success"
 msgid "成功"
-msgstr "成功"
+msgstr ""
 
 #. Key:	[0000100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000100]TimeOut"
 msgid "要求玩家資料連線逾時"
-msgstr "1玩玩家線時"
+msgstr ""
 
 #. Key:	[0000101]NoUserData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000101]NoUserData"
 msgid "沒有資料"
-msgstr "有資料"
+msgstr ""
 
 #. Key:	[0000102]RequestUserData_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000102]RequestUserData_GetItem_Failed"
 msgid "沒有資料 [0000102]"
-msgstr "有資料 [0000102]"
+msgstr ""
 
 #. Key:	[0000103]GetUserID_IsInThePlayerUserID
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000103]GetUserID_IsInThePlayerUserID"
 msgid "沒有資料 [0000103]"
-msgstr "有資料 [0000103]"
+msgstr ""
 
 #. Key:	[0000104]VersionMismatch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000104]VersionMismatch"
 msgid "版本不匹配 [0000104]"
-msgstr "版一匹配 [0000104]"
+msgstr ""
 
 #. Key:	[0000105]AFK
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000105]AFK"
 msgid "玩家暫離過久 [0000105]"
-msgstr "玩家故過久 [0000105]"
+msgstr ""
 
 #. Key:	[0000200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000200]TimeOut"
 msgid "要求大廳資料連線逾時"
-msgstr "ST_Game_StateCode、[0000200] "
-"タイムアウト。ロビーデータ接続のリクエストがタイムアウトしました"
+msgstr ""
 
 #. Key:	[0000201]NoUserData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000201]NoUserData"
 msgid "沒有大廳資料"
-msgstr "有大料"
+msgstr ""
 
 #. Key:	[0000300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000300]TimeOut"
 msgid "要求道具資料連線逾時"
-msgstr "よもやの字時"
+msgstr ""
 
 #. Key:	[0000301]RequestUserItemData_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000301]RequestUserItemData_GetItem_Failed"
 msgid "要求道具資料斷線 [0000301]"
-msgstr "以文目[ 0000301]"
+msgstr ""
 
 #. Key:	[0000400]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000400]TimeOut"
 msgid "要求從開頭到大廳連線逾時"
-msgstr "一頭頭到大線時"
+msgstr ""
 
 #. Key:	[0000401]CheckPlayerUserIDFailedFromDBScaning
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000401]CheckPlayerUserIDFailedFromDBScaning"
 msgid "伺服器異常，請重新再試 [0000401]"
-msgstr "829服異常，請重新快[ 0000401]"
+msgstr ""
 
 #. Key:	[0000402]NoPlatformName
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000402]NoPlatformName"
 msgid "請開啟 Steam 平台 [0000402]"
-msgstr "請スチーム平台 [0000402]"
+msgstr ""
 
 #. Key:	[0000403]DynamoDBNewPlayerAddedScan_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000403]DynamoDBNewPlayerAddedScan_Failed"
 msgid "伺服器異常，請離開重新再試 [0000403]"
-msgstr "829服服異常，請離就新選 [0000403]"
+msgstr ""
 
 #. Key:	[0000404]ScanResultItemIsEmpty
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000404]ScanResultItemIsEmpty"
 msgid "伺服器異常，請離開重新再試 [0000404]"
-msgstr "829服服異常，請離就新選 [0000404]"
+msgstr ""
 
 #. Key:	[0000405]UpdateItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000405]UpdateItem_Failed"
 msgid "伺服器異常，請離開重新再試 [0000405]"
-msgstr "829服服異常，請離就新選 [0000405]"
+msgstr ""
 
 #. Key:	[0000406]SearchingGameSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000406]SearchingGameSession_Failed"
 msgid "伺服器異常，請離開重新再試 [0000406]"
-msgstr "829服服異常，請離就新選 [0000406]"
+msgstr ""
 
 #. Key:	[0000407]LengthOfGameSessionsEqualToZero
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000407]LengthOfGameSessionsEqualToZero"
 msgid "伺服器異常，請離開重新再試 [0000407]"
-msgstr "829服服異常，請離就新選 [0000407]"
+msgstr ""
 
 #. Key:	[0000408]ProtingDirection_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000408]ProtingDirection_Failed"
 msgid "伺服器異常，請離開重新再試 [0000408]"
-msgstr "829服服異常，請離就新選 [0000408]"
+msgstr ""
 
 #. Key:	[0000409]CreatePlayerSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000409]CreatePlayerSession_Failed"
 msgid "伺服器異常，請離開重新再試 [0000409]"
-msgstr "829服服異常，請離就新選 [0000409]"
+msgstr ""
 
 #. Key:	[0000410]CheckSteamPlatform
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000410]CheckSteamPlatform"
 msgid "請開啟 Steam 平台 [0000410]"
-msgstr "請け引きスチーム平台 [0000410]"
+msgstr ""
 
 #. Key:	[0000500]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000500]TimeOut"
 msgid "要求從教學到大廳連線逾時"
-msgstr "望教到大線時"
+msgstr ""
 
 #. Key:	[0000501]SearchingGameSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000501]SearchingGameSession_Failed"
 msgid "伺服器異常，請離開重新再試 [0000501]"
-msgstr "829服服異常，請離就新選 [0000501]"
+msgstr ""
 
 #. Key:	[0000502]LengthOfGameSessionsEqualToZero
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000502]LengthOfGameSessionsEqualToZero"
 msgid "伺服器異常，請離開重新再試 [0000502]"
-msgstr "829服服異常，請離就新選 [0000502]"
+msgstr ""
 
 #. Key:	[0000503]ProtingDirectionFailed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000503]ProtingDirectionFailed"
 msgid "伺服器異常，請離開重新再試 [0000503]"
-msgstr "829服服異常，請離就新選 [0000503]"
+msgstr ""
 
 #. Key:	[0000504]CreatePlayerSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000504]CreatePlayerSession_Failed"
 msgid "伺服器異常，請離開重新再試 [0000504]"
-msgstr "829服服異常，請離就新選 [0000504]"
+msgstr ""
 
 #. Key:	[0000600]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000600]TimeOut"
 msgid "要求從練習到大廳連線逾時"
-msgstr "望到大線時"
+msgstr ""
 
 #. Key:	[0000601]SearchingGameSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000601]SearchingGameSession_Failed"
 msgid "伺服器異常，請離開重新再試 [0000601]"
-msgstr "829服服異常，請離就新選 [0000601]"
+msgstr ""
 
 #. Key:	[0000602]LengthOfGameSessionsEqualToZero
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000602]LengthOfGameSessionsEqualToZero"
 msgid "伺服器異常，請離開重新再試 [0000602]"
-msgstr "829服服異常，請離就新選 [0000602]"
+msgstr ""
 
 #. Key:	[0000603]ProtingDirection_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000603]ProtingDirection_Failed"
 msgid "伺服器異常，請離開重新再試 [0000603]"
-msgstr "829服服異常，請離就新選 [0000603]"
+msgstr ""
 
 #. Key:	[0000604]CreatePlayerSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000604]CreatePlayerSession_Failed"
 msgid "伺服器異常，請離開重新再試 [0000604]"
-msgstr "829服服異常，請離就新選 [0000604]"
+msgstr ""
 
 #. Key:	[0010100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010100]TimeOut"
 msgid "要求好友列表連線逾時"
-msgstr "好好好好字表表時"
+msgstr ""
 
 #. Key:	[0010101]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010101]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0010102]YourFriendFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010102]YourFriendFull"
 msgid "對方好友列表滿"
-msgstr "1 好好字表"
+msgstr ""
 
 #. Key:	[0010103]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010103]RequestTooMuch"
 msgid "請求資料太頻繁"
-msgstr "兄太太繁繁の字句を語"
+msgstr ""
 
 #. Key:	[0010104]RequestFriendList_UpdateItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010104]RequestFriendList_UpdateItem_Failed"
 msgid "資料讀取斷線 [0010104]"
-msgstr "日経線 [0010104]"
+msgstr ""
 
 #. Key:	[0010200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010200]TimeOut"
 msgid "要求最近遊玩資料連線逾時"
-msgstr "思いっきり遊玩玩線時"
+msgstr ""
 
 #. Key:	[0010201]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010201]RequestTooMuch"
 msgid "請求資料太頻繁"
-msgstr "兄太太繁繁の字句を語"
+msgstr ""
 
 #. Key:	[0010202]RequestRecentPlayHistory_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010202]RequestRecentPlayHistory_GetItem_Failed"
 msgid "資料讀取斷線 [0010202]"
-msgstr "日経線 [0010202]"
+msgstr ""
 
 #. Key:	[0010300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010300]TimeOut"
 msgid "要求等待加入的列表連線逾時"
-msgstr "世田谷区表表時"
+msgstr ""
 
 #. Key:	[0010301]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010301]RequestTooMuch"
 msgid "請求資料太頻繁"
-msgstr "兄太太繁繁の字句を語"
+msgstr ""
 
 #. Key:	[0010302]RequestWaitAddFriend_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010302]RequestWaitAddFriend_GetItem_Failed"
 msgid "資料讀取斷線 [0010302]"
-msgstr "日経線 [0010302]"
+msgstr ""
 
 #. Key:	[0010400]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010400]TimeOut"
 msgid "要求加入好友連線逾時"
-msgstr "好好好好好好線時"
+msgstr ""
 
 #. Key:	[0010401]YourWaitFriendFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010401]YourWaitFriendFull"
 msgid "對方等待加入好友列表滿"
-msgstr ".等の待って好好好表"
+msgstr ""
 
 #. Key:	[0010402]MyFriendFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010402]MyFriendFull"
 msgid "自己好友列表滿"
-msgstr "元"
+msgstr ""
 
 #. Key:	[0010403]RequestAddFriend_UpdateItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010403]RequestAddFriend_UpdateItem_Failed"
 msgid "好友更新失敗 [0010403]"
-msgstr "好女は失敗 [0010403]"
+msgstr ""
 
 #. Key:	[0010404]UpdateFriendAddWait_SearchFriend_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010404]UpdateFriendAddWait_SearchFriend_GetItem_Failed"
 msgid "好友更新失敗 [0010404]"
-msgstr "好女は失敗 [0010404]"
+msgstr ""
 
 #. Key:	[0010405]UpdateFriendAddWait_PlayerStatus_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010405]UpdateFriendAddWait_PlayerStatus_GetItem_Failed"
 msgid "好友更新失敗 [0010405]"
-msgstr "好女は失敗 [0010405]"
+msgstr ""
 
 #. Key:	[0010500]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010500]TimeOut"
 msgid "要求允許/不允許加入好友連線逾時"
-msgstr "一ノ三連/不時許許字好好好時"
+msgstr ""
 
 #. Key:	[0010501]YourWaitFriendFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010501]YourWaitFriendFull"
 msgid "對方等待加入好友列表滿"
-msgstr ".等の待って好好好表"
+msgstr ""
 
 #. Key:	[0010502]MyFriendFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010502]MyFriendFull"
 msgid "自己好友列表滿"
-msgstr "元"
+msgstr ""
 
 #. Key:	[0010503]RequestAllowAddFriend_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010503]RequestAllowAddFriend_GetItem_Failed"
 msgid "好友更新失敗 [0010503]"
-msgstr "好女は失敗 [0010503]"
+msgstr ""
 
 #. Key:	[0010504]YouAreNowOnFriendFriendListBoard_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010504]YouAreNowOnFriendFriendListBoard_Failed"
 msgid "好友更新失敗 [0010504]"
-msgstr "好女は失敗 [0010504]"
+msgstr ""
 
 #. Key:	[0010505]YourFriendIsNowOnYourFriendListBoard_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010505]YourFriendIsNowOnYourFriendListBoard_Failed"
 msgid "好友更新失敗 [0010505]"
-msgstr "好女は失敗 [0010505]"
+msgstr ""
 
 #. Key:	[0010506]DeleteAddingFriendBoard_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010506]DeleteAddingFriendBoard_Failed"
 msgid "好友更新失敗 [0010506]"
-msgstr "好女は失敗 [0010506]"
+msgstr ""
 
 #. Key:	[0010600]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010600]TimeOut"
 msgid "要求刪除好友連線逾時"
-msgstr "1好好字と除線時"
+msgstr ""
 
 #. Key:	[0010601]NotFriend
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010601]NotFriend"
 msgid "不是好友"
-msgstr "不是好友"
+msgstr ""
 
 #. Key:	[0010602]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010602]RequestTooMuch"
 msgid "請求資料太頻繁"
-msgstr "兄太太繁繁の字句を語"
+msgstr ""
 
 #. Key:	[0010603]RequestDeleteFriend_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010603]RequestDeleteFriend_GetItem_Failed"
 msgid "好友更新失敗 [0010603]"
-msgstr "好女は失敗 [0010603]"
+msgstr ""
 
 #. Key:	[0010604]YouAreNowNotOnFriendFriendListBoard_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010604]YouAreNowNotOnFriendFriendListBoard_Failed"
 msgid "好友更新失敗 [0010604]"
-msgstr "好女は失敗 [0010604]"
+msgstr ""
 
 #. Key:	[0010605]YourFriendIsNowNotOnYourFriendListBoard_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010605]YourFriendIsNowNotOnYourFriendListBoard_Failed"
 msgid "好友更新失敗 [0010605]"
-msgstr "好女は失敗 [0010605]"
+msgstr ""
 
 #. Key:	[0010700]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010700]TimeOut"
 msgid "要求搜尋玩家連線逾時"
-msgstr "1尋と玩玩"
+msgstr ""
 
 #. Key:	[0010701]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010701]RequestTooMuch"
 msgid "請求資料太頻繁"
-msgstr "兄太太繁繁の字句を語"
+msgstr ""
 
 #. Key:	[0010702]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010702]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0010703]RequestSearchUser_GetFriendUID_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010703]RequestSearchUser_GetFriendUID_Failed"
 msgid "搜尋好友失敗 [0010703]"
-msgstr ".好立ち [0010703]"
+msgstr ""
 
 #. Key:	[0010704]RequestSearchUser_GetFriend_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010704]RequestSearchUser_GetFriend_GetItem_Failed"
 msgid "搜尋好友失敗 [0010704]"
-msgstr "「好み」尋常な失敗 [0010704]"
+msgstr ""
 
 #. Key:	[0010705]SearchingFriendCheck_UID_Detect_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010705]SearchingFriendCheck_UID_Detect_Failed"
 msgid "搜尋好友失敗 [0010705]"
-msgstr "「好み」尋常な失敗 [0010705]"
+msgstr ""
 
 #. Key:	[0010706]SearchingFriendCheck_GetItem
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0010706]SearchingFriendCheck_GetItem"
 msgid "搜尋好友失敗 [0010706]"
-msgstr "「好み」尋常な失敗 [0010706]"
+msgstr ""
 
 #. Key:	[0020100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020100]TimeOut"
 msgid "要求建立房間連線逾時"
-msgstr "建立間線時"
+msgstr ""
 
 #. Key:	[0020101]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020101]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020102]RoomAlreadyExists
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020102]RoomAlreadyExists"
 msgid "房間已存在"
-msgstr "房間存在"
+msgstr ""
 
 #. Key:	[0020200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020200]TimeOut"
 msgid "要求加入房間房間連線逾時"
-msgstr "義時間間"
+msgstr ""
 
 #. Key:	[0020201]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020201]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020202]NotFoundRoom
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020202]NotFoundRoom"
 msgid "找不到房間"
-msgstr "不到房間"
+msgstr ""
 
 #. Key:	[0020203]ErrorPassword
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020203]ErrorPassword"
 msgid "房間密碼錯誤"
-msgstr "房間間文で誤字がでる"
+msgstr ""
 
 #. Key:	[0020204]RoomFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020204]RoomFull"
 msgid "房間已滿"
-msgstr "房間"
+msgstr ""
 
 #. Key:	[0020205]RoomStartCreate
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020205]RoomStartCreate"
 msgid "創建房間錯誤"
-msgstr "創建間文の誤りは"
+msgstr ""
 
 #. Key:	[0020300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020300]TimeOut"
 msgid "要求好友加入房間連線逾時"
-msgstr "好好好好好字房間"
+msgstr ""
 
 #. Key:	[0020301]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020301]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020302]NotFoundRoom
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020302]NotFoundRoom"
 msgid "找不到房間"
-msgstr "不到房間"
+msgstr ""
 
 #. Key:	[0020303]ErrorPassword
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020303]ErrorPassword"
 msgid "房間密碼錯誤"
-msgstr "房間間文で誤字がでる"
+msgstr ""
 
 #. Key:	[0020304]RoomFull
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020304]RoomFull"
 msgid "房間已滿"
-msgstr "房間"
+msgstr ""
 
 #. Key:	[0020500]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020500]TimeOut"
 msgid "拒絕好友邀請連線逾時"
-msgstr "拒好好"
+msgstr ""
 
 #. Key:	[0020501]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020501]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020600]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020600]TimeOut"
 msgid "要求配對連線逾時"
-msgstr "1本1本1本1本中"
+msgstr ""
 
 #. Key:	[0020601]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020601]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020602]TeamStartMatchmakingError
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020602]TeamStartMatchmakingError"
 msgid "配對錯誤請再次嘗試"
-msgstr "配信"
+msgstr ""
 
 #. Key:	[0020603]CreateGameLiftObject_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020603]CreateGameLiftObject_Failed"
 msgid "配對錯誤請再次嘗試 [0020603]"
-msgstr "あなた"
+msgstr ""
 
 #. Key:	[0020604]TeamUp_SoloMode_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020604]TeamUp_SoloMode_Failed"
 msgid "配對錯誤請再次嘗試 [0020604]"
-msgstr "あなた"
+msgstr ""
 
 #. Key:	[0020605]User_ID_MatchmakingStart
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020605]User_ID_MatchmakingStart"
 msgid "配對錯誤請再次嘗試 [0020605]"
-msgstr "あなた"
+msgstr ""
 
 #. Key:	[0020606]Melee_StartMatchmaking_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020606]Melee_StartMatchmaking_Failed"
 msgid "配對錯誤請再次嘗試 [0020606]"
-msgstr "あなた"
+msgstr ""
 
 #. Key:	[0020607]TeamUp_StartMatchmaking_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020607]TeamUp_StartMatchmaking_Failed"
 msgid "配對錯誤請再次嘗試 [0020607]"
-msgstr "あなた"
+msgstr ""
 
 #. Key:	[0020700]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020700]TimeOut"
 msgid "要求取消配對連線逾時"
-msgstr "1 時消字取線中"
+msgstr ""
 
 #. Key:	[0020701]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020701]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020702]StopMatchmaking_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020702]StopMatchmaking_Failed"
 msgid "連線失敗 [0020702]"
-msgstr "連線失敗 [0020702]"
+msgstr ""
 
 #. Key:	[0020703]CreatingBattleServer
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020703]CreatingBattleServer"
 msgid "無法取消配對 因正在開啟戰鬥伺服器"
-msgstr "無分消消字筆筆筆"
+msgstr ""
 
 #. Key:	[0020800]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020800]TimeOut"
 msgid "要求加入遊戲連線逾時"
-msgstr "1位遊線時"
+msgstr ""
 
 #. Key:	[0020801]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020801]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020802]AcceptMatchFailed_Solo
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020802]AcceptMatchFailed_Solo"
 msgid "玩家連線失敗 [0020802]"
-msgstr "玩連子失敗 [0020802]"
+msgstr ""
 
 #. Key:	[0020803]AcceptMatchFailed_TeamUp_1P
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020803]AcceptMatchFailed_TeamUp_1P"
 msgid "玩家連線失敗 [0020803]"
-msgstr "玩連子失敗 [0020803]"
+msgstr ""
 
 #. Key:	[0020804]AcceptMatchFailed_TeamUp_2P
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020804]AcceptMatchFailed_TeamUp_2P"
 msgid "玩家連線失敗 [0020804]"
-msgstr "玩連子失敗 [0020804]"
+msgstr ""
 
 #. Key:	[0020900]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020900]TimeOut"
 msgid "要求創建GameServer連線逾時"
-msgstr "役職建ゲームサーバー連線時"
+msgstr ""
 
 #. Key:	[0020901]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020901]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0020902]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020902]NotFoundUser"
 msgid "房間人數不足"
-msgstr "房間人不足"
+msgstr ""
 
 #. Key:	[0020903]NotFoundRoom
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020903]NotFoundRoom"
 msgid "尚未選擇隊伍"
-msgstr "尚未隊隊"
+msgstr ""
 
 #. Key:	[0020904]CreateGameSession_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0020904]CreateGameSession_Failed"
 msgid "創建房間失敗 [0020904]"
-msgstr "創建間失敗 [0020904]"
+msgstr ""
 
 #. Key:	[0021000]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021000]TimeOut"
 msgid "要求更新房間設定連線逾時"
-msgstr "街を創作間間"
+msgstr ""
 
 #. Key:	[0021001]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021001]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0021002]NotFoundRoom
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021002]NotFoundRoom"
 msgid "找不到房間"
-msgstr "不到房間"
+msgstr ""
 
 #. Key:	[0021100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021100]TimeOut"
 msgid "要求離開房間連線逾時"
-msgstr "時を分からせると線がかる"
+msgstr ""
 
 #. Key:	[0021101]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021101]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0021102]NotFoundRoom
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021102]NotFoundRoom"
 msgid "找不到房間"
-msgstr "不到房間"
+msgstr ""
 
 #. Key:	[0021200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021200]TimeOut"
 msgid "要求踢人連線逾時"
-msgstr "バイ人線時"
+msgstr ""
 
 #. Key:	[0021201]NotFoundUser
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021201]NotFoundUser"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0021202]NotFoundRoom
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021202]NotFoundRoom"
 msgid "找不到房間"
-msgstr "不到房間"
+msgstr ""
 
 #. Key:	[0021300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0021300]TimeOut"
 msgid "配對資料連線逾時"
-msgstr "配字・字・字中"
+msgstr ""
 
 #. Key:	[0030100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030100]TimeOut"
 msgid "要求玩家挖礦機資料連線逾時"
-msgstr "1玩家"
+msgstr ""
 
 #. Key:	[0030101]NotFoundMiningData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030101]NotFoundMiningData"
 msgid "找不到礦場資料"
-msgstr "不到場料"
+msgstr ""
 
 #. Key:	[0030200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030200]TimeOut"
 msgid "要求從採礦機領取連線逾時"
-msgstr "1"
+msgstr ""
 
 #. Key:	[0030201]NotFoundMiningData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030201]NotFoundMiningData"
 msgid "找不到礦場資料"
-msgstr "不到場料"
+msgstr ""
 
 #. Key:	[0030300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030300]TimeOut"
 msgid "要求升級採礦機連線逾時"
-msgstr "時升級連線時"
+msgstr ""
 
 #. Key:	[0030301]NotFoundMiningData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030301]NotFoundMiningData"
 msgid "找不到礦場資料"
-msgstr "不到場料"
+msgstr ""
 
 #. Key:	[0030302]NotEnoughCoins
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030302]NotEnoughCoins"
 msgid "星辰幣不足"
-msgstr "星辰義足は"
+msgstr ""
 
 #. Key:	[0030400]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030400]TimeOut"
 msgid "要求採礦機加速連線逾時"
-msgstr "字がでますが線時"
+msgstr ""
 
 #. Key:	[0030401]NotEnoughBattery
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0030401]NotEnoughBattery"
 msgid "電池不足"
-msgstr "足不足"
+msgstr ""
 
 #. Key:	[0040100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040100]TimeOut"
 msgid "要求戰鬥歷史記錄連線逾時"
-msgstr "1史字"
+msgstr ""
 
 #. Key:	[0040101]RequestUserBattleHistory_GetItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040101]RequestUserBattleHistory_GetItem_Failed"
 msgid "要求戰鬥歷史記錄連線失敗 [0040101]"
-msgstr "要求史記線失敗 [0040101]"
+msgstr ""
 
 #. Key:	[0040200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040200]TimeOut"
 msgid "要求玩家裝備資料連線逾時"
-msgstr "あべのあまあまあまあ"
+msgstr ""
 
 #. Key:	[0040201]RequestUserEquipmentData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040201]RequestUserEquipmentData"
 msgid "要求玩家裝備資料連線失敗 [0040201]"
-msgstr "一匹のあいさつは [0040201]"
+msgstr ""
 
 #. Key:	[0040300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040300]TimeOut"
 msgid "要求更換玩家裝備連線逾時"
-msgstr "時を分から次までくまの字にしました"
+msgstr ""
 
 #. Key:	[0040301]NotFoundEquipmentData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040301]NotFoundEquipmentData"
 msgid "找不到裝備資料"
-msgstr "不到"
+msgstr ""
 
 #. Key:	[0040301]RequestChangeEquipment_UpdateItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0040301]RequestChangeEquipment_UpdateItem_Failed"
 msgid "要求更換玩家裝備連線失敗 [0040301]"
-msgstr "以後 [0040301]"
+msgstr ""
 
 #. Key:	[0050100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0050100]TimeOut"
 msgid "要求儲存戰鬥資料連線逾時"
-msgstr "「時」「時中」"
+msgstr ""
 
 #. Key:	[0060100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0060100]TimeOut"
 msgid "要求排行榜連線逾時"
-msgstr "計器行線時"
+msgstr ""
 
 #. Key:	[0060101]NoUserData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0060101]NoUserData"
 msgid "找不到玩家"
-msgstr "不到玩家"
+msgstr ""
 
 #. Key:	[0060102]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0060102]RequestTooMuch"
 msgid "要求排行榜太頻繁"
-msgstr "排行太"
+msgstr ""
 
 #. Key:	[0070100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070100]TimeOut"
 msgid "要求郵件連線逾時"
-msgstr "行連字時"
+msgstr ""
 
 #. Key:	[0070101]RequestTooMuch
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070101]RequestTooMuch"
 msgid "要求信件太頻繁"
-msgstr "信太太繁繁の年"
+msgstr ""
 
 #. Key:	[0070200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070200]TimeOut"
 msgid "要求領取資源連線逾時"
-msgstr "時取線線時"
+msgstr ""
 
 #. Key:	[0070201]NotFoundMail
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070201]NotFoundMail"
 msgid "找不到信"
-msgstr "不到信"
+msgstr ""
 
 #. Key:	[0070203]HaveRewardedFromMail
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070203]HaveRewardedFromMail"
 msgid "已經從信件領獎"
-msgstr "已經從信件領獎"
+msgstr ""
 
 #. Key:	[0070300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070300]TimeOut"
 msgid "要求刪除郵件連線逾時"
-msgstr "行除線時"
+msgstr ""
 
 #. Key:	[0070301]NotFoundMail
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0070301]NotFoundMail"
 msgid "找不到信"
-msgstr "不到信"
+msgstr ""
 
 #. Key:	[0080100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0080100]TimeOut"
 msgid "要求每日任務連線逾時"
-msgstr "住吉日目線連時"
+msgstr ""
 
 #. Key:	[0090100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0090100]TimeOut"
 msgid "要求商城品項資料連線逾時"
-msgstr "「時商城下一本」"
+msgstr ""
 
 #. Key:	[0090200]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0090200]TimeOut"
 msgid "要求購買商品連線逾時"
-msgstr "買買字線時"
+msgstr ""
 
 #. Key:	[0090201]NotEnoughCoins
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0090201]NotEnoughCoins"
 msgid "星辰幣不足"
-msgstr "星辰義足は"
+msgstr ""
 
 #. Key:	[0090202]NoCommodityID
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0090202]NoCommodityID"
 msgid "空的商品編號"
-msgstr "空手編の号"
+msgstr ""
 
 #. Key:	[0090300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0090300]TimeOut"
 msgid "要求要求購買紀錄連線逾時"
-msgstr "買字買紀"
+msgstr ""
 
 #. Key:	[0100100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0100100]TimeOut"
 msgid "要求成就資料連線逾時"
-msgstr "成就就線時"
+msgstr ""
 
 #. Key:	[0110100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0110100]TimeOut"
 msgid "要求開寶箱資料連線逾時"
-msgstr "宝宝箱箱の字に時"
+msgstr ""
 
 #. Key:	[0110101]NoItemID
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0110101]NoItemID"
 msgid "空的寶箱編號"
-msgstr "空宝箱編号"
+msgstr ""
 
 #. Key:	[0120100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0120100]TimeOut"
 msgid "要求儲存教學進度連線逾時"
-msgstr "「もし」をよし、「時をよし」"
+msgstr ""
 
 #. Key:	[0120102]UpdateItem_Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0120102]UpdateItem_Failed"
 msgid "要求儲存教學進度連線失敗 [0120102]"
-msgstr "要求をこらえ [0120102]"
+msgstr ""
 
 #. Key:	[0130000]Server is full, please wait to rejoin
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0130000]Server is full\\, please wait to rejoin"
 msgid "伺服器已滿，請稍後重新加入"
-msgstr "伺服，請新加入"
+msgstr ""
 
 #. Key:	[0140100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140100]TimeOut"
 msgid "要求進入社交大廳連線逾時"
-msgstr "望みは、大"
+msgstr ""
 
 #. Key:	[0140101]Social Server Error
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140101]Social Server Error"
 msgid "此房間無效，請稍後再試"
-msgstr "此間間無，請"
+msgstr ""
 
 #. Key:	[0140102]Get Mail List
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140102]Get Mail List"
 msgid "獲取信件列表"
-msgstr "獲取字表表"
+msgstr ""
 
 #. Key:	[0140103]Get Mail List Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140103]Get Mail List Failed"
 msgid "獲取信件列表失敗"
-msgstr "獲取字表失敗"
+msgstr ""
 
 #. Key:	[0140104]Get Mail Gift
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140104]Get Mail Gift"
 msgid "獲取信件獎勵"
-msgstr "獲獲取"
+msgstr ""
 
 #. Key:	[0140105]Get Mail Gift Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140105]Get Mail Gift Failed"
 msgid "獲取信件獎勵失敗"
-msgstr "獲獲獲失敗"
+msgstr ""
 
 #. Key:	[0140106]Delete Mail 
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140106]Delete Mail "
 msgid "刪除信件"
-msgstr "除件"
+msgstr ""
 
 #. Key:	[0140107]Delete Mail Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0140107]Delete Mail Failed"
 msgid "刪除信件失敗"
-msgstr "除信失敗"
+msgstr ""
 
 #. Key:	[0150100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0150100]TimeOut"
 msgid "要求開放道具資料連線逾時"
-msgstr "計器用字線時"
+msgstr ""
 
 #. Key:	[0160100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0160100]TimeOut"
 msgid "要求開放購買資料連線逾時"
-msgstr "計器買買字時"
+msgstr ""
 
 #. Key:	[0170100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0170100]TimeOut"
 msgid "檢查dlc內容逾時"
-msgstr "dlcたみみたく"
+msgstr ""
 
 #. Key:	[0180100]Checkout Failed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0180100]Checkout Failed"
 msgid "應用內購買失敗"
-msgstr "應用分失敗"
+msgstr ""
 
 #. Key:	{0190100}_GetCheckInDataFailed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,{0190100}_GetCheckInDataFailed"
 msgid "獲取簽到資料失敗"
-msgstr "獲到到失敗"
+msgstr ""
 
 #. Key:	{0190101}_RequestCheckInFailed
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,{0190101}_RequestCheckInFailed"
 msgid "要求簽到失敗"
-msgstr "到失敗"
+msgstr ""
+
+#. Key:	9001678
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001678"
+msgid "Unlock the Power of Border Controller in the Store!"
+msgstr "ストアで国境管理者の力を解放してください！"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1948,7 +1951,7 @@ msgstr "標準ヒーローチェストを獲得！"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007007]"
 msgid "You got a Newcomer's Hero Style Chest!"
-msgstr "新人ヒーロースタイルの宝箱を手に入れました！"
+msgstr ""
 
 #. Key:	[0007008]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1957,7 +1960,7 @@ msgstr "新人ヒーロースタイルの宝箱を手に入れました！"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007008]"
 msgid "You got a Observer Skin Chest(Regular)!"
-msgstr "オブザーバースキンチェスト (レギュラー) を手に入れました！"
+msgstr ""
 
 #. Key:	[0007009]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1966,7 +1969,7 @@ msgstr "オブザーバースキンチェスト (レギュラー) を手に入�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007009]"
 msgid "You got a Hero Style Chest!"
-msgstr "ヒーロースタイルのチェストを手に入れました！"
+msgstr ""
 
 #. Key:	[0007010]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1975,8 +1978,7 @@ msgstr "ヒーロースタイルのチェストを手に入れました！"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007010]"
 msgid "You got a Season 1 - Observer's Skin chest - Golden Disco Ball"
-msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・スキン・チェスト-ゴールデン・ディ"
-"スコボール"
+msgstr ""
 
 #. Key:	[0007011]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1985,7 +1987,7 @@ msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・スキ�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007011]"
 msgid "You got a Season 1 - Observer's Hands chest - Rave Banger"
-msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・ハンズ・チェスト-レイヴ・バンガー"
+msgstr ""
 
 #. Key:	[0007012]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1994,8 +1996,7 @@ msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・ハン�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007012]"
 msgid "You got a Season 1 - Observer's Eyes & Ears chest - Brain Melter"
-msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・アイズ・アンド・イヤーズ・チェス"
-"ト-ブレイン・メルター"
+msgstr ""
 
 #. Key:	[0007013]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2004,8 +2005,7 @@ msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・アイ�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007013]"
 msgid "You got a Season 1 - Observer's Accessories chest - Cyberpunk Mask"
-msgstr "ユー・ガット・ア・シーズン1-オブザーバーのアクセサリーチェスト-サイバーパンク"
-"マスク"
+msgstr ""
 
 #. Key:	[0007014]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2014,8 +2014,7 @@ msgstr "ユー・ガット・ア・シーズン1-オブザーバーのアクセ�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007014]"
 msgid "You got a Season 1 - Observer's Head chest - Rave Helmet"
-msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・ヘッド・チェスト-レイヴ・ヘルメッ"
-"ト"
+msgstr ""
 
 #. Key:	[0007015]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2024,7 +2023,7 @@ msgstr "ユー・ガット・ア・シーズン1-オブザーバーズ・ヘッ�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007015]"
 msgid "You got 1000 Star Coins"
-msgstr "スターコインを1000枚獲得した"
+msgstr ""
 
 #. Key:	[0007016]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2033,7 +2032,7 @@ msgstr "スターコインを1000枚獲得した"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007016]"
 msgid "You got 2000 Star Coins"
-msgstr "スターコインを2000枚獲得した"
+msgstr ""
 
 #. Key:	[0007017]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2042,7 +2041,7 @@ msgstr "スターコインを2000枚獲得した"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007017]"
 msgid "You got 3000 Star Coins"
-msgstr "スターコインを3000枚獲得した"
+msgstr ""
 
 #. Key:	[0007018]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2051,7 +2050,7 @@ msgstr "スターコインを3000枚獲得した"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007018]"
 msgid "You got 4000 Star Coins"
-msgstr "スターコインを4000枚手に入れた"
+msgstr ""
 
 #. Key:	[0007019]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2060,7 +2059,7 @@ msgstr "スターコインを4000枚手に入れた"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007019]"
 msgid "You got 5000 Star Coins"
-msgstr "スターコインを5000枚獲得した"
+msgstr ""
 
 #. Key:	[0007020]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2069,7 +2068,7 @@ msgstr "スターコインを5000枚獲得した"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007020]"
 msgid "You got a Core Chest!"
-msgstr "コアチェストを手に入れた！"
+msgstr ""
 
 #. Key:	[0007021]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2078,7 +2077,7 @@ msgstr "コアチェストを手に入れた！"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007021]"
 msgid "You got a Observer Style Chest (Rare)!"
-msgstr "オブザーバースタイルの宝箱（レア）を手に入れました！"
+msgstr ""
 
 #. Key:	[0008001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9073,7 +9072,7 @@ msgstr "爆弾"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000001]"
 msgid "Login"
-msgstr "ログイン"
+msgstr ""
 
 #. Key:	[5000002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9082,7 +9081,7 @@ msgstr "ログイン"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000002]"
 msgid "Win Once Match"
-msgstr "1 試合勝利"
+msgstr ""
 
 #. Key:	[5000003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9101,7 +9100,7 @@ msgstr "プレイグラウンド"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000004]"
 msgid "Play Match Soccer Twice"
-msgstr "マッチサッカーを2回プレイする"
+msgstr ""
 
 #. Key:	[5000005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9110,7 +9109,7 @@ msgstr "マッチサッカーを2回プレイする"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000005]"
 msgid "Send Five Player Good"
-msgstr "5 人のプレイヤーをグッドに送る"
+msgstr ""
 
 #. Key:	[5000006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9119,7 +9118,7 @@ msgstr "5 人のプレイヤーをグッドに送る"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000006]"
 msgid "Add A New Friend"
-msgstr "新しい友達を追加"
+msgstr ""
 
 #. Key:	[5000007]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9128,7 +9127,7 @@ msgstr "新しい友達を追加"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000007]"
 msgid "Play A Toy"
-msgstr "おもちゃをプレイ"
+msgstr ""
 
 #. Key:	[5000008]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9137,7 +9136,7 @@ msgstr "おもちゃをプレイ"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000008]"
 msgid "Change music in the Lobby"
-msgstr "ロビーで音楽を変更"
+msgstr ""
 
 #. Key:	[5000009]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9146,7 +9145,7 @@ msgstr "ロビーで音楽を変更"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[5000009]"
 msgid "Fist Bump With Another Player Once"
-msgstr "他のプレイヤーと一度だけ拳をぶつける"
+msgstr ""
 
 #. Key:	[5000010]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9582,8 +9581,8 @@ msgstr "編集"
 #. InfoMetaData:	"西班牙" : "Social"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001023]"
-msgid "SOCIAL HALL"
-msgstr "ソーシャルホール"
+msgid "PARTY HALL"
+msgstr "パーティーホール"
 
 #. Key:	[9001024]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10803,8 +10802,8 @@ msgstr "クイックジョイン"
 #. InfoMetaData:	"西班牙" : "CREAR SALA SOCIAL"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001122]"
-msgid "CREATE SOCIAL HALL"
-msgstr "ソーシャルホールの作成"
+msgid "CREATE PARTY HALL"
+msgstr "パーティーホールの作成"
 
 #. Key:	[9001123]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10814,8 +10813,8 @@ msgstr "ソーシャルホールの作成"
 #. InfoMetaData:	"西班牙" : "LISTA DE SALONES SOCIALES"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001123]"
-msgid "SOCIAL HALL LIST"
-msgstr "ソーシャルホールリスト"
+msgid "PARTY HALL LIST"
+msgstr "パーティーホールリスト"
 
 #. Key:	[9001124]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10880,8 +10879,8 @@ msgstr "ロビー"
 #. InfoMetaData:	"西班牙" : "ÚNETE A LA SALA SOCIAL"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001129]"
-msgid "JOIN SOCIAL HALL"
-msgstr "ソーシャルルームに参加"
+msgid "JOIN PARTY HALL"
+msgstr "パーティーホールに参加"
 
 #. Key:	[9001130]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11733,7 +11732,7 @@ msgstr "既読を削除"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001213]"
 msgid "PARTY"
-msgstr "パーティモード"
+msgstr "パーティーモード"
 
 #. Key:	[9001214]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12882,8 +12881,8 @@ msgstr "クイックマッチで勝利（どのモードでも可）"
 #. InfoMetaData:	"簡體中文" : "前往社交大厅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001344]"
-msgid "Enter Social"
-msgstr "ソーシャルホールに入る"
+msgid "Enter Party"
+msgstr "パーティーに入る"
 
 #. Key:	[9001345]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13572,8 +13571,8 @@ msgstr "カスタムマッチ作成"
 #. InfoMetaData:	"簡體中文" : "社交大厅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001413]"
-msgid "Social Hall"
-msgstr "ソーシャルホール"
+msgid "Party Hall"
+msgstr "パーティーホール"
 
 #. Key:	[9001414]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14252,8 +14251,8 @@ msgstr "マスターコア"
 #. InfoMetaData:	"簡體中文" : "社交"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001481]"
-msgid "SOCIAL"
-msgstr "ソーシャル"
+msgid "PARTY"
+msgstr "パーティー"
 
 #. Key:	[9001482]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14744,7 +14743,7 @@ msgstr "スターコインでのアンロック！"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001537]"
 msgid "TIME LEFT"
-msgstr "残り時間"
+msgstr ""
 
 #. Key:	[9001538]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15079,8 +15078,8 @@ msgstr "招待"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001585]"
-msgid "Invite your friend to the Social Hall"
-msgstr "あなたの友達をソーシャルホールに招待しましょう"
+msgid "Invite your friend to the Party Hall"
+msgstr "あなたの友達をパーティーホールに招待しましょう"
 
 #. Key:	[9001586]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15185,7 +15184,7 @@ msgstr "宇宙の召集令"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001600]"
 msgid "Fix"
-msgstr "[修正]"
+msgstr ""
 
 #. Key:	[9001601]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15199,7 +15198,7 @@ msgstr "友達を集めて一緒にQUANTAARに参加し、様々なリソース�
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001602]"
 msgid "August 19, 2023 - October 11, 2023"
-msgstr "2023年8月19日-2023年10月11日"
+msgstr ""
 
 #. Key:	[9001603]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15556,7 +15555,7 @@ msgstr "デューム"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001653]"
 msgid "Zen"
-msgstr "禅"
+msgstr ""
 
 #. Key:	[9001654]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15695,36 +15694,36 @@ msgstr "花火タイプB"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001673]"
-msgid "A"
-msgstr "A"
+msgid "Border Controller"
+msgstr "国境観察員"
 
 #. Key:	[9001674]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001674]"
-msgid "A"
-msgstr "A"
+msgid "Border Control Early Access Bundle"
+msgstr "国境管理 先行セット"
 
 #. Key:	[9001675]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001675]"
-msgid "A"
-msgstr "A"
+msgid "Border Control Bundle"
+msgstr "国境管理 セット"
 
 #. Key:	[9001676]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001676]"
-msgid "A"
-msgstr "A"
+msgid "Border Observer Helmet"
+msgstr "国境観察員ヘルメット"
 
 #. Key:	[9001677]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001677]"
-msgid "A"
-msgstr "A"
+msgid "Border Observer Gloves"
+msgstr "国境観察員グローブ"
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17586,34 +17585,3 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
 
-#. Key:	GuideI_2_3
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-#. InfoMetaData:	"日文" : "よく見える場所へと移動して回り、"
-#. InfoMetaData:	"簡體中文" : "移动自己的视角位置 "
-#. InfoMetaData:	"繁體中文" : "移動自己的視角位置"
-#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-msgctxt "Subtitle,GuideI_2_3"
-msgid "Move around to gain a better perspective "
-msgstr "動き回ってより良い視点を得る"
-
-#. Key:	GuideN2_1_1
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-#. InfoMetaData:	"日文" : "今使ったコンボアタック以外にも"
-#. InfoMetaData:	"簡體中文" : "除了刚刚使出的连段攻击"
-#. InfoMetaData:	"繁體中文" : "除了剛剛使出的連段攻擊"
-#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-msgctxt "Subtitle,GuideN2_1_1"
-msgid "Aside from Combo attack."
-msgstr "コンボ攻撃は別として。"
-
-#. Key:	[9001039]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "已持有"
-#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
-#. InfoMetaData:	"日文" : "所有"
-#. InfoMetaData:	"簡體中文" : "已持有"
-#. InfoMetaData:	"西班牙" : "En propiedad"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001039]"
-msgid "Owned"
-msgstr "所有"
