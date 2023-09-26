@@ -1,17 +1,20 @@
-﻿# Game Spanish (United States) translation.
+# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-09-26 03:42\n"
-"Language-Team: \n"
-"Language: es-US\n"
+"PO-Revision-Date: 2023-09-26 11:40+0000\n"
+"Last-Translator: David <david@pumpkinvrar.com>\n"
+"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/es_US/>\n"
+"Language: es_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -67,7 +70,7 @@ msgstr "[000105]"
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 msgctxt "ST_Game_StateCode,[0000200]TimeOut"
 msgid "要求大廳資料連線逾時"
-msgstr "ST_Game_StateCode, [0000200] Timeout.Se agotó el tiempo de espera de la solicitud de conexión de datos del lobby"
+msgstr "要求大廳資料連線逾時"
 
 #. Key:	[0000201]NoUserData
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1208,7 +1211,7 @@ msgstr "要求簽到失敗"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001678"
 msgid "Unlock the Power of Border Controller in the Store!"
-msgstr ""
+msgstr "¡Desbloquea el poder del Border Controller en la tienda!"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15695,35 +15698,35 @@ msgstr "Fuegos artificiales tipo B"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001673]"
 msgid "Border Controller"
-msgstr ""
+msgstr "Controlador fronterizo"
 
 #. Key:	[9001674]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001674]"
 msgid "Border Control Early Access Bundle"
-msgstr ""
+msgstr "Paquete de acceso anticipado al control fronterizo"
 
 #. Key:	[9001675]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001675]"
 msgid "Border Control Bundle"
-msgstr ""
+msgstr "Paquete de control fronterizo"
 
 #. Key:	[9001676]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001676]"
 msgid "Border Observer Helmet"
-msgstr ""
+msgstr "Casco Border Observer"
 
 #. Key:	[9001677]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001677]"
 msgid "Border Observer Gloves"
-msgstr ""
+msgstr "Guantes Border Observer"
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17585,3 +17588,34 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
 
+#. Key:	GuideI_2_3
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+#. InfoMetaData:	"日文" : "よく見える場所へと移動して回り、"
+#. InfoMetaData:	"簡體中文" : "移动自己的视角位置 "
+#. InfoMetaData:	"繁體中文" : "移動自己的視角位置"
+#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+msgctxt "Subtitle,GuideI_2_3"
+msgid "Move around to gain a better perspective "
+msgstr "Muévete para obtener una mejor perspectiva"
+
+#. Key:	[9001039]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "已持有"
+#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
+#. InfoMetaData:	"日文" : "所有"
+#. InfoMetaData:	"簡體中文" : "已持有"
+#. InfoMetaData:	"西班牙" : "En propiedad"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001039]"
+msgid "Owned"
+msgstr "POSEÍDO"
+
+#. Key:	GuideN2_1_1
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+#. InfoMetaData:	"日文" : "今使ったコンボアタック以外にも"
+#. InfoMetaData:	"簡體中文" : "除了刚刚使出的连段攻击"
+#. InfoMetaData:	"繁體中文" : "除了剛剛使出的連段攻擊"
+#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+msgctxt "Subtitle,GuideN2_1_1"
+msgid "Aside from Combo attack."
+msgstr "Además del ataque combinado."
