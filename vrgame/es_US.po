@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-09-26 11:40+0000\n"
-"Last-Translator: David <david@pumpkinvrar.com>\n"
+"PO-Revision-Date: 2023-09-28 11:40+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/es_US/>\n"
 "Language: es_US\n"
@@ -9585,7 +9585,7 @@ msgstr "Editar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001023]"
 msgid "PARTY HALL"
-msgstr "Social"
+msgstr "FIESTA"
 
 #. Key:	[9001024]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10806,7 +10806,7 @@ msgstr "UNIRSE RÁPIDAMENTE"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001122]"
 msgid "CREATE PARTY HALL"
-msgstr "CREAR SALA SOCIAL"
+msgstr "CREAR SALA FIESTA"
 
 #. Key:	[9001123]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10817,7 +10817,7 @@ msgstr "CREAR SALA SOCIAL"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001123]"
 msgid "PARTY HALL LIST"
-msgstr "LISTA DE SALONES SOCIALES"
+msgstr "LISTA DE SALONES FIESTA"
 
 #. Key:	[9001124]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10883,7 +10883,7 @@ msgstr "VESTÍBULO"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001129]"
 msgid "JOIN PARTY HALL"
-msgstr "ÚNETE A LA SALA SOCIAL"
+msgstr "ÚNETE A LA SALA FIESTA"
 
 #. Key:	[9001130]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12885,7 +12885,7 @@ msgstr "Gana una partida rápida en cualquier modo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001344]"
 msgid "Enter Party"
-msgstr "Entra en Social"
+msgstr "Entra en FIESTA"
 
 #. Key:	[9001345]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13575,7 +13575,7 @@ msgstr "Crear modo personalizado"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001413]"
 msgid "Party Hall"
-msgstr "Salón social"
+msgstr "Salón FIESTA"
 
 #. Key:	[9001414]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14255,7 +14255,7 @@ msgstr "MAESTRO"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001481]"
 msgid "PARTY"
-msgstr "SOCIAL"
+msgstr "FIESTA"
 
 #. Key:	[9001482]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15082,7 +15082,7 @@ msgstr "INVITAR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001585]"
 msgid "Invite your friend to the Party Hall"
-msgstr "Invita a tu amigo al Salón Social"
+msgstr "Invita a tu amigo al Salón FIESTA"
 
 #. Key:	[9001586]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
