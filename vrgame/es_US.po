@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-10-02 06:40+0000\n"
+"PO-Revision-Date: 2023-10-02 10:40+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/es_US/>\n"
@@ -9814,7 +9814,7 @@ msgstr "No en propiedad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001041]"
 msgid "Star Coin"
-msgstr "Monedas de polvo de estrellas"
+msgstr "Monedas Estelares"
 
 #. Key:	[9001042]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14476,7 +14476,7 @@ msgstr "7.200 gemas galácticas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001503]"
 msgid "10,000 Star Coins"
-msgstr "10.000 monedas estrella"
+msgstr "10.000 Monedas Estrella"
 
 #. Key:	[9001504]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
