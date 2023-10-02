@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-09-28 11:40+0000\n"
+"PO-Revision-Date: 2023-10-02 06:40+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/es_US/>\n"
@@ -1471,7 +1471,7 @@ msgstr "Función de antimareo "
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003015]"
 msgid "OFF"
-msgstr "Off"
+msgstr "APAGADO"
 
 #. Key:	[0003016]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1676,7 +1676,7 @@ msgstr "Silenciar todo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003031]"
 msgid "Hero View Invert Y"
-msgstr "Hero View Invertir Y"
+msgstr "Invertir Vista del Héroe Y"
 
 #. Key:	[0004001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2884,9 +2884,10 @@ msgstr "Cañón del dragón"
 #. InfoMetaData:	"簡體中文" : "永恒对决竞技场"
 #. InfoMetaData:	"西班牙" : "Quantaar Arena"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[0025002]"
 msgid "Quantaar Arena"
-msgstr "Quantaar Arena"
+msgstr "QUANTAAR ARENA"
 
 #. Key:	[0025003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3764,7 +3765,7 @@ msgstr "Después de correr, el siguiente ataque inflige 5 puntos extra de daño.
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3013001]"
 msgid "Thorns Core"
-msgstr "Thorns Core"
+msgstr "Núcleo de Espinas"
 
 #. Key:	[3013002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3787,7 +3788,7 @@ msgstr "Deflect 20/30/40 damage to your enemy each time you defend against an at
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014001]"
 msgid "Vengeance Core"
-msgstr "Vengeance Core"
+msgstr "Núcleo de Venganza"
 
 #. Key:	[3014002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3810,7 +3811,7 @@ msgstr "Knockup Launch Power increases by 5/10/15% each time you die in a battle
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3015001]"
 msgid "Vampire Core"
-msgstr "Vampire Core"
+msgstr "Núcleo Vampírico"
 
 #. Key:	[3015002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3833,7 +3834,7 @@ msgstr "Kill an enemy to restore 100/150/200 Health."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3016001]"
 msgid "Absorbing Core"
-msgstr "Absorbing Core"
+msgstr "Núcleo Absorbente"
 
 #. Key:	[3016002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3854,7 +3855,7 @@ msgstr "Restore 10/20/30 Health each time you defend against an attack."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3017001]"
 msgid "Comeback Core"
-msgstr "Comeback Core"
+msgstr "Núcleo de Regreso"
 
 #. Key:	[3017002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3875,7 +3876,7 @@ msgstr "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3018001]"
 msgid "Bulletproof Core"
-msgstr "Bulletproof Core"
+msgstr "Núcleo a Prueba de Balas"
 
 #. Key:	[3018002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3896,7 +3897,7 @@ msgstr "Reduce damage sustained from ranged attacks by 15/20/25%."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3019001]"
 msgid "Grav Core"
-msgstr "Grav Core"
+msgstr "Núcleo Gravitatorio"
 
 #. Key:	[3019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3917,7 +3918,7 @@ msgstr "Reduce the Knockup Launch Power received from an enemy by 5/10/15%."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3020001]"
 msgid "Pump Core"
-msgstr "Pump Core"
+msgstr "Núcleo de Bombeo"
 
 #. Key:	[3020002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3938,7 +3939,7 @@ msgstr "Restore 20 Health for every 6/4/2 jumps."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3021001]"
 msgid "Crackshot Core"
-msgstr "Crackshot Core"
+msgstr "Núcleo Certero"
 
 #. Key:	[3021002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3959,7 +3960,7 @@ msgstr "Increase your ranged attack damage by 15/20/25%."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3022001]"
 msgid "Explosive Shield"
-msgstr "Explosive Shield"
+msgstr "Escudo Explosivo"
 
 #. Key:	[3022002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3980,7 +3981,7 @@ msgstr "When your defence is breached, generate an explosion to blow up surround
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3023001]"
 msgid "Shadow Hunter"
-msgstr "Shadow Hunter"
+msgstr "Cazador de Sombras"
 
 #. Key:	[3023002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4001,7 +4002,7 @@ msgstr "Avoid attacking or taking damage for 4 seconds to become invisible. You'
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3024001]"
 msgid "Explosive Overload"
-msgstr "Explosive Overload"
+msgstr "Sobrecarga Explosiva"
 
 #. Key:	[3024002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6792,7 +6793,7 @@ msgstr "Blanco (con brillo marrón)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4103036]"
 msgid "Symphony (Colorful Gradient)"
-msgstr "Sinfonía - Degradado de colores"
+msgstr "Sinfonía (Degradado de colores)"
 
 #. Key:	[4103037]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6803,7 +6804,7 @@ msgstr "Sinfonía - Degradado de colores"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4103037]"
 msgid "Symphony (Sunset)"
-msgstr "Sinfonía - Puesta de sol"
+msgstr "Sinfonía (Puesta de sol)"
 
 #. Key:	[4103038]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6814,7 +6815,7 @@ msgstr "Sinfonía - Puesta de sol"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4103038]"
 msgid "Symphony (Illusion)"
-msgstr "Sinfonía - Ilusión"
+msgstr "Sinfonía (Ilusión)"
 
 #. Key:	[4103039]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6825,7 +6826,7 @@ msgstr "Sinfonía - Ilusión"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4103039]"
 msgid "Symphony (Winter)"
-msgstr "Sinfonía - Invierno"
+msgstr "Sinfonía (Invierno)"
 
 #. Key:	[4103040]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6836,7 +6837,7 @@ msgstr "Sinfonía - Invierno"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4103040]"
 msgid "Symphony (Natural)"
-msgstr "Sinfonía - Natural"
+msgstr "Sinfonía (Natural)"
 
 #. Key:	[4103041]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6847,7 +6848,7 @@ msgstr "Sinfonía - Natural"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4103041]"
 msgid "Symphony (Patriotic)"
-msgstr "Sinfonía - Patriótica"
+msgstr "Sinfonía (Patriótica)"
 
 #. Key:	[4103042]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6889,7 +6890,7 @@ msgstr "Bigote revolucionario"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4104002]"
 msgid "Ace Mask (White)"
-msgstr "Máscara de piloto de combate"
+msgstr "Máscara Ace (Blanca)"
 
 #. Key:	[4104003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -7142,7 +7143,7 @@ msgstr "Cinturón Táctico (Gris Urbano)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4104025]"
 msgid "Ace Mask (Desert Sand)"
-msgstr "Máscara de Piloto (Arena del Desierto)"
+msgstr "Máscara Ace (Arena del Desierto)"
 
 #. Key:	[4104026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -7384,7 +7385,7 @@ msgstr "Gafas Gruesas (Blanco)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4104047]"
 msgid "Thick Glasses (Red)"
-msgstr "Gafas Gruesas Rrojo)"
+msgstr "Gafas Gruesas (Rrojo)"
 
 #. Key:	[4104048]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -7955,7 +7956,7 @@ msgstr "Guantes de Elemont (Naranja Industrial)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4105043]"
 msgid "Ace Mask (Army Green)"
-msgstr "Máscara de Piloto (Verde Militar)"
+msgstr "Máscara Ace (Verde Militar)"
 
 #. Key:	[4105044]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -7967,7 +7968,7 @@ msgstr "Máscara de Piloto (Verde Militar)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4105044]"
 msgid "Ace Mask (Charcoal)"
-msgstr "Ace Mask (Charcoal)"
+msgstr "Máscara Ace (Carbón)"
 
 #. Key:	[4105045]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9728,7 +9729,7 @@ msgstr "Expulsar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001034]"
 msgid "ON"
-msgstr "On"
+msgstr "ENCENDIDO"
 
 #. Key:	[9001035]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10762,7 +10763,7 @@ msgstr "equipamiento"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001118]"
 msgid "Are you sure you want to leave the game?"
-msgstr "¿Seguro que quieres salir del juego?"
+msgstr "¿Estás seguro de que deseas abandonar el juego?"
 
 #. Key:	[9001119]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10893,7 +10894,7 @@ msgstr "ÚNETE A LA SALA FIESTA"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001130]"
 msgid "BUY"
-msgstr "Buy"
+msgstr "COMPRAR"
 
 #. Key:	[9001131]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11485,7 +11486,7 @@ msgstr "Fábrica de juguetes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001188]"
 msgid "Starlake"
-msgstr "Starlake"
+msgstr "Lago Estelar"
 
 #. Key:	[9001189]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
