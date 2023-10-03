@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-10-02 10:40+0000\n"
+"PO-Revision-Date: 2023-10-03 11:40+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/es_US/>\n"
@@ -4341,7 +4341,7 @@ msgstr "Interestelar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001128]"
 msgid "Rogue Wave"
-msgstr "Ola gigante"
+msgstr "Ola Gigante"
 
 #. Key:	[4001129]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4352,7 +4352,7 @@ msgstr "Ola gigante"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001129]"
 msgid "Great Explorer"
-msgstr "Gran explorador"
+msgstr "Gran Explorador"
 
 #. Key:	[4001130]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4363,7 +4363,7 @@ msgstr "Gran explorador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001130]"
 msgid "Fearless Conqueror"
-msgstr "Conquistador intrépido"
+msgstr "Conquistador Intrépido"
 
 #. Key:	[4001131]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4374,7 +4374,7 @@ msgstr "Conquistador intrépido"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001131]"
 msgid "Terror of the Deep"
-msgstr "Terror de las profundiades"
+msgstr "Terror de las Profundiades"
 
 #. Key:	[4001132]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4605,7 +4605,7 @@ msgstr "Maitreya"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001152]"
 msgid "Wrath of Heaven"
-msgstr "Ira del cielo"
+msgstr "Ira el Cielo"
 
 #. Key:	[4001153]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4616,7 +4616,7 @@ msgstr "Ira del cielo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001153]"
 msgid "Judge Vajra"
-msgstr "Juez vajra"
+msgstr "Juez Vajra"
 
 #. Key:	[4001154]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4627,7 +4627,7 @@ msgstr "Juez vajra"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001154]"
 msgid "Pure Saint"
-msgstr "Santo puro"
+msgstr "Santo Puro"
 
 #. Key:	[4001155]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4638,7 +4638,7 @@ msgstr "Santo puro"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001155]"
 msgid "Lotus Emissary"
-msgstr "Emisario de loto"
+msgstr "Emisario Loto"
 
 #. Key:	[4001156]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8044,7 +8044,7 @@ msgstr "Neptuno"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4201005]"
 msgid "Neutron Star"
-msgstr "Estrella neutrón"
+msgstr "Estrella Neutrón"
 
 #. Key:	[4201006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
