@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-10-02 06:40+0000\n"
+"PO-Revision-Date: 2023-10-03 06:40+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -8230,7 +8230,7 @@ msgstr "Gushing Grape"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4204002]"
 msgid "Sour Lemon"
-msgstr "Sour Lemon"
+msgstr "Lime"
 
 #. Key:	[4204003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8241,7 +8241,7 @@ msgstr "Sour Lemon"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4204003]"
 msgid "Strawberry Limeade"
-msgstr "Strawberry Limeade"
+msgstr "Cherry"
 
 #. Key:	[4204004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8252,7 +8252,7 @@ msgstr "Strawberry Limeade"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4204004]"
 msgid "Blue Raspberry"
-msgstr "Blue Raspberry"
+msgstr "Blueberry"
 
 #. Key:	[4204005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13900,7 +13900,7 @@ msgstr "Horror Sensation"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001446]"
 msgid "Sci-fi shooter"
-msgstr "Sci-fi shooter"
+msgstr "Sci-Fi Shooter"
 
 #. Key:	[9001447]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14970,14 +14970,14 @@ msgstr "Rematch"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001569]"
 msgid "Chief producer"
-msgstr "Chief producer"
+msgstr "Chief Producer"
 
 #. Key:	[9001570]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001570]"
 msgid "Colorful ocean"
-msgstr "Colorful ocean"
+msgstr "Colorful Ocean"
 
 #. Key:	[9001571]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
