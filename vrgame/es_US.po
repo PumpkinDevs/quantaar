@@ -1,17 +1,20 @@
-﻿# Game Spanish (United States) translation.
+# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-11 03:23\n"
-"Language-Team: \n"
-"Language: es-US\n"
+"PO-Revision-Date: 2023-10-11 08:40+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/es_US/>\n"
+"Language: es_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1649,7 +1652,7 @@ msgstr "Subtítulos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003023]"
 msgid "Restore All to Default"
-msgstr "Restaurar todos a Por defecto"
+msgstr "Restore All to Default"
 
 #. Key:	[0003024]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1662,7 +1665,7 @@ msgstr "Restaurar todos a Por defecto"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003024]"
 msgid "Restore"
-msgstr "Restaurar la configuración predeterminada"
+msgstr "Restore"
 
 #. Key:	[0003025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1893,7 +1896,7 @@ msgstr "Los padres deberían vigilar o preguntar a sus hijos por los síntomas d
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0006001]"
 msgid "Confirm"
-msgstr "Confirmar"
+msgstr "Confirm"
 
 #. Key:	[0006002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1906,7 +1909,7 @@ msgstr "Confirmar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0006002]"
 msgid "Clear Current"
-msgstr "Borrar Actual"
+msgstr "Clear Current"
 
 #. Key:	[0006003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1919,7 +1922,7 @@ msgstr "Borrar Actual"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0006003]"
 msgid "Clear All"
-msgstr "Borrar Todos"
+msgstr "Clear All"
 
 #. Key:	[0006004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2167,7 +2170,7 @@ msgstr "¡Tienes un cofre estilo Observer (raro)!"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0008001]"
 msgid "Overview"
-msgstr "Descripción general"
+msgstr "Overview"
 
 #. Key:	[0008002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2492,7 +2495,7 @@ msgstr "Núcleos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0013002]"
 msgid "OBSERVER"
-msgstr "Personalizada"
+msgstr "OBSERVER"
 
 #. Key:	[0013003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2518,7 +2521,7 @@ msgstr "Artículos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0014001]"
 msgid "BRAWL"
-msgstr "Pelearse"
+msgstr "BRAWL"
 
 #. Key:	[0014002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2544,7 +2547,7 @@ msgstr "FÚTBOL"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0014003]"
 msgid "CUSTOM"
-msgstr "Personalizada"
+msgstr "CUSTOM"
 
 #. Key:	[0015001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2570,7 +2573,7 @@ msgstr "Logros"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0015002]"
 msgid "DAILY TASKS"
-msgstr "Tareas Diarias"
+msgstr "DAILY TASKS"
 
 #. Key:	[0015003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2661,7 +2664,7 @@ msgstr "Australia"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0018001]"
 msgid "MATCHMAKING..."
-msgstr "Emparejamiento"
+msgstr "MATCHMAKING..."
 
 #. Key:	[0018002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2804,7 +2807,7 @@ msgstr "\"No disponible actualmente\""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0020001]"
 msgid "Custom Mode"
-msgstr "Partida personalizada"
+msgstr "Custom Mode"
 
 #. Key:	[0020002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2817,7 +2820,8 @@ msgstr "Partida personalizada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0020002]"
 msgid "Notice: You will not receive any rewards or experience from Custom Mode."
-msgstr "Aviso: no recibirás ninguna recompensa ni experiencia en el modo Sala personalizada."
+msgstr ""
+"Notice: You will not receive any rewards or experience from Custom Mode."
 
 #. Key:	[0021001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4436,7 +4440,7 @@ msgstr "Gran explorador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001130]"
 msgid "Fearless Conqueror"
-msgstr "Conquistador intrépido"
+msgstr "Fearless Conqueror"
 
 #. Key:	[4001131]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4546,7 +4550,7 @@ msgstr "Señor del vacío"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4001140]"
 msgid "Netherworld Guardian"
-msgstr "Guardián del inframundo"
+msgstr "Netherworld Guardian"
 
 #. Key:	[4001141]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4816,7 +4820,7 @@ msgstr "Auriculares de gato (coloridos)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101004]"
 msgid "Sheriff Hat (Brown)"
-msgstr "Sombrero de vaquero (marrón)"
+msgstr "Sombrero vaquero (marrón)"
 
 #. Key:	[4101005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4904,7 +4908,7 @@ msgstr "Casco de submarinismo (RGB)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101012]"
 msgid "Drinking Hat (Red)"
-msgstr "Sombrero de bebercio (rojo)"
+msgstr "Sombrero bebercio (rojo)"
 
 #. Key:	[4101013]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4915,7 +4919,7 @@ msgstr "Sombrero de bebercio (rojo)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101013]"
 msgid "Drinking Hat (Blue)"
-msgstr "Sombrero de bebercio (azul)"
+msgstr "Sombrero bebercio (azul)"
 
 #. Key:	[4101014]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5036,7 +5040,7 @@ msgstr "Corona imperial (azul)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101024]"
 msgid "Top Hat (Red)"
-msgstr "Sombrero de copa (rojo)"
+msgstr "Sombrero copa (rojo)"
 
 #. Key:	[4101025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5047,7 +5051,7 @@ msgstr "Sombrero de copa (rojo)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101025]"
 msgid "Top Hat (Green)"
-msgstr "Sombrero de copa (verde)"
+msgstr "Sombrero copa (verde)"
 
 #. Key:	[4101026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5058,7 +5062,7 @@ msgstr "Sombrero de copa (verde)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101026]"
 msgid "Top Hat (Blue)"
-msgstr "Sombrero de copa (azul)"
+msgstr "Sombrero copa (azul)"
 
 #. Key:	[4101027]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5190,7 +5194,7 @@ msgstr "Casco de minero (naranja)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101038]"
 msgid "Sheriff Hat (Red)"
-msgstr "Sombrero de vaquero (rosa)"
+msgstr "Sombrero vaquero (rosa)"
 
 #. Key:	[4101039]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5201,7 +5205,7 @@ msgstr "Sombrero de vaquero (rosa)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101039]"
 msgid "Sheriff Hat (Blue)"
-msgstr "Sombrero de vaquero (azul)"
+msgstr "Sombrero vaquero (azul)"
 
 #. Key:	[4101040]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5212,7 +5216,7 @@ msgstr "Sombrero de vaquero (azul)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101040]"
 msgid "Sheriff Hat (Black)"
-msgstr "Sombrero de vaquero (negro)"
+msgstr "Sombrero vaquero (negro)"
 
 #. Key:	[4101041]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5322,7 +5326,7 @@ msgstr "Gorro piñata (rosa)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101050]"
 msgid "Dragon Hat (Beige)"
-msgstr "Sombrero de dragón (beige)"
+msgstr "Sombrero dragón (beige)"
 
 #. Key:	[4101051]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5333,7 +5337,7 @@ msgstr "Sombrero de dragón (beige)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101051]"
 msgid "Wizard Hat (Purple)"
-msgstr "Sombrero de mago (morado)"
+msgstr "Sombrero mago (morado)"
 
 #. Key:	[4101052]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5575,7 +5579,7 @@ msgstr "Casco de Vikingo (Plata Blanca)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101073]"
 msgid "Shakyamuni Head (Wood)"
-msgstr "Cabeza de Shakyamuni (Plata)"
+msgstr "Cabeza Shakyamuni (Plata)"
 
 #. Key:	[4101074]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5586,7 +5590,7 @@ msgstr "Cabeza de Shakyamuni (Plata)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101074]"
 msgid "Shakyamuni Head (Bronze)"
-msgstr "Cabeza de Shakyamuni (Bronce)"
+msgstr "Cabeza Shakyamuni (Bronce)"
 
 #. Key:	[4101075]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5597,7 +5601,7 @@ msgstr "Cabeza de Shakyamuni (Bronce)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101075]"
 msgid "Shakyamuni Head (Stone)"
-msgstr "Cabeza de Shakyamuni (Hierro Fundido)"
+msgstr "Cabeza Shakyamuni (Hierro Fundido)"
 
 #. Key:	[4101076]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5608,7 +5612,7 @@ msgstr "Cabeza de Shakyamuni (Hierro Fundido)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101076]"
 msgid "Shakyamuni Head (Gold)"
-msgstr "Cabeza de Shakyamuni (Oro)"
+msgstr "Cabeza Shakyamuni (Oro)"
 
 #. Key:	[4101077]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5839,7 +5843,7 @@ msgstr "Gorro de Perro (Blanco y Negro)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101097]"
 msgid "Sheriff Hat (Brown)"
-msgstr "Sombrero de vaquero (marrón)"
+msgstr "Sombrero vaquero (marrón)"
 
 #. Key:	[4101098]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5850,7 +5854,7 @@ msgstr "Sombrero de vaquero (marrón)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101098]"
 msgid "Sheriff Hat (Red)"
-msgstr "Sombrero de vaquero (rosa)"
+msgstr "Sombrero vaquero (rosa)"
 
 #. Key:	[4101099]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5861,7 +5865,7 @@ msgstr "Sombrero de vaquero (rosa)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101099]"
 msgid "Sheriff Hat (Blue)"
-msgstr "Sombrero de vaquero (azul)"
+msgstr "Sombrero vaquero (azul)"
 
 #. Key:	[4101100]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5872,7 +5876,7 @@ msgstr "Sombrero de vaquero (azul)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101100]"
 msgid "Sheriff Hat (Black)"
-msgstr "Sombrero de vaquero (negro)"
+msgstr "Sombrero vaquero (negro)"
 
 #. Key:	[4101101]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5883,7 +5887,7 @@ msgstr "Sombrero de vaquero (negro)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101101]"
 msgid "Top Hat (Red)"
-msgstr "Sombrero de copa (rojo)"
+msgstr "Sombrero copa (rojo)"
 
 #. Key:	[4101102]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5894,7 +5898,7 @@ msgstr "Sombrero de copa (rojo)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101102]"
 msgid "Top Hat (Green)"
-msgstr "Sombrero de copa (verde)"
+msgstr "Sombrero copa (verde)"
 
 #. Key:	[4101103]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5905,7 +5909,7 @@ msgstr "Sombrero de copa (verde)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101103]"
 msgid "Top Hat (Blue)"
-msgstr "Sombrero de copa (azul)"
+msgstr "Sombrero copa (azul)"
 
 #. Key:	[4101104]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5916,7 +5920,7 @@ msgstr "Sombrero de copa (azul)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101104]"
 msgid "Top Hat (Purple)"
-msgstr "Sombrero de Copa (Morado)"
+msgstr "Sombrero Copa (Morado)"
 
 #. Key:	[4101105]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8546,7 +8550,7 @@ msgstr "Señor del vacío"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4207004]"
 msgid "Netherworld Guardian"
-msgstr "Guardián del inframundo"
+msgstr "Netherworld Guardian"
 
 #. Key:	[4207005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8766,7 +8770,7 @@ msgstr "Guerrero del bosque"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4210005]"
 msgid "Earth Guardian"
-msgstr "Guardián de la Tierra"
+msgstr "Earth Guardian"
 
 #. Key:	[4211000]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9373,7 +9377,7 @@ msgstr "Cofre de aventureros de Discord"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001001]"
 msgid "BRAWL"
-msgstr "Pelearse"
+msgstr "BRAWL"
 
 #. Key:	[9001002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9737,7 +9741,7 @@ msgstr "Cancelar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001029]"
 msgid "MATCHMAKE"
-msgstr "Emparejamiento"
+msgstr "MATCHMAKE"
 
 #. Key:	[9001030]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9750,7 +9754,7 @@ msgstr "Emparejamiento"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001030]"
 msgid "Confirmed"
-msgstr "Confirmar"
+msgstr "Confirmed"
 
 #. Key:	[9001031]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9875,7 +9879,7 @@ msgstr "POSEÍDO"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001040]"
 msgid "NOT OWNED"
-msgstr "No en propiedad"
+msgstr "NOT OWNED"
 
 #. Key:	[9001041]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10055,7 +10059,7 @@ msgstr "Lote"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001055]"
 msgid "OBSERVERS"
-msgstr "OBSERVADORES"
+msgstr "OBSERVERS"
 
 #. Key:	[9001056]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10247,7 +10251,7 @@ msgstr "VIP"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001071]"
 msgid "OBSERVER MET"
-msgstr "EL OBSERVADOR SE REUNIÓ"
+msgstr "OBSERVER MET"
 
 #. Key:	[9001072]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10571,7 +10575,7 @@ msgstr "Bandeja de entrada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001097]"
 msgid "Observer"
-msgstr "Observador"
+msgstr "Observer"
 
 #. Key:	[9001098]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10583,7 +10587,7 @@ msgstr "Observador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001098]"
 msgid "MATCHMAKING"
-msgstr "Partida rápido"
+msgstr "MATCHMAKING"
 
 #. Key:	[9001099]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10858,7 +10862,7 @@ msgstr "Sí"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001120]"
 msgid "Select Character"
-msgstr "Seleccionar Héroe"
+msgstr "Select Hero"
 
 #. Key:	[9001121]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10880,7 +10884,7 @@ msgstr "UNIRSE RÁPIDAMENTE"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001122]"
 msgid "CREATE PARTY HALL"
-msgstr "CREAR SALA SOCIAL"
+msgstr "Crear Fiesta"
 
 #. Key:	[9001123]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11149,7 +11153,7 @@ msgstr "Privada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001147]"
 msgid "Hall Name"
-msgstr "Nombre de la sala"
+msgstr "Hall Name"
 
 #. Key:	[9001148]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11499,7 +11503,7 @@ msgstr "Entrar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001182]"
 msgid "DAILY"
-msgstr "TODOS LOS DÍAS"
+msgstr "DAILY"
 
 #. Key:	[9001183]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11759,7 +11763,7 @@ msgstr "Nombre de la sala"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001208]"
 msgid "CREATE HALL"
-msgstr "CREAR SALA"
+msgstr "Crear Salón"
 
 #. Key:	[9001209]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11789,7 +11793,7 @@ msgstr "Equipado"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001211]"
 msgid "BATTLE INVITATION"
-msgstr "INVITACIÓN A LA BATALLA"
+msgstr "BATTLE INVITATION"
 
 #. Key:	[9001212]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12159,7 +12163,7 @@ msgstr "SELECCIONAR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001264]"
 msgid "Available on all music streaming platforms!"
-msgstr "¡Disponible en todas las plataformas de transmisión de música!"
+msgstr "Available on all music streaming platforms!"
 
 #. Key:	[9001265]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12249,7 +12253,7 @@ msgstr "¡Tengo Flèche!"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001273]"
 msgid "DAILY"
-msgstr "TODOS LOS DÍAS"
+msgstr "DAILY"
 
 #. Key:	[9001274]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12349,7 +12353,7 @@ msgstr "CANCELAR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001283]"
 msgid "Create Hall"
-msgstr "Crear sala"
+msgstr "Crear Salón"
 
 #. Key:	[9001284]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12849,7 +12853,7 @@ msgstr "Bola de discoteca dorada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001333]"
 msgid "Snow Camo"
-msgstr "Camuflaje de nieve"
+msgstr "Camuflaje  nieve"
 
 #. Key:	[9001334]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12869,7 +12873,9 @@ msgstr "Camuflaje urbano"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001335]"
 msgid "Desert Camo"
-msgstr "Camuflaje en el desierto"
+msgstr ""
+"Camuflaje el desiertohttp://i18n.office.pumpkinvrar.com/translate/"
+"quantaar-bo/ue/es_US/?q=camuflaje&sort_by=-priority%2Cposition&offset=5"
 
 #. Key:	[9001336]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12879,7 +12885,7 @@ msgstr "Camuflaje en el desierto"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001336]"
 msgid "Jungle Camo"
-msgstr "Camuflaje en la selva"
+msgstr "Camuflaje la selva"
 
 #. Key:	[9001337]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12939,7 +12945,7 @@ msgstr "Hológrafo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001342]"
 msgid "Daily log-in"
-msgstr "Inicio de sesión diario"
+msgstr "Daily log-in"
 
 #. Key:	[9001343]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13079,7 +13085,7 @@ msgstr "Ir al modo de entrenamiento"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001356]"
 msgid "Deal a total of 3,000 damage over time using Quasar"
-msgstr "Inflige un total de 3000 puntos de daño a lo largo del tiempo con Quasar"
+msgstr "Inflige 3000 puntos de daño con Quasar con el tiempo."
 
 #. Key:	[9001357]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13639,7 +13645,7 @@ msgstr "Desbloquear"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001412]"
 msgid "Create Custom Mode"
-msgstr "Crear modo personalizado"
+msgstr "Create Custom Mode"
 
 #. Key:	[9001413]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13738,7 +13744,7 @@ msgstr "Set de oro rosa"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001421]"
 msgid "Imperial Crown Set"
-msgstr "Set de coronas imperiales"
+msgstr "Set coronas imperiales"
 
 #. Key:	[9001422]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13764,7 +13770,7 @@ msgstr "Set King's Cloak"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001423]"
 msgid "King's Ring Set"
-msgstr "Set de anillos King's"
+msgstr "Set anillos King's"
 
 #. Key:	[9001426]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13974,7 +13980,7 @@ msgstr "Sensación de terror"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001446]"
 msgid "Sci-fi shooter"
-msgstr "Juego de disparos de ciencia ficción"
+msgstr "Sci-fi shooter"
 
 #. Key:	[9001447]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14349,7 +14355,7 @@ msgstr "CONJUNTO"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001483]"
 msgid "Bonus"
-msgstr "Bonificación"
+msgstr "Bonus"
 
 #. Key:	[9001484]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14389,7 +14395,7 @@ msgstr "Recompensa de temporada"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001487]"
 msgid "Ranked Reward"
-msgstr "Recompensa clasificatoria"
+msgstr "Ranked Reward"
 
 #. Key:	[9001488]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14499,7 +14505,7 @@ msgstr "Ver información completa en el sitio web oficial "
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001498]"
 msgid "EVENT DETAIL"
-msgstr "DETALLE DEL EVENTO"
+msgstr "DETALLE"
 
 #. Key:	[9001499]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14827,7 +14833,7 @@ msgstr "TIEMPO RESTANTE"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001538]"
 msgid "Daily Log-in Reward"
-msgstr "Recompensa por inicio de sesión diario"
+msgstr "Daily Log-in Reward"
 
 #. Key:	[9001539]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14848,14 +14854,14 @@ msgstr "Acumula 10 muertes a lo largo del tiempo usando Digi"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001541]"
 msgid "New Hero Arrival"
-msgstr "Llegada de un nuevo héroe"
+msgstr "New Hero Arrival"
 
 #. Key:	[9001542]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001542]"
 msgid "Unlock the Power of Spectral Realm in the Store!"
-msgstr "¡Desbloquea el poder de Spectral Realm en la tienda!"
+msgstr "Unlock the Power of Spectral Realm in the Store!"
 
 #. Key:	[9001543]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14904,7 +14910,7 @@ msgstr "Lento"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001549]"
 msgid "Ranked"
-msgstr "Clasificado"
+msgstr "Ranked"
 
 #. Key:	[9001550]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14925,7 +14931,7 @@ msgstr "Cofre de 100 gemas galácticas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001552]"
 msgid "Leaderboard"
-msgstr "Tabla de clasificación"
+msgstr "Leaderboard"
 
 #. Key:	[9001553]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14967,7 +14973,7 @@ msgstr "Rango"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001558]"
 msgid "Ranked"
-msgstr "Clasificado"
+msgstr "Ranked"
 
 #. Key:	[9001559]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15002,7 +15008,7 @@ msgstr "Mi rango"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001563]"
 msgid "Next refresh time"
-msgstr "Hora de la próxima actualización"
+msgstr "Next refresh time"
 
 #. Key:	[9001564]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15140,9 +15146,10 @@ msgstr "Comprueba la recompensa clasificada"
 #. Key:	[9001583]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[9001583]"
 msgid "Casual"
-msgstr "Casual"
+msgstr "CASUAL"
 
 #. Key:	[9001584]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15324,7 +15331,7 @@ msgstr "Las recompensas se te entregarán por correo dentro del juego."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001609]"
 msgid "Event Details"
-msgstr "Detalles del evento"
+msgstr "Detalles"
 
 #. Key:	[9001610]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15359,7 +15366,9 @@ msgstr "COMPRAR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001614]"
 msgid "Purchase Failed. Check network or card info, then reconnect to the game if \"PURCHASE\" isn't working"
-msgstr "No se pudo realizar la compra. Comprueba la información de la red o de la tarjeta y vuelve a conectarte al juego si «COMPRAR» no funciona"
+msgstr ""
+"Purchase Failed. Check network or card info, then reconnect to the game if "
+"\"PURCHASE\" isn't working"
 
 #. Key:	[9001615]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17661,4 +17670,3 @@ msgstr "Primero, necesitamos registrar stu información."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
-
