@@ -1,17 +1,20 @@
-﻿# Game English translation.
+# Game English translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-11 03:23\n"
-"Language-Team: \n"
-"Language: en\n"
+"PO-Revision-Date: 2023-10-11 08:40+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -10858,7 +10861,7 @@ msgstr "Yes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001120]"
 msgid "Select Character"
-msgstr "Select Character"
+msgstr "Select Hero"
 
 #. Key:	[9001121]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15142,7 +15145,7 @@ msgstr "Check ranked reward"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001583]"
 msgid "Casual"
-msgstr "Casual"
+msgstr "CASUAL"
 
 #. Key:	[9001584]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17661,4 +17664,3 @@ msgstr "First, we need to register your information."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Please select the options that best fit your preferences."
-
