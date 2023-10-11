@@ -1,20 +1,17 @@
-# Game English translation.
+﻿# Game English translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-26 03:42\n"
-"PO-Revision-Date: 2023-10-03 06:40+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/en_US/>\n"
-"Language: en_US\n"
+"POT-Creation-Date: 2023-10-11 03:23\n"
+"PO-Revision-Date: 2023-10-11 03:23\n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1212,6 +1209,83 @@ msgstr "要求簽到失敗"
 msgctxt "ST_Game_Widget,9001678"
 msgid "Unlock the Power of Border Controller in the Store!"
 msgstr "Unlock the Power of Border Controller in the Store!"
+
+#. Key:	9001679
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001679"
+msgid "CUSTOM"
+msgstr "CUSTOM"
+
+#. Key:	9001680
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001680"
+msgid "PROFILE"
+msgstr "PROFILE"
+
+#. Key:	9001681
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001681"
+msgid "EFFECTS"
+msgstr "EFFECTS"
+
+#. Key:	9001682
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001682"
+msgid "ID FRAME"
+msgstr "ID FRAME"
+
+#. Key:	9001683
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001683"
+msgid "Products are being restocked, please stay tuned!"
+msgstr "Products are being restocked, please stay tuned!"
+
+#. Key:	9001684
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001684"
+msgid "COMINGSOON!"
+msgstr "COMINGSOON!"
+
+#. Key:	9001685
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001685"
+msgid "STYLE FITTING"
+msgstr "STYLE FITTING"
+
+#. Key:	9001686
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001686"
+msgid "Party Item"
+msgstr "Party Item"
+
+#. Key:	9001687
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001687"
+msgid "Banner"
+msgstr "Banner"
+
+#. Key:	9001688
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001688"
+msgid "Profile rewards"
+msgstr "Profile rewards"
+
+#. Key:	9001689
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001689"
+msgid "REFERRAL PROGRAM"
+msgstr "REFERRAL PROGRAM"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2886,7 +2960,7 @@ msgstr "Dragon Valley"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0025002]"
 msgid "Quantaar Arena"
-msgstr "QUANTAAR ARENA"
+msgstr "Quantaar Arena"
 
 #. Key:	[0025003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8230,7 +8304,7 @@ msgstr "Gushing Grape"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4204002]"
 msgid "Sour Lemon"
-msgstr "Lime"
+msgstr "Sour Lemon"
 
 #. Key:	[4204003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8241,7 +8315,7 @@ msgstr "Lime"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4204003]"
 msgid "Strawberry Limeade"
-msgstr "Cherry"
+msgstr "Strawberry Limeade"
 
 #. Key:	[4204004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8252,7 +8326,7 @@ msgstr "Cherry"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4204004]"
 msgid "Blue Raspberry"
-msgstr "Blueberry"
+msgstr "Blue Raspberry"
 
 #. Key:	[4204005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13900,7 +13974,7 @@ msgstr "Horror Sensation"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001446]"
 msgid "Sci-fi shooter"
-msgstr "Sci-Fi Shooter"
+msgstr "Sci-fi shooter"
 
 #. Key:	[9001447]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14970,14 +15044,14 @@ msgstr "Rematch"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001569]"
 msgid "Chief producer"
-msgstr "Chief Producer"
+msgstr "Chief producer"
 
 #. Key:	[9001570]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001570]"
 msgid "Colorful ocean"
-msgstr "Colorful Ocean"
+msgstr "Colorful ocean"
 
 #. Key:	[9001571]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15529,8 +15603,8 @@ msgstr "Dragon Claw Flame - Spice"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001649]"
-msgid "TABOO"
-msgstr "TABOO"
+msgid "Taboo"
+msgstr "Taboo"
 
 #. Key:	[9001650]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17587,3 +17661,4 @@ msgstr "First, we need to register your information."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Please select the options that best fit your preferences."
+
