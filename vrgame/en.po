@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-11 08:40+0000\n"
+"PO-Revision-Date: 2023-10-12 10:42+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/en_US/>\n"
@@ -3119,7 +3119,7 @@ msgstr "Generate"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0029003]"
 msgid "Observer Item"
-msgstr "Observer Item"
+msgstr "Observer item"
 
 #. Key:	[0029004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3145,7 +3145,7 @@ msgstr "Spawn Energy"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0029005]"
 msgid "Auto Recovery"
-msgstr "Auto Recovery"
+msgstr "Auto recovery"
 
 #. Key:	[0029006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10538,7 +10538,7 @@ msgstr "Taken Damage"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001094]"
 msgid "SCORE"
-msgstr "SCORE"
+msgstr "Score"
 
 #. Key:	[9001095]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
