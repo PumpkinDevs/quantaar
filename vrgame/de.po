@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-26 11:40+0000\n"
-"Last-Translator: David <david@pumpkinvrar.com>\n"
+"PO-Revision-Date: 2023-10-12 10:42+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: German <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/de/>\n"
 "Language: de\n"
@@ -2940,7 +2940,7 @@ msgstr "Das Drachental"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0025002]"
 msgid "Quantaar Arena"
-msgstr "Quantar Arena"
+msgstr "Quantaar Arena"
 
 #. Key:	[0025003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12224,7 +12224,7 @@ msgstr "ZEIT"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001269]"
 msgid "QUANTAAR"
-msgstr "QUANTAR"
+msgstr "QUANTAAR"
 
 #. Key:	[9001270]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15738,7 +15738,7 @@ msgstr "QUANTAAR Staffel 3 Platin"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001658]"
 msgid "QUANTAAR Season 3 Diamond"
-msgstr "QUANTAR Staffel 3 Diamond"
+msgstr "QUANTAAR Staffel 3 Diamond"
 
 #. Key:	[9001659]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
