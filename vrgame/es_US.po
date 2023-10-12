@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-11 08:40+0000\n"
+"PO-Revision-Date: 2023-10-12 10:42+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/es_US/>\n"
@@ -1431,7 +1431,7 @@ msgstr "Restablecer orientación"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0003006]"
 msgid "Reset"
-msgstr "Restablecer"
+msgstr "RESET"
 
 #. Key:	[0003007]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1961,7 +1961,7 @@ msgstr "Abrir"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007001]"
 msgid "OK"
-msgstr "Lo tengo"
+msgstr "OK"
 
 #. Key:	[0007002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2508,7 +2508,7 @@ msgstr "OBSERVER"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0013003]"
 msgid "ITEMS"
-msgstr "Artículos"
+msgstr "Objetos"
 
 #. Key:	[0014001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2781,7 +2781,9 @@ msgstr "Escenario"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
 msgid "For a 2 vs 2 match, each team needs 2 Observers, AI included."
-msgstr "Para una partida de 2 contra 2, cada equipo necesita 2 observadores, incluida la IA."
+msgstr ""
+"Para una partida de 2 contra 2, cada equipo necesita 2 observadores, "
+"incluida la AI."
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2873,7 +2875,7 @@ msgstr "REGLA"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0022003]"
 msgid "COUNTDOWN"
-msgstr "Cuenta atrás"
+msgstr "COUNTDOWN"
 
 #. Key:	[0022004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2899,7 +2901,7 @@ msgstr "Eliminado"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0023001]"
 msgid "ITEMS"
-msgstr "Artículos"
+msgstr "Objetos"
 
 #. Key:	[0023002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3016,7 +3018,9 @@ msgstr "Elegir escenario de descarga"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026003]"
 msgid "In this space, you can change heroes, items, the difficulty of AI, and other settings accordingly."
-msgstr "En este espacio puedes cambiar héroes, elementos, la dificultad de Al, y otros ajustes similares."
+msgstr ""
+"En este espacio puedes cambiar héroes, objetos, la dificultad de Al, y otros "
+"ajustes similares."
 
 #. Key:	[0026004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3118,9 +3122,10 @@ msgstr "Generar"
 #. InfoMetaData:	"簡體中文" : "观察者道具"
 #. InfoMetaData:	"西班牙" : "Artículo de observador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[0029003]"
 msgid "Observer Item"
-msgstr "Artículo de observador"
+msgstr "Artículo observador"
 
 #. Key:	[0029004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3144,9 +3149,10 @@ msgstr "Energía"
 #. InfoMetaData:	"簡體中文" : "自动恢复"
 #. InfoMetaData:	"西班牙" : "Índice de recuperación"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[0029005]"
 msgid "Auto Recovery"
-msgstr "Índice de recuperación"
+msgstr "Auto recuperación"
 
 #. Key:	[0029006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3185,7 +3191,7 @@ msgstr "Salud propia"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0029008]"
 msgid "AI Enemy"
-msgstr "Habilitar Enemigo de Al"
+msgstr "Enemigo Al"
 
 #. Key:	[0029009]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3224,7 +3230,7 @@ msgstr "Cambiar héroe enemigo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0030001]"
 msgid "Use Items"
-msgstr "使用道具"
+msgstr "Usar objetos"
 
 #. Key:	[0030002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9663,7 +9669,7 @@ msgstr "Editar"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001023]"
 msgid "PARTY HALL"
-msgstr "Social"
+msgstr "Salón Fiesta"
 
 #. Key:	[9001024]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10537,9 +10543,10 @@ msgstr "Daño recibido"
 #. InfoMetaData:	"簡體中文" : "分数"
 #. InfoMetaData:	"西班牙" : "Puntuación"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#, fuzzy
 msgctxt "ST_Game_Widget,[9001094]"
 msgid "SCORE"
-msgstr "Puntuación"
+msgstr "Score"
 
 #. Key:	[9001095]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10612,7 +10619,7 @@ msgstr "Ajustes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001100]"
 msgid "TRAINING"
-msgstr "Entrenamiento"
+msgstr "ENTRENAMIENTO"
 
 #. Key:	[9001101]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11113,7 +11120,7 @@ msgstr "Cofre de héroe"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001143]"
 msgid "Attempt"
-msgstr "Intento"
+msgstr "Attempt"
 
 #. Key:	[9001144]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11173,7 +11180,7 @@ msgstr "CONTRASEÑA"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001149]"
 msgid "VICTORY"
-msgstr "VICTORIA"
+msgstr "VICTORY"
 
 #. Key:	[9001150]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11183,7 +11190,7 @@ msgstr "VICTORIA"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001150]"
 msgid "DEFEAT"
-msgstr "DERROTAR"
+msgstr "DEFEAT"
 
 #. Key:	[9001151]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12023,7 +12030,7 @@ msgstr "Para obtener más información sobre lo que contienen estos cofres,\ninc
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001234]"
 msgid "OK"
-msgstr "BIEN"
+msgstr "OK"
 
 #. Key:	[9001235]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12113,7 +12120,7 @@ msgstr "Definitivo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001259]"
 msgid "Items"
-msgstr "Artículos"
+msgstr "Objetos"
 
 #. Key:	[9001260]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12213,7 +12220,7 @@ msgstr "HORA"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001269]"
 msgid "QUANTAAR"
-msgstr "QUANTAR"
+msgstr "QUANTAAR"
 
 #. Key:	[9001270]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12723,7 +12730,7 @@ msgstr "Sin observador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001320]"
 msgid "TRANSFER STATION"
-msgstr "ESTACIÓN DE TRANSFERENCIA"
+msgstr "TRANSFER STATION"
 
 #. Key:	[9001321]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13655,7 +13662,7 @@ msgstr "Create Custom Mode"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001413]"
 msgid "Party Hall"
-msgstr "Salón social"
+msgstr "Salón Fiesta"
 
 #. Key:	[9001414]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13744,7 +13751,7 @@ msgstr "Set de oro rosa"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001421]"
 msgid "Imperial Crown Set"
-msgstr "Set coronas imperiales"
+msgstr "Set de Coronas"
 
 #. Key:	[9001422]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13757,7 +13764,7 @@ msgstr "Set coronas imperiales"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001422]"
 msgid "King's Cloak Set"
-msgstr "Set King's Cloak"
+msgstr "Set de Capa"
 
 #. Key:	[9001423]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13770,7 +13777,7 @@ msgstr "Set King's Cloak"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001423]"
 msgid "King's Ring Set"
-msgstr "Set anillos King's"
+msgstr "Set de anillos"
 
 #. Key:	[9001426]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14180,7 +14187,7 @@ msgstr "Cofre estilo héroe"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001466]"
 msgid "Observer Style Chest (Regular)"
-msgstr "Cofre Observer Style (normal)"
+msgstr "Pecho Estilo Observador (Regular)"
 
 #. Key:	[9001467]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14190,7 +14197,7 @@ msgstr "Cofre Observer Style (normal)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001467]"
 msgid "Observer Style Chest (Rare)"
-msgstr "Cofre estilo Observer (raro)"
+msgstr "Pecho Estilo Observador (raro)"
 
 #. Key:	[9001468]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14335,7 +14342,7 @@ msgstr "MAESTRO"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001481]"
 msgid "PARTY"
-msgstr "SOCIAL"
+msgstr "FIESTA"
 
 #. Key:	[9001482]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14565,7 +14572,7 @@ msgstr "10.000 monedas estrella"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001504]"
 msgid "Observer Style Chest (Rare)"
-msgstr "Cofre estilo Observer (raro)"
+msgstr "Pecho Estilo Observador (raro)"
 
 #. Key:	[9001505]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14615,7 +14622,7 @@ msgstr "MAPA"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001509]"
 msgid "END OF ROUND"
-msgstr "FINAL DE LA RONDA"
+msgstr "END OF ROUND"
 
 #. Key:	[9001510]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14819,7 +14826,7 @@ msgstr "Súper oferta"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001536]"
 msgid "Unlocking with Star Coins!"
-msgstr "¡Desbloqueo con Star Coins!"
+msgstr "Unlocking with Star Coins!"
 
 #. Key:	[9001537]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15163,7 +15170,7 @@ msgstr "INVITAR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001585]"
 msgid "Invite your friend to the Party Hall"
-msgstr "Invita a tu amigo al Salón Social"
+msgstr "Invita a tu amigo al Salón Fiesta"
 
 #. Key:	[9001586]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15247,7 +15254,7 @@ msgstr "Gremio"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001597]"
 msgid "Please report bugs on discord"
-msgstr "Por favor, informa de errores en Discord"
+msgstr "Please report bugs on discord"
 
 #. Key:	[9001598]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
