@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-11 03:23\n"
+"POT-Creation-Date: 2023-10-16 07:14\n"
+"PO-Revision-Date: 2023-10-16 07:14\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -1286,6 +1286,69 @@ msgstr "大头贴奖励"
 msgctxt "ST_Game_Widget,9001689"
 msgid "REFERRAL PROGRAM"
 msgstr "邀请计画"
+
+#. Key:	9001690
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001690"
+msgid "Sheet Ghost (White)"
+msgstr "床单幽灵 (白)"
+
+#. Key:	9001691
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001691"
+msgid "Sheet Ghost (Purple)"
+msgstr "床单幽灵 (紫)"
+
+#. Key:	9001692
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001692"
+msgid "Sheet Ghost (Blue)"
+msgstr "床单幽灵 (蓝)"
+
+#. Key:	9001693
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001693"
+msgid "Haunted Pumpkin (Pumpkin)"
+msgstr "幽怨南瓜 (南瓜)"
+
+#. Key:	9001694
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001694"
+msgid "Haunted Pumpkin (Purple)"
+msgstr "幽怨南瓜 (紫)"
+
+#. Key:	9001695
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001695"
+msgid "Haunted Pumpkin (Green)"
+msgstr "幽怨南瓜 (绿)"
+
+#. Key:	9001696
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001696"
+msgid "Demon Wings (Purple)"
+msgstr "小恶魔翅膀 (紫)"
+
+#. Key:	9001697
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001697"
+msgid "Demon Wings (Blue)"
+msgstr "小恶魔翅膀 (蓝)"
+
+#. Key:	9001698
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001698"
+msgid "Demon Wings (Orange)"
+msgstr "小恶魔翅膀 (橘)"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

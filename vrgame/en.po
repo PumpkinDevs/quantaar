@@ -1,20 +1,17 @@
-# Game English translation.
+﻿# Game English translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-12 10:42+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: English (United States) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/en_US/>\n"
-"Language: en_US\n"
+"POT-Creation-Date: 2023-10-16 07:14\n"
+"PO-Revision-Date: 2023-10-16 07:14\n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1289,6 +1286,69 @@ msgstr "Profile rewards"
 msgctxt "ST_Game_Widget,9001689"
 msgid "REFERRAL PROGRAM"
 msgstr "REFERRAL PROGRAM"
+
+#. Key:	9001690
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001690"
+msgid "Sheet Ghost (White)"
+msgstr "Sheet Ghost (White)"
+
+#. Key:	9001691
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001691"
+msgid "Sheet Ghost (Purple)"
+msgstr "Sheet Ghost (Purple)"
+
+#. Key:	9001692
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001692"
+msgid "Sheet Ghost (Blue)"
+msgstr "Sheet Ghost (Blue)"
+
+#. Key:	9001693
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001693"
+msgid "Haunted Pumpkin (Pumpkin)"
+msgstr "Haunted Pumpkin (Pumpkin)"
+
+#. Key:	9001694
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001694"
+msgid "Haunted Pumpkin (Purple)"
+msgstr "Haunted Pumpkin (Purple)"
+
+#. Key:	9001695
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001695"
+msgid "Haunted Pumpkin (Green)"
+msgstr "Haunted Pumpkin (Green)"
+
+#. Key:	9001696
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001696"
+msgid "Demon Wings (Purple)"
+msgstr "Demon Wings (Purple)"
+
+#. Key:	9001697
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001697"
+msgid "Demon Wings (Blue)"
+msgstr "Demon Wings (Blue)"
+
+#. Key:	9001698
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001698"
+msgid "Demon Wings (Orange)"
+msgstr "Demon Wings (Orange)"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3119,7 +3179,7 @@ msgstr "Generate"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0029003]"
 msgid "Observer Item"
-msgstr "Observer item"
+msgstr "Observer Item"
 
 #. Key:	[0029004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3145,7 +3205,7 @@ msgstr "Spawn Energy"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0029005]"
 msgid "Auto Recovery"
-msgstr "Auto recovery"
+msgstr "Auto Recovery"
 
 #. Key:	[0029006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10538,7 +10598,7 @@ msgstr "Taken Damage"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001094]"
 msgid "SCORE"
-msgstr "Score"
+msgstr "SCORE"
 
 #. Key:	[9001095]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10861,7 +10921,7 @@ msgstr "Yes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001120]"
 msgid "Select Character"
-msgstr "Select Hero"
+msgstr "Select Character"
 
 #. Key:	[9001121]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15145,7 +15205,7 @@ msgstr "Check ranked reward"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001583]"
 msgid "Casual"
-msgstr "CASUAL"
+msgstr "Casual"
 
 #. Key:	[9001584]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17664,3 +17724,4 @@ msgstr "First, we need to register your information."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Please select the options that best fit your preferences."
+

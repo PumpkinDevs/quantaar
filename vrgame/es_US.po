@@ -1,20 +1,17 @@
-# Game Spanish (United States) translation.
+﻿# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-11 03:23\n"
-"PO-Revision-Date: 2023-10-13 10:42+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/es_US/>\n"
-"Language: es_US\n"
+"POT-Creation-Date: 2023-10-16 07:14\n"
+"PO-Revision-Date: 2023-10-16 07:14\n"
+"Language-Team: \n"
+"Language: es-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1289,6 +1286,69 @@ msgstr "Recompensas de perfil"
 msgctxt "ST_Game_Widget,9001689"
 msgid "REFERRAL PROGRAM"
 msgstr "PROGRAMA DE REFERIDOS"
+
+#. Key:	9001690
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001690"
+msgid "Sheet Ghost (White)"
+msgstr "Fantasma de Sábana (Blanco)"
+
+#. Key:	9001691
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001691"
+msgid "Sheet Ghost (Purple)"
+msgstr "Fantasma de Sábana (Morado)"
+
+#. Key:	9001692
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001692"
+msgid "Sheet Ghost (Blue)"
+msgstr "Fantasma de Sábana (Azul)"
+
+#. Key:	9001693
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001693"
+msgid "Haunted Pumpkin (Pumpkin)"
+msgstr "Calabaza Encantada (Calabaza)"
+
+#. Key:	9001694
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001694"
+msgid "Haunted Pumpkin (Purple)"
+msgstr "Calabaza Encantada (Morada)"
+
+#. Key:	9001695
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001695"
+msgid "Haunted Pumpkin (Green)"
+msgstr "Calabaza Encantada (Verde)"
+
+#. Key:	9001696
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001696"
+msgid "Demon Wings (Purple)"
+msgstr "Alas de Demonio (Morado)"
+
+#. Key:	9001697
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001697"
+msgid "Demon Wings (Blue)"
+msgstr "Alas de Demonio (Azul)"
+
+#. Key:	9001698
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001698"
+msgid "Demon Wings (Orange)"
+msgstr "Alas de Demonio (Naranja)"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2781,9 +2841,7 @@ msgstr "Escenario"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
 msgid "For a 2 vs 2 match, each team needs 2 Observers, AI included."
-msgstr ""
-"Para una partida de 2 contra 2, cada equipo necesita 2 observadores, "
-"incluida la AI."
+msgstr "Para una partida de 2 contra 2, cada equipo necesita 2 observadores, incluida la AI."
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2822,8 +2880,7 @@ msgstr "Custom Mode"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0020002]"
 msgid "Notice: You will not receive any rewards or experience from Custom Mode."
-msgstr ""
-"Notice: You will not receive any rewards or experience from Custom Mode."
+msgstr "Notice: You will not receive any rewards or experience from Custom Mode."
 
 #. Key:	[0021001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3018,9 +3075,7 @@ msgstr "Elegir escenario de descarga"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026003]"
 msgid "In this space, you can change heroes, items, the difficulty of AI, and other settings accordingly."
-msgstr ""
-"En este espacio puedes cambiar héroes, objetos, la dificultad de Al, y otros "
-"ajustes similares."
+msgstr "En este espacio puedes cambiar héroes, objetos, la dificultad de Al, y otros ajustes similares."
 
 #. Key:	[0026004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3122,7 +3177,6 @@ msgstr "Generar"
 #. InfoMetaData:	"簡體中文" : "观察者道具"
 #. InfoMetaData:	"西班牙" : "Artículo de observador"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[0029003]"
 msgid "Observer Item"
 msgstr "Artículo observador"
@@ -3149,7 +3203,6 @@ msgstr "Energía"
 #. InfoMetaData:	"簡體中文" : "自动恢复"
 #. InfoMetaData:	"西班牙" : "Índice de recuperación"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[0029005]"
 msgid "Auto Recovery"
 msgstr "Auto recuperación"
@@ -10543,7 +10596,6 @@ msgstr "Daño recibido"
 #. InfoMetaData:	"簡體中文" : "分数"
 #. InfoMetaData:	"西班牙" : "Puntuación"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[9001094]"
 msgid "SCORE"
 msgstr "Score"
@@ -12880,9 +12932,7 @@ msgstr "Camuflaje urbano"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001335]"
 msgid "Desert Camo"
-msgstr ""
-"Camuflaje el desiertohttp://i18n.office.pumpkinvrar.com/translate/"
-"quantaar-bo/ue/es_US/?q=camuflaje&sort_by=-priority%2Cposition&offset=5"
+msgstr "Camuflaje el desiertohttp://i18n.office.pumpkinvrar.com/translate/quantaar-bo/ue/es_US/?q=camuflaje&sort_by=-priority%2Cposition&offset=5"
 
 #. Key:	[9001336]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15153,7 +15203,6 @@ msgstr "Comprueba la recompensa clasificada"
 #. Key:	[9001583]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#, fuzzy
 msgctxt "ST_Game_Widget,[9001583]"
 msgid "Casual"
 msgstr "CASUAL"
@@ -15373,9 +15422,7 @@ msgstr "COMPRAR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001614]"
 msgid "Purchase Failed. Check network or card info, then reconnect to the game if \"PURCHASE\" isn't working"
-msgstr ""
-"Purchase Failed. Check network or card info, then reconnect to the game if "
-"\"PURCHASE\" isn't working"
+msgstr "Purchase Failed. Check network or card info, then reconnect to the game if \"PURCHASE\" isn't working"
 
 #. Key:	[9001615]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17677,3 +17724,4 @@ msgstr "Primero, necesitamos registrar stu información."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
+
