@@ -1,20 +1,17 @@
-# Game Spanish (United States) translation.
+﻿# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-16 07:14\n"
-"PO-Revision-Date: 2023-10-17 02:56+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/es_US/>\n"
-"Language: es_US\n"
+"POT-Creation-Date: 2023-10-17 03:30\n"
+"PO-Revision-Date: 2023-10-17 03:30\n"
+"Language-Team: \n"
+"Language: es-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1352,6 +1349,97 @@ msgstr "Alas de Demonio (Azul)"
 msgctxt "ST_Game_Widget,9001698"
 msgid "Demon Wings (Orange)"
 msgstr "Alas de Demonio (Naranja)"
+
+#. Key:	9001699
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001699"
+msgid "Event reward"
+msgstr ""
+
+#. Key:	9001700
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001700"
+msgid "Pumpkin Festival"
+msgstr ""
+
+#. Key:	9001701
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001701"
+msgid "Costume Party"
+msgstr ""
+
+#. Key:	9001702
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001702"
+msgid "Halloween Pumpkin Festival"
+msgstr ""
+
+#. Key:	9001703
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001703"
+msgid "Collect Pumpkin Candies from all around for bountiful festival rewards!"
+msgstr ""
+
+#. Key:	9001704
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001704"
+msgid "Halloween Costume Party"
+msgstr ""
+
+#. Key:	9001705
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001705"
+msgid "Reign supreme as the Golden King of Disguise!"
+msgstr ""
+
+#. Key:	9001706
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001706"
+msgid "Pumpkin Candy"
+msgstr ""
+
+#. Key:	9001707
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001707"
+msgid "Pumpkin Chest"
+msgstr ""
+
+#. Key:	9001708
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001708"
+msgid "Today's Collection Limit"
+msgstr ""
+
+#. Key:	9001709
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001709"
+msgid "Costume Party Full Bundle"
+msgstr ""
+
+#. Key:	9001710
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001710"
+msgid "Casual Mode\r\n\r\nPumpkin Harvest!\r\n\r\nDuring battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
+msgstr ""
+
+#. Key:	9001711
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001711"
+msgid "Party Hall\r\n\r\nPumpkin Harvest!\r\n\r\nRandom Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
+msgstr ""
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17727,3 +17815,4 @@ msgstr "Primero, necesitamos registrar stu información."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
+

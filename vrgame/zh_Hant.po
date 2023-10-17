@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-16 07:14\n"
-"PO-Revision-Date: 2023-10-16 07:14\n"
+"POT-Creation-Date: 2023-10-17 03:30\n"
+"PO-Revision-Date: 2023-10-17 03:30\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -1349,6 +1349,97 @@ msgstr "小惡魔翅膀 (藍)"
 msgctxt "ST_Game_Widget,9001698"
 msgid "Demon Wings (Orange)"
 msgstr "小惡魔翅膀 (橘)"
+
+#. Key:	9001699
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001699"
+msgid "Event reward"
+msgstr "活動獎勵"
+
+#. Key:	9001700
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001700"
+msgid "Pumpkin Festival"
+msgstr "南瓜祭典"
+
+#. Key:	9001701
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001701"
+msgid "Costume Party"
+msgstr "變裝派對"
+
+#. Key:	9001702
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001702"
+msgid "Halloween Pumpkin Festival"
+msgstr "萬聖南瓜祭典"
+
+#. Key:	9001703
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001703"
+msgid "Collect Pumpkin Candies from all around for bountiful festival rewards!"
+msgstr "在各處收集南瓜糖果，兌換豐盛的祭典獎勵吧！"
+
+#. Key:	9001704
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001704"
+msgid "Halloween Costume Party"
+msgstr "萬聖變裝派對"
+
+#. Key:	9001705
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001705"
+msgid "Reign supreme as the Golden King of Disguise!"
+msgstr "尊爵不凡的金黃變裝之王！"
+
+#. Key:	9001706
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001706"
+msgid "Pumpkin Candy"
+msgstr "南瓜糖"
+
+#. Key:	9001707
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001707"
+msgid "Pumpkin Chest"
+msgstr "南瓜寶葙"
+
+#. Key:	9001708
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001708"
+msgid "Today's Collection Limit"
+msgstr "今日收集上限"
+
+#. Key:	9001709
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001709"
+msgid "Costume Party Full Bundle"
+msgstr "變裝派對全套禮包"
+
+#. Key:	9001710
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001710"
+msgid "Casual Mode\r\n\r\nPumpkin Harvest!\r\n\r\nDuring battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
+msgstr "休閒模式\r\n\r\n南瓜大豐收！\r\n\r\n對戰開始與對戰中每 30 秒會出現一個「南瓜寶箱」\r\n\r\n攻擊「南瓜寶箱」會噴出隨機 15~30 顆「南瓜糖」\r\n\r\n撿取噴出的「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
+
+#. Key:	9001711
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001711"
+msgid "Party Hall\r\n\r\nPumpkin Harvest!\r\n\r\nRandom Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
+msgstr "派對大廳\r\n\r\n南瓜大豐收！\r\n\r\n在派對大廳中會隨機出現「南瓜寶箱」\r\n\r\n靠近 「南瓜寶箱」 就可獲得隨機 5 ~ 20 顆 「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
