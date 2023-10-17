@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-16 07:14\n"
-"PO-Revision-Date: 2023-10-16 11:42+0000\n"
+"PO-Revision-Date: 2023-10-17 02:56+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
 "projects/quantaar-bo/ue/es_US/>\n"
@@ -8799,7 +8799,7 @@ msgstr "Selva Mística"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4210002]"
 msgid "Crystal Forest"
-msgstr "Bosque de cristal"
+msgstr "Bosque de Cristal"
 
 #. Key:	[4210003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8810,7 +8810,7 @@ msgstr "Bosque de cristal"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4210003]"
 msgid "Mud Berserker"
-msgstr "Berserker de barro"
+msgstr "Berserker de Barro"
 
 #. Key:	[4210004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8821,7 +8821,7 @@ msgstr "Berserker de barro"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4210004]"
 msgid "Woodland Warrior"
-msgstr "Guerrero del bosque"
+msgstr "Guerrero del Bosque"
 
 #. Key:	[4210005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -8931,7 +8931,7 @@ msgstr "Tiburón"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4212001]"
 msgid "Deep Sea Black"
-msgstr "Mar negro profundo"
+msgstr "Mar Negro Profundo"
 
 #. Key:	[4212002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
