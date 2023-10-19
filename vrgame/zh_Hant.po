@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-17 03:30\n"
-"PO-Revision-Date: 2023-10-17 03:30\n"
+"POT-Creation-Date: 2023-10-19 10:23\n"
+"PO-Revision-Date: 2023-10-19 10:23\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -1440,6 +1440,76 @@ msgstr "休閒模式\r\n\r\n南瓜大豐收！\r\n\r\n對戰開始與對戰中�
 msgctxt "ST_Game_Widget,9001711"
 msgid "Party Hall\r\n\r\nPumpkin Harvest!\r\n\r\nRandom Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
 msgstr "派對大廳\r\n\r\n南瓜大豐收！\r\n\r\n在派對大廳中會隨機出現「南瓜寶箱」\r\n\r\n靠近 「南瓜寶箱」 就可獲得隨機 5 ~ 20 顆 「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
+
+#. Key:	9001712
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001712"
+msgid "Ｍystic Ocean"
+msgstr "幽藍詭海"
+
+#. Key:	9001713
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001713"
+msgid "Ｍystic Lolita"
+msgstr "幽藍蘿莉塔"
+
+#. Key:	9001714
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001714"
+msgid "Mummy"
+msgstr "木乃伊"
+
+#. Key:	9001715
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001715"
+msgid "Golden Mummy"
+msgstr "黃金木乃伊"
+
+#. Key:	9001716
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001716"
+msgid "Halloween Pumpkin Head"
+msgstr "萬聖節南瓜頭"
+
+#. Key:	9001717
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001717"
+msgid "Golden Pumpkin Head"
+msgstr "黃金南瓜頭"
+
+#. Key:	9001718
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001718"
+msgid "Vampire Coffin"
+msgstr "吸血鬼棺材"
+
+#. Key:	9001719
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001719"
+msgid "Golden Vampire Coffin"
+msgstr "黃金吸血鬼棺材"
+
+#. Key:	9001720
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001720"
+msgid "Mummy Hands (Amethyst)"
+msgstr "木乃伊手(紫寶石)"
+
+#. Key:	9001721
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001721"
+msgid "Golden Mummy Hands (Ruby)"
+msgstr "黃金木乃伊手(紅寶石)"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
