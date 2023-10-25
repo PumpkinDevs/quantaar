@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-19 10:23\n"
-"PO-Revision-Date: 2023-10-19 10:23\n"
+"POT-Creation-Date: 2023-10-25 08:03\n"
+"PO-Revision-Date: 2023-10-25 08:03\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -1431,15 +1431,15 @@ msgstr "变装派对全套礼包"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001710"
-msgid "Casual Mode\r\n\r\nPumpkin Harvest!\r\n\r\nDuring battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
-msgstr "休闲模式\r\n\r\n南瓜大丰收！\r\n\r\n对战开始与对战中每 30 秒会出现一个「南瓜寶箱」\r\n\r\n攻击[南瓜宝箱]会喷出随机 15~30 颗「南瓜糖」\r\n\r\n捡取喷出的「南瓜糖」\r\n\r\n※由此途径每天最多可获得 100 颗「南瓜糖」"
+msgid "During battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
+msgstr "对战开始与对战中每 30 秒会出现一个「南瓜寶箱」\r\n\r\n攻击[南瓜宝箱]会喷出随机 15~30 颗「南瓜糖」\r\n\r\n捡取喷出的「南瓜糖」\r\n\r\n※由此途径每天最多可获得 100 颗「南瓜糖」"
 
 #. Key:	9001711
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001711"
-msgid "Party Hall\r\n\r\nPumpkin Harvest!\r\n\r\nRandom Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
-msgstr "派对大厅\r\n\r\n南瓜大丰收！\r\n\r\n在派对大厅中会随机出现「南瓜宝箱」\r\n\r\n靠近「南瓜宝箱」就可获得随机 5~20 颗「南瓜糖」\r\n\r\n※由此途径每天最多可获得 100 颗「南瓜糖」"
+msgid "Random Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
+msgstr "在派对大厅中会随机出现「南瓜宝箱」\r\n\r\n靠近「南瓜宝箱」就可获得随机 5~20 颗「南瓜糖」\r\n\r\n※由此途径每天最多可获得 100 颗「南瓜糖」"
 
 #. Key:	9001712
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1510,6 +1510,69 @@ msgstr "木乃伊手(紫宝石)"
 msgctxt "ST_Game_Widget,9001721"
 msgid "Golden Mummy Hands (Ruby)"
 msgstr "黄金木乃伊手(红宝石)"
+
+#. Key:	9001722
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001722"
+msgid "For more information, visit the event page."
+msgstr "请前往活动页面，获得更多活动资讯"
+
+#. Key:	9001723
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001723"
+msgid "HALLOWEEN CELEBRATION"
+msgstr "万圣庆典"
+
+#. Key:	9001724
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001724"
+msgid "PUMPKIN PALOOZA!"
+msgstr "南瓜庆典"
+
+#. Key:	9001725
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001725"
+msgid "Join the pumpkin candy quest! Search for pumpkin candies and unlock exciting festival rewards."
+msgstr "踏上南瓜糖任务 ! 在游戏中搜寻南瓜糖并解锁丰富的节日奖励！"
+
+#. Key:	9001726
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001726"
+msgid "COSTUME EXTRAVAGANZA"
+msgstr "变装派对"
+
+#. Key:	9001727
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001727"
+msgid "Purchase the costume party bundle and become the ultimate figure of golden disguises!"
+msgstr "购买变装派对礼包，成为尊爵不凡的黄金变装之王！"
+
+#. Key:	9001728
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001728"
+msgid "Pumpkin Harvest!"
+msgstr "南瓜大丰收！"
+
+#. Key:	9001729
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001729"
+msgid "HALLOWEEN LIMITED PROFILE"
+msgstr "万圣限定大头贴"
+
+#. Key:	9001730
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001730"
+msgid "COSTUME PARTY BUNDLE"
+msgstr "变装派对礼包"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11552,8 +11615,8 @@ msgstr "分钟"
 #. InfoMetaData:	"簡體中文" : " 小时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001165]"
-msgid " Hours"
-msgstr "小时"
+msgid "left"
+msgstr "后结束"
 
 #. Key:	[9001166]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12642,8 +12705,8 @@ msgstr "Pumpkin VR 隐私政策及服务条款"
 #. InfoMetaData:	"簡體中文" : "时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001290]"
-msgid "h"
-msgstr "时"
+msgid "h "
+msgstr "小时 "
 
 #. Key:	[9001291]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12652,8 +12715,8 @@ msgstr "时"
 #. InfoMetaData:	"簡體中文" : "分"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001291]"
-msgid "m"
-msgstr "分"
+msgid "m "
+msgstr "分钟 "
 
 #. Key:	[9001292]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14973,8 +15036,8 @@ msgstr "已输入过推薦碼"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001527]"
-msgid "d"
-msgstr "日"
+msgid "d "
+msgstr "日 "
 
 #. Key:	[9001528]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
