@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-23 08:01\n"
-"PO-Revision-Date: 2023-10-23 08:01\n"
+"POT-Creation-Date: 2023-10-25 06:36\n"
+"PO-Revision-Date: 2023-10-25 06:36\n"
 "Language-Team: \n"
 "Language: ja-JP\n"
 "MIME-Version: 1.0\n"
@@ -1431,15 +1431,15 @@ msgstr "仮装パーティーフルバンドル"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001710"
-msgid "Casual Mode\r\n\r\nPumpkin Harvest!\r\n\r\nDuring battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
-msgstr "カジュアルモード\r\n\r\nパンプキンハーベスト！\r\n\r\nバトル中、30 秒ごとにパンプキンチェストが出現します。\r\n\r\nパンプキンチェストを攻撃して、15-30 のランダムなパンプキンキャンディを明らかにします\r\n\r\nこぼれたパンプキンキャンディを集めます\r\n\r\n*この方法で毎日最大 100 個のパンプキンキャンディを集めることができます"
+msgid "During battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
+msgstr "バトル中、30 秒ごとにパンプキンチェストが出現します。\r\n\r\nパンプキンチェストを攻撃して、15-30 のランダムなパンプキンキャンディを明らかにします\r\n\r\nこぼれたパンプキンキャンディを集めます\r\n\r\n*この方法で毎日最大 100 個のパンプキンキャンディを集めることができます"
 
 #. Key:	9001711
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001711"
-msgid "Party Hall\r\n\r\nPumpkin Harvest!\r\n\r\nRandom Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
-msgstr "パーティーホール\r\n\r\nパンプキンハーベスト！\r\n\r\nパーティーホールにはランダムなパンプキンチェストが出現します\r\n\r\nパンプキンヘッドチェストに近づいて、5-20 のランダムなパンプキンキャンディを手に入れましょう！\r\n\r\n*この方法で毎日最大 100 個のパンプキンキャンディを集めることができます"
+msgid "Random Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
+msgstr "パーティーホールにはランダムなパンプキンチェストが出現します\r\n\r\nパンプキンヘッドチェストに近づいて、5-20 のランダムなパンプキンキャンディを手に入れましょう！\r\n\r\n*この方法で毎日最大 100 個のパンプキンキャンディを集めることができます"
 
 #. Key:	9001712
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1552,6 +1552,27 @@ msgstr "コスチューム エクストラバガンザ"
 msgctxt "ST_Game_Widget,9001727"
 msgid "Purchase the costume party bundle and become the ultimate figure of golden disguises!"
 msgstr "仮装パーティーセットを手に入れて、\r\n黄金の変身の究極の王になろう！"
+
+#. Key:	9001728
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001728"
+msgid "Pumpkin Harvest!"
+msgstr "パンプキンハーベスト！"
+
+#. Key:	9001729
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001729"
+msgid "HALLOWEEN LIMITED PROFILE"
+msgstr "ハロウィン限定プロフィール"
+
+#. Key:	9001730
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001730"
+msgid "COSTUME PARTY BUNDLE"
+msgstr "仮装パーティーセット"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11594,8 +11615,8 @@ msgstr "分"
 #. InfoMetaData:	"簡體中文" : " 小时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001165]"
-msgid " Hours"
-msgstr "時間"
+msgid "left"
+msgstr " に終了します"
 
 #. Key:	[9001166]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12684,8 +12705,8 @@ msgstr "Pumpkin VR のプライバシーポリシーと利用規約"
 #. InfoMetaData:	"簡體中文" : "时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001290]"
-msgid "h"
-msgstr "時間"
+msgid "h "
+msgstr "時間 "
 
 #. Key:	[9001291]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12694,8 +12715,8 @@ msgstr "時間"
 #. InfoMetaData:	"簡體中文" : "分"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001291]"
-msgid "m"
-msgstr "分"
+msgid "m "
+msgstr "分 "
 
 #. Key:	[9001292]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15015,8 +15036,8 @@ msgstr "既に招待コードを入力済み"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001527]"
-msgid "d"
-msgstr "日"
+msgid "d "
+msgstr "日 "
 
 #. Key:	[9001528]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

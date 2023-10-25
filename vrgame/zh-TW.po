@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-23 08:01\n"
-"PO-Revision-Date: 2023-10-23 08:01\n"
+"POT-Creation-Date: 2023-10-25 06:36\n"
+"PO-Revision-Date: 2023-10-25 06:36\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -1431,15 +1431,15 @@ msgstr "變裝派對全套禮包"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001710"
-msgid "Casual Mode\r\n\r\nPumpkin Harvest!\r\n\r\nDuring battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
-msgstr "休閒模式\r\n\r\n南瓜大豐收！\r\n\r\n對戰開始與對戰中每 30 秒會出現一個「南瓜寶箱」\r\n\r\n攻擊「南瓜寶箱」會噴出隨機 15~30 顆「南瓜糖」\r\n\r\n撿取噴出的「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
+msgid "During battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
+msgstr "對戰開始與對戰中每 30 秒會出現一個「南瓜寶箱」\r\n\r\n攻擊「南瓜寶箱」會噴出隨機 15~30 顆「南瓜糖」\r\n\r\n撿取噴出的「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
 
 #. Key:	9001711
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001711"
-msgid "Party Hall\r\n\r\nPumpkin Harvest!\r\n\r\nRandom Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
-msgstr "派對大廳\r\n\r\n南瓜大豐收！\r\n\r\n在派對大廳中會隨機出現「南瓜寶箱」\r\n\r\n靠近 「南瓜寶箱」 就可獲得隨機 5 ~ 20 顆 「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
+msgid "Random Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
+msgstr "在派對大廳中會隨機出現「南瓜寶箱」\r\n\r\n靠近 「南瓜寶箱」 就可獲得隨機 5 ~ 20 顆 「南瓜糖」\r\n\r\n※由此途徑每天最多可獲得 100 顆「南瓜糖」"
 
 #. Key:	9001712
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1552,6 +1552,27 @@ msgstr "變裝派對"
 msgctxt "ST_Game_Widget,9001727"
 msgid "Purchase the costume party bundle and become the ultimate figure of golden disguises!"
 msgstr "購買變裝派對禮包，成為尊爵不凡的黃金變裝之王！"
+
+#. Key:	9001728
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001728"
+msgid "Pumpkin Harvest!"
+msgstr "南瓜大豐收！"
+
+#. Key:	9001729
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001729"
+msgid "HALLOWEEN LIMITED PROFILE"
+msgstr "萬聖限定大頭貼"
+
+#. Key:	9001730
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001730"
+msgid "COSTUME PARTY BUNDLE"
+msgstr "變裝派對禮包"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11594,8 +11615,8 @@ msgstr "分鐘"
 #. InfoMetaData:	"簡體中文" : " 小时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001165]"
-msgid " Hours"
-msgstr "小時"
+msgid "left"
+msgstr "後結束"
 
 #. Key:	[9001166]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12684,8 +12705,8 @@ msgstr "Pumpkin VR 隱私政策及服務條款"
 #. InfoMetaData:	"簡體中文" : "时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001290]"
-msgid "h"
-msgstr "時"
+msgid "h "
+msgstr "小時 "
 
 #. Key:	[9001291]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12694,8 +12715,8 @@ msgstr "時"
 #. InfoMetaData:	"簡體中文" : "分"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001291]"
-msgid "m"
-msgstr "分"
+msgid "m "
+msgstr "分鐘 "
 
 #. Key:	[9001292]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15015,8 +15036,8 @@ msgstr "已輸入過邀請碼"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001527]"
-msgid "d"
-msgstr "日"
+msgid "d "
+msgstr "日 "
 
 #. Key:	[9001528]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
