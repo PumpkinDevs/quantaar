@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-25 08:03\n"
-"PO-Revision-Date: 2023-10-25 08:03\n"
+"POT-Creation-Date: 2023-10-30 03:37\n"
+"PO-Revision-Date: 2023-10-30 03:37\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -1445,14 +1445,14 @@ msgstr "在派對大廳中會隨機出現「南瓜寶箱」\r\n\r\n靠近 「南
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001712"
-msgid "Ｍystic Ocean"
+msgid "Mystic Ocean"
 msgstr "幽藍詭海"
 
 #. Key:	9001713
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001713"
-msgid "Ｍystic Lolita"
+msgid "Mystic Lolita"
 msgstr "幽藍蘿莉塔"
 
 #. Key:	9001714
