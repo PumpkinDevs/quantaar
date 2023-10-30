@@ -1,17 +1,20 @@
-﻿# Game Spanish (United States) translation.
+# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-30 03:37\n"
-"PO-Revision-Date: 2023-10-30 03:37\n"
-"Language-Team: \n"
-"Language: es-US\n"
+"PO-Revision-Date: 2023-10-30 08:23+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/es_US/>\n"
+"Language: es_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1208,35 +1211,35 @@ msgstr "要求簽到失敗"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001678"
 msgid "Unlock the Power of Border Controller in the Store!"
-msgstr ""
+msgstr "Unlock the Power of Border Controller in the Store!"
 
 #. Key:	9001679
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001679"
 msgid "CUSTOM"
-msgstr ""
+msgstr "CUSTOM"
 
 #. Key:	9001680
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001680"
 msgid "PROFILE"
-msgstr ""
+msgstr "PROFILE"
 
 #. Key:	9001681
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001681"
 msgid "EFFECTS"
-msgstr ""
+msgstr "EFFECTS"
 
 #. Key:	9001682
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001682"
 msgid "ID FRAME"
-msgstr ""
+msgstr "ID FRAME"
 
 #. Key:	9001683
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1264,14 +1267,14 @@ msgstr "PRUEBA DE ESTILO"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001686"
 msgid "Party Item"
-msgstr ""
+msgstr "Party Item"
 
 #. Key:	9001687
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001687"
 msgid "Banner"
-msgstr ""
+msgstr "Banner"
 
 #. Key:	9001688
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1355,7 +1358,7 @@ msgstr "Alas de Demonio (Naranja)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001699"
 msgid "Event reward"
-msgstr ""
+msgstr "Event reward"
 
 #. Key:	9001700
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17948,4 +17951,3 @@ msgstr "Primero, necesitamos registrar stu información."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
-
