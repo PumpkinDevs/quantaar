@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-25 08:03\n"
-"PO-Revision-Date: 2023-10-25 08:03\n"
+"POT-Creation-Date: 2023-10-30 03:37\n"
+"PO-Revision-Date: 2023-10-30 03:37\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -1445,14 +1445,14 @@ msgstr ""
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001712"
-msgid "Ｍystic Ocean"
+msgid "Mystic Ocean"
 msgstr ""
 
 #. Key:	9001713
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001713"
-msgid "Ｍystic Lolita"
+msgid "Mystic Lolita"
 msgstr ""
 
 #. Key:	9001714
@@ -12706,7 +12706,7 @@ msgstr "Política de privacidad y condiciones de servicio de The Pumpkin VR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001290]"
 msgid "h "
-msgstr ""
+msgstr "h"
 
 #. Key:	[9001291]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12716,7 +12716,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001291]"
 msgid "m "
-msgstr ""
+msgstr "m"
 
 #. Key:	[9001292]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15037,7 +15037,7 @@ msgstr "Ya ingresaste el código de referencia antes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001527]"
 msgid "d "
-msgstr ""
+msgstr "d"
 
 #. Key:	[9001528]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
