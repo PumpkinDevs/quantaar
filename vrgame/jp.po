@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-30 03:37\n"
-"PO-Revision-Date: 2023-10-30 08:23+0000\n"
+"PO-Revision-Date: 2023-10-31 04:42+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ja/>\n"
@@ -11419,7 +11419,7 @@ msgstr "宇宙輸送ハブ"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001145]"
 msgid "Public"
-msgstr "公開"
+msgstr "パブリック"
 
 #. Key:	[9001146]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
