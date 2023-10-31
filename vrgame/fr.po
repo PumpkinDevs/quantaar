@@ -1,15 +1,80 @@
+﻿# Game French translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-30 08:23+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: French <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/fr/>\n"
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-10-31 08:01\n"
+"PO-Revision-Date: 2023-10-31 08:01\n"
+"Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	[0000000]Success
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000000]Success"
+msgid "成功"
+msgstr "成功"
+
+#. Key:	[0000100]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000100]TimeOut"
+msgid "要求玩家資料連線逾時"
+msgstr "要求玩家資料連線逾時"
+
+#. Key:	[0000101]NoUserData
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000101]NoUserData"
+msgid "沒有資料"
+msgstr "沒有資料"
+
+#. Key:	[0000102]RequestUserData_GetItem_Failed
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000102]RequestUserData_GetItem_Failed"
+msgid "沒有資料 [0000102]"
+msgstr "[0000102]"
+
+#. Key:	[0000103]GetUserID_IsInThePlayerUserID
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000103]GetUserID_IsInThePlayerUserID"
+msgid "沒有資料 [0000103]"
+msgstr "[0000103]"
+
+#. Key:	[0000104]VersionMismatch
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000104]VersionMismatch"
+msgid "版本不匹配 [0000104]"
+msgstr "[0000104]"
+
+#. Key:	[0000105]AFK
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000105]AFK"
+msgid "玩家暫離過久 [0000105]"
+msgstr "[0000105]"
+
+#. Key:	[0000200]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000200]TimeOut"
+msgid "要求大廳資料連線逾時"
+msgstr "要求大廳資料連線逾時"
+
+#. Key:	[0000201]NoUserData
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0000201]NoUserData"
+msgid "沒有大廳資料"
+msgstr "沒有大廳資料"
 
 #. Key:	[0000300]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -480,6 +545,13 @@ msgctxt "ST_Game_StateCode,[0020203]ErrorPassword"
 msgid "房間密碼錯誤"
 msgstr "房間密碼錯誤"
 
+#. Key:	[0020204]RoomFull
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0020204]RoomFull"
+msgid "房間已滿"
+msgstr "房間已滿"
+
 #. Key:	[0020205]RoomStartCreate
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -759,6 +831,13 @@ msgstr "找不到房間"
 msgctxt "ST_Game_StateCode,[0021300]TimeOut"
 msgid "配對資料連線逾時"
 msgstr "配對資料連線逾時"
+
+#. Key:	[0021400]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0021400]TimeOut"
+msgid "要求房間列表連線逾時"
+msgstr ""
 
 #. Key:	[0030100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1130,6 +1209,412 @@ msgstr "獲取簽到資料失敗"
 msgctxt "ST_Game_StateCode,{0190101}_RequestCheckInFailed"
 msgid "要求簽到失敗"
 msgstr "要求簽到失敗"
+
+#. Key:	9001678
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001678"
+msgid "Unlock the Power of Border Controller in the Store!"
+msgstr "Exploitez le pouvoir du contrôleur frontalier dans la boutique !"
+
+#. Key:	9001679
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001679"
+msgid "CUSTOM"
+msgstr "CUSTOM"
+
+#. Key:	9001680
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001680"
+msgid "PROFILE"
+msgstr "PROFILE"
+
+#. Key:	9001681
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001681"
+msgid "EFFECTS"
+msgstr "EFFECTS"
+
+#. Key:	9001682
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001682"
+msgid "ID FRAME"
+msgstr "ID FRAME"
+
+#. Key:	9001683
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001683"
+msgid "Products are being restocked, please stay tuned!"
+msgstr "Les produits sont en cours de réapprovisionnement, restez à l'écoute !"
+
+#. Key:	9001684
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001684"
+msgid "COMINGSOON!"
+msgstr "COMINGSOON!"
+
+#. Key:	9001685
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001685"
+msgid "STYLE FITTING"
+msgstr "STYLE FITTING"
+
+#. Key:	9001686
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001686"
+msgid "Party Item"
+msgstr "Party Item"
+
+#. Key:	9001687
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001687"
+msgid "Banner"
+msgstr "Banner"
+
+#. Key:	9001688
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001688"
+msgid "Profile rewards"
+msgstr "Profile rewards"
+
+#. Key:	9001689
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001689"
+msgid "REFERRAL PROGRAM"
+msgstr "REFERRAL PROGRAM"
+
+#. Key:	9001690
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001690"
+msgid "Sheet Ghost (White)"
+msgstr ""
+
+#. Key:	9001691
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001691"
+msgid "Sheet Ghost (Purple)"
+msgstr ""
+
+#. Key:	9001692
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001692"
+msgid "Sheet Ghost (Blue)"
+msgstr ""
+
+#. Key:	9001693
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001693"
+msgid "Haunted Pumpkin (Pumpkin)"
+msgstr ""
+
+#. Key:	9001694
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001694"
+msgid "Haunted Pumpkin (Purple)"
+msgstr ""
+
+#. Key:	9001695
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001695"
+msgid "Haunted Pumpkin (Green)"
+msgstr ""
+
+#. Key:	9001696
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001696"
+msgid "Demon Wings (Purple)"
+msgstr ""
+
+#. Key:	9001697
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001697"
+msgid "Demon Wings (Blue)"
+msgstr ""
+
+#. Key:	9001698
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001698"
+msgid "Demon Wings (Orange)"
+msgstr ""
+
+#. Key:	9001699
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001699"
+msgid "Event reward"
+msgstr ""
+
+#. Key:	9001700
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001700"
+msgid "Pumpkin Festival"
+msgstr ""
+
+#. Key:	9001701
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001701"
+msgid "Costume Party"
+msgstr ""
+
+#. Key:	9001702
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001702"
+msgid "Halloween Pumpkin Festival"
+msgstr ""
+
+#. Key:	9001703
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001703"
+msgid "Collect Pumpkin Candies from all around for bountiful festival rewards!"
+msgstr ""
+
+#. Key:	9001704
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001704"
+msgid "Halloween Costume Party"
+msgstr ""
+
+#. Key:	9001705
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001705"
+msgid "Reign supreme as the Golden King of Disguise!"
+msgstr ""
+
+#. Key:	9001706
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001706"
+msgid "Pumpkin Candy"
+msgstr ""
+
+#. Key:	9001707
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001707"
+msgid "Pumpkin Chest"
+msgstr ""
+
+#. Key:	9001708
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001708"
+msgid "Today's Collection Limit"
+msgstr ""
+
+#. Key:	9001709
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001709"
+msgid "Costume Party Full Bundle"
+msgstr ""
+
+#. Key:	9001710
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001710"
+msgid "During battles, a Pumpkin Chest will appear every 30 seconds\r\n\r\nUnveil 15-30 random Pumpkin Candies by attacking the Pumpkin Chest\r\n\r\nGather the spilled Pumpkin Candies\r\n\r\n*Collect a maximum of 100 Pumpkin Candies daily using this method"
+msgstr ""
+
+#. Key:	9001711
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001711"
+msgid "Random Pumpkin Chests will appear in Party Halls\r\n\r\nApproach the Pumpkin Chest to obtain 5-20 random Pumpkin Candies\r\n\r\n*You can collect up to 100 Pumpkin candies through this method every day"
+msgstr ""
+
+#. Key:	9001712
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001712"
+msgid "Mystic Ocean"
+msgstr "Océan mystique"
+
+#. Key:	9001713
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001713"
+msgid "Mystic Lolita"
+msgstr "Lolita mystique"
+
+#. Key:	9001714
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001714"
+msgid "Mummy"
+msgstr "momie"
+
+#. Key:	9001715
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001715"
+msgid "Golden Mummy"
+msgstr "Momie dorée"
+
+#. Key:	9001716
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001716"
+msgid "Halloween Pumpkin Head"
+msgstr ""
+
+#. Key:	9001717
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001717"
+msgid "Golden Pumpkin Head"
+msgstr ""
+
+#. Key:	9001718
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001718"
+msgid "Vampire Coffin"
+msgstr ""
+
+#. Key:	9001719
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001719"
+msgid "Golden Vampire Coffin"
+msgstr ""
+
+#. Key:	9001720
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001720"
+msgid "Mummy Hands (Amethyst)"
+msgstr ""
+
+#. Key:	9001721
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001721"
+msgid "Golden Mummy Hands (Ruby)"
+msgstr ""
+
+#. Key:	9001722
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001722"
+msgid "For more information, visit the event page."
+msgstr "Pour plus d'informations, veuillez consulter la page de l'événement."
+
+#. Key:	9001723
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001723"
+msgid "HALLOWEEN CELEBRATION"
+msgstr ""
+
+#. Key:	9001724
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001724"
+msgid "PUMPKIN PALOOZA!"
+msgstr ""
+
+#. Key:	9001725
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001725"
+msgid "Join the pumpkin candy quest! Search for pumpkin candies and unlock exciting festival rewards."
+msgstr ""
+
+#. Key:	9001726
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001726"
+msgid "COSTUME EXTRAVAGANZA"
+msgstr ""
+
+#. Key:	9001727
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001727"
+msgid "Purchase the costume party bundle and become the ultimate figure of golden disguises!"
+msgstr ""
+
+#. Key:	9001728
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001728"
+msgid "Pumpkin Harvest!"
+msgstr ""
+
+#. Key:	9001729
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001729"
+msgid "HALLOWEEN LIMITED PROFILE"
+msgstr ""
+
+#. Key:	9001730
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001730"
+msgid "COSTUME PARTY BUNDLE"
+msgstr ""
+
+#. Key:	9001731
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001731"
+msgid "NEW ARENA REVEALED"
+msgstr ""
+
+#. Key:	9001732
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001732"
+msgid "Unlock Premium Edition to select your preferred Arena in Custom Mode."
+msgstr ""
+
+#. Key:	9001733
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001733"
+msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
+msgstr ""
+
+#. Key:	9001734
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001734"
+msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
+msgstr ""
+
+#. Key:	9001735
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001735"
+msgid "NEW ARENA"
+msgstr ""
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1672,9 +2157,7 @@ msgstr "DÉCLIN"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0004006]"
 msgid "I have read and accepted the latest version of the terms of service on the Quantaar website."
-msgstr ""
-"J'ai lu et j'accepte la dernière version des conditions d'utilisation sur le "
-"site Web de Quantaar."
+msgstr "J'ai lu et j'accepte la dernière version des conditions d'utilisation sur le site Web de Quantaar."
 
 #. Key:	[0005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1700,15 +2183,7 @@ msgstr "Avertissement de crise photosensible"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005002]"
 msgid "A very small percentage of people may experience a seizure, nausea, dizziness, breathing pattern changes, having headache or other uncomfortable feelings when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these “photosensitive epileptic seizures” while playing video games."
-msgstr ""
-"Un très faible pourcentage de personnes peuvent avoir des convulsions, des "
-"nausées, des étourdissements, des modifications de leur rythme respiratoire, "
-"des maux de tête ou d'autres sensations inconfortables lorsqu'elles sont "
-"exposées à certaines images visuelles, notamment des lumières clignotantes "
-"ou des motifs qui peuvent apparaître dans les jeux vidéo. Même les personnes "
-"qui n'ont aucun antécédent de convulsions ou d'épilepsie peuvent avoir une "
-"maladie non diagnostiquée qui peut provoquer ces « crises d'épilepsie "
-"photosensibles » lorsqu'elles jouent à des jeux vidéo."
+msgstr "Un très faible pourcentage de personnes peuvent avoir des convulsions, des nausées, des étourdissements, des modifications de leur rythme respiratoire, des maux de tête ou d'autres sensations inconfortables lorsqu'elles sont exposées à certaines images visuelles, notamment des lumières clignotantes ou des motifs qui peuvent apparaître dans les jeux vidéo. Même les personnes qui n'ont aucun antécédent de convulsions ou d'épilepsie peuvent avoir une maladie non diagnostiquée qui peut provoquer ces « crises d'épilepsie photosensibles » lorsqu'elles jouent à des jeux vidéo."
 
 #. Key:	[0005003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1721,9 +2196,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005003]"
 msgid "Immediately Stop Playing And Consult A Doctor If You Experience Any Symptoms"
-msgstr ""
-"Arrêtez immédiatement de jouer et consultez un médecin si vous ressentez des "
-"symptômes"
+msgstr "Arrêtez immédiatement de jouer et consultez un médecin si vous ressentez des symptômes"
 
 #. Key:	[0005004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1736,12 +2209,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0005004]"
 msgid "Parents should watch for or ask their children about the above symptoms. Children and teenagers are more likely than adults to experience these seizures. If you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing video games."
-msgstr ""
-"Les parents devraient surveiller ou interroger leurs enfants sur les "
-"symptômes mentionnés ci-dessus. Les enfants et les adolescents sont plus "
-"susceptibles que les adultes de souffrir de ces crises. Si vous ou un membre "
-"de votre famille avez des antécédents de convulsions ou d'épilepsie, "
-"consultez un médecin avant de jouer aux jeux vidéo."
+msgstr "Les parents devraient surveiller ou interroger leurs enfants sur les symptômes mentionnés ci-dessus. Les enfants et les adolescents sont plus susceptibles que les adultes de souffrir de ces crises. Si vous ou un membre de votre famille avez des antécédents de convulsions ou d'épilepsie, consultez un médecin avant de jouer aux jeux vidéo."
 
 #. Key:	[0006001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1858,9 +2326,7 @@ msgstr "Tu as un coffre de combat !"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007004]"
 msgid "You got a Graduation Chest! \r\nGo open it!"
-msgstr ""
-"Tu as un coffre de fin d'études ! \r\n"
-"Va l'ouvrir !"
+msgstr "Tu as un coffre de fin d'études ! \r\nVa l'ouvrir !"
 
 #. Key:	[0007005]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1945,8 +2411,7 @@ msgstr "You got a Season 1 - Observer's Eyes & Ears chest - Brain Melter"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0007013]"
 msgid "You got a Season 1 - Observer's Accessories chest - Cyberpunk Mask"
-msgstr ""
-"You got a Season 1 - Coffre d'accessoires de l'observateur - Masque cyberpunk"
+msgstr "You got a Season 1 - Coffre d'accessoires de l'observateur - Masque cyberpunk"
 
 #. Key:	[0007014]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2330,8 +2795,7 @@ msgstr "Non disponible à l'achat"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0012001]"
 msgid "Equip two Stock Cores with the same attribute to activate the Master Core"
-msgstr ""
-"Équipez deux cœurs de stock avec le même attribut pour activer le Master Core"
+msgstr "Équipez deux cœurs de stock avec le même attribut pour activer le Master Core"
 
 #. Key:	[0013001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2489,6 +2953,19 @@ msgctxt "ST_Game_Widget,[0017002]"
 msgid "North America"
 msgstr "Amérique du Nord"
 
+#. Key:	[0017003]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"UI" : "WB_OnlineBattle_ServerList"
+#. InfoMetaData:	"中文" : "歐洲"
+#. InfoMetaData:	"使用到的藍圖" : "WB_OnlineBattle_ServerList"
+#. InfoMetaData:	"日文" : "ヨーロッパ"
+#. InfoMetaData:	"簡體中文" : "欧洲"
+#. InfoMetaData:	"西班牙" : "Europa"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[0017003]"
+msgid "Europe"
+msgstr "L'Europe"
+
 #. Key:	[0017004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #. InfoMetaData:	"UI" : "WB_OnlineBattle_ServerList"
@@ -2604,9 +3081,7 @@ msgstr "Emplacement du serveur"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019001]"
 msgid "A Custom Mode can only be started with 4 Observers, AI included  *AI can’t be a Spectator"
-msgstr ""
-"Un mode personnalisé ne peut être démarré qu'avec 4 observateurs, IA incluse "
-"*L'IA ne peut pas être un spectateur"
+msgstr "Un mode personnalisé ne peut être démarré qu'avec 4 observateurs, IA incluse *L'IA ne peut pas être un spectateur"
 
 #. Key:	[0019002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2632,9 +3107,7 @@ msgstr "Arène"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0019003]"
 msgid "For a 2 vs 2 match, each team needs 2 Observers, AI included."
-msgstr ""
-"Pour un match en 2 contre 2, chaque équipe a besoin de 2 observateurs, IA "
-"incluse."
+msgstr "Pour un match en 2 contre 2, chaque équipe a besoin de 2 observateurs, IA incluse."
 
 #. Key:	[0019004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2673,9 +3146,7 @@ msgstr "Mode personnalisé"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0020002]"
 msgid "Notice: You will not receive any rewards or experience from Custom Mode."
-msgstr ""
-"Remarque : vous ne recevrez aucune récompense ni aucune expérience en mode "
-"personnalisé."
+msgstr "Remarque : vous ne recevrez aucune récompense ni aucune expérience en mode personnalisé."
 
 #. Key:	[0021001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2870,9 +3341,7 @@ msgstr "CHOISISSEZ LE KIT DE BASE"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0026003]"
 msgid "In this space, you can change heroes, items, the difficulty of AI, and other settings accordingly."
-msgstr ""
-"Dans cet espace, vous pouvez modifier les héros, les objets, le niveau de "
-"difficulté de l'IA et d'autres paramètres en conséquence."
+msgstr "Dans cet espace, vous pouvez modifier les héros, les objets, le niveau de difficulté de l'IA et d'autres paramètres en conséquence."
 
 #. Key:	[0026004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -2911,9 +3380,7 @@ msgstr "Didacticiel"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0027002]"
 msgid "Learn to control the Hero and master the basic skills to navigate the game!"
-msgstr ""
-"Apprenez à contrôler le héros et à maîtriser les compétences de base pour "
-"naviguer dans le jeu !"
+msgstr "Apprenez à contrôler le héros et à maîtriser les compétences de base pour naviguer dans le jeu !"
 
 #. Key:	[0027003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3175,6 +3642,19 @@ msgctxt "ST_Game_Widget,[0033003]"
 msgid "Round"
 msgstr "Ronde"
 
+#. Key:	[0033004]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"UI" : "WB_OnlineBattle_BattleInfoScreen"
+#. InfoMetaData:	"中文" : "每回合秒數"
+#. InfoMetaData:	"使用到的藍圖" : "WB_OnlineBattle_BattleInfoScreen"
+#. InfoMetaData:	"日文" : "ラウンドあたりの秒数"
+#. InfoMetaData:	"簡體中文" : "每回合秒数"
+#. InfoMetaData:	"西班牙" : "Segs. por Ronda"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[0033004]"
+msgid "Time per round"
+msgstr "Durée par tour"
+
 #. Key:	[0034001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #. InfoMetaData:	"UI" : "WB_OnlineBattle_FinalScorePlayerBase"
@@ -3290,9 +3770,7 @@ msgstr "Point d'apparition"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037001]"
 msgid "You got a Toy Bow.\r\nGo check it!\""
-msgstr ""
-"Tu as un Toy Bow.\r\n"
-"Va le vérifier ! »"
+msgstr "Tu as un Toy Bow.\r\nVa le vérifier ! »"
 
 #. Key:	[0037002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3305,9 +3783,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037002]"
 msgid "You got a Laser Gun \r\nGo check it!"
-msgstr ""
-"Tu as un pistolet laser ? \r\n"
-"Va le vérifier !"
+msgstr "Tu as un pistolet laser ? \r\nVa le vérifier !"
 
 #. Key:	[0037003]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3320,9 +3796,17 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[0037003]"
 msgid "You got a toy bomb \r\ngo check it!"
-msgstr ""
-"Tu as une bombe en peluche ? \r\n"
-"allez le vérifier !"
+msgstr "Tu as une bombe en peluche ? \r\nallez le vérifier !"
+
+#. Key:	[1001001]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "英雄 - 費羅"
+#. InfoMetaData:	"日文" : "ヒーロー - フロー"
+#. InfoMetaData:	"簡體中文" : "英雄 - 费罗"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[1001001]"
+msgid "Hero - Flaw"
+msgstr "Hero - Faille"
 
 #. Key:	[1001002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3454,9 +3938,7 @@ msgstr "Noyau de hérisson"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3003002]"
 msgid "Deal 10/15/20 of the damage to the enemy that attacks you every time when you're injured"
-msgstr ""
-"Inflige 10/15/20 des dégâts à l'ennemi qui vous attaque chaque fois que vous "
-"êtes blessé"
+msgstr "Inflige 10/15/20 des dégâts à l'ennemi qui vous attaque chaque fois que vous êtes blessé"
 
 #. Key:	[3004001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3480,9 +3962,7 @@ msgstr "Noyau en plumes"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3004002]"
 msgid "Increase 15% of your moving speed when you are not being damaged for a continuous 6/5/4 seconds"
-msgstr ""
-"Augmentez de 15 % votre vitesse de déplacement lorsque vous n'êtes pas "
-"endommagé pendant 6/5/4 secondes continues"
+msgstr "Augmentez de 15 % votre vitesse de déplacement lorsque vous n'êtes pas endommagé pendant 6/5/4 secondes continues"
 
 #. Key:	[3005001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3506,9 +3986,7 @@ msgstr "Extraction du noyau"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3005002]"
 msgid "Recover your Health for 50/100/150 Health every time when you use an item"
-msgstr ""
-"Récupérez votre santé pour 50/100/150 points de vie à chaque fois que vous "
-"utilisez un objet"
+msgstr "Récupérez votre santé pour 50/100/150 points de vie à chaque fois que vous utilisez un objet"
 
 #. Key:	[3006001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3532,9 +4010,7 @@ msgstr "Noyau de vigne"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3006002]"
 msgid "Slow down enemys' movement speed by 10/15/20% for 2.5 seconds every time you hit them"
-msgstr ""
-"Ralentissez la vitesse de déplacement des ennemis de 10/15/20 % pendant 2,5 "
-"secondes à chaque fois que vous les touchez"
+msgstr "Ralentissez la vitesse de déplacement des ennemis de 10/15/20 % pendant 2,5 secondes à chaque fois que vous les touchez"
 
 #. Key:	[3007001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3630,9 +4106,7 @@ msgstr "Âme furieuse"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3010002]"
 msgid "When you knock up an enemy, gain Super Armor for 3 seconds"
-msgstr ""
-"Lorsque vous éliminez un ennemi, vous obtenez une super armure pendant 3 "
-"secondes"
+msgstr "Lorsque vous éliminez un ennemi, vous obtenez une super armure pendant 3 secondes"
 
 #. Key:	[3011001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3680,9 +4154,7 @@ msgstr "Rythme sauvage"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3012002]"
 msgid "When you dash, your next attack deals 50 extra points of damage"
-msgstr ""
-"Lorsque vous vous précipitez, votre prochaine attaque inflige 50 points de "
-"dégâts supplémentaires"
+msgstr "Lorsque vous vous précipitez, votre prochaine attaque inflige 50 points de dégâts supplémentaires"
 
 #. Key:	[3013001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3705,9 +4177,7 @@ msgstr "Noyau d'épines"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3013002]"
 msgid "Deflect 20/30/40 damage to your enemy each time you defend against an attack"
-msgstr ""
-"Inflige 20/30/40 points de dégâts à votre ennemi chaque fois que vous vous "
-"défendez contre une attaque"
+msgstr "Inflige 20/30/40 points de dégâts à votre ennemi chaque fois que vous vous défendez contre une attaque"
 
 #. Key:	[3014001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3730,9 +4200,7 @@ msgstr "Vengeance Core"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3014002]"
 msgid "Increase damage and knockup launch power after death by 5/10/15% (up to a maximum of 2 times)"
-msgstr ""
-"Augmente les dégâts et la puissance de lancement après le décès de 5/10/15 % "
-"(jusqu'à un maximum de 2 fois)"
+msgstr "Augmente les dégâts et la puissance de lancement après le décès de 5/10/15 % (jusqu'à un maximum de 2 fois)"
 
 #. Key:	[3015001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3778,9 +4246,18 @@ msgstr "Noyau absorbant"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3016002]"
 msgid "Restore 10/20/30 Health each time you defend against an attack"
-msgstr ""
-"Restaurez 10/20/30 points de santé à chaque fois que vous vous défendez "
-"contre une attaque"
+msgstr "Restaurez 10/20/30 points de santé à chaque fois que vous vous défendez contre une attaque"
+
+#. Key:	[3017001]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"UI" : "Comeback Core"
+#. InfoMetaData:	"中文" : "迴光核心"
+#. InfoMetaData:	"日文" : "回復コア"
+#. InfoMetaData:	"簡體中文" : "回光核心"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[3017001]"
+msgid "Comeback Core"
+msgstr "Comeback Core"
 
 #. Key:	[3017002]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3790,9 +4267,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3017002]"
 msgid "Restore 20 Health per sec. after not taking damage for 8/6/4 seconds"
-msgstr ""
-"Restaure 20 points de vie par seconde sans avoir subi de dégâts pendant 8/6/"
-"4 secondes"
+msgstr "Restaure 20 points de vie par seconde sans avoir subi de dégâts pendant 8/6/4 secondes"
 
 #. Key:	[3018001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3834,8 +4309,7 @@ msgstr "Noyau de gravité"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3019002]"
 msgid "Reduce the knockup launch power received from an enemy by 5/10/15%"
-msgstr ""
-"Réduit la puissance de lancement par knock-up reçue d'un ennemi de 5/10/15 %"
+msgstr "Réduit la puissance de lancement par knock-up reçue d'un ennemi de 5/10/15 %"
 
 #. Key:	[3020001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3898,9 +4372,7 @@ msgstr "Bouclier explosif"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3022002]"
 msgid "When your defence is breached, generate an explosion to blow up surrounding enemies"
-msgstr ""
-"Lorsque votre défense est atteinte, générez une explosion pour faire "
-"exploser les ennemis environnants"
+msgstr "Lorsque votre défense est atteinte, générez une explosion pour faire exploser les ennemis environnants"
 
 #. Key:	[3023001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3921,9 +4393,7 @@ msgstr "Chasseur d'ombres"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3023002]"
 msgid "Invisible after 4s no action of attacking or receiving damage. Attack or take damage to reappear"
-msgstr ""
-"Invisible après 4 s, aucune action d'attaque ou de dégâts. Attaquez ou "
-"subissez des dégâts pour réapparaître"
+msgstr "Invisible après 4 s, aucune action d'attaque ou de dégâts. Attaquez ou subissez des dégâts pour réapparaître"
 
 #. Key:	[3024001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3944,9 +4414,7 @@ msgstr "Surcharge explosive"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3024002]"
 msgid "Release your Super Move to create an explosion that can blow up surrounding enemies"
-msgstr ""
-"Lancez votre super coup pour créer une explosion qui peut faire exploser les "
-"ennemis environnants"
+msgstr "Lancez votre super coup pour créer une explosion qui peut faire exploser les ennemis environnants"
 
 #. Key:	[3025001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -3988,9 +4456,7 @@ msgstr "Noyau du chaos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3026002]"
 msgid "Increase your attack and knockup launch power by 10/20/30% when your Health is below 20%"
-msgstr ""
-"Augmentez votre puissance d'attaque et de lancement de 10/20/ 30 % lorsque "
-"votre santé est inférieure à 20 %"
+msgstr "Augmentez votre puissance d'attaque et de lancement de 10/20/ 30 % lorsque votre santé est inférieure à 20 %"
 
 #. Key:	[3027001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4011,8 +4477,7 @@ msgstr "Noyau d'endurance"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3027002]"
 msgid "Decrease damage taken by 10/20/30% when in Super Armor status"
-msgstr ""
-"Diminue les dégâts subis de 10/20/ 30 % lorsque vous êtes en mode Super Armor"
+msgstr "Diminue les dégâts subis de 10/20/ 30 % lorsque vous êtes en mode Super Armor"
 
 #. Key:	[3028001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4033,9 +4498,7 @@ msgstr "Noyau énergétique"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3028002]"
 msgid "The amount of Ultimate Energy you take from an enemy when dealing damage increases by 15/25/35%"
-msgstr ""
-"La quantité d'énergie ultime que vous retirez d'un ennemi lorsqu'il inflige "
-"des dégâts augmente de 15/25/ 35 %"
+msgstr "La quantité d'énergie ultime que vous retirez d'un ennemi lorsqu'il inflige des dégâts augmente de 15/25/ 35 %"
 
 #. Key:	[3029001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4056,9 +4519,7 @@ msgstr "Noyau Infinity"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3029002]"
 msgid "When using an item, gain a 15/30/45% chance that the item won't be consumed"
-msgstr ""
-"Lorsque vous utilisez un objet, vous avez 15/30/ 45 % de chances que l'objet "
-"ne soit pas consommé"
+msgstr "Lorsque vous utilisez un objet, vous avez 15/30/ 45 % de chances que l'objet ne soit pas consommé"
 
 #. Key:	[3030001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4100,9 +4561,7 @@ msgstr "Noyau rusé"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3031002]"
 msgid "Increase moving speed and jump height by 10/15/20% when your Health is below 20%"
-msgstr ""
-"Augmente la vitesse de déplacement et la hauteur de saut de 10/15/20 % "
-"lorsque votre santé est inférieure à 20 %"
+msgstr "Augmente la vitesse de déplacement et la hauteur de saut de 10/15/20 % lorsque votre santé est inférieure à 20 %"
 
 #. Key:	[3032001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4165,9 +4624,7 @@ msgstr "Neurotoxine"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3034002]"
 msgid "Release Neurotoxin Nova, which can decrease enemy speed by 25% when you're knocked into the air by an enemy"
-msgstr ""
-"Lancez Neurotoxin Nova, qui peut réduire la vitesse de l'ennemi de 25 % "
-"lorsqu'un ennemi vous projette en l'air"
+msgstr "Lancez Neurotoxin Nova, qui peut réduire la vitesse de l'ennemi de 25 % lorsqu'un ennemi vous projette en l'air"
 
 #. Key:	[3035001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4188,9 +4645,7 @@ msgstr "Concentration profonde"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3035002]"
 msgid "Enter a Super Armor state while charging an attack. However, the charging time will increase by 25%"
-msgstr ""
-"Entrez dans un état de super armure pendant que vous lancez une attaque. "
-"Cependant, le temps de charge augmentera de 25 %"
+msgstr "Entrez dans un état de super armure pendant que vous lancez une attaque. Cependant, le temps de charge augmentera de 25 %"
 
 #. Key:	[3036001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -4211,9 +4666,7 @@ msgstr "Moteur Frost"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[3036002]"
 msgid "Release your Super Move to create a Frost Nova and freeze surrounding enemies"
-msgstr ""
-"Lancez votre super coup pour créer une nova de givre et geler les ennemis "
-"environnants"
+msgstr "Lancez votre super coup pour créer une nova de givre et geler les ennemis environnants"
 
 #. Key:	[4001116]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9073,6 +9526,15 @@ msgctxt "ST_Game_Widget,[5000006]"
 msgid "Add A New Friend"
 msgstr "Ajouter un nouvel ami"
 
+#. Key:	[5000007]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "遊玩一個大廳玩具"
+#. InfoMetaData:	"簡體中文" : "游玩一个大厅玩具"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[5000007]"
+msgid "Play A Toy"
+msgstr "Jouez à un jouet"
+
 #. Key:	[5000008]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #. InfoMetaData:	"中文" : "切換一首大廳音樂"
@@ -9525,8 +9987,8 @@ msgstr "MODIFIER"
 #. InfoMetaData:	"西班牙" : "Social"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001023]"
-msgid "SOCIAL HALL"
-msgstr "SALLE SOCIALE"
+msgid "PARTY HALL"
+msgstr "SALLE DES FÊTES"
 
 #. Key:	[9001024]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9729,7 +10191,7 @@ msgstr "RECHERCHER"
 #. InfoMetaData:	"西班牙" : "En propiedad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001039]"
-msgid "Owned"
+msgid "OWNED"
 msgstr "POSSÉDÉ"
 
 #. Key:	[9001040]
@@ -10746,8 +11208,8 @@ msgstr "ADHÉSION RAPIDE"
 #. InfoMetaData:	"西班牙" : "CREAR SALA SOCIAL"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001122]"
-msgid "CREATE SOCIAL HALL"
-msgstr "CRÉER UNE SALLE SOCIALE"
+msgid "CREATE PARTY HALL"
+msgstr "CRÉER UNE SALLE DE FÊTE"
 
 #. Key:	[9001123]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10757,8 +11219,8 @@ msgstr "CRÉER UNE SALLE SOCIALE"
 #. InfoMetaData:	"西班牙" : "LISTA DE SALONES SOCIALES"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001123]"
-msgid "SOCIAL HALL LIST"
-msgstr "LISTE DES SALLES SOCIALES"
+msgid "PARTY HALL LIST"
+msgstr "LISTE DES SALLES DE FÊTES"
 
 #. Key:	[9001124]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10823,8 +11285,8 @@ msgstr "LOBBY"
 #. InfoMetaData:	"西班牙" : "ÚNETE A LA SALA SOCIAL"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001129]"
-msgid "JOIN SOCIAL HALL"
-msgstr "REJOINDRE LE SOCIAL HALL"
+msgid "JOIN PARTY HALL"
+msgstr "REJOIGNEZ LA SALLE DES FÊTES"
 
 #. Key:	[9001130]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11195,8 +11657,8 @@ msgstr " Minutes"
 #. InfoMetaData:	"簡體中文" : " 小时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001165]"
-msgid " Hours"
-msgstr " Heures"
+msgid "left"
+msgstr "gauche"
 
 #. Key:	[9001166]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11876,11 +12338,7 @@ msgstr "INFORMATIONS SUR LA POITRINE"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001233]"
 msgid "For details on what these chests contain,\nincluding the probabilities of getting items, click the button below \nto visit the game website."
-msgstr ""
-"Pour plus de détails sur le contenu de ces coffres,\n"
-"y compris les probabilités d'obtenir des objets, cliquez sur le bouton ci-"
-"dessous \n"
-"pour visiter le site Web du jeu."
+msgstr "Pour plus de détails sur le contenu de ces coffres,\ny compris les probabilités d'obtenir des objets, cliquez sur le bouton ci-dessous \npour visiter le site Web du jeu."
 
 #. Key:	[9001234]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12050,12 +12508,7 @@ msgstr "Achetez du DLC sur le Pico Store"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001266]"
 msgid "Click \"ACCEPT\" to indicate that you have read and agreed to the Privacy Policy and Terms of Service on the QUANTAAR official website.\r\nhttp://quantaar.com/terms\r\nhttp://quantaar.com/privacy"
-msgstr ""
-"Cliquez sur « ACCEPTER » pour indiquer que vous avez lu et accepté la "
-"politique de confidentialité et les conditions d'utilisation sur le site "
-"officiel de QUANTAAR.\r\n"
-"http://quantaar.com/terms\r\n"
-"http://quantaar.com/privacy"
+msgstr "Cliquez sur « ACCEPTER » pour indiquer que vous avez lu et accepté la politique de confidentialité et les conditions d'utilisation sur le site officiel de QUANTAAR.\r\nhttp://quantaar.com/terms\r\nhttp://quantaar.com/privacy"
 
 #. Key:	[9001267]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12065,9 +12518,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001267]"
 msgid "Choose 'VIP Access' to allow only Observers with the Premium Edition or Ultimate Edition to join your room."
-msgstr ""
-"Choisissez « Accès VIP » pour autoriser uniquement les observateurs "
-"disposant de l'édition Premium ou Ultimate à rejoindre votre chambre."
+msgstr "Choisissez « Accès VIP » pour autoriser uniquement les observateurs disposant de l'édition Premium ou Ultimate à rejoindre votre chambre."
 
 #. Key:	[9001268]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12197,9 +12648,7 @@ msgstr "Réinitialiser le jeu"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001280]"
 msgid "CURRENT\r\nFLOOR"
-msgstr ""
-"ACTUEL\r\n"
-"ÉTAGE"
+msgstr "ACTUEL\r\nÉTAGE"
 
 #. Key:	[9001281]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12269,9 +12718,7 @@ msgstr "Succès, scène de chargement"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001287]"
 msgid "Click \\\"\"accept\\\"\" to indicate that you have read and agree"
-msgstr ""
-"Cliquez sur « Accepter » pour indiquer que vous avez lu et que vous êtes "
-"d'accord"
+msgstr "Cliquez sur « Accepter » pour indiquer que vous avez lu et que vous êtes d'accord"
 
 #. Key:	[9001288]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12291,8 +12738,7 @@ msgstr "https://quantaar.com/privacy-policy et https://quantaar.com/terms"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001289]"
 msgid "The Pumpkin VR Privacy Policy and Terms of Service"
-msgstr ""
-"Politique de confidentialité et conditions d'utilisation de The Pumpkin VR"
+msgstr "Politique de confidentialité et conditions d'utilisation de The Pumpkin VR"
 
 #. Key:	[9001290]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12301,8 +12747,8 @@ msgstr ""
 #. InfoMetaData:	"簡體中文" : "时"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001290]"
-msgid "h"
-msgstr "h"
+msgid "h "
+msgstr "h "
 
 #. Key:	[9001291]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12311,8 +12757,8 @@ msgstr "h"
 #. InfoMetaData:	"簡體中文" : "分"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001291]"
-msgid "m"
-msgstr "m"
+msgid "m "
+msgstr "m "
 
 #. Key:	[9001292]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12542,8 +12988,7 @@ msgstr "TIREUR DE TAUREAUX"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001314]"
 msgid "Please check your internet connection and try reconnecting to the game."
-msgstr ""
-"Vérifiez votre connexion Internet et essayez de vous reconnecter au jeu."
+msgstr "Vérifiez votre connexion Internet et essayez de vous reconnecter au jeu."
 
 #. Key:	[9001315]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12693,9 +13138,7 @@ msgstr "Ronde"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001329]"
 msgid "When you use VIP Access quick match, the matchmaking will prioritize VIP Access rooms."
-msgstr ""
-"Lorsque vous utilisez le match rapide avec accès VIP, le matchmaking donnera "
-"la priorité aux salles d'accès VIP."
+msgstr "Lorsque vous utilisez le match rapide avec accès VIP, le matchmaking donnera la priorité aux salles d'accès VIP."
 
 #. Key:	[9001330]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12844,8 +13287,8 @@ msgstr "Gagnez un match rapide dans n'importe quel mode"
 #. InfoMetaData:	"簡體中文" : "前往社交大厅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001344]"
-msgid "Enter Social"
-msgstr "Entrez dans Social"
+msgid "Enter Party"
+msgstr "Entrez dans le groupe"
 
 #. Key:	[9001345]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13265,9 +13708,7 @@ msgstr "Accumulez 10 éliminations au fil du temps avec Agent Pug"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001386]"
 msgid "Deal a total of 3,000 damage over time using Fighter-type Hero"
-msgstr ""
-"Infligez un total de 3 000 dégâts au fil du temps en utilisant un héros de "
-"type Fighter"
+msgstr "Infligez un total de 3 000 dégâts au fil du temps en utilisant un héros de type Fighter"
 
 #. Key:	[9001387]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13277,9 +13718,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001387]"
 msgid "Deal a total of 3,000 damage over time using Assassin-type Hero"
-msgstr ""
-"Infligez un total de 3 000 dégâts au fil du temps avec un héros de type "
-"Assassin"
+msgstr "Infligez un total de 3 000 dégâts au fil du temps avec un héros de type Assassin"
 
 #. Key:	[9001388]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13289,9 +13728,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001388]"
 msgid "Deal a total of 3,000 damage over time using Generalist-type Hero"
-msgstr ""
-"Infligez un total de 3 000 dégâts au fil du temps avec un héros de type "
-"généraliste"
+msgstr "Infligez un total de 3 000 dégâts au fil du temps avec un héros de type généraliste"
 
 #. Key:	[9001389]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13301,9 +13738,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001389]"
 msgid "Deal a total of 3,000 damage over time using Shooter-type Hero"
-msgstr ""
-"Infligez un total de 3 000 dégâts au fil du temps avec un héros de type "
-"tireur"
+msgstr "Infligez un total de 3 000 dégâts au fil du temps avec un héros de type tireur"
 
 #. Key:	[9001390]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13323,8 +13758,7 @@ msgstr "Accumulez 10 éliminations au fil du temps avec un héros de type Fighte
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001391]"
 msgid "Accumulate 10 kills over time using Assassin-type Hero"
-msgstr ""
-"Accumulez 10 éliminations au fil du temps avec un héros de type Assassin"
+msgstr "Accumulez 10 éliminations au fil du temps avec un héros de type Assassin"
 
 #. Key:	[9001392]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13334,8 +13768,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001392]"
 msgid "Accumulate 10 kills over time using Generalist-type Hero"
-msgstr ""
-"Accumulez 10 éliminations au fil du temps avec un héros de type généraliste"
+msgstr "Accumulez 10 éliminations au fil du temps avec un héros de type généraliste"
 
 #. Key:	[9001393]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13544,8 +13977,8 @@ msgstr "Créer un mode personnalisé"
 #. InfoMetaData:	"簡體中文" : "社交大厅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001413]"
-msgid "Social Hall"
-msgstr "Salle sociale"
+msgid "Party Hall"
+msgstr "Salle des fêtes"
 
 #. Key:	[9001414]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -13720,9 +14153,7 @@ msgstr "Félicitations, vous venez de passer à l'édition Ultimate"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001431]"
 msgid "Duplicate item found. It will be converted to Star Coins at its original value."
-msgstr ""
-"Un article dupliqué a été trouvé. Il sera converti en Star Coins à sa valeur "
-"initiale."
+msgstr "Un article dupliqué a été trouvé. Il sera converti en Star Coins à sa valeur initiale."
 
 #. Key:	[9001432]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14032,9 +14463,7 @@ msgstr "Coffre Newbie Hero Style"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001462]"
 msgid "3,000 Galaxy Gems and 1 Newbie Hero Style Chest (A rarity 4 Hero Style guaranteed)"
-msgstr ""
-"3 000 gemmes Galaxy et 1 coffre de style héros débutant (un style rare à 4 "
-"héros garanti)"
+msgstr "3 000 gemmes Galaxy et 1 coffre de style héros débutant (un style rare à 4 héros garanti)"
 
 #. Key:	[9001463]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14228,8 +14657,8 @@ msgstr "MAÎTRE"
 #. InfoMetaData:	"簡體中文" : "社交"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001481]"
-msgid "SOCIAL"
-msgstr "SOCIAL"
+msgid "PARTY"
+msgstr "FÊTE"
 
 #. Key:	[9001482]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14359,9 +14788,7 @@ msgstr "5e prix"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001494]"
 msgid "Log in and reach LvL 15 within 2 weeks for a chance to win"
-msgstr ""
-"Connectez-vous et atteignez le niveau 15 en 2 semaines pour avoir une chance "
-"de gagner"
+msgstr "Connectez-vous et atteignez le niveau 15 en 2 semaines pour avoir une chance de gagner"
 
 #. Key:	[9001495]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14521,8 +14948,7 @@ msgstr "FIN DU TOUR"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001510]"
 msgid "Network issue, please check your connection and restart the game"
-msgstr ""
-"Problème de réseau, veuillez vérifier votre connexion et redémarrer le jeu"
+msgstr "Problème de réseau, veuillez vérifier votre connexion et redémarrer le jeu"
 
 #. Key:	[9001511]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14553,6 +14979,13 @@ msgstr "PEAU"
 msgctxt "ST_Game_Widget,[9001513]"
 msgid "Limited-Time Offer"
 msgstr "Offre d'une durée limitée"
+
+#. Key:	[9001514]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001514]"
+msgid "UPGRADED"
+msgstr "MIS À NIVEAU"
 
 #. Key:	[9001515]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14632,9 +15065,7 @@ msgstr "Le code de référence n'existe pas"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001525]"
 msgid "Invalid referral code, please contact the Support Team for assistance"
-msgstr ""
-"Code de référence non valide, veuillez contacter l'équipe d'assistance pour "
-"obtenir de l'aide"
+msgstr "Code de référence non valide, veuillez contacter l'équipe d'assistance pour obtenir de l'aide"
 
 #. Key:	[9001526]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14647,8 +15078,8 @@ msgstr "Code de parrainage déjà saisi"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001527]"
-msgid "d"
-msgstr "d"
+msgid "d "
+msgstr "d "
 
 #. Key:	[9001528]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14902,6 +15333,13 @@ msgctxt "ST_Game_Widget,[9001563]"
 msgid "Next refresh time"
 msgstr "Heure de rafraîchissement suivante"
 
+#. Key:	[9001564]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001564]"
+msgid "Not available yet"
+msgstr "Pas encore disponible"
+
 #. Key:	[9001565]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14921,9 +15359,7 @@ msgstr "Ensemble Shiny Celebration"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001567]"
 msgid "It’s time to test out the shooting plugin! Let’s enjoy some shooting action!"
-msgstr ""
-"C'est le moment de tester le plugin de prise de vue ! Profitons d'un peu "
-"d'action de tir !"
+msgstr "C'est le moment de tester le plugin de prise de vue ! Profitons d'un peu d'action de tir !"
 
 #. Key:	[9001568]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15048,17 +15484,22 @@ msgstr "INVITER"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001585]"
-msgid "Invite your friend to the Social Hall"
-msgstr "Invitez votre ami au Social Hall"
+msgid "Invite your friend to the Party Hall"
+msgstr "Invitez votre ami dans la salle des fêtes"
 
 #. Key:	[9001586]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001586]"
 msgid "Grab the fresh Battle Pass and unlock trendy Observer and Hero styles with a fun Ocean Drive theme!"
-msgstr ""
-"Procurez-vous le nouveau Battle Pass et débloquez des styles tendance "
-"d'observateur et de héros grâce au thème amusant d'Ocean Drive !"
+msgstr "Procurez-vous le nouveau Battle Pass et débloquez des styles tendance d'observateur et de héros grâce au thème amusant d'Ocean Drive !"
+
+#. Key:	[9001587]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001587]"
+msgid "Spectator"
+msgstr "Spectateur"
 
 #. Key:	[9001588]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15156,9 +15597,7 @@ msgstr "Corriger"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001601]"
 msgid "Rally your friends to venture into QUANTAAR and unlock a variety of resources and rewards."
-msgstr ""
-"Rassemblez vos amis pour vous aventurer dans QUANTAAR et débloquer de "
-"nombreuses ressources et récompenses."
+msgstr "Rassemblez vos amis pour vous aventurer dans QUANTAAR et débloquer de nombreuses ressources et récompenses."
 
 #. Key:	[9001602]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15172,15 +15611,7 @@ msgstr "19 août 2023 - 11 octobre 2023"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001603]"
 msgid "Gather your friends to join you in QUANTAAR and unlock a plethora of resources and rewards! If you're an existing Observer, you can find your current invitation reward stage and your referral code on your event page. This referral code will be key in inviting others to participate. If you're a new player, you can enter the referral code provided by other players on the event page. A new player is defined as someone who has created an account within the last seven days."
-msgstr ""
-"Rassemblez vos amis pour qu'ils vous rejoignent dans QUANTAAR et débloquez "
-"une pléthore de ressources et de récompenses ! Si vous êtes déjà un "
-"observateur, vous trouverez votre niveau d'invitation actuel et votre code "
-"de parrainage sur la page de votre événement. Ce code de parrainage sera "
-"essentiel pour inviter d'autres personnes à participer. Si vous êtes un "
-"nouveau joueur, vous pouvez saisir le code de parrainage fourni par les "
-"autres joueurs sur la page de l'événement. Un nouveau joueur est défini "
-"comme une personne qui a créé un compte au cours des sept derniers jours."
+msgstr "Rassemblez vos amis pour qu'ils vous rejoignent dans QUANTAAR et débloquez une pléthore de ressources et de récompenses ! Si vous êtes déjà un observateur, vous trouverez votre niveau d'invitation actuel et votre code de parrainage sur la page de votre événement. Ce code de parrainage sera essentiel pour inviter d'autres personnes à participer. Si vous êtes un nouveau joueur, vous pouvez saisir le code de parrainage fourni par les autres joueurs sur la page de l'événement. Un nouveau joueur est défini comme une personne qui a créé un compte au cours des sept derniers jours."
 
 #. Key:	[9001604]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15194,22 +15625,14 @@ msgstr "Récompenses"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001605]"
 msgid "New Observer Referral Code Reward: Eligible new players who successfully input a referral code will receive a reward of 1,000 Galaxy Gems."
-msgstr ""
-"Code de parrainage New Observer : les nouveaux joueurs éligibles qui ont "
-"saisi un code de parrainage avec succès recevront une récompense de 1 000 "
-"Galaxy Gems."
+msgstr "Code de parrainage New Observer : les nouveaux joueurs éligibles qui ont saisi un code de parrainage avec succès recevront une récompense de 1 000 Galaxy Gems."
 
 #. Key:	[9001606]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001606]"
 msgid "Existing Observer Inviting New Observer Reward: For every new Observer who successfully inputs your referral code, you'll receive a reward of 200 Galaxy Gems. Once each of the Observers you've invited reaches level 5, you'll receive an additional reward of 800 Galaxy Gems."
-msgstr ""
-"Un observateur existant invite un nouvel observateur à recevoir une "
-"récompense : pour chaque nouvel observateur qui saisit avec succès votre "
-"code de parrainage, vous recevrez une récompense de 200 Galaxy Gems. Une "
-"fois que chacun des observateurs que vous avez invités aura atteint le "
-"niveau 5, vous recevrez une récompense supplémentaire de 800 Galaxy Gems."
+msgstr "Un observateur existant invite un nouvel observateur à recevoir une récompense : pour chaque nouvel observateur qui saisit avec succès votre code de parrainage, vous recevrez une récompense de 200 Galaxy Gems. Une fois que chacun des observateurs que vous avez invités aura atteint le niveau 5, vous recevrez une récompense supplémentaire de 800 Galaxy Gems."
 
 #. Key:	[9001607]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15265,9 +15688,7 @@ msgstr "ACHAT"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001614]"
 msgid "Purchase Failed. Check network or card info, then reconnect to the game if \"PURCHASE\" isn't working"
-msgstr ""
-"Échec de l'achat. Vérifiez les informations du réseau ou de la carte, puis "
-"reconnectez-vous au jeu si « ACHETER » ne fonctionne pas"
+msgstr "Échec de l'achat. Vérifiez les informations du réseau ou de la carte, puis reconnectez-vous au jeu si « ACHETER » ne fonctionne pas"
 
 #. Key:	[9001615]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15511,8 +15932,8 @@ msgstr "Dragon Claw Flame - Épice"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001649]"
-msgid "TABOO"
-msgstr "TABOU"
+msgid "Taboo"
+msgstr "tabou"
 
 #. Key:	[9001650]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15661,6 +16082,13 @@ msgctxt "ST_Game_Widget,[9001670]"
 msgid "Hamburger"
 msgstr "Hamburger"
 
+#. Key:	[9001671]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001671]"
+msgid "Firework Type A"
+msgstr "Feu d'artifice de type A"
+
 #. Key:	[9001672]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -15672,36 +16100,36 @@ msgstr "Feu d'artifice de type B"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001673]"
-msgid "A"
-msgstr "UN"
+msgid "Border Controller"
+msgstr "Contrôleur des frontières"
 
 #. Key:	[9001674]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001674]"
-msgid "A"
-msgstr "UN"
+msgid "Border Control Early Access Bundle"
+msgstr "Offre groupée d'accès anticipé pour le contrôle des frontières"
 
 #. Key:	[9001675]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001675]"
-msgid "A"
-msgstr "UN"
+msgid "Border Control Bundle"
+msgstr "Pack de contrôle des frontières"
 
 #. Key:	[9001676]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001676]"
-msgid "A"
-msgstr "UN"
+msgid "Border Observer Helmet"
+msgstr "Casque Border Observer"
 
 #. Key:	[9001677]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001677]"
-msgid "A"
-msgstr "UN"
+msgid "Border Observer Gloves"
+msgstr "Gants Border Observer"
 
 #. Key:	FinishGuide_FirstEnterQuantaar_1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15781,8 +16209,7 @@ msgstr "il suffit d'aller dans le MENU."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,FinishGuideIntrol_1_3"
 msgid "You can also explore this area as much as you like."
-msgstr ""
-"Vous pouvez également explorer cette région autant que vous le souhaitez."
+msgstr "Vous pouvez également explorer cette région autant que vous le souhaitez."
 
 #. Key:	FinishGuideIntrol_1_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15812,8 +16239,7 @@ msgstr "N'oubliez pas votre bracelet personnel."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,FinishGuideIntrol_2_2"
 msgid "The personal bracelet is for adjusting settings and obtaining assistance."
-msgstr ""
-"Le bracelet personnel sert à régler les paramètres et à obtenir de l'aide."
+msgstr "Le bracelet personnel sert à régler les paramètres et à obtenir de l'aide."
 
 #. Key:	FistBumpHint
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15893,9 +16319,7 @@ msgstr "Mais avant de commencer."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideA_1_5"
 msgid "Please let me show you the rules and explain how the Quantaar Contest works"
-msgstr ""
-"Permettez-moi de vous montrer les règles et de vous expliquer comment "
-"fonctionne le concours Quantaar."
+msgstr "Permettez-moi de vous montrer les règles et de vous expliquer comment fonctionne le concours Quantaar."
 
 #. Key:	GuideB_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15906,6 +16330,16 @@ msgstr ""
 msgctxt "Subtitle,GuideB_1_1"
 msgid "Try to move onto the glowing platform in front of you."
 msgstr "Essayez de vous déplacer sur la plate-forme lumineuse devant vous."
+
+#. Key:	GuideB_1_2
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+#. InfoMetaData:	"日文" : "手を見てください"
+#. InfoMetaData:	"簡體中文" : "你可以看看你的手"
+#. InfoMetaData:	"繁體中文" : "你可以看看你的手"
+#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+msgctxt "Subtitle,GuideB_1_2"
+msgid "If you look at your hand,"
+msgstr "Si tu regardes ta main,"
 
 #. Key:	GuideB_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15935,9 +16369,7 @@ msgstr "Le droïde peut également vous aider à trouver les bons boutons"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideC_1_1"
 msgid "Now it's time for the most powerful Heroes in the Quantaar Multiverse to arrive."
-msgstr ""
-"Il est maintenant temps que les héros les plus puissants du multivers "
-"Quantaar arrivent."
+msgstr "Il est maintenant temps que les héros les plus puissants du multivers Quantaar arrivent."
 
 #. Key:	GuideC_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -15947,9 +16379,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideC_2_1"
 msgid "As you can see, there are many powerful Heroes in QUANTAAR."
-msgstr ""
-"Comme vous pouvez le constater, il existe de nombreux héros puissants dans "
-"QUANTAAR."
+msgstr "Comme vous pouvez le constater, il existe de nombreux héros puissants dans QUANTAAR."
 
 #. Key:	GuideC_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16009,9 +16439,7 @@ msgstr "Ne t'inquiète pas. "
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideC_4_2"
 msgid "New Observers in the Quantaar contest start out with four possible partners."
-msgstr ""
-"Le concours New Observers in the Quantaar commence avec quatre partenaires "
-"potentiels."
+msgstr "Le concours New Observers in the Quantaar commence avec quatre partenaires potentiels."
 
 #. Key:	GuideC_4_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16073,6 +16501,16 @@ msgctxt "Subtitle,GuideD_1_4"
 msgid "We have prepared some facilities to get you up to speed."
 msgstr "Nous avons préparé quelques installations pour vous mettre au courant."
 
+#. Key:	GuideD_2_1
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+#. InfoMetaData:	"日文" : "ドロイドがリードしますので"
+#. InfoMetaData:	"簡體中文" : "请跟着小帮手"
+#. InfoMetaData:	"繁體中文" : "請跟著小幫手"
+#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+msgctxt "Subtitle,GuideD_2_1"
+msgid "Please follow the Droid."
+msgstr "Veuillez suivre le droïde."
+
 #. Key:	GuideD_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 #. InfoMetaData:	"日文" : "従ってください"
@@ -16101,8 +16539,7 @@ msgstr "Cette salle vous apprend à déplacer votre héros de manière flexible"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideE_2_1"
 msgid "Learning how to stay agile and get into position during a fierce battle"
-msgstr ""
-"Apprendre à rester agile et à se positionner lors d'une bataille acharnée"
+msgstr "Apprendre à rester agile et à se positionner lors d'une bataille acharnée"
 
 #. Key:	GuideE_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16112,8 +16549,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideE_2_2"
 msgid "is definitely a fundamental step on the road to victory."
-msgstr ""
-"est sans aucun doute une étape fondamentale sur le chemin de la victoire."
+msgstr "est sans aucun doute une étape fondamentale sur le chemin de la victoire."
 
 #. Key:	GuideE_2_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16153,8 +16589,7 @@ msgstr "Regardez la projection animée que nous avons préparée."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideE_3_2"
 msgid "You can start tutorial by activating the panel there."
-msgstr ""
-"Vous pouvez démarrer le didacticiel en activant le panneau qui s'y trouve."
+msgstr "Vous pouvez démarrer le didacticiel en activant le panneau qui s'y trouve."
 
 #. Key:	GuideE_3_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16194,9 +16629,7 @@ msgstr "Tu veux aller dans la pièce d'à côté ?"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideG_1_1"
 msgid "This room teaches you how to use your Hero to damage your opponent."
-msgstr ""
-"Cette salle vous apprend à utiliser votre héros pour infliger des dégâts à "
-"votre adversaire."
+msgstr "Cette salle vous apprend à utiliser votre héros pour infliger des dégâts à votre adversaire."
 
 #. Key:	GuideG_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16206,9 +16639,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideG_2_1"
 msgid "The Heroes in QUANTAAR are divided into Fighter, Assassin, Generalist, and Shooter."
-msgstr ""
-"Les héros de QUANTAAR sont divisés en combattants, assassins, généralistes "
-"et tireurs."
+msgstr "Les héros de QUANTAAR sont divisés en combattants, assassins, généralistes et tireurs."
 
 #. Key:	GuideG_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16218,9 +16649,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideG_2_2"
 msgid "Every Hero has their own fighting style and strengths according to their class."
-msgstr ""
-"Chaque héros possède son propre style de combat et ses propres forces en "
-"fonction de sa classe."
+msgstr "Chaque héros possède son propre style de combat et ses propres forces en fonction de sa classe."
 
 #. Key:	GuideG_2_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16250,9 +16679,7 @@ msgstr "Pratiquez ces compétences pour dominer le concours Quantaar."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_1_1"
 msgid "This room teaches you how to use items to control the battlefield."
-msgstr ""
-"Cette salle vous apprend à utiliser des objets pour contrôler le champ de "
-"bataille."
+msgstr "Cette salle vous apprend à utiliser des objets pour contrôler le champ de bataille."
 
 #. Key:	GuideI_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16262,9 +16689,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_2_1"
 msgid "A good Observer is not only good at using Heroes to fight;"
-msgstr ""
-"Un bon observateur n'est pas seulement doué pour utiliser les héros pour "
-"combattre ;"
+msgstr "Un bon observateur n'est pas seulement doué pour utiliser les héros pour combattre ;"
 
 #. Key:	GuideI_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16274,9 +16699,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_2_2"
 msgid "it is also important to constantly observe the state of the battlefield and create opportunities."
-msgstr ""
-"il est également important d'observer en permanence l'état du champ de "
-"bataille et de créer des opportunités."
+msgstr "il est également important d'observer en permanence l'état du champ de bataille et de créer des opportunités."
 
 #. Key:	GuideI_2_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16285,7 +16708,7 @@ msgstr ""
 #. InfoMetaData:	"繁體中文" : "移動自己的視角位置"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_2_3"
-msgid "Move around to gain a better perspective "
+msgid "Move around to gain a better perspective"
 msgstr "Déplacez-vous pour avoir une meilleure perspective"
 
 #. Key:	GuideI_2_4
@@ -16306,9 +16729,7 @@ msgstr "et faites bon usage des objets sur le terrain pour vous distraire."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideI_2_5"
 msgid "Observers who master this technique can achieve a considerable advantage."
-msgstr ""
-"Les observateurs qui maîtrisent cette technique peuvent obtenir un avantage "
-"considérable."
+msgstr "Les observateurs qui maîtrisent cette technique peuvent obtenir un avantage considérable."
 
 #. Key:	GuideK_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16328,9 +16749,7 @@ msgstr "Cette salle vous apprend à exécuter Super Move et Ultimate."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideK_2_1"
 msgid "Heroes will continuously gain powerful Energy throughout the battle."
-msgstr ""
-"Les héros gagneront continuellement une puissante énergie tout au long de la "
-"bataille."
+msgstr "Les héros gagneront continuellement une puissante énergie tout au long de la bataille."
 
 #. Key:	GuideK_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16350,9 +16769,7 @@ msgstr "Cette énergie permet à un héros d'utiliser de puissantes compétences
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideK_2_3"
 msgid "Super Move and Ultimate skills can play a miraculous role and turn the tide of battle!"
-msgstr ""
-"Les compétences Super Move et Ultimate peuvent jouer un rôle miraculeux et "
-"inverser le cours de la bataille !"
+msgstr "Les compétences Super Move et Ultimate peuvent jouer un rôle miraculeux et inverser le cours de la bataille !"
 
 #. Key:	GuideL_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16392,9 +16809,7 @@ msgstr "L'arène devant vous est l'endroit où se déroule le concours Quantaar.
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM1_1_2"
 msgid "Several Heroes and their Observers, like you and your partner, compete on this field together."
-msgstr ""
-"Plusieurs héros et leurs observateurs, comme vous et votre partenaire, "
-"s'affrontent ensemble sur ce terrain."
+msgstr "Plusieurs héros et leurs observateurs, comme vous et votre partenaire, s'affrontent ensemble sur ce terrain."
 
 #. Key:	GuideM1_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16404,9 +16819,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM1_1_3"
 msgid "Your goal is to guide your Hero to force other Heroes off the battlefield."
-msgstr ""
-"Votre objectif est de guider votre héros pour forcer les autres héros à "
-"quitter le champ de bataille."
+msgstr "Votre objectif est de guider votre héros pour forcer les autres héros à quitter le champ de bataille."
 
 #. Key:	GuideM1_1_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16416,9 +16829,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM1_1_4"
 msgid "That is how you win points and move towards victory."
-msgstr ""
-"C'est ainsi que vous gagnez des points et que vous vous dirigez vers la "
-"victoire."
+msgstr "C'est ainsi que vous gagnez des points et que vous vous dirigez vers la victoire."
 
 #. Key:	GuideM1_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16428,8 +16839,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM1_2_1"
 msgid "Now, your Droid will start the training program for you."
-msgstr ""
-"Maintenant, votre droïde va démarrer le programme d'entraînement pour vous."
+msgstr "Maintenant, votre droïde va démarrer le programme d'entraînement pour vous."
 
 #. Key:	GuideM1_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16459,8 +16869,7 @@ msgstr "Les boutons de manette correspondants sont situés sur le dessus."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM1_2_4"
 msgid "Try to get your Hero to complete the actions one by one."
-msgstr ""
-"Essayez de faire en sorte que votre héros termine les actions une par une."
+msgstr "Essayez de faire en sorte que votre héros termine les actions une par une."
 
 #. Key:	GuideM1_2_5
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16500,9 +16909,7 @@ msgstr "Ensuite, il y a le saut."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM2_1_3"
 msgid "When jumping, press the Jump button again to do a double jump"
-msgstr ""
-"Lorsque vous sautez, appuyez à nouveau sur le bouton Jump pour effectuer un "
-"double saut"
+msgstr "Lorsque vous sautez, appuyez à nouveau sur le bouton Jump pour effectuer un double saut"
 
 #. Key:	GuideM3_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16522,8 +16929,7 @@ msgstr "Enfin, c'est le tableau de bord."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideM3_1_2"
 msgid "Each Hero's dash has different characteristics."
-msgstr ""
-"Le tableau de bord de chaque héros possède des caractéristiques différentes."
+msgstr "Le tableau de bord de chaque héros possède des caractéristiques différentes."
 
 #. Key:	GuideN1_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16543,8 +16949,7 @@ msgstr "Vous pouvez voir vos adversaires apparaître sur le terrain."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN1_1_2"
 msgid "There is a bar above your head as well as those of your enemies."
-msgstr ""
-"Il y a une barre au-dessus de votre tête ainsi que de celle de vos ennemis."
+msgstr "Il y a une barre au-dessus de votre tête ainsi que de celle de vos ennemis."
 
 #. Key:	GuideN1_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16574,9 +16979,7 @@ msgstr "Lorsque le héros subit des dégâts."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN1_1_5"
 msgid "The Health will decrease and it will become easier for them to be knocked into the air."
-msgstr ""
-"Leur santé diminuera et il deviendra plus facile pour eux d'être projetés en "
-"l'air."
+msgstr "Leur santé diminuera et il deviendra plus facile pour eux d'être projetés en l'air."
 
 #. Key:	GuideN1_1_6
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16635,7 +17038,7 @@ msgstr "leur permettra d'effectuer deux attaques combinées différentes."
 #. InfoMetaData:	"繁體中文" : "除了剛剛使出的連段攻擊"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN2_1_1"
-msgid "Aside from Combo attack."
+msgid "Aside from the Combo attack."
 msgstr "Hormis l'attaque combinée."
 
 #. Key:	GuideN2_1_2
@@ -16646,9 +17049,7 @@ msgstr "Hormis l'attaque combinée."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN2_1_2"
 msgid "You can also long press the Attack button to unleash a powerful Charge attack."
-msgstr ""
-"Vous pouvez également appuyer longuement sur le bouton Attaque pour lancer "
-"une puissante attaque de charge."
+msgstr "Vous pouvez également appuyer longuement sur le bouton Attaque pour lancer une puissante attaque de charge."
 
 #. Key:	GuideN2_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16698,9 +17099,7 @@ msgstr "Le Jump Attack est également une technique très importante."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN3_1_3"
 msgid "Press the left or right Attack button when you’re in the air to Jump Attack."
-msgstr ""
-"Appuyez sur le bouton d'attaque gauche ou droit lorsque vous êtes en l'air "
-"pour sauter l'attaque."
+msgstr "Appuyez sur le bouton d'attaque gauche ou droit lorsque vous êtes en l'air pour sauter l'attaque."
 
 #. Key:	GuideN3_1_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16710,9 +17109,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN3_1_4"
 msgid "Use movement skills like this to chase opponents or return to the field."
-msgstr ""
-"Utilisez de telles habiletés motrices pour poursuivre vos adversaires ou "
-"retourner sur le terrain."
+msgstr "Utilisez de telles habiletés motrices pour poursuivre vos adversaires ou retourner sur le terrain."
 
 #. Key:	GuideN4_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16732,8 +17129,7 @@ msgstr "Enfin, essayez la compétence Défendre."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideN4_1_2"
 msgid "A timely defense can block even a fierce offensive by an opponent"
-msgstr ""
-"Une défense rapide peut bloquer même une offensive féroce d'un adversaire"
+msgstr "Une défense rapide peut bloquer même une offensive féroce d'un adversaire"
 
 #. Key:	GuideN4_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16783,8 +17179,7 @@ msgstr "Il y a des objets pour rendre la compétition encore plus excitante !"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideO1_1_3"
 msgid "There are two kinds: Field items are thrown on the field,"
-msgstr ""
-"Il en existe deux types : les objets du champ sont lancés sur le terrain,"
+msgstr "Il en existe deux types : les objets du champ sont lancés sur le terrain,"
 
 #. Key:	GuideO1_1_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16794,9 +17189,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideO1_1_4"
 msgid "and Observer items are thrown directly at the opposing Observers."
-msgstr ""
-"et les objets d'observateur sont lancés directement sur les observateurs "
-"adverses."
+msgstr "et les objets d'observateur sont lancés directement sur les observateurs adverses."
 
 #. Key:	GuideO1_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16806,9 +17199,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideO1_2_1"
 msgid "You can pick the items up and try throwing them by moving your hand."
-msgstr ""
-"Vous pouvez ramasser les objets et essayer de les lancer en bougeant votre "
-"main."
+msgstr "Vous pouvez ramasser les objets et essayer de les lancer en bougeant votre main."
 
 #. Key:	GuideO1_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16818,9 +17209,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideO1_2_2"
 msgid "Items with different purposes will have different instructions on how to best throw them."
-msgstr ""
-"Les articles ayant des objectifs différents auront des instructions "
-"différentes sur la meilleure façon de les jeter."
+msgstr "Les articles ayant des objectifs différents auront des instructions différentes sur la meilleure façon de les jeter."
 
 #. Key:	GuideO2_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16840,8 +17229,7 @@ msgstr "Vous pouvez également vous déplacer vous-même."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideO2_1_2"
 msgid "This can help you observe the battlefield from different angles."
-msgstr ""
-"Cela peut vous aider à observer le champ de bataille sous différents angles."
+msgstr "Cela peut vous aider à observer le champ de bataille sous différents angles."
 
 #. Key:	GuideO2_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16871,9 +17259,7 @@ msgstr "Passez en mode action héros et entrez sur le champ de bataille."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideO3_1_2"
 msgid "The Hero Action View will help you better observe the Hero's actions in battle."
-msgstr ""
-"La vue d'action du héros vous aidera à mieux observer les actions du héros "
-"au combat."
+msgstr "La vue d'action du héros vous aidera à mieux observer les actions du héros au combat."
 
 #. Key:	GuideO3_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16913,9 +17299,7 @@ msgstr "Cette barre bleue représente l'énergie accumulée par votre héros."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideP1_1_3"
 msgid "When you inflict damage to the enemy, you can take their Energy."
-msgstr ""
-"Lorsque vous infligez des dégâts à l'ennemi, vous pouvez lui prendre son "
-"énergie."
+msgstr "Lorsque vous infligez des dégâts à l'ennemi, vous pouvez lui prendre son énergie."
 
 #. Key:	GuideP1_1_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16925,9 +17309,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideP1_1_4"
 msgid "From time to time, your Hero will also get some of this Energy during the match."
-msgstr ""
-"De temps en temps, votre héros recevra également une partie de cette énergie "
-"pendant le match."
+msgstr "De temps en temps, votre héros recevra également une partie de cette énergie pendant le match."
 
 #. Key:	GuideP1_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16937,9 +17319,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideP1_2_1"
 msgid "Pressing the Attack buttons of the left and right hands at the same time,"
-msgstr ""
-"En appuyant simultanément sur les boutons d'attaque de la main gauche et de "
-"la main droite,"
+msgstr "En appuyant simultanément sur les boutons d'attaque de la main gauche et de la main droite,"
 
 #. Key:	GuideP1_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16959,9 +17339,7 @@ msgstr "peut effectuer un Super Move qui consomme un carré d'énergie."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideP1_2_3"
 msgid "This Super Move is usually a very powerful damage, assist, or crowd control skill."
-msgstr ""
-"Ce super coup est généralement une compétence très puissante en matière de "
-"dégâts, d'assistance ou de contrôle des foules."
+msgstr "Ce super coup est généralement une compétence très puissante en matière de dégâts, d'assistance ou de contrôle des foules."
 
 #. Key:	GuideP2_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -16981,9 +17359,7 @@ msgstr "Lorsque votre partenaire héros accumule suffisamment d'énergie,"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideP2_1_2"
 msgid "You can press the Ultimate button to unleash your Hero’s Ultimate ability."
-msgstr ""
-"Vous pouvez appuyer sur le bouton Ultime pour libérer la capacité ultime de "
-"votre héros."
+msgstr "Vous pouvez appuyer sur le bouton Ultime pour libérer la capacité ultime de votre héros."
 
 #. Key:	GuideP2_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17013,9 +17389,7 @@ msgstr "et vous permettent d'éliminer facilement vos ennemis."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideQ_1_1"
 msgid "Finally, here is the free practice room we’ve prepared for you"
-msgstr ""
-"Enfin, voici la salle d'entraînement gratuite que nous avons préparée pour "
-"vous"
+msgstr "Enfin, voici la salle d'entraînement gratuite que nous avons préparée pour vous"
 
 #. Key:	GuideQ_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17025,9 +17399,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideQ_2_1"
 msgid "Here, you can quickly run through the skills you just learned."
-msgstr ""
-"Ici, vous pouvez rapidement passer en revue les compétences que vous venez "
-"d'acquérir."
+msgstr "Ici, vous pouvez rapidement passer en revue les compétences que vous venez d'acquérir."
 
 #. Key:	GuideQ_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17037,9 +17409,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideQ_2_2"
 msgid "If you can’t wait to start your Quantaar journey, you can also go directly to the Lobby."
-msgstr ""
-"Si vous êtes impatient de commencer votre voyage à Quantaar, vous pouvez "
-"également vous rendre directement dans le lobby."
+msgstr "Si vous êtes impatient de commencer votre voyage à Quantaar, vous pouvez également vous rendre directement dans le lobby."
 
 #. Key:	GuideQ_2_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17099,9 +17469,7 @@ msgstr "Appuyez sur ce bouton pour activer l'appareil."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideR3_2_1"
 msgid "You can visit the Lobby and return here at any time, if you would like to practice any techniques."
-msgstr ""
-"Vous pouvez visiter le lobby et y revenir à tout moment, si vous souhaitez "
-"pratiquer une technique."
+msgstr "Vous pouvez visiter le lobby et y revenir à tout moment, si vous souhaitez pratiquer une technique."
 
 #. Key:	GuideR3_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17111,9 +17479,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideR3_2_2"
 msgid "We also have a more comprehensive Training Mode which you can access from the Lobby interface."
-msgstr ""
-"Nous avons également un mode d'entraînement plus complet auquel vous pouvez "
-"accéder depuis l'interface du lobby."
+msgstr "Nous avons également un mode d'entraînement plus complet auquel vous pouvez accéder depuis l'interface du lobby."
 
 #. Key:	GuideS_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17124,6 +17490,16 @@ msgstr ""
 msgctxt "Subtitle,GuideS_1_1"
 msgid "Well, great! You’ve learned all there is to know here"
 msgstr "Eh bien, super ! Vous avez appris tout ce qu'il y a à savoir ici"
+
+#. Key:	GuideState1_1_1_1
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+#. InfoMetaData:	"日文" : "聞こえますか？"
+#. InfoMetaData:	"簡體中文" : "听的到吗?"
+#. InfoMetaData:	"繁體中文" : "聽的到嗎?"
+#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+msgctxt "Subtitle,GuideState1_1_1_1"
+msgid "Can you hear me?"
+msgstr "Tu m'entends ?"
 
 #. Key:	GuideState1_1_1_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17163,8 +17539,7 @@ msgstr "Aimez-vous l'appareil que vous venez de recevoir ?"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState1_1_2_1"
 msgid "I am your Assistant and your guide to everything in Quantaar."
-msgstr ""
-"Je suis votre assistante et votre guide pour tout ce qui concerne Quantaar."
+msgstr "Je suis votre assistante et votre guide pour tout ce qui concerne Quantaar."
 
 #. Key:	GuideState1_1_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17204,9 +17579,7 @@ msgstr "Vous pouvez voir votre droïde en face de vous."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState1_2_1_2"
 msgid "With our guidance, you’ll be able to become a successful Observer"
-msgstr ""
-"Grâce à nos conseils, vous serez en mesure de devenir un observateur "
-"performant"
+msgstr "Grâce à nos conseils, vous serez en mesure de devenir un observateur performant"
 
 #. Key:	GuideState1_3_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17217,6 +17590,16 @@ msgstr ""
 msgctxt "Subtitle,GuideState1_3_1_1"
 msgid "Well, it seems that the droid has already loaded the jump channel."
 msgstr "Eh bien, il semble que le droïde ait déjà chargé le canal de saut."
+
+#. Key:	GuideState1_3_1_2
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+#. InfoMetaData:	"日文" : "ドロイドに、拳をぶつけてバンプしてみてください"
+#. InfoMetaData:	"簡體中文" : "和小帮手碰拳吧"
+#. InfoMetaData:	"繁體中文" : "和小幫手碰拳吧"
+#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
+msgctxt "Subtitle,GuideState1_3_1_2"
+msgid "Give it a fist bump."
+msgstr "Donnez-lui un coup de poing."
 
 #. Key:	GuideState1_3_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17296,8 +17679,7 @@ msgstr "Il s'agit du salon personnel de l'Observateur."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState3_Intro_1_3"
 msgid "You will return here after completing battles or other activities."
-msgstr ""
-"Vous reviendrez ici après avoir terminé des batailles ou d'autres activités."
+msgstr "Vous reviendrez ici après avoir terminé des batailles ou d'autres activités."
 
 #. Key:	GuideState3_Intro_1_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17327,9 +17709,7 @@ msgstr "Cet espace contient un salon au premier étage,"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState3_Intro_2_2"
 msgid "and the bridge on the second floor can lead you to other areas of the space station."
-msgstr ""
-"et le pont du deuxième étage peut vous mener à d'autres zones de la station "
-"spatiale."
+msgstr "et le pont du deuxième étage peut vous mener à d'autres zones de la station spatiale."
 
 #. Key:	GuideState3_Intro_3_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17359,9 +17739,7 @@ msgstr "Vous pouvez changer la musique dans le lobby via le lecteur de musique,"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState3_Intro_3_3"
 msgid "the environment switching function can change the scenery outside the window,"
-msgstr ""
-"la fonction de changement d'environnement peut changer le décor en dehors de "
-"la fenêtre,"
+msgstr "la fonction de changement d'environnement peut changer le décor en dehors de la fenêtre,"
 
 #. Key:	GuideState3_Intro_3_4
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17371,9 +17749,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState3_Intro_3_4"
 msgid "and there are many items in the toy box you can use to interact with this environment."
-msgstr ""
-"et le coffre à jouets contient de nombreux objets que vous pouvez utiliser "
-"pour interagir avec cet environnement."
+msgstr "et le coffre à jouets contient de nombreux objets que vous pouvez utiliser pour interagir avec cet environnement."
 
 #. Key:	GuideState3_ItemShowDone_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17433,8 +17809,7 @@ msgstr "Laissez-moi vous expliquer comment le Core est utilisé."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState4_EquipDone"
 msgid "Please come back here often to fine-tune and make adjustments."
-msgstr ""
-"Veuillez revenir souvent ici pour peaufiner et apporter des ajustements."
+msgstr "Veuillez revenir souvent ici pour peaufiner et apporter des ajustements."
 
 #. Key:	GuideState4_IntroCore_1_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17444,9 +17819,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState4_IntroCore_1_1"
 msgid "Stock Cores can improve or give a Hero various abilities."
-msgstr ""
-"Les noyaux de stock peuvent améliorer ou donner différentes capacités à un "
-"héros."
+msgstr "Les noyaux de stock peuvent améliorer ou donner différentes capacités à un héros."
 
 #. Key:	GuideState4_IntroCore_1_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17456,8 +17829,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState4_IntroCore_1_2"
 msgid "Stock cores come in various rarities and styles."
-msgstr ""
-"Les noyaux en stock sont disponibles dans différentes raretés et styles."
+msgstr "Les noyaux en stock sont disponibles dans différentes raretés et styles."
 
 #. Key:	GuideState4_IntroCore_1_3
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17467,9 +17839,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState4_IntroCore_1_3"
 msgid "The higher the rarity of the Core, the harder it is to obtain, but the more versatile it is."
-msgstr ""
-"Plus la rareté du Core est élevée, plus il est difficile à obtenir, mais "
-"plus il est polyvalent."
+msgstr "Plus la rareté du Core est élevée, plus il est difficile à obtenir, mais plus il est polyvalent."
 
 #. Key:	GuideState4_IntroCore_2_1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17479,8 +17849,7 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState4_IntroCore_2_1"
 msgid "Cores are divided into three styles: Aggressive, Intelligent and Agile."
-msgstr ""
-"Les cœurs sont divisés en trois styles : agressif, intelligent et agile."
+msgstr "Les cœurs sont divisés en trois styles : agressif, intelligent et agile."
 
 #. Key:	GuideState4_IntroCore_2_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17540,9 +17909,7 @@ msgstr "Une fois le Core équipé,"
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,GuideState4_PressEdit_1_3"
 msgid "you can directly select the preset group during the selection process of the battle and use it."
-msgstr ""
-"vous pouvez directement sélectionner le groupe prédéfini pendant le "
-"processus de sélection de la bataille et l'utiliser."
+msgstr "vous pouvez directement sélectionner le groupe prédéfini pendant le processus de sélection de la bataille et l'utiliser."
 
 #. Key:	LobbyGreeting1
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17582,9 +17949,7 @@ msgstr "C'est un travail difficile, Observer."
 #: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 msgctxt "Subtitle,RingAppear"
 msgid "Please stick your hands into the rings to obtain Quantaar's Bracelet"
-msgstr ""
-"Veuillez mettre vos mains dans les anneaux pour obtenir le bracelet de "
-"Quantaar"
+msgstr "Veuillez mettre vos mains dans les anneaux pour obtenir le bracelet de Quantaar"
 
 #. Key:	SettingHeightHint
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
@@ -17616,200 +17981,6 @@ msgctxt "Subtitle,SettingPlayMode_1_1"
 msgid "First, we need to register your information."
 msgstr "Tout d'abord, nous devons enregistrer vos informations."
 
-#. Key:	[0000200]TimeOut
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000200]TimeOut"
-msgid "要求大廳資料連線逾時"
-msgstr "要求大廳資料連線逾時"
-
-#. Key:	[0000000]Success
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000000]Success"
-msgid "成功"
-msgstr "成功"
-
-#. Key:	[0000100]TimeOut
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000100]TimeOut"
-msgid "要求玩家資料連線逾時"
-msgstr "要求玩家資料連線逾時"
-
-#. Key:	[0000101]NoUserData
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000101]NoUserData"
-msgid "沒有資料"
-msgstr "沒有資料"
-
-#. Key:	[0000102]RequestUserData_GetItem_Failed
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000102]RequestUserData_GetItem_Failed"
-msgid "沒有資料 [0000102]"
-msgstr "[0000102]"
-
-#. Key:	[0000103]GetUserID_IsInThePlayerUserID
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000103]GetUserID_IsInThePlayerUserID"
-msgid "沒有資料 [0000103]"
-msgstr "[0000103]"
-
-#. Key:	[0000104]VersionMismatch
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000104]VersionMismatch"
-msgid "版本不匹配 [0000104]"
-msgstr "[0000104]"
-
-#. Key:	[0000105]AFK
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000105]AFK"
-msgid "玩家暫離過久 [0000105]"
-msgstr "[0000105]"
-
-#. Key:	[0000201]NoUserData
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0000201]NoUserData"
-msgid "沒有大廳資料"
-msgstr "沒有大廳資料"
-
-#. Key:	[0020204]RoomFull
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
-msgctxt "ST_Game_StateCode,[0020204]RoomFull"
-msgid "房間已滿"
-msgstr "房間已滿"
-
-#. Key:	[0017003]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"UI" : "WB_OnlineBattle_ServerList"
-#. InfoMetaData:	"中文" : "歐洲"
-#. InfoMetaData:	"使用到的藍圖" : "WB_OnlineBattle_ServerList"
-#. InfoMetaData:	"日文" : "ヨーロッパ"
-#. InfoMetaData:	"簡體中文" : "欧洲"
-#. InfoMetaData:	"西班牙" : "Europa"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[0017003]"
-msgid "Europe"
-msgstr "L'Europe"
-
-#. Key:	[0033004]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"UI" : "WB_OnlineBattle_BattleInfoScreen"
-#. InfoMetaData:	"中文" : "每回合秒數"
-#. InfoMetaData:	"使用到的藍圖" : "WB_OnlineBattle_BattleInfoScreen"
-#. InfoMetaData:	"日文" : "ラウンドあたりの秒数"
-#. InfoMetaData:	"簡體中文" : "每回合秒数"
-#. InfoMetaData:	"西班牙" : "Segs. por Ronda"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[0033004]"
-msgid "Time per round"
-msgstr "Durée par tour"
-
-#. Key:	[1001001]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "英雄 - 費羅"
-#. InfoMetaData:	"日文" : "ヒーロー - フロー"
-#. InfoMetaData:	"簡體中文" : "英雄 - 费罗"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[1001001]"
-msgid "Hero - Flaw"
-msgstr "Hero - Faille"
-
-#. Key:	[3017001]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"UI" : "Comeback Core"
-#. InfoMetaData:	"中文" : "迴光核心"
-#. InfoMetaData:	"日文" : "回復コア"
-#. InfoMetaData:	"簡體中文" : "回光核心"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[3017001]"
-msgid "Comeback Core"
-msgstr "Comeback Core"
-
-#. Key:	[5000007]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "遊玩一個大廳玩具"
-#. InfoMetaData:	"簡體中文" : "游玩一个大厅玩具"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[5000007]"
-msgid "Play A Toy"
-msgstr "Jouez à un jouet"
-
-#. Key:	[9001514]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001514]"
-msgid "UPGRADED"
-msgstr "MIS À NIVEAU"
-
-#. Key:	[9001564]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001564]"
-msgid "Not available yet"
-msgstr "Pas encore disponible"
-
-#. Key:	[9001587]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001587]"
-msgid "Spectator"
-msgstr "Spectateur"
-
-#. Key:	[9001671]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001671]"
-msgid "Firework Type A"
-msgstr "Feu d'artifice de type A"
-
-#. Key:	GuideB_1_2
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-#. InfoMetaData:	"日文" : "手を見てください"
-#. InfoMetaData:	"簡體中文" : "你可以看看你的手"
-#. InfoMetaData:	"繁體中文" : "你可以看看你的手"
-#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-msgctxt "Subtitle,GuideB_1_2"
-msgid "If you look at your hand,"
-msgstr "Si tu regardes ta main,"
-
-#. Key:	GuideD_2_1
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-#. InfoMetaData:	"日文" : "ドロイドがリードしますので"
-#. InfoMetaData:	"簡體中文" : "请跟着小帮手"
-#. InfoMetaData:	"繁體中文" : "請跟著小幫手"
-#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-msgctxt "Subtitle,GuideD_2_1"
-msgid "Please follow the Droid."
-msgstr "Veuillez suivre le droïde."
-
-#. Key:	GuideState1_1_1_1
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-#. InfoMetaData:	"日文" : "聞こえますか？"
-#. InfoMetaData:	"簡體中文" : "听的到吗?"
-#. InfoMetaData:	"繁體中文" : "聽的到嗎?"
-#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-msgctxt "Subtitle,GuideState1_1_1_1"
-msgid "Can you hear me?"
-msgstr "Tu m'entends ?"
-
-#. Key:	GuideState1_3_1_2
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-#. InfoMetaData:	"日文" : "ドロイドに、拳をぶつけてバンプしてみてください"
-#. InfoMetaData:	"簡體中文" : "和小帮手碰拳吧"
-#. InfoMetaData:	"繁體中文" : "和小幫手碰拳吧"
-#: /Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
-msgctxt "Subtitle,GuideState1_3_1_2"
-msgid "Give it a fist bump."
-msgstr "Donnez-lui un coup de poing."
-
 #. Key:	SettingPlayMode_1_2
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Subtitle.ST_Game_Subtitle
 #. InfoMetaData:	"日文" : "お好みのオプションを選択してください"
@@ -17820,284 +17991,3 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Sélectionnez les options qui correspondent le mieux à vos préférences."
 
-#. Key:	[9001023]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"UI" : "WB_OnlineBattle_BattleMode_Wide"
-#. InfoMetaData:	"中文" : "社交大廳"
-#. InfoMetaData:	"使用到的藍圖" : "WB_OnlineBattle_BattleMode_Wide"
-#. InfoMetaData:	"日文" : "ソーシャルホール"
-#. InfoMetaData:	"簡體中文" : "社交大厅"
-#. InfoMetaData:	"西班牙" : "Social"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001023]"
-msgid "PARTY HALL"
-msgstr "SALLE DES FÊTES"
-
-#. Key:	[9001122]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "創建社交大廳"
-#. InfoMetaData:	"日文" : "ソーシャルホールの作成"
-#. InfoMetaData:	"簡體中文" : "创建社交大厅"
-#. InfoMetaData:	"西班牙" : "CREAR SALA SOCIAL"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001122]"
-msgid "CREATE PARTY HALL"
-msgstr "CRÉER UNE SALLE DE FÊTE"
-
-#. Key:	[9001123]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "社交大廳列表"
-#. InfoMetaData:	"日文" : "ソーシャルホールリスト"
-#. InfoMetaData:	"簡體中文" : "社交大厅列表"
-#. InfoMetaData:	"西班牙" : "LISTA DE SALONES SOCIALES"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001123]"
-msgid "PARTY HALL LIST"
-msgstr "LISTE DES SALLES DE FÊTES"
-
-#. Key:	[9001129]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "加入社交房間"
-#. InfoMetaData:	"日文" : "ソーシャルルームに参加"
-#. InfoMetaData:	"簡體中文" : "加入社交房间"
-#. InfoMetaData:	"西班牙" : "ÚNETE A LA SALA SOCIAL"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001129]"
-msgid "JOIN PARTY HALL"
-msgstr "REJOIGNEZ LA SALLE DES FÊTES"
-
-#. Key:	[9001344]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "前往社交大廳"
-#. InfoMetaData:	"日文" : "ソーシャルホールに入る"
-#. InfoMetaData:	"簡體中文" : "前往社交大厅"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001344]"
-msgid "Enter Party"
-msgstr "Entrez dans le groupe"
-
-#. Key:	[9001481]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"UI" : "HomeUI"
-#. InfoMetaData:	"中文" : "社交"
-#. InfoMetaData:	"日文" : "ソーシャル"
-#. InfoMetaData:	"簡體中文" : "社交"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001481]"
-msgid "PARTY"
-msgstr "FÊTE"
-
-#. Key:	[9001585]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001585]"
-msgid "Invite your friend to the Party Hall"
-msgstr "Invitez votre ami dans la salle des fêtes"
-
-#. Key:	[9001673]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001673]"
-msgid "Border Controller"
-msgstr "Contrôleur des frontières"
-
-#. Key:	[9001674]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001674]"
-msgid "Border Control Early Access Bundle"
-msgstr "Offre groupée d'accès anticipé pour le contrôle des frontières"
-
-#. Key:	[9001675]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001675]"
-msgid "Border Control Bundle"
-msgstr "Pack de contrôle des frontières"
-
-#. Key:	[9001676]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001676]"
-msgid "Border Observer Helmet"
-msgstr "Casque Border Observer"
-
-#. Key:	[9001677]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001677]"
-msgid "Border Observer Gloves"
-msgstr "Gants Border Observer"
-
-#. Key:	9001678
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001678"
-msgid "Unlock the Power of Border Controller in the Store!"
-msgstr "Exploitez le pouvoir du contrôleur frontalier dans la boutique !"
-
-#. Key:	[9001413]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "社交大廳"
-#. InfoMetaData:	"日文" : "ソーシャルホール"
-#. InfoMetaData:	"簡體中文" : "社交大厅"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001413]"
-msgid "Party Hall"
-msgstr "Salle des fêtes"
-
-#. Key:	9001712
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001712"
-msgid "Mystic Ocean"
-msgstr "Océan mystique"
-
-#. Key:	9001713
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001713"
-msgid "Mystic Lolita"
-msgstr "Lolita mystique"
-
-#. Key:	[9001527]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001527]"
-msgid "d "
-msgstr "d "
-
-#. Key:	9001714
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001714"
-msgid "Mummy"
-msgstr "momie"
-
-#. Key:	9001715
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001715"
-msgid "Golden Mummy"
-msgstr "Momie dorée"
-
-#. Key:	9001679
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001679"
-msgid "CUSTOM"
-msgstr "CUSTOM"
-
-#. Key:	9001680
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001680"
-msgid "PROFILE"
-msgstr "PROFILE"
-
-#. Key:	9001681
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001681"
-msgid "EFFECTS"
-msgstr "EFFECTS"
-
-#. Key:	9001682
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001682"
-msgid "ID FRAME"
-msgstr "ID FRAME"
-
-#. Key:	9001683
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001683"
-msgid "Products are being restocked, please stay tuned!"
-msgstr "Les produits sont en cours de réapprovisionnement, restez à l'écoute !"
-
-#. Key:	9001684
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001684"
-msgid "COMINGSOON!"
-msgstr "COMINGSOON!"
-
-#. Key:	9001685
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001685"
-msgid "STYLE FITTING"
-msgstr "STYLE FITTING"
-
-#. Key:	9001686
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001686"
-msgid "Party Item"
-msgstr "Party Item"
-
-#. Key:	9001687
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001687"
-msgid "Banner"
-msgstr "Banner"
-
-#. Key:	9001688
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001688"
-msgid "Profile rewards"
-msgstr "Profile rewards"
-
-#. Key:	9001689
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001689"
-msgid "REFERRAL PROGRAM"
-msgstr "REFERRAL PROGRAM"
-
-#. Key:	9001722
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,9001722"
-msgid "For more information, visit the event page."
-msgstr "Pour plus d'informations, veuillez consulter la page de l'événement."
-
-#. Key:	[9001165]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : " 小時"
-#. InfoMetaData:	"日文" : " 時間"
-#. InfoMetaData:	"簡體中文" : " 小时"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001165]"
-msgid "left"
-msgstr "gauche"
-
-#. Key:	[9001290]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "時"
-#. InfoMetaData:	"日文" : "時間"
-#. InfoMetaData:	"簡體中文" : "时"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001290]"
-msgid "h "
-msgstr "h "
-
-#. Key:	[9001291]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "分"
-#. InfoMetaData:	"日文" : "分"
-#. InfoMetaData:	"簡體中文" : "分"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001291]"
-msgid "m "
-msgstr "m "
-
-#. Key:	[9001649]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001649]"
-msgid "Taboo"
-msgstr "tabou"

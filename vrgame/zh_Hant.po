@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-30 03:37\n"
-"PO-Revision-Date: 2023-10-30 03:37\n"
+"POT-Creation-Date: 2023-10-31 08:01\n"
+"PO-Revision-Date: 2023-10-31 08:01\n"
 "Language-Team: \n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
@@ -832,6 +832,13 @@ msgctxt "ST_Game_StateCode,[0021300]TimeOut"
 msgid "配對資料連線逾時"
 msgstr ""
 
+#. Key:	[0021400]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0021400]TimeOut"
+msgid "要求房間列表連線逾時"
+msgstr ""
+
 #. Key:	[0030100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1573,6 +1580,41 @@ msgstr "萬聖限定大頭貼"
 msgctxt "ST_Game_Widget,9001730"
 msgid "COSTUME PARTY BUNDLE"
 msgstr "變裝派對禮包"
+
+#. Key:	9001731
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001731"
+msgid "NEW ARENA REVEALED"
+msgstr "新競技場登場"
+
+#. Key:	9001732
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001732"
+msgid "Unlock Premium Edition to select your preferred Arena in Custom Mode."
+msgstr "購買高級版後即可在自訂房間選擇競技場"
+
+#. Key:	9001733
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001733"
+msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
+msgstr "隨時小心海中鯊魚，在熱帶海島與漂浮的木伐之間戰鬥吧！"
+
+#. Key:	9001734
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001734"
+msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
+msgstr "注意力道，在有各種變化的蛋糕上進行一場刺激的對戰！"
+
+#. Key:	9001735
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001735"
+msgid "NEW ARENA"
+msgstr "新競技場"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

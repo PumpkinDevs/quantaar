@@ -1,20 +1,17 @@
-# Game Japanese (Japan) translation.
+﻿# Game Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-30 03:37\n"
-"PO-Revision-Date: 2023-10-31 04:42+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Japanese <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ja/>\n"
-"Language: jp\n"
+"POT-Creation-Date: 2023-10-31 08:01\n"
+"PO-Revision-Date: 2023-10-31 08:01\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -835,6 +832,13 @@ msgctxt "ST_Game_StateCode,[0021300]TimeOut"
 msgid "配對資料連線逾時"
 msgstr ""
 
+#. Key:	[0021400]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0021400]TimeOut"
+msgid "要求房間列表連線逾時"
+msgstr ""
+
 #. Key:	[0030100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1576,6 +1580,41 @@ msgstr "ハロウィン限定プロフィール"
 msgctxt "ST_Game_Widget,9001730"
 msgid "COSTUME PARTY BUNDLE"
 msgstr "仮装パーティーセット"
+
+#. Key:	9001731
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001731"
+msgid "NEW ARENA REVEALED"
+msgstr "新アリーナが解禁されました"
+
+#. Key:	9001732
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001732"
+msgid "Unlock Premium Edition to select your preferred Arena in Custom Mode."
+msgstr "カスタムモードでお好きなアリーナを選択するには、プレミアムエディションをアンロックしてください。"
+
+#. Key:	9001733
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001733"
+msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
+msgstr "熱帯の島々と浮かぶ丸太の間でバトルを繰り広げる際はサメに気をつけてください！"
+
+#. Key:	9001734
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001734"
+msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
+msgstr "ダイナミックなケーキの風景で繰り広げられるスリリングなバトルに備えてください！"
+
+#. Key:	9001735
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001735"
+msgid "NEW ARENA"
+msgstr "新アリーナ"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17951,3 +17990,4 @@ msgstr "まず、あなたの情報を登録しましょう"
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "お好みのオプションを選択してください"
+

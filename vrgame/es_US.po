@@ -1,20 +1,17 @@
-# Game Spanish (United States) translation.
+﻿# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-30 03:37\n"
-"PO-Revision-Date: 2023-10-30 08:23+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/es_US/>\n"
-"Language: es_US\n"
+"POT-Creation-Date: 2023-10-31 08:01\n"
+"PO-Revision-Date: 2023-10-31 08:01\n"
+"Language-Team: \n"
+"Language: es-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -835,6 +832,13 @@ msgctxt "ST_Game_StateCode,[0021300]TimeOut"
 msgid "配對資料連線逾時"
 msgstr "配對資料連線逾時"
 
+#. Key:	[0021400]TimeOut
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+#: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
+msgctxt "ST_Game_StateCode,[0021400]TimeOut"
+msgid "要求房間列表連線逾時"
+msgstr ""
+
 #. Key:	[0030100]TimeOut
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
 #: /Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1576,6 +1580,41 @@ msgstr ""
 msgctxt "ST_Game_Widget,9001730"
 msgid "COSTUME PARTY BUNDLE"
 msgstr ""
+
+#. Key:	9001731
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001731"
+msgid "NEW ARENA REVEALED"
+msgstr "NUEVA ARENA REVELADA"
+
+#. Key:	9001732
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001732"
+msgid "Unlock Premium Edition to select your preferred Arena in Custom Mode."
+msgstr "Desbloquea la Edición Premium para seleccionar tu Arena preferida en el Modo Personalizado."
+
+#. Key:	9001733
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001733"
+msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
+msgstr "¡Cuidado con los tiburones mientras luchas en las islas tropicales y los troncos flotantes!"
+
+#. Key:	9001734
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001734"
+msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
+msgstr "¡Mantente alerta para emocionantes batallas en los dinámicos paisajes de pasteles!"
+
+#. Key:	9001735
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001735"
+msgid "NEW ARENA"
+msgstr "NUEVA ARENA"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -11619,7 +11658,7 @@ msgstr " Minutos"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001165]"
 msgid "left"
-msgstr ""
+msgstr " Horas"
 
 #. Key:	[9001166]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17951,3 +17990,4 @@ msgstr "Primero, necesitamos registrar stu información."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
+
