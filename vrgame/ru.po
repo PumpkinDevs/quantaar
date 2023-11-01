@@ -1,17 +1,21 @@
-﻿# Game Russian translation.
+# Game Russian translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-10-31 08:01\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-11-01 09:36+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Russian <http://i18n.office.pumpkinvrar.com/projects/"
+"quantaar-bo/ue/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1299,63 +1303,63 @@ msgstr "REFERRAL PROGRAM"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001690"
 msgid "Sheet Ghost (White)"
-msgstr ""
+msgstr "Sheet Ghost (White)"
 
 #. Key:	9001691
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001691"
 msgid "Sheet Ghost (Purple)"
-msgstr ""
+msgstr "Sheet Ghost (Purple)"
 
 #. Key:	9001692
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001692"
 msgid "Sheet Ghost (Blue)"
-msgstr ""
+msgstr "Sheet Ghost (Blue)"
 
 #. Key:	9001693
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001693"
 msgid "Haunted Pumpkin (Pumpkin)"
-msgstr ""
+msgstr "Призрачная тыква (Тыква)"
 
 #. Key:	9001694
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001694"
 msgid "Haunted Pumpkin (Purple)"
-msgstr ""
+msgstr "Haunted Pumpkin (Purple)"
 
 #. Key:	9001695
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001695"
 msgid "Haunted Pumpkin (Green)"
-msgstr ""
+msgstr "Призрачная тыква (Зеленая)"
 
 #. Key:	9001696
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001696"
 msgid "Demon Wings (Purple)"
-msgstr ""
+msgstr "Demon Wings (Purple)"
 
 #. Key:	9001697
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001697"
 msgid "Demon Wings (Blue)"
-msgstr ""
+msgstr "Demon Wings (Blue)"
 
 #. Key:	9001698
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001698"
 msgid "Demon Wings (Orange)"
-msgstr ""
+msgstr "Demon Wings (Orange)"
 
 #. Key:	9001699
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1481,42 +1485,42 @@ msgstr "Golden Mummy"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001716"
 msgid "Halloween Pumpkin Head"
-msgstr ""
+msgstr "Хэллоуинская тыквенная голова"
 
 #. Key:	9001717
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001717"
 msgid "Golden Pumpkin Head"
-msgstr ""
+msgstr "Золотая тыква в голове"
 
 #. Key:	9001718
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001718"
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Вампирский гроб"
 
 #. Key:	9001719
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001719"
 msgid "Golden Vampire Coffin"
-msgstr ""
+msgstr "Золотой вампирский гроб"
 
 #. Key:	9001720
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001720"
 msgid "Mummy Hands (Amethyst)"
-msgstr ""
+msgstr "Руки мумии (аметист)"
 
 #. Key:	9001721
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001721"
 msgid "Golden Mummy Hands (Ruby)"
-msgstr ""
+msgstr "Золотые руки мумии (рубин)"
 
 #. Key:	9001722
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1572,28 +1576,28 @@ msgstr ""
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001729"
 msgid "HALLOWEEN LIMITED PROFILE"
-msgstr ""
+msgstr "ХЭЛЛОУИН ОГРАНИЧЕННЫЙ ПРОФИЛЬ"
 
 #. Key:	9001730
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001730"
 msgid "COSTUME PARTY BUNDLE"
-msgstr ""
+msgstr "COSTUME PARTY BUNDLE"
 
 #. Key:	9001731
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001731"
 msgid "NEW ARENA REVEALED"
-msgstr ""
+msgstr "NEW ARENA REVEALED"
 
 #. Key:	9001732
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001732"
 msgid "Unlock Premium Edition to select your preferred Arena in Custom Mode."
-msgstr ""
+msgstr "Unlock Premium Edition to select your preferred Arena in Custom Mode."
 
 #. Key:	9001733
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1601,6 +1605,7 @@ msgstr ""
 msgctxt "ST_Game_Widget,9001733"
 msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
 msgstr ""
+"Остерегайтесь акул, сражаясь на тропических островах и плавающих бревнах!"
 
 #. Key:	9001734
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1608,13 +1613,15 @@ msgstr ""
 msgctxt "ST_Game_Widget,9001734"
 msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
 msgstr ""
+"Будьте бдительны, ожидайте захватывающих битв на динамичных пейзажах в стиле "
+"торта!"
 
 #. Key:	9001735
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001735"
 msgid "NEW ARENA"
-msgstr ""
+msgstr "NEW ARENA"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17991,3 +17998,14 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Выберите варианты, которые лучше всего соответствуют вашим предпочтениям."
 
+#. Key:	[9001039]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "已持有"
+#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
+#. InfoMetaData:	"日文" : "所有"
+#. InfoMetaData:	"簡體中文" : "已持有"
+#. InfoMetaData:	"西班牙" : "En propiedad"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001039]"
+msgid "Owned"
+msgstr "OWNED"
