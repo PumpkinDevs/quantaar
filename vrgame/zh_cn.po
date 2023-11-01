@@ -1,17 +1,20 @@
-﻿# Game Chinese (Simplified, China) translation.
+# Game Chinese (Simplified, China) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-10-31 08:01\n"
-"Language-Team: \n"
-"Language: zh-Hans-CN\n"
+"PO-Revision-Date: 2023-11-01 09:36+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: Chinese (Simplified) <http://i18n.office.pumpkinvrar.com/"
+"projects/quantaar-bo/ue/zh_Hans/>\n"
+"Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -17991,3 +17994,14 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "请依照你的使用习惯选择你的设定"
 
+#. Key:	[9001039]
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#. InfoMetaData:	"中文" : "已持有"
+#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
+#. InfoMetaData:	"日文" : "所有"
+#. InfoMetaData:	"簡體中文" : "已持有"
+#. InfoMetaData:	"西班牙" : "En propiedad"
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,[9001039]"
+msgid "Owned"
+msgstr "持有"
