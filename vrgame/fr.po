@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-11-01 09:36+0000\n"
+"PO-Revision-Date: 2023-11-07 08:44+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: French <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/fr/>\n"
@@ -5141,7 +5141,7 @@ msgstr "Casque de samouraï (en forme de Q)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101003]"
 msgid "Cat Headphones (Colorful)"
-msgstr "Écouteurs pour chats (colorés)"
+msgstr "Casque audio chat (colorés)"
 
 #. Key:	[4101004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5163,7 +5163,7 @@ msgstr "Chapeau de shérif (brun)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101005]"
 msgid "Shark Hat (Aquamarine)"
-msgstr "Chapeau de requin (aigue-marine)"
+msgstr "Chapeau requin (aigue-marine)"
 
 #. Key:	[4101006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5174,7 +5174,7 @@ msgstr "Chapeau de requin (aigue-marine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101006]"
 msgid "Mohawk (Red)"
-msgstr "Mohawk (rouge)"
+msgstr "Crête (rouge)"
 
 #. Key:	[4101007]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5185,7 +5185,7 @@ msgstr "Mohawk (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101007]"
 msgid "Ace Helmet (Army Green)"
-msgstr "Casque Ace (vert militaire)"
+msgstr "Casque spatial (vert militaire)"
 
 #. Key:	[4101008]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5372,7 +5372,7 @@ msgstr "Couronne impériale (bleue)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101024]"
 msgid "Top Hat (Red)"
-msgstr "Top Hat (rouge)"
+msgstr "Haut-de-forme (rouge)"
 
 #. Key:	[4101025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5383,7 +5383,7 @@ msgstr "Top Hat (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101025]"
 msgid "Top Hat (Green)"
-msgstr "Top Hat (vert)"
+msgstr "Haut-de-forme (vert)"
 
 #. Key:	[4101026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5394,7 +5394,7 @@ msgstr "Top Hat (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101026]"
 msgid "Top Hat (Blue)"
-msgstr "Chapeau haut de forme (bleu)"
+msgstr "Haut-de-forme (Bleu)"
 
 #. Key:	[4101027]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5559,7 +5559,7 @@ msgstr "Chapeau de shérif (noir)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101041]"
 msgid "Ace Helmet (Desert Yellow)"
-msgstr "Casque Ace (jaune désert)"
+msgstr "Casque spatial (jaune désert)"
 
 #. Key:	[4101042]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5570,7 +5570,7 @@ msgstr "Casque Ace (jaune désert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101042]"
 msgid "Ace Helmet (White)"
-msgstr "Casque Ace (blanc)"
+msgstr "Casque spatial (blanc)"
 
 #. Key:	[4101043]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5581,7 +5581,7 @@ msgstr "Casque Ace (blanc)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101043]"
 msgid "Cat Headphones (Ocean Blue)"
-msgstr "Écouteurs pour chats (bleu océan)"
+msgstr "Casque audio chat (Bleu océan)"
 
 #. Key:	[4101044]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5592,7 +5592,7 @@ msgstr "Écouteurs pour chats (bleu océan)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101044]"
 msgid "Cat Headphones (Pink)"
-msgstr "Casque Cat (rose)"
+msgstr "Casque audio chat (rose)"
 
 #. Key:	[4101045]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5603,7 +5603,7 @@ msgstr "Casque Cat (rose)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101045]"
 msgid "Cat Headphones (Lilac)"
-msgstr "Écouteurs pour chats (lilas)"
+msgstr "Casque audio chat (lilas)"
 
 #. Key:	[4101046]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5724,7 +5724,7 @@ msgstr "Chapeau à boire (platine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101056]"
 msgid "Mohawk (Red)"
-msgstr "Mohawk (rouge)"
+msgstr "Crête (rouge)"
 
 #. Key:	[4101057]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5735,7 +5735,7 @@ msgstr "Mohawk (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101057]"
 msgid "Mohawk (Green)"
-msgstr "Mohawk (vert)"
+msgstr "Crête (vert)"
 
 #. Key:	[4101058]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5746,7 +5746,7 @@ msgstr "Mohawk (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101058]"
 msgid "Mohawk (Blue)"
-msgstr "Mohawk (bleu)"
+msgstr "Crête (bleu)"
 
 #. Key:	[4101059]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5757,7 +5757,7 @@ msgstr "Mohawk (bleu)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101059]"
 msgid "Mohawk (Dark Brown)"
-msgstr "Mohawk (brun foncé)"
+msgstr "Crête (brun foncé)"
 
 #. Key:	[4101060]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5768,7 +5768,7 @@ msgstr "Mohawk (brun foncé)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101060]"
 msgid "Mohawk (Pink)"
-msgstr "Mohawk (rose)"
+msgstr "Crête (rose)"
 
 #. Key:	[4101061]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6043,7 +6043,7 @@ msgstr "Explorer (Vin)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101085]"
 msgid "Shark Hat (Aquamarine)"
-msgstr "Chapeau de requin (aigue-marine)"
+msgstr "Chapeau requin (aigue-marine)"
 
 #. Key:	[4101086]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6054,7 +6054,7 @@ msgstr "Chapeau de requin (aigue-marine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101086]"
 msgid "Shark Hat (Green)"
-msgstr "Chapeau Shark (vert)"
+msgstr "Chapeau requin (vert)"
 
 #. Key:	[4101087]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6065,7 +6065,7 @@ msgstr "Chapeau Shark (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101087]"
 msgid "Shark Hat (Yellow)"
-msgstr "Chapeau Shark (jaune)"
+msgstr "Chapeau requin (jaune)"
 
 #. Key:	[4101088]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6076,7 +6076,7 @@ msgstr "Chapeau Shark (jaune)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101088]"
 msgid "Shark Hat (Toy)"
-msgstr "Chapeau Shark (jouet)"
+msgstr "Chapeau requin (jouet)"
 
 #. Key:	[4101089]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6219,7 +6219,7 @@ msgstr "Chapeau de shérif (noir)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101101]"
 msgid "Top Hat (Red)"
-msgstr "Top Hat (rouge)"
+msgstr "Haut-de-forme (rouge)"
 
 #. Key:	[4101102]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6230,7 +6230,7 @@ msgstr "Top Hat (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101102]"
 msgid "Top Hat (Green)"
-msgstr "Top Hat (vert)"
+msgstr "Haut-de-forme (vert)"
 
 #. Key:	[4101103]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6241,7 +6241,7 @@ msgstr "Top Hat (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101103]"
 msgid "Top Hat (Blue)"
-msgstr "Chapeau haut de forme (bleu)"
+msgstr "Haut-de-forme (bleu)"
 
 #. Key:	[4101104]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6252,7 +6252,7 @@ msgstr "Chapeau haut de forme (bleu)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101104]"
 msgid "Top Hat (Purple)"
-msgstr "Top Hat (violet)"
+msgstr "Haut-de-forme (violet)"
 
 #. Key:	[4101105]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6263,7 +6263,7 @@ msgstr "Top Hat (violet)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101105]"
 msgid "Ace Helmet (Army Green)"
-msgstr "Casque Ace (vert militaire)"
+msgstr "Casque spatial (vert militaire)"
 
 #. Key:	[4101106]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6274,7 +6274,7 @@ msgstr "Casque Ace (vert militaire)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101106]"
 msgid "Ace Helmet (Desert Yellow)"
-msgstr "Casque Ace (jaune désert)"
+msgstr "Casque spatial (jaune désert)"
 
 #. Key:	[4101107]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6285,7 +6285,7 @@ msgstr "Casque Ace (jaune désert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101107]"
 msgid "Ace Helmet (White)"
-msgstr "Casque Ace (blanc)"
+msgstr "Casque spatial (blanc)"
 
 #. Key:	[4101108]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6296,7 +6296,7 @@ msgstr "Casque Ace (blanc)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101108]"
 msgid "Ace Helmet (Charcoal)"
-msgstr "Casque Ace (anthracite)"
+msgstr "Casque spatial (anthracite)"
 
 #. Key:	[4101109]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6309,7 +6309,7 @@ msgstr "Casque Ace (anthracite)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101109]"
 msgid "Shark Hat (Toy Aquamarine)"
-msgstr "Chapeau Shark (Toy Aquamarine)"
+msgstr "Chapeau requin (Toy Aquamarine)"
 
 #. Key:	[4101110]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6322,7 +6322,7 @@ msgstr "Chapeau Shark (Toy Aquamarine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101110]"
 msgid "Shark Hat (Toy Green)"
-msgstr "Chapeau Shark (Toy Green)"
+msgstr "Chapeau requin (Toy Green)"
 
 #. Key:	[4101111]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6335,7 +6335,7 @@ msgstr "Chapeau Shark (Toy Green)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101111]"
 msgid "Shark Hat (Toy Yellow)"
-msgstr "Chapeau Shark (Toy Yellow)"
+msgstr "Chapeau requin (Toy Yellow)"
 
 #. Key:	[4101112]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
