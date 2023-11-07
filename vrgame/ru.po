@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-11-01 09:36+0000\n"
+"PO-Revision-Date: 2023-11-07 08:44+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: Russian <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/ru/>\n"
@@ -5372,7 +5372,7 @@ msgstr "Императорская корона (синяя)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101024]"
 msgid "Top Hat (Red)"
-msgstr "Верхняя шляпа (красная)"
+msgstr "Цилиндр (красная)"
 
 #. Key:	[4101025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5383,7 +5383,7 @@ msgstr "Верхняя шляпа (красная)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101025]"
 msgid "Top Hat (Green)"
-msgstr "Верхняя шляпа (зеленая)"
+msgstr "Цилиндр (зеленая)"
 
 #. Key:	[4101026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5394,7 +5394,7 @@ msgstr "Верхняя шляпа (зеленая)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101026]"
 msgid "Top Hat (Blue)"
-msgstr "Верхняя шляпа (синяя)"
+msgstr "Цилиндр (синяя)"
 
 #. Key:	[4101027]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5735,7 +5735,7 @@ msgstr "Мохок (красный)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101057]"
 msgid "Mohawk (Green)"
-msgstr "Ирокез (зелёный)"
+msgstr "Мохок (зелёный)"
 
 #. Key:	[4101058]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5746,7 +5746,7 @@ msgstr "Ирокез (зелёный)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101058]"
 msgid "Mohawk (Blue)"
-msgstr "Ирокез (синий)"
+msgstr "Мохок (синий)"
 
 #. Key:	[4101059]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5768,7 +5768,7 @@ msgstr "Мохок (темно-коричневый)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101060]"
 msgid "Mohawk (Pink)"
-msgstr "Ирокез (розовый)"
+msgstr "Мохок (розовый)"
 
 #. Key:	[4101061]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6219,7 +6219,7 @@ msgstr "Шляпа шерифа (черная)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101101]"
 msgid "Top Hat (Red)"
-msgstr "Верхняя шляпа (красная)"
+msgstr "Цилиндр (красная)"
 
 #. Key:	[4101102]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6230,7 +6230,7 @@ msgstr "Верхняя шляпа (красная)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101102]"
 msgid "Top Hat (Green)"
-msgstr "Верхняя шляпа (зеленая)"
+msgstr "Цилиндр (зеленая)"
 
 #. Key:	[4101103]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6241,7 +6241,7 @@ msgstr "Верхняя шляпа (зеленая)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101103]"
 msgid "Top Hat (Blue)"
-msgstr "Верхняя шляпа (синяя)"
+msgstr "Цилиндр (синяя)"
 
 #. Key:	[4101104]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6252,7 +6252,7 @@ msgstr "Верхняя шляпа (синяя)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101104]"
 msgid "Top Hat (Purple)"
-msgstr "Верхняя шляпа (фиолетовая)"
+msgstr "Цилиндр (фиолетовая)"
 
 #. Key:	[4101105]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
