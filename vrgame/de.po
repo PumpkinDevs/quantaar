@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-11-01 09:36+0000\n"
+"PO-Revision-Date: 2023-11-07 08:44+0000\n"
 "Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
 "Language-Team: German <http://i18n.office.pumpkinvrar.com/projects/"
 "quantaar-bo/ue/de/>\n"
@@ -5141,7 +5141,7 @@ msgstr "Samurai-Helm (Q-förmig)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101003]"
 msgid "Cat Headphones (Colorful)"
-msgstr "Katzen-Kopfhörer (bunt)"
+msgstr "Katzenkopfhörer (bunt)"
 
 #. Key:	[4101004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5372,7 +5372,7 @@ msgstr "Kaiserkrone (Blau)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101024]"
 msgid "Top Hat (Red)"
-msgstr "Hut (Rot)"
+msgstr "Zylinder (Rot)"
 
 #. Key:	[4101025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5383,7 +5383,7 @@ msgstr "Hut (Rot)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101025]"
 msgid "Top Hat (Green)"
-msgstr "Top Hat (Grün)"
+msgstr "Zylinder (Grün)"
 
 #. Key:	[4101026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5394,7 +5394,7 @@ msgstr "Top Hat (Grün)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101026]"
 msgid "Top Hat (Blue)"
-msgstr "Top Hat (Blau)"
+msgstr "Zylinder (Blau)"
 
 #. Key:	[4101027]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5581,7 +5581,7 @@ msgstr "Ace Helmet (Weiß)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101043]"
 msgid "Cat Headphones (Ocean Blue)"
-msgstr "Katzen-Kopfhörer (Ozeanblau)"
+msgstr "Katzenkopfhörer (Ozeanblau)"
 
 #. Key:	[4101044]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5592,7 +5592,7 @@ msgstr "Katzen-Kopfhörer (Ozeanblau)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101044]"
 msgid "Cat Headphones (Pink)"
-msgstr "Katzen-Kopfhörer (Rosa)"
+msgstr "Katzenkopfhörer (Rosa)"
 
 #. Key:	[4101045]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5603,7 +5603,7 @@ msgstr "Katzen-Kopfhörer (Rosa)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101045]"
 msgid "Cat Headphones (Lilac)"
-msgstr "Katzen-Kopfhörer (Flieder)"
+msgstr "Katzenkopfhörer (Flieder)"
 
 #. Key:	[4101046]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5955,7 +5955,7 @@ msgstr "Shakyamuni-Kopf (Gold)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101077]"
 msgid "Space Helmet (White)"
-msgstr "Space Helmet (Weiß)"
+msgstr "Raumhelm (Weiß)"
 
 #. Key:	[4101078]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5966,7 +5966,7 @@ msgstr "Space Helmet (Weiß)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101078]"
 msgid "Space Helmet (Black)"
-msgstr "Space Helmet (Schwarz)"
+msgstr "Raumhelm (Schwarz)"
 
 #. Key:	[4101079]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5977,7 +5977,7 @@ msgstr "Space Helmet (Schwarz)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101079]"
 msgid "Space Helmet (Gray)"
-msgstr "Weltraumhelm (Grau)"
+msgstr "Raumhelm (Grau)"
 
 #. Key:	[4101080]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5988,7 +5988,7 @@ msgstr "Weltraumhelm (Grau)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101080]"
 msgid "Space Helmet (RGB)"
-msgstr "Weltraumhelm (RGB)"
+msgstr "Raumhelm (RGB)"
 
 #. Key:	[4101081]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6164,7 +6164,7 @@ msgstr "Hundemütze (Braun)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101096]"
 msgid "Dog Hat (Black and White)"
-msgstr "Hundehut (Schwarz und Weiß)"
+msgstr "Hundemütze (Schwarz und Weiß)"
 
 #. Key:	[4101097]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6219,7 +6219,7 @@ msgstr "Sheriff-Hut (Schwarz)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101101]"
 msgid "Top Hat (Red)"
-msgstr "Hut (Rot)"
+msgstr "Zylinder (Rot)"
 
 #. Key:	[4101102]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6230,7 +6230,7 @@ msgstr "Hut (Rot)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101102]"
 msgid "Top Hat (Green)"
-msgstr "Top Hat (Grün)"
+msgstr "Zylinder (Grün)"
 
 #. Key:	[4101103]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6241,7 +6241,7 @@ msgstr "Top Hat (Grün)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101103]"
 msgid "Top Hat (Blue)"
-msgstr "Top Hat (Blau)"
+msgstr "Zylinder (Blau)"
 
 #. Key:	[4101104]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6252,7 +6252,7 @@ msgstr "Top Hat (Blau)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101104]"
 msgid "Top Hat (Purple)"
-msgstr "Top Hat (Violett)"
+msgstr "Zylinder (Violett)"
 
 #. Key:	[4101105]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
