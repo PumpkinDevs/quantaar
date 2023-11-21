@@ -1,20 +1,17 @@
-# Game French translation.
+﻿# Game French translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-11-07 08:44+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: French <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/fr/>\n"
+"POT-Creation-Date: 2023-11-21 08:48\n"
+"PO-Revision-Date: 2023-11-21 08:48\n"
+"Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1603,18 +1600,14 @@ msgstr "Unlock Premium Edition to select your preferred Arena in Custom Mode."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001733"
 msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
-msgstr ""
-"Attention aux requins pendant que vous combattez sur des îles tropicales et "
-"des troncs flottants!"
+msgstr "Attention aux requins pendant que vous combattez sur des îles tropicales et des troncs flottants!"
 
 #. Key:	9001734
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001734"
 msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
-msgstr ""
-"Restez attentifs pour des batailles palpitantes sur les paysages dynamiques "
-"en forme de gâteaux!"
+msgstr "Restez attentifs pour des batailles palpitantes sur les paysages dynamiques en forme de gâteaux!"
 
 #. Key:	9001735
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1622,6 +1615,195 @@ msgstr ""
 msgctxt "ST_Game_Widget,9001735"
 msgid "NEW ARENA"
 msgstr "NEW ARENA"
+
+#. Key:	9001736
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001736"
+msgid "Champion Crown (Weekly)"
+msgstr "Couronne de Champion (Hebdomadaire)"
+
+#. Key:	9001737
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001737"
+msgid "Gift Bow"
+msgstr "Nœud cadeau"
+
+#. Key:	9001738
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001738"
+msgid "Christmas Hat"
+msgstr "Chapeau de Noël"
+
+#. Key:	9001739
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001739"
+msgid "Christmas Hat (Snowflake Effect)"
+msgstr "Chapeau de Noël (effet flocon de neige)"
+
+#. Key:	9001740
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001740"
+msgid "Christmas Tree Hat"
+msgstr "Chapeau de sapin de Noël"
+
+#. Key:	9001741
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001741"
+msgid "Christmas Tree Hat (Christmas Lights)"
+msgstr "Chapeau de sapin de Noël (guirlande lumineuse de Noël)"
+
+#. Key:	9001742
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001742"
+msgid "Reindeer Hat"
+msgstr "Chapeau de renne"
+
+#. Key:	9001743
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001743"
+msgid "Reindeer Hat (Christmas Lights)"
+msgstr "Chapeau de renne (guirlande lumineuse de Noël)"
+
+#. Key:	9001744
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001744"
+msgid "Christmas Fur Hat"
+msgstr "Chapeau de fourrure de Noël"
+
+#. Key:	9001745
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001745"
+msgid "Christmas Gloves (Green)"
+msgstr "Gants de Noël (verts)"
+
+#. Key:	9001746
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001746"
+msgid "Christmas Gloves (Red)"
+msgstr "Gants de Noël (rouges)"
+
+#. Key:	9001747
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001747"
+msgid "Christmas Gloves (Colorful)"
+msgstr "Gants de Noël (colorés)"
+
+#. Key:	9001748
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001748"
+msgid "Carrot Nose"
+msgstr "Nez de carotte"
+
+#. Key:	9001749
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001749"
+msgid "Christmas Beard"
+msgstr "Barbe de Noël"
+
+#. Key:	9001750
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001750"
+msgid "Thick Glasses (Christmas)"
+msgstr "Lunettes épaisses (Noël)"
+
+#. Key:	9001751
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001751"
+msgid "Wrapping Paper (Green)"
+msgstr "Papier d'emballage (vert)"
+
+#. Key:	9001752
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001752"
+msgid "Wrapping Paper (Red)"
+msgstr "Papier d'emballage (rouge)"
+
+#. Key:	9001753
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001753"
+msgid "Snowball"
+msgstr "Boule de neige"
+
+#. Key:	9001754
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001754"
+msgid "Christmas"
+msgstr "Noël"
+
+#. Key:	9001755
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001755"
+msgid "Q - Christmas Lights"
+msgstr "Q - Guirlande lumineuse de Noël"
+
+#. Key:	9001756
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001756"
+msgid "Christmas Flaw"
+msgstr "Défaut de Noël"
+
+#. Key:	9001757
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001757"
+msgid "Reindeer Agent-Pug"
+msgstr "Agent-Pug renne"
+
+#. Key:	9001758
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001758"
+msgid "Christmas Tree"
+msgstr "Sapin de Noël"
+
+#. Key:	9001759
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001759"
+msgid "Reindeer"
+msgstr "Renard"
+
+#. Key:	9001760
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001760"
+msgid "Sleigh"
+msgstr "Traineau"
+
+#. Key:	9001761
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001761"
+msgid "Snowflake"
+msgstr "Flocon de neige"
+
+#. Key:	9001762
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001762"
+msgid "Santa Claus"
+msgstr "Père Noël"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5141,7 +5323,7 @@ msgstr "Casque de samouraï (en forme de Q)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101003]"
 msgid "Cat Headphones (Colorful)"
-msgstr "Casque audio chat (colorés)"
+msgstr "Écouteurs pour chats (colorés)"
 
 #. Key:	[4101004]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5163,7 +5345,7 @@ msgstr "Chapeau de shérif (brun)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101005]"
 msgid "Shark Hat (Aquamarine)"
-msgstr "Chapeau requin (aigue-marine)"
+msgstr "Chapeau de requin (aigue-marine)"
 
 #. Key:	[4101006]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5174,7 +5356,7 @@ msgstr "Chapeau requin (aigue-marine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101006]"
 msgid "Mohawk (Red)"
-msgstr "Crête (rouge)"
+msgstr "Mohawk (rouge)"
 
 #. Key:	[4101007]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5185,7 +5367,7 @@ msgstr "Crête (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101007]"
 msgid "Ace Helmet (Army Green)"
-msgstr "Casque spatial (vert militaire)"
+msgstr "Casque Ace (vert militaire)"
 
 #. Key:	[4101008]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5372,7 +5554,7 @@ msgstr "Couronne impériale (bleue)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101024]"
 msgid "Top Hat (Red)"
-msgstr "Haut-de-forme (rouge)"
+msgstr "Top Hat (rouge)"
 
 #. Key:	[4101025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5383,7 +5565,7 @@ msgstr "Haut-de-forme (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101025]"
 msgid "Top Hat (Green)"
-msgstr "Haut-de-forme (vert)"
+msgstr "Top Hat (vert)"
 
 #. Key:	[4101026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5394,7 +5576,7 @@ msgstr "Haut-de-forme (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101026]"
 msgid "Top Hat (Blue)"
-msgstr "Haut-de-forme (Bleu)"
+msgstr "Chapeau haut de forme (bleu)"
 
 #. Key:	[4101027]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5559,7 +5741,7 @@ msgstr "Chapeau de shérif (noir)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101041]"
 msgid "Ace Helmet (Desert Yellow)"
-msgstr "Casque spatial (jaune désert)"
+msgstr "Casque Ace (jaune désert)"
 
 #. Key:	[4101042]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5570,7 +5752,7 @@ msgstr "Casque spatial (jaune désert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101042]"
 msgid "Ace Helmet (White)"
-msgstr "Casque spatial (blanc)"
+msgstr "Casque Ace (blanc)"
 
 #. Key:	[4101043]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5581,7 +5763,7 @@ msgstr "Casque spatial (blanc)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101043]"
 msgid "Cat Headphones (Ocean Blue)"
-msgstr "Casque audio chat (Bleu océan)"
+msgstr "Écouteurs pour chats (bleu océan)"
 
 #. Key:	[4101044]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5592,7 +5774,7 @@ msgstr "Casque audio chat (Bleu océan)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101044]"
 msgid "Cat Headphones (Pink)"
-msgstr "Casque audio chat (rose)"
+msgstr "Casque Cat (rose)"
 
 #. Key:	[4101045]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5603,7 +5785,7 @@ msgstr "Casque audio chat (rose)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101045]"
 msgid "Cat Headphones (Lilac)"
-msgstr "Casque audio chat (lilas)"
+msgstr "Écouteurs pour chats (lilas)"
 
 #. Key:	[4101046]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5724,7 +5906,7 @@ msgstr "Chapeau à boire (platine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101056]"
 msgid "Mohawk (Red)"
-msgstr "Crête (rouge)"
+msgstr "Mohawk (rouge)"
 
 #. Key:	[4101057]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5735,7 +5917,7 @@ msgstr "Crête (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101057]"
 msgid "Mohawk (Green)"
-msgstr "Crête (vert)"
+msgstr "Mohawk (vert)"
 
 #. Key:	[4101058]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5746,7 +5928,7 @@ msgstr "Crête (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101058]"
 msgid "Mohawk (Blue)"
-msgstr "Crête (bleu)"
+msgstr "Mohawk (bleu)"
 
 #. Key:	[4101059]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5757,7 +5939,7 @@ msgstr "Crête (bleu)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101059]"
 msgid "Mohawk (Dark Brown)"
-msgstr "Crête (brun foncé)"
+msgstr "Mohawk (brun foncé)"
 
 #. Key:	[4101060]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5768,7 +5950,7 @@ msgstr "Crête (brun foncé)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101060]"
 msgid "Mohawk (Pink)"
-msgstr "Crête (rose)"
+msgstr "Mohawk (rose)"
 
 #. Key:	[4101061]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6043,7 +6225,7 @@ msgstr "Explorer (Vin)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101085]"
 msgid "Shark Hat (Aquamarine)"
-msgstr "Chapeau requin (aigue-marine)"
+msgstr "Chapeau de requin (aigue-marine)"
 
 #. Key:	[4101086]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6054,7 +6236,7 @@ msgstr "Chapeau requin (aigue-marine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101086]"
 msgid "Shark Hat (Green)"
-msgstr "Chapeau requin (vert)"
+msgstr "Chapeau Shark (vert)"
 
 #. Key:	[4101087]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6065,7 +6247,7 @@ msgstr "Chapeau requin (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101087]"
 msgid "Shark Hat (Yellow)"
-msgstr "Chapeau requin (jaune)"
+msgstr "Chapeau Shark (jaune)"
 
 #. Key:	[4101088]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6076,7 +6258,7 @@ msgstr "Chapeau requin (jaune)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101088]"
 msgid "Shark Hat (Toy)"
-msgstr "Chapeau requin (jouet)"
+msgstr "Chapeau Shark (jouet)"
 
 #. Key:	[4101089]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6219,7 +6401,7 @@ msgstr "Chapeau de shérif (noir)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101101]"
 msgid "Top Hat (Red)"
-msgstr "Haut-de-forme (rouge)"
+msgstr "Top Hat (rouge)"
 
 #. Key:	[4101102]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6230,7 +6412,7 @@ msgstr "Haut-de-forme (rouge)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101102]"
 msgid "Top Hat (Green)"
-msgstr "Haut-de-forme (vert)"
+msgstr "Top Hat (vert)"
 
 #. Key:	[4101103]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6241,7 +6423,7 @@ msgstr "Haut-de-forme (vert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101103]"
 msgid "Top Hat (Blue)"
-msgstr "Haut-de-forme (bleu)"
+msgstr "Chapeau haut de forme (bleu)"
 
 #. Key:	[4101104]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6252,7 +6434,7 @@ msgstr "Haut-de-forme (bleu)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101104]"
 msgid "Top Hat (Purple)"
-msgstr "Haut-de-forme (violet)"
+msgstr "Top Hat (violet)"
 
 #. Key:	[4101105]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6263,7 +6445,7 @@ msgstr "Haut-de-forme (violet)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101105]"
 msgid "Ace Helmet (Army Green)"
-msgstr "Casque spatial (vert militaire)"
+msgstr "Casque Ace (vert militaire)"
 
 #. Key:	[4101106]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6274,7 +6456,7 @@ msgstr "Casque spatial (vert militaire)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101106]"
 msgid "Ace Helmet (Desert Yellow)"
-msgstr "Casque spatial (jaune désert)"
+msgstr "Casque Ace (jaune désert)"
 
 #. Key:	[4101107]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6285,7 +6467,7 @@ msgstr "Casque spatial (jaune désert)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101107]"
 msgid "Ace Helmet (White)"
-msgstr "Casque spatial (blanc)"
+msgstr "Casque Ace (blanc)"
 
 #. Key:	[4101108]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6296,7 +6478,7 @@ msgstr "Casque spatial (blanc)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101108]"
 msgid "Ace Helmet (Charcoal)"
-msgstr "Casque spatial (anthracite)"
+msgstr "Casque Ace (anthracite)"
 
 #. Key:	[4101109]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6309,7 +6491,7 @@ msgstr "Casque spatial (anthracite)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101109]"
 msgid "Shark Hat (Toy Aquamarine)"
-msgstr "Chapeau requin (Toy Aquamarine)"
+msgstr "Chapeau Shark (Toy Aquamarine)"
 
 #. Key:	[4101110]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6322,7 +6504,7 @@ msgstr "Chapeau requin (Toy Aquamarine)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101110]"
 msgid "Shark Hat (Toy Green)"
-msgstr "Chapeau requin (Toy Green)"
+msgstr "Chapeau Shark (Toy Green)"
 
 #. Key:	[4101111]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6335,7 +6517,7 @@ msgstr "Chapeau requin (Toy Green)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101111]"
 msgid "Shark Hat (Toy Yellow)"
-msgstr "Chapeau requin (Toy Yellow)"
+msgstr "Chapeau Shark (Toy Yellow)"
 
 #. Key:	[4101112]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10199,7 +10381,7 @@ msgstr "RECHERCHER"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001039]"
 msgid "OWNED"
-msgstr "POSSÉDÉ"
+msgstr "ACQUIS"
 
 #. Key:	[9001040]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17998,14 +18180,3 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Sélectionnez les options qui correspondent le mieux à vos préférences."
 
-#. Key:	[9001039]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "已持有"
-#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
-#. InfoMetaData:	"日文" : "所有"
-#. InfoMetaData:	"簡體中文" : "已持有"
-#. InfoMetaData:	"西班牙" : "En propiedad"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001039]"
-msgid "Owned"
-msgstr "ACQUIS"

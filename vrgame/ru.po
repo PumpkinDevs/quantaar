@@ -1,21 +1,17 @@
-# Game Russian translation.
+﻿# Game Russian translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-11-07 08:44+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Russian <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/ru/>\n"
+"POT-Creation-Date: 2023-11-21 08:48\n"
+"PO-Revision-Date: 2023-11-21 08:48\n"
+"Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1604,17 +1600,14 @@ msgstr "Unlock Premium Edition to select your preferred Arena in Custom Mode."
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001733"
 msgid "Watch out for sharks as you battle across tropical islands and floating logs!"
-msgstr ""
-"Остерегайтесь акул, сражаясь на тропических островах и плавающих бревнах!"
+msgstr "Остерегайтесь акул, сражаясь на тропических островах и плавающих бревнах!"
 
 #. Key:	9001734
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001734"
 msgid "Stay alert for thrilling battles on the dynamic cake landscapes!"
-msgstr ""
-"Будьте бдительны, ожидайте захватывающих битв на динамичных пейзажах в стиле "
-"торта!"
+msgstr "Будьте бдительны, ожидайте захватывающих битв на динамичных пейзажах в стиле торта!"
 
 #. Key:	9001735
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1622,6 +1615,195 @@ msgstr ""
 msgctxt "ST_Game_Widget,9001735"
 msgid "NEW ARENA"
 msgstr "NEW ARENA"
+
+#. Key:	9001736
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001736"
+msgid "Champion Crown (Weekly)"
+msgstr "Корона Чемпиона (Еженедельно)"
+
+#. Key:	9001737
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001737"
+msgid "Gift Bow"
+msgstr "Ленточка для подарка"
+
+#. Key:	9001738
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001738"
+msgid "Christmas Hat"
+msgstr "Шапка для Рождества"
+
+#. Key:	9001739
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001739"
+msgid "Christmas Hat (Snowflake Effect)"
+msgstr "Шапка для Рождества (Эффект снежинки)"
+
+#. Key:	9001740
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001740"
+msgid "Christmas Tree Hat"
+msgstr "Шапка елочки"
+
+#. Key:	9001741
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001741"
+msgid "Christmas Tree Hat (Christmas Lights)"
+msgstr "Шапка елочки (Рождественские огоньки)"
+
+#. Key:	9001742
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001742"
+msgid "Reindeer Hat"
+msgstr "Шапка оленя"
+
+#. Key:	9001743
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001743"
+msgid "Reindeer Hat (Christmas Lights)"
+msgstr "Шапка оленя (Рождественские огоньки)"
+
+#. Key:	9001744
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001744"
+msgid "Christmas Fur Hat"
+msgstr "Шапка из меха для Рождества"
+
+#. Key:	9001745
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001745"
+msgid "Christmas Gloves (Green)"
+msgstr ""
+
+#. Key:	9001746
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001746"
+msgid "Christmas Gloves (Red)"
+msgstr "Рождественские перчатки (красные)"
+
+#. Key:	9001747
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001747"
+msgid "Christmas Gloves (Colorful)"
+msgstr "Рождественские перчатки (разноцветные)"
+
+#. Key:	9001748
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001748"
+msgid "Carrot Nose"
+msgstr "Морковный нос"
+
+#. Key:	9001749
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001749"
+msgid "Christmas Beard"
+msgstr "Рождественская борода"
+
+#. Key:	9001750
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001750"
+msgid "Thick Glasses (Christmas)"
+msgstr "Толстые очки (Рождество)"
+
+#. Key:	9001751
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001751"
+msgid "Wrapping Paper (Green)"
+msgstr "Wrapping Paper (Green)"
+
+#. Key:	9001752
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001752"
+msgid "Wrapping Paper (Red)"
+msgstr "Wrapping Paper (Red)"
+
+#. Key:	9001753
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001753"
+msgid "Snowball"
+msgstr "Снежок"
+
+#. Key:	9001754
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001754"
+msgid "Christmas"
+msgstr "Рождественский праздник"
+
+#. Key:	9001755
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001755"
+msgid "Q - Christmas Lights"
+msgstr "Q - Рождественские огоньки"
+
+#. Key:	9001756
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001756"
+msgid "Christmas Flaw"
+msgstr "Рождественский дефект"
+
+#. Key:	9001757
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001757"
+msgid "Reindeer Agent-Pug"
+msgstr "Агент-мопс - Олененок"
+
+#. Key:	9001758
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001758"
+msgid "Christmas Tree"
+msgstr "Рождественская елка"
+
+#. Key:	9001759
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001759"
+msgid "Reindeer"
+msgstr "Олень"
+
+#. Key:	9001760
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001760"
+msgid "Sleigh"
+msgstr "Сани"
+
+#. Key:	9001761
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001761"
+msgid "Snowflake"
+msgstr "Снежинка"
+
+#. Key:	9001762
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001762"
+msgid "Santa Claus"
+msgstr "Санта Клаус"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5372,7 +5554,7 @@ msgstr "Императорская корона (синяя)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101024]"
 msgid "Top Hat (Red)"
-msgstr "Цилиндр (красная)"
+msgstr "Верхняя шляпа (красная)"
 
 #. Key:	[4101025]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5383,7 +5565,7 @@ msgstr "Цилиндр (красная)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101025]"
 msgid "Top Hat (Green)"
-msgstr "Цилиндр (зеленая)"
+msgstr "Верхняя шляпа (зеленая)"
 
 #. Key:	[4101026]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5394,7 +5576,7 @@ msgstr "Цилиндр (зеленая)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101026]"
 msgid "Top Hat (Blue)"
-msgstr "Цилиндр (синяя)"
+msgstr "Верхняя шляпа (синяя)"
 
 #. Key:	[4101027]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5735,7 +5917,7 @@ msgstr "Мохок (красный)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101057]"
 msgid "Mohawk (Green)"
-msgstr "Мохок (зелёный)"
+msgstr "Ирокез (зелёный)"
 
 #. Key:	[4101058]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5746,7 +5928,7 @@ msgstr "Мохок (зелёный)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101058]"
 msgid "Mohawk (Blue)"
-msgstr "Мохок (синий)"
+msgstr "Ирокез (синий)"
 
 #. Key:	[4101059]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -5768,7 +5950,7 @@ msgstr "Мохок (темно-коричневый)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101060]"
 msgid "Mohawk (Pink)"
-msgstr "Мохок (розовый)"
+msgstr "Ирокез (розовый)"
 
 #. Key:	[4101061]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6219,7 +6401,7 @@ msgstr "Шляпа шерифа (черная)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101101]"
 msgid "Top Hat (Red)"
-msgstr "Цилиндр (красная)"
+msgstr "Верхняя шляпа (красная)"
 
 #. Key:	[4101102]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6230,7 +6412,7 @@ msgstr "Цилиндр (красная)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101102]"
 msgid "Top Hat (Green)"
-msgstr "Цилиндр (зеленая)"
+msgstr "Верхняя шляпа (зеленая)"
 
 #. Key:	[4101103]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6241,7 +6423,7 @@ msgstr "Цилиндр (зеленая)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101103]"
 msgid "Top Hat (Blue)"
-msgstr "Цилиндр (синяя)"
+msgstr "Верхняя шляпа (синяя)"
 
 #. Key:	[4101104]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -6252,7 +6434,7 @@ msgstr "Цилиндр (синяя)"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4101104]"
 msgid "Top Hat (Purple)"
-msgstr "Цилиндр (фиолетовая)"
+msgstr "Верхняя шляпа (фиолетовая)"
 
 #. Key:	[4101105]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -10199,7 +10381,7 @@ msgstr "ПОИСК"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001039]"
 msgid "OWNED"
-msgstr "В СОБСТВЕННОСТИ"
+msgstr "OWNED"
 
 #. Key:	[9001040]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17998,14 +18180,3 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Выберите варианты, которые лучше всего соответствуют вашим предпочтениям."
 
-#. Key:	[9001039]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "已持有"
-#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
-#. InfoMetaData:	"日文" : "所有"
-#. InfoMetaData:	"簡體中文" : "已持有"
-#. InfoMetaData:	"西班牙" : "En propiedad"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001039]"
-msgid "Owned"
-msgstr "OWNED"

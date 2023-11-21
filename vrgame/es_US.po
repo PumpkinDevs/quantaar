@@ -1,20 +1,17 @@
-# Game Spanish (United States) translation.
+﻿# Game Spanish (United States) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-31 08:01\n"
-"PO-Revision-Date: 2023-11-01 09:36+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: Spanish (American) <http://i18n.office.pumpkinvrar.com/"
-"projects/quantaar-bo/ue/es_US/>\n"
-"Language: es_US\n"
+"POT-Creation-Date: 2023-11-21 08:48\n"
+"PO-Revision-Date: 2023-11-21 08:48\n"
+"Language-Team: \n"
+"Language: es-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1618,6 +1615,195 @@ msgstr "¡Mantente alerta para emocionantes batallas en los dinámicos paisajes 
 msgctxt "ST_Game_Widget,9001735"
 msgid "NEW ARENA"
 msgstr "NUEVA ARENA"
+
+#. Key:	9001736
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001736"
+msgid "Champion Crown (Weekly)"
+msgstr "Corona de Campeón (Semanal)"
+
+#. Key:	9001737
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001737"
+msgid "Gift Bow"
+msgstr "Lazo de regalo"
+
+#. Key:	9001738
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001738"
+msgid "Christmas Hat"
+msgstr "Sombrero de Navidad"
+
+#. Key:	9001739
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001739"
+msgid "Christmas Hat (Snowflake Effect)"
+msgstr "Sombrero de Navidad (efecto copo de nieve)"
+
+#. Key:	9001740
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001740"
+msgid "Christmas Tree Hat"
+msgstr "Sombrero de árbol de Navidad"
+
+#. Key:	9001741
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001741"
+msgid "Christmas Tree Hat (Christmas Lights)"
+msgstr "Sombrero de árbol de Navidad (luces de Navidad)"
+
+#. Key:	9001742
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001742"
+msgid "Reindeer Hat"
+msgstr "Sombrero de reno"
+
+#. Key:	9001743
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001743"
+msgid "Reindeer Hat (Christmas Lights)"
+msgstr "Sombrero de reno (luces de Navidad)"
+
+#. Key:	9001744
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001744"
+msgid "Christmas Fur Hat"
+msgstr "Sombrero de piel de Navidad"
+
+#. Key:	9001745
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001745"
+msgid "Christmas Gloves (Green)"
+msgstr "Guantes de Navidad (verde)"
+
+#. Key:	9001746
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001746"
+msgid "Christmas Gloves (Red)"
+msgstr "Guantes de Navidad (rojo)"
+
+#. Key:	9001747
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001747"
+msgid "Christmas Gloves (Colorful)"
+msgstr "Guantes de Navidad (coloridos)"
+
+#. Key:	9001748
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001748"
+msgid "Carrot Nose"
+msgstr "Nariz de zanahoria"
+
+#. Key:	9001749
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001749"
+msgid "Christmas Beard"
+msgstr "Barba de Navidad"
+
+#. Key:	9001750
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001750"
+msgid "Thick Glasses (Christmas)"
+msgstr "Gafas gruesas (Navidad)"
+
+#. Key:	9001751
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001751"
+msgid "Wrapping Paper (Green)"
+msgstr "Papel de envolver (verde)"
+
+#. Key:	9001752
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001752"
+msgid "Wrapping Paper (Red)"
+msgstr "Papel de envolver (rojo)"
+
+#. Key:	9001753
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001753"
+msgid "Snowball"
+msgstr "Bola de nieve"
+
+#. Key:	9001754
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001754"
+msgid "Christmas"
+msgstr "Navidad"
+
+#. Key:	9001755
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001755"
+msgid "Q - Christmas Lights"
+msgstr "Q - Luces de Navidad"
+
+#. Key:	9001756
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001756"
+msgid "Christmas Flaw"
+msgstr "Defecto de Navidad"
+
+#. Key:	9001757
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001757"
+msgid "Reindeer Agent-Pug"
+msgstr "Agente-Pug Reno"
+
+#. Key:	9001758
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001758"
+msgid "Christmas Tree"
+msgstr "Árbol de Navidad"
+
+#. Key:	9001759
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001759"
+msgid "Reindeer"
+msgstr "Reno"
+
+#. Key:	9001760
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001760"
+msgid "Sleigh"
+msgstr "Trineo"
+
+#. Key:	9001761
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001761"
+msgid "Snowflake"
+msgstr "Copo de nieve"
+
+#. Key:	9001762
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001762"
+msgid "Santa Claus"
+msgstr "Papá Noel"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -17994,14 +18180,3 @@ msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Selecciona las opciones que mejor se ajusten a tus preferencias."
 
-#. Key:	[9001039]
-#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-#. InfoMetaData:	"中文" : "已持有"
-#. InfoMetaData:	"使用到的藍圖" : "DT_AllUIDatas"
-#. InfoMetaData:	"日文" : "所有"
-#. InfoMetaData:	"簡體中文" : "已持有"
-#. InfoMetaData:	"西班牙" : "En propiedad"
-#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
-msgctxt "ST_Game_Widget,[9001039]"
-msgid "Owned"
-msgstr "POSEÍDO"
