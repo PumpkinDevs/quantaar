@@ -1,17 +1,20 @@
-﻿# Game French translation.
+# Game French translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-11-21 08:48\n"
-"PO-Revision-Date: 2023-11-21 08:48\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-11-23 12:42+0000\n"
+"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
+"Language-Team: French <http://i18n.office.pumpkinvrar.com/projects/"
+"quantaar-bo/ue/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -9570,7 +9573,7 @@ msgstr "Vide enchanté"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4215000]"
 msgid "Agent-Pug"
-msgstr "Agent Pug"
+msgstr "Agent-Pug"
 
 #. Key:	[4215001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -18179,4 +18182,3 @@ msgstr "Tout d'abord, nous devons enregistrer vos informations."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Sélectionnez les options qui correspondent le mieux à vos préférences."
-
