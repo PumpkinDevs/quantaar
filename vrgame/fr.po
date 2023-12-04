@@ -1,20 +1,17 @@
-# Game French translation.
+﻿# Game French translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-21 08:48\n"
-"PO-Revision-Date: 2023-11-23 12:42+0000\n"
-"Last-Translator: Jessie <Jessie@pumpkinvrar.com>\n"
-"Language-Team: French <http://i18n.office.pumpkinvrar.com/projects/"
-"quantaar-bo/ue/fr/>\n"
+"POT-Creation-Date: 2023-12-04 08:20\n"
+"PO-Revision-Date: 2023-12-04 08:20\n"
+"Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. Key:	[0000000]Success
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_StatusCode.ST_Game_StatusCode
@@ -1213,6 +1210,34 @@ msgctxt "ST_Game_StateCode,{0190101}_RequestCheckInFailed"
 msgid "要求簽到失敗"
 msgstr "要求簽到失敗"
 
+#. Key:	01010006
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01010006"
+msgid "Christmas Tree"
+msgstr "Sapin de Noël"
+
+#. Key:	01010007
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01010007"
+msgid "Frozen Tree"
+msgstr "Arbre Gelé"
+
+#. Key:	01015006
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01015006"
+msgid "Reindeer"
+msgstr "Renne"
+
+#. Key:	01015007
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01015007"
+msgid "Frozen Reindeer"
+msgstr "Renne Gelé"
+
 #. Key:	9001678
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1644,8 +1669,8 @@ msgstr "Chapeau de Noël"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001739"
-msgid "Christmas Hat (Snowflake Effect)"
-msgstr "Chapeau de Noël (effet flocon de neige)"
+msgid "Christmas Hat (Snowflake)"
+msgstr "Chapeau de Noël (Flocon de neige)"
 
 #. Key:	9001740
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1659,7 +1684,7 @@ msgstr "Chapeau de sapin de Noël"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001741"
 msgid "Christmas Tree Hat (Christmas Lights)"
-msgstr "Chapeau de sapin de Noël (guirlande lumineuse de Noël)"
+msgstr "Chapeau de Noë (Guirlandes de Noël)"
 
 #. Key:	9001742
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1673,7 +1698,7 @@ msgstr "Chapeau de renne"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001743"
 msgid "Reindeer Hat (Christmas Lights)"
-msgstr "Chapeau de renne (guirlande lumineuse de Noël)"
+msgstr "Chapeau de Renne (Guirlandes de Noël)"
 
 #. Key:	9001744
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1807,6 +1832,90 @@ msgstr "Flocon de neige"
 msgctxt "ST_Game_Widget,9001762"
 msgid "Santa Claus"
 msgstr "Père Noël"
+
+#. Key:	9001763
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001763"
+msgid "Engage in battles in this Arena surrounded by the Egyptian pyramids!"
+msgstr "Participez à des combats dans cette arène entourée par les pyramides égyptiennes !"
+
+#. Key:	9001764
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001764"
+msgid "Activity log-in"
+msgstr ""
+
+#. Key:	9001765
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001765"
+msgid "Xmas Celebration"
+msgstr "Célébration de Noël"
+
+#. Key:	9001766
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001766"
+msgid "Holy Night's Blessings"
+msgstr "Bénédictions de la Sainte Nuit"
+
+#. Key:	9001767
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001767"
+msgid "Swiftly decorate the Christmas tree and warmly welcome Santa's reindeer!"
+msgstr "Décorez rapidement le sapin de Noël et accueillez chaleureusement les rennes du Père Noël !"
+
+#. Key:	9001768
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001768"
+msgid "Christmas Decoration Bundle"
+msgstr "Pack de décoration de Noël"
+
+#. Key:	9001769
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001769"
+msgid "Reindeer Celebration Bundle"
+msgstr "Pack de célébration des rennes"
+
+#. Key:	9001770
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001770"
+msgid "Candy Cane"
+msgstr "Canne en bonbon"
+
+#. Key:	9001771
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001771"
+msgid "Gift Box"
+msgstr "Boîte-cadeau"
+
+#. Key:	9001772
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001772"
+msgid "Collect scattered candy canes and exchange them for lavish rewards in the celebration!"
+msgstr "Collectez des cannes en bonbon éparpillées et échangez-les contre des récompenses somptueuses lors de la célébration !"
+
+#. Key:	9001773
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001773"
+msgid "In battles, a gift box appears every 30 seconds. \r\n\r\nUnveil 5-15 random candy canes by attacking the gift box. \r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
+msgstr "Pendant les combats, une Boîte-cadeau apparaît toutes les 30 secondes.\r\n\r\nDévoilez 5 à 15 cannes en bonbon aléatoires en attaquant la boîte-cadeau.\r\n\r\n*Collectez les cannes en bonbon répandues pour en collecter un maximum de 100 par jour par cette méthode."
+
+#. Key:	9001774
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001774"
+msgid "Random gift boxes will appear in Party Halls\r\n\r\nApproach the gift box to obtain 5-10 random candy canes.\r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
+msgstr "Des boîtes-cadeaux aléatoires apparaîtront dans les salles de fête.\r\n\r\nApprochez-vous de la canne en bonbon pour obtenir de 5 à 10 cannes en bonbon aléatoires.\r\n\r\n*Collectez les cannes en bonbon répandues pour en collecter un maximum de 100 par jour par cette méthode."
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -9573,7 +9682,7 @@ msgstr "Vide enchanté"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[4215000]"
 msgid "Agent-Pug"
-msgstr "Agent-Pug"
+msgstr "Agent Pug"
 
 #. Key:	[4215001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -18182,3 +18291,4 @@ msgstr "Tout d'abord, nous devons enregistrer vos informations."
 msgctxt "Subtitle,SettingPlayMode_1_2"
 msgid "Please select the options that best fit your preferences."
 msgstr "Sélectionnez les options qui correspondent le mieux à vos préférences."
+

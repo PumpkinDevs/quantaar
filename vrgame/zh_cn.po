@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-21 08:48\n"
-"PO-Revision-Date: 2023-11-21 08:48\n"
+"POT-Creation-Date: 2023-12-04 08:20\n"
+"PO-Revision-Date: 2023-12-04 08:20\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -1210,6 +1210,34 @@ msgctxt "ST_Game_StateCode,{0190101}_RequestCheckInFailed"
 msgid "要求簽到失敗"
 msgstr ""
 
+#. Key:	01010006
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01010006"
+msgid "Christmas Tree"
+msgstr "圣诞树"
+
+#. Key:	01010007
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01010007"
+msgid "Frozen Tree"
+msgstr "冰雪之树"
+
+#. Key:	01015006
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01015006"
+msgid "Reindeer"
+msgstr "驯鹿"
+
+#. Key:	01015007
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01015007"
+msgid "Frozen Reindeer"
+msgstr "冰雪驯鹿"
+
 #. Key:	9001678
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1641,8 +1669,8 @@ msgstr "圣诞帽"
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001739"
-msgid "Christmas Hat (Snowflake Effect)"
-msgstr "圣诞帽 (雪花特效)"
+msgid "Christmas Hat (Snowflake)"
+msgstr "圣诞帽 (雪花)"
 
 #. Key:	9001740
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1804,6 +1832,90 @@ msgstr "雪花"
 msgctxt "ST_Game_Widget,9001762"
 msgid "Santa Claus"
 msgstr "圣诞老人"
+
+#. Key:	9001763
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001763"
+msgid "Engage in battles in this Arena surrounded by the Egyptian pyramids!"
+msgstr "在这被埃及金字塔环绕的竞技场中进行对决吧！"
+
+#. Key:	9001764
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001764"
+msgid "Activity log-in"
+msgstr ""
+
+#. Key:	9001765
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001765"
+msgid "Xmas Celebration"
+msgstr "圣诞庆典"
+
+#. Key:	9001766
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001766"
+msgid "Holy Night's Blessings"
+msgstr "圣夜之礼"
+
+#. Key:	9001767
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001767"
+msgid "Swiftly decorate the Christmas tree and warmly welcome Santa's reindeer!"
+msgstr "赶快佈置好圣诞树，迎接圣诞老人的驯鹿吧!"
+
+#. Key:	9001768
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001768"
+msgid "Christmas Decoration Bundle"
+msgstr "圣诞佈置礼包"
+
+#. Key:	9001769
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001769"
+msgid "Reindeer Celebration Bundle"
+msgstr "庆典驯鹿礼包"
+
+#. Key:	9001770
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001770"
+msgid "Candy Cane"
+msgstr "拐杖糖"
+
+#. Key:	9001771
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001771"
+msgid "Gift Box"
+msgstr "礼物盒"
+
+#. Key:	9001772
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001772"
+msgid "Collect scattered candy canes and exchange them for lavish rewards in the celebration!"
+msgstr "在各处收集拐杖糖，兑换庆典的丰盛奖励吧！"
+
+#. Key:	9001773
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001773"
+msgid "In battles, a gift box appears every 30 seconds. \r\n\r\nUnveil 5-15 random candy canes by attacking the gift box. \r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
+msgstr "对战开始与对战中每30秒会出现一个「 礼物盒 」\r\n\r\n攻击「 礼物盒 」会喷出随机5~15颗「 拐杖糖 」\r\n\r\n捡取喷出的「拐杖糖」\r\n\r\n※由此途径每天最多可获得100颗「 拐杖糖 」"
+
+#. Key:	9001774
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001774"
+msgid "Random gift boxes will appear in Party Halls\r\n\r\nApproach the gift box to obtain 5-10 random candy canes.\r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
+msgstr "在派对大厅中会随机出现「 礼物盒 」\r\n\r\n靠近「 礼物盒 」就可获得随机5~10颗「 拐杖糖 」\r\n\r\n※由此途径每天最多可获得100颗「 拐杖糖 」"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -12097,7 +12209,7 @@ msgstr "云顶之巅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001190]"
 msgid "Egypt"
-msgstr "埃及"
+msgstr "埃及陵地"
 
 #. Key:	[9001191]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -14017,7 +14129,7 @@ msgstr "云顶之巅"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,[9001398]"
 msgid "Egypt"
-msgstr "埃及"
+msgstr "埃及陵地"
 
 #. Key:	[9001399]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

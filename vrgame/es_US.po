@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-21 08:48\n"
-"PO-Revision-Date: 2023-11-21 08:48\n"
+"POT-Creation-Date: 2023-12-04 08:20\n"
+"PO-Revision-Date: 2023-12-04 08:20\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -1210,6 +1210,34 @@ msgctxt "ST_Game_StateCode,{0190101}_RequestCheckInFailed"
 msgid "要求簽到失敗"
 msgstr "要求簽到失敗"
 
+#. Key:	01010006
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01010006"
+msgid "Christmas Tree"
+msgstr "Árbol de Navidad"
+
+#. Key:	01010007
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01010007"
+msgid "Frozen Tree"
+msgstr "Árbol Congelado"
+
+#. Key:	01015006
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01015006"
+msgid "Reindeer"
+msgstr "Reno"
+
+#. Key:	01015007
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,01015007"
+msgid "Frozen Reindeer"
+msgstr "Reno Congelado"
+
 #. Key:	9001678
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1635,14 +1663,14 @@ msgstr "Lazo de regalo"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001738"
 msgid "Christmas Hat"
-msgstr "Sombrero de Navidad"
+msgstr "Gorro de Navidad"
 
 #. Key:	9001739
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001739"
-msgid "Christmas Hat (Snowflake Effect)"
-msgstr "Sombrero de Navidad (efecto copo de nieve)"
+msgid "Christmas Hat (Snowflake)"
+msgstr "Gorro de Navidad (Copos de Nieve)"
 
 #. Key:	9001740
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1656,7 +1684,7 @@ msgstr "Sombrero de árbol de Navidad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001741"
 msgid "Christmas Tree Hat (Christmas Lights)"
-msgstr "Sombrero de árbol de Navidad (luces de Navidad)"
+msgstr "Sombrero de árbol de Navidad (Luces de Navidad)"
 
 #. Key:	9001742
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1670,7 +1698,7 @@ msgstr "Sombrero de reno"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001743"
 msgid "Reindeer Hat (Christmas Lights)"
-msgstr "Sombrero de reno (luces de Navidad)"
+msgstr "Sombrero de Reno (Luces de Navidad)"
 
 #. Key:	9001744
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1768,7 +1796,7 @@ msgstr "Defecto de Navidad"
 #: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
 msgctxt "ST_Game_Widget,9001757"
 msgid "Reindeer Agent-Pug"
-msgstr "Agente-Pug Reno"
+msgstr "Agente Doguillo Reno"
 
 #. Key:	9001758
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
@@ -1804,6 +1832,90 @@ msgstr "Copo de nieve"
 msgctxt "ST_Game_Widget,9001762"
 msgid "Santa Claus"
 msgstr "Papá Noel"
+
+#. Key:	9001763
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001763"
+msgid "Engage in battles in this Arena surrounded by the Egyptian pyramids!"
+msgstr "¡Participa en batallas en esta Arena rodeada por las pirámides egipcias!"
+
+#. Key:	9001764
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001764"
+msgid "Activity log-in"
+msgstr ""
+
+#. Key:	9001765
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001765"
+msgid "Xmas Celebration"
+msgstr "Xmas Celebration"
+
+#. Key:	9001766
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001766"
+msgid "Holy Night's Blessings"
+msgstr "Bendiciones de la Noche Santa"
+
+#. Key:	9001767
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001767"
+msgid "Swiftly decorate the Christmas tree and warmly welcome Santa's reindeer!"
+msgstr "¡Decora rápidamente el árbol de Navidad y da la cálida bienvenida a los renos de Santa!"
+
+#. Key:	9001768
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001768"
+msgid "Christmas Decoration Bundle"
+msgstr "Paquete de Decoración Navideña"
+
+#. Key:	9001769
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001769"
+msgid "Reindeer Celebration Bundle"
+msgstr "Paquete de Celebración de Renos"
+
+#. Key:	9001770
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001770"
+msgid "Candy Cane"
+msgstr "Bastón de Caramelo"
+
+#. Key:	9001771
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001771"
+msgid "Gift Box"
+msgstr "Caja de Regalo"
+
+#. Key:	9001772
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001772"
+msgid "Collect scattered candy canes and exchange them for lavish rewards in the celebration!"
+msgstr "¡Recoge los bastones de caramelo dispersos y cámbialos por recompensas lujosas en la celebración!"
+
+#. Key:	9001773
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001773"
+msgid "In battles, a gift box appears every 30 seconds. \r\n\r\nUnveil 5-15 random candy canes by attacking the gift box. \r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
+msgstr "En las batallas, aparece un Caja de Regalo cada 30 segundos. \r\n\r\nRevela 5-15 bastones de caramelo aleatorios atacando la caja de regalos. \r\n\r\n*Recoge los bastones de caramelo derramados para acumular un máximo de 100 diarios mediante este método."
+
+#. Key:	9001774
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001774"
+msgid "Random gift boxes will appear in Party Halls\r\n\r\nApproach the gift box to obtain 5-10 random candy canes.\r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
+msgstr "Cajas de regalos aleatorias aparecerán en los Salón Fiesta.\r\n\r\nAcércate a la caja de regalos para obtener 5-10 bastones de caramelo aleatorios.\r\n\r\n*Recoge los bastones de caramelo derramados para acumular un máximo de 100 diarios mediante este método"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
