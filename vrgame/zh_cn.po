@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-12-04 08:20\n"
-"PO-Revision-Date: 2023-12-04 08:20\n"
+"POT-Creation-Date: 2023-12-19 07:53\n"
+"PO-Revision-Date: 2023-12-19 07:53\n"
 "Language-Team: \n"
 "Language: zh-Hans-CN\n"
 "MIME-Version: 1.0\n"
@@ -1916,6 +1916,34 @@ msgstr "对战开始与对战中每30秒会出现一个「 礼物盒 」\r\n\r\n
 msgctxt "ST_Game_Widget,9001774"
 msgid "Random gift boxes will appear in Party Halls\r\n\r\nApproach the gift box to obtain 5-10 random candy canes.\r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
 msgstr "在派对大厅中会随机出现「 礼物盒 」\r\n\r\n靠近「 礼物盒 」就可获得随机5~10颗「 拐杖糖 」\r\n\r\n※由此途径每天最多可获得100颗「 拐杖糖 」"
+
+#. Key:	9001775
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001775"
+msgid "Frozen Wilderness"
+msgstr "冰天雪地"
+
+#. Key:	9001776
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001776"
+msgid "Battle in the snowy forest arena!"
+msgstr "在这冰雪森林中的竞技场进行对决吧！"
+
+#. Key:	9001777
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001777"
+msgid "Limited purchase quantity"
+msgstr "可购买数量"
+
+#. Key:	9001778
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001778"
+msgid "QTY"
+msgstr "数量"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

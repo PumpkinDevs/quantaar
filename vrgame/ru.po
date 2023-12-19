@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-12-04 08:20\n"
-"PO-Revision-Date: 2023-12-04 08:20\n"
+"POT-Creation-Date: 2023-12-19 07:53\n"
+"PO-Revision-Date: 2023-12-19 07:53\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1916,6 +1916,34 @@ msgstr "Во время битв каждые 30 секунд появляетс
 msgctxt "ST_Game_Widget,9001774"
 msgid "Random gift boxes will appear in Party Halls\r\n\r\nApproach the gift box to obtain 5-10 random candy canes.\r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
 msgstr "В залах для вечеринок появляются случайные подарочные коробки.\r\n\r\nПодходите к леденцовой палочке, чтобы получить от 5 до 10 случайных леденцовых палочек.\r\n\r\n*Собирайте пролитые леденцовые палочки, чтобы ежедневно собирать максимум 100 штук этим методом."
+
+#. Key:	9001775
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001775"
+msgid "Frozen Wilderness"
+msgstr "Замерзшая дикая местность"
+
+#. Key:	9001776
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001776"
+msgid "Battle in the snowy forest arena!"
+msgstr "Битва в арене снежного леса!"
+
+#. Key:	9001777
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001777"
+msgid "Limited purchase quantity"
+msgstr "Ограниченное количество покупок"
+
+#. Key:	9001778
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001778"
+msgid "QTY"
+msgstr "QTY"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget

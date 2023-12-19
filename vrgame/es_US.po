@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-12-04 08:20\n"
-"PO-Revision-Date: 2023-12-04 08:20\n"
+"POT-Creation-Date: 2023-12-19 07:53\n"
+"PO-Revision-Date: 2023-12-19 07:53\n"
 "Language-Team: \n"
 "Language: es-US\n"
 "MIME-Version: 1.0\n"
@@ -1916,6 +1916,34 @@ msgstr "En las batallas, aparece un Caja de Regalo cada 30 segundos. \r\n\r\nRev
 msgctxt "ST_Game_Widget,9001774"
 msgid "Random gift boxes will appear in Party Halls\r\n\r\nApproach the gift box to obtain 5-10 random candy canes.\r\n\r\n*Gather the spilled candy canes to collect a maximum of 100 daily through this method."
 msgstr "Cajas de regalos aleatorias aparecerán en los Salón Fiesta.\r\n\r\nAcércate a la caja de regalos para obtener 5-10 bastones de caramelo aleatorios.\r\n\r\n*Recoge los bastones de caramelo derramados para acumular un máximo de 100 diarios mediante este método"
+
+#. Key:	9001775
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001775"
+msgid "Frozen Wilderness"
+msgstr "Tierras Congeladas"
+
+#. Key:	9001776
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001776"
+msgid "Battle in the snowy forest arena!"
+msgstr "¡Combate en la arena del bosque nevado!"
+
+#. Key:	9001777
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001777"
+msgid "Limited purchase quantity"
+msgstr "Cantidad de compra limitada"
+
+#. Key:	9001778
+#. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+#: /Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
+msgctxt "ST_Game_Widget,9001778"
+msgid "QTY"
+msgstr "QTY"
 
 #. Key:	[0001001]
 #. SourceLocation:	/Game/Quantaar/StringTable/ST_Game_Widget.ST_Game_Widget
